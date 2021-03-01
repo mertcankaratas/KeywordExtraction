@@ -1,0 +1,595 @@
+Article Index: 1
+Actual: ['iletişim', 'dil', 'i̇nternet']
+Extracted: ['araç', 'iletişim', 'nternet']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 2
+Actual: ['metindilbilim', 'kısa', 'öykü', 'metin']
+Extracted: ['öykü']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 3
+Actual: ['eğitim', 'öğretim', 'yabancı', 'dil', 'anadil']
+Extracted: ['anadil', 'yabanc']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 4
+Actual: ['web', 'dünya', 'sanal', 'çeşit', 'dil', 'dilbilim', 'i̇nternet']
+Extracted: ['website']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 5
+Actual: ['olumsuzlamak', 'türkçe', 'dilbilgisel', 'terim', 'olumlamak']
+Extracted: ['karşılamak', 'terim', 'yorum']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 6
+Actual: ['sözdizim', 'sözcük', 'söylem', 'düzey', 'hukuk', 'sözleşme', 'dil']
+Extracted: ['sözleşme']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 7
+Actual: ['ad', 'epistemoloji', 'kratylos', 'ontoloji', 'doğru', 'plalon', 'uylaşım', 'antisthenes', 'doğal']
+Extracted: ['ad', 'görüş', 'konu', 'varlık']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 8
+Actual: ['kavramak', 'anlamak', 'anlam', 'tarih', 'felsefe', 'dil']
+Extracted: ['kavramak']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 9
+Actual: ['nitelik', 'yeterlik', 'kurgulayım', 'iletişim', 'kod', 'estetik', 'alımlamak', 'gösterge', 'yazın', 'anıştırı', 'biçemlendirim']
+Extracted: ['gösterge', 'yazın']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 10
+Actual: ['çözümlemek', 'söylem', 'eleştirel', 'biçembilim', 'dedikodu']
+Extracted: ['dedikodu', 'sütun']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 11
+Actual: ['klâsik', 'çeviri', 'ali', 'hasan', 'aydınlanmak', 'türkçe', 'yücel']
+Extracted: ['çeviri']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 12
+Actual: ['çözümlemek', 'abece', 'çeviri', 'etiketlemek', 'bağlam', 'yazı', 'durum', 'konuflma']
+Extracted: ['yazı', 'çeviri']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 13
+Actual: ['karma', 'klâsik', 'türkçe', 'tür', 'osmanlıca', 'dil', 'kürtçe']
+Extracted: ['karma']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 14
+Actual: ['eğitim', 'iletişim', 'düşünce', 'türkçe', 'dil', 'ana']
+Extracted: ['dil', 'eğitim']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 15
+Actual: ['türkiye', 'sorun']
+Extracted: ['ağız', 'derlem', 'sorun']
+TP: 1 TN: 0 FP: 1 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 16
+Actual: ['hece', 'süre', 'ses', 'fonetik', 'öbek']
+Extracted: ['ses']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 17
+Actual: ['bilissel', 'us', 'bilim', 'gerçeklestirim', 'yapay', 'dilbilim', 'bilgisayar']
+Extracted: ['bilim', 'bilissel']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 18
+Actual: ['belirgin', 'hesaplamal', 'kelime', 'belirsiz', 'bütün', 'anlam', 'doğal', 'işlemek', 'dil', 'dilbilim']
+Extracted: ['anlam', 'belirsiz']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 19
+Actual: ['makina', 'ile', 'son', 'doğal', 'işlemek', 'dil', 'yöntem', 'durum', 'tercüme']
+Extracted: ['tercüme']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 20
+Actual: ['derlem', 'xml', 'xces', 'dilbilim', 'tei', 'bilgisayar']
+Extracted: ['derlem']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 21
+Actual: ['gramer', 'türk', 'dil', 'bilgi']
+Extracted: ['eğilim']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 22
+Actual: ['güdü', 'etkin', 'planlamak', 'yazma', 'önce', 'hazırlamak']
+Extracted: ['yazma', 'yetenek']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 23
+Actual: ['mode', 'iletişim', 'toplum', 'derialt', 'yapıbozum', 'dilbilim']
+Extracted: ['saptamak', 'slogan']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 24
+Actual: ['ad', 'iye', 'ilgi', 'ek', 'tamlamak', 'öbek', 'durum']
+Extracted: ['öbek']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 25
+Actual: ['olumsuzlamak', 'sebep', 'karşıt', 'çelişki', 'koşul']
+Extracted: ['kanıtlamak', 'uyarı', 'öncül']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['eylem', 'bitmek', 'zaman', 'dilek', 'kip']
+Extracted: ['eylem', 'zaman']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 27
+Actual: ['yüklem', 'değişik', 'ulaç', 'edat', 'işlev', 'örneksemek']
+Extracted: ['ek', 'gözükmek', 'işlev', 'yapı']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 28
+Actual: ['işlev', 'çekim', 'ek', 'türemek']
+Extracted: ['eklemek', 'işlev']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 29
+Actual: ['göstermek', 'öngönderim', 'artgönderim', 'metin', 'gösteri']
+Extracted: ['tekrar', 'yan']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 30
+Actual: ['gelmek', 'geçmiş', 'zaman', 'soyut', 'somut']
+Extracted: ['zaman']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 31
+Actual: ['özne', 'geçmek', 'nesne', 'edilgen']
+Extracted: ['eylem', 'çatmak', 'özne']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 32
+Actual: ['karşılık', 'çeviri', 'sade', 'eş', 'kelime', 'etki', 'okumak', 'öncelik', 'insan']
+Extracted: ['metin', 'çeviri', 'çevirmen']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 33
+Actual: ['çeviri', 'sosyal', 'kültür', 'hata', 'faktör']
+Extracted: ['fikir', 'rol', 'çeviri']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 34
+Actual: ['çeviri', 'karşılaştırmak', 'eşdeğerli', 'eleştiri', 'yazın']
+Extracted: ['çeviri']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 35
+Actual: ['iletişim', 'yeti', 'yabanc', 'dil']
+Extracted: ['yeti']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 36
+Actual: ['türk', 'sistem', 'eğitim', 'öğretim', 'ders', 'sanat', 'yazım', 've', 'dil', 'edebiyat']
+Extracted: ['state']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 37
+Actual: ['güncellemek', 'araştırmak', 'bilişim', 'iletişim', 'teknoloji', 've', 'ağız', 'il', 'sakarya']
+Extracted: ['ağız', 'kayıt']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 38
+Actual: ['sentaks', 'morfosentaks', 'ağız', 'rema', 'kıbrıs']
+Extracted: ['imek']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['çatışmak', 'ihtiyar', 'çilingir', 'dilbilgisel', 'insan', 'küçük']
+Extracted: ['hikâye']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 40
+Actual: ['iktidar', 'hatai', 'bektaşî', 'postyapısalcılık', 'alevi']
+Extracted: ['iktidar']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 41
+Actual: ['alınt', 'kelime', 'sözlük', 'türkçe', 'rumca', 'dil', 'etkileşim', 'kıbrıs']
+Extracted: ['rumca']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 42
+Actual: ['bilmek', 'işlem', 'dilbilgisi', 'somut', 'dönem', 'düzey']
+Extracted: ['dilbilgisi', 'çocuk']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 43
+Actual: ['sözcük', 'önad', 'ad', 'belirteç', 'eylem', 'sınıf', 'ilgeç']
+Extracted: ['konu', 'tartışmal', 'tasnif']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 44
+Actual: ['çözümlemek', 'belirsiz', 'dilbilgisi', 'etmen', 'sözdizimsel', 'analiz', 'doğal', 'dil', 'biçimbilim', 'i̇şlemleme']
+Extracted: ['ağaç']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 45
+Actual: ['eğitim', 'konuşmak', 'iletişim', 'beceri']
+Extracted: ['beceri']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 46
+Actual: ['afazi', 'dilbilim', 'nörolinguistik']
+Extracted: ['afazi', 'bozuk', 'hasta']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 47
+Actual: ['öğretim', 'yabanc', 'eğitbilim', 'dil', 'dilbilim']
+Extracted: ['yabanc', 'öğrenim']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 48
+Actual: ['birim', 'parçalarüstü', 'ses', 'söz', 'dil', 'dizi', 'ana']
+Extracted: ['beceri']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['kip', 'anlam', 'biçimbirim', 'dilbilgisi']
+Extracted: ['biçimbirim', 'dayal', 'dil', 'doğru', 'yasa']
+TP: 1 TN: 0 FP: 3 FN: 4 
+Accuracy: %12.5
+-----------------
+Article Index: 50
+Actual: ['kura', 'çeviri', 'çeviribilim', 'yaklaşım', 'reiß', 'temel', 'vermeer']
+Extracted: ['yaklaşım', 'çeviri']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 51
+Actual: ['bildirişim', 'kültürleraras', 'inanmak', 'dil', 'edinç']
+Extracted: ['bildirişim', 'edinç']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 52
+Actual: ['özne', 'emir', 'uyum', 'kişi', 'alıc', 'sayı', 'tümce', 'üçüncü', 'kip', 'dizi']
+Extracted: ['buyru']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['birim', 'düzen', 'bütüncill', 'önermek', 'bütün', 'eleştirel', 'anlatı', 'düşünce', 'biçembilim', 'ideoloji']
+Extracted: ['öykü']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 54
+Actual: ['çözümlemek', 'kesit', 'iletişim', 'kurum', 'amaç', 'tür', 'bağlam', 'durum']
+Extracted: ['çözümlemek']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 55
+Actual: ['çözümlemek', 'adım', 'iletişim', 'yapı', 'bilmek', 'amaç', 'köşe', 'işlev', 'tür', 'yazı']
+Extracted: ['köşe']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 56
+Actual: ['çözümlemek', 'fal', 'tür', 'kahve', 'ideoloji']
+Extracted: ['fal', 'kahve']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 57
+Actual: ['kelime', 'ödünçlemeler', 'rusça', 'türkçe', 'fasmer', 'etimoloji']
+Extracted: ['etkileşim', 'rus']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 58
+Actual: ['ekler', 'eklemek', 'yapım']
+Extracted: ['balkan', 'yüzyıl']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 59
+Actual: ['onomasyoloji', 'kelime', 'anlam', 'semasyoloji', 'değişmek']
+Extracted: ['anlam', 'değişmek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 60
+Actual: ['bilim', 'öğrenim', 'sanat', 'edebî', 'dil', 'belâgat']
+Extracted: ['ad', 'edebî', 'sanat']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 61
+Actual: ['sözlük', 'sözlükbilim', 'çeşit']
+Extracted: ['sözlükbilim']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 62
+Actual: ['korku', 'söz', 'kutsal', 've', 'olumsuz']
+Extracted: ['kabul', 'söz']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 63
+Actual: ['öğretim', 'bilgi', 'türkçe', 'işlev', 'dil']
+Extracted: ['bilgi']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 64
+Actual: ['sözcük', 'sözlük', 'çok', 'anlam', 'öğrenmek']
+Extracted: ['anlam', 'sözlük']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 65
+Actual: ['tahsin', 'öykü', 'metin', 'ironi', 'dilbilim', 'ayna', 'yücel']
+Extracted: ['ayna', 'figüratif', 'hedef', 'ironi', 'keskin', 'metin', 'okur', 'sözcelem', 'yoz']
+TP: 3 TN: 0 FP: 4 FN: 6 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 66
+Actual: ['in', 'söylem', 'edimbilim', 'kura', 'gri', 'ilke', 'eylem', 'söz', 'tümce', 'yönlenmek', 'işlev', 'bağınt', 'buyru']
+Extracted: ['buyru']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 67
+Actual: ['sözcük', 'sözlükbilim', 'anlambilim', 'sözcükbilim', 'muğlâk']
+Extracted: ['anlam', 'karşıt']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 68
+Actual: ['nitelik', 'işlev', 'sözlük', 'anadil']
+Extracted: ['sözlük']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 69
+Actual: ['benzer', 'örneksemek', 'değişmek', 'türemek']
+Extracted: ['türetıne']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 70
+Actual: ['yazım', 'metin', 'reklâm', 'tv', 'dilbilim']
+Extracted: ['reklâm', 'tv']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 71
+Actual: ['sözlük', 'sözlükbilim', 'anlambilim', 'sözlükbirim', 'dilbilim']
+Extracted: ['sözlük']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 72
+Actual: ['mahmud', 'türkçe', 'kaşgar', 'dilbilim', 'lûgâti']
+Extracted: ['dilbilim', 'eser', 'çalışmak']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 73
+Actual: ['öğrenci', 'öz', 'çerçeve', 'özerklik', 'değer', 'program', 'çokdilli', 'ortak', 'konsey', 'gelişim', 'dosya', 'dil', 'avrupa', 'öğrenmek', 'kriter']
+Extracted: ['avrupa', 'dil', 'program', 'yabanc']
+TP: 3 TN: 0 FP: 12 FN: 1 
+Accuracy: %18.75
+-----------------
+Article Index: 74
+Actual: ['sözcük', 'bilgi', 'alan', 'yabanc', 'sözlük', 'söz', 'kullanım', 'varlık']
+Extracted: ['bilgi']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 75
+Actual: ['olmak', 'var', 'yön', 'leksikalizasyon', 'aynı', 'an', 'dilbilgisel', 'artzaman', 'eşzaman']
+Extracted: ['bağımsız', 'biçimbirim', 'değişim', 'dilbilgisel', 'fiil', 'yan']
+TP: 1 TN: 0 FP: 8 FN: 5 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 76
+Actual: ['teori', 'tipoloji', 'yapı', 'ifade', 'kibar', 'bölgesel', 'saygı', 'toplum']
+Extracted: ['dil', 'kibar', 'saygı']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 77
+Actual: ['kültürleraras', 'anlamak', 'davranmak', 'kod', 'iletişim', 'ifade', 'kalıp', 'sosyal', 'kültürel', 'yanlış']
+Extracted: ['kültür', 'tavır']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['zarf', 'sıfat', 'eş', 'kelime', 'sesteş', 'ilgi', 'ek', 'anlam', 'isim', 'son', 'ön']
+Extracted: ['kelime']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 79
+Actual: ['söylem', 'belirlemek', 'süreç', 'bakmak', 'ürün', 'beceri', 'yazma', 'kalite']
+Extracted: ['belirlemek', 'söylem', 'yazma', 'öğrenci']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 80
+Actual: ['hizmet', 'iletişim', 'söz', 'kalıp', 'sosyal', 'dil']
+Extracted: ['hitap', 'kalıp', 'kültür']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 81
+Actual: ['insan', 'kültür', 'yazı', 'bilim']
+Extracted: ['yazı']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 82
+Actual: ['konuşmak', 'tarzan', 'basit', 'tarz', 'yabancı', 'dil', 'ana']
+Extracted: ['yabancı']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 83
+Actual: ['alıntı', 'deyi', 'kelime', 'iletişim', 'türkçe', 'etkileşim']
+Extracted: ['kelime']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 84
+Actual: ['sözlük', 'anlam', 'işlemek', 'ilişki', 'bilgisayar']
+Extracted: ['kural']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 85
+Actual: ['jest', 'mimik', 'teknoloji', 'beden', 'folklor', 'kültür']
+Extracted: ['beden']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 86
+Actual: ['eğitim', 'öğretim', 'dilbilgisi', 'saydam', 'tepegöz']
+Extracted: ['öğretmen']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 87
+Actual: ['terör', 'politik', 've', 'yanıltmaç', 'bölücü', 'dil', 'dilbilim', 'ideoloji']
+Extracted: ['terör', 'örgüt']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 88
+Actual: ['marş', 'işlev', 'ulusal', 'çeşit']
+Extracted: ['marş']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 89
+Actual: ['kalaç', 'atasözü', 'köken', 'etimolojik', 'deyi', 'rusça', 'türkçe', 'tür', 'açıklamak', 'dil', 'ekmek']
+Extracted: ['kelime', 'köken', 'rusça']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 90
+Actual: ['dil', 'terim', 'bilgi', 'kitap']
+Extracted: ['terim']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 91
+Actual: ['sözcük', 'tümce', 'işlemleme', 'dizmek', 'çalkalamak']
+Extracted: ['tümce']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 92
+Actual: ['çevrilebilirliliği', 'serbest', 'biçem', 'kura', 'kavram', 'yaklaşım', 'şiir', 'evrensel']
+Extracted: ['şiir']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 93
+Actual: ['that', 'kura', 'this', 'şu', 'yapı', 'bu', 've', 'retorik', 'ilişki', 'adıl']
+Extracted: ['retorik']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 94
+Actual: ['hayır', 'dinlemek', 'değer', 'dolay', 'sizlik', 'ifade', 'nezaket', 'türkçe', 'mesafe', 'cinsiyet', 'çalışmak']
+Extracted: ['dinlemek', 'hayır', 'nezaket']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 95
+Actual: ['konuşmak', 'söylem', 'çözümlemek', 'çatışmak', 'eylem']
+Extracted: ['anlaşmak', 'göstermek', 'iletişim', 'konuşmak', 'çatışmak']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 96
+Actual: ['sözcük', 'karşıt', 'belirsiz', 'eşdeğerli', 'sözlükbilim', 'anlambilim', 'anlam', 'sözcükbilim', 'çokanlamlı']
+Extracted: ['anlam']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 97
+Actual: ['söylem', 'edimbilim', 'anlatım', 'şu', 'alan', 'göstermek', 'araç', 'o', 'metin', 'bu', 've', 'işlev', 'türkçe', 'yordam', 'dil']
+Extracted: ['anlatım']
+TP: 1 TN: 0 FP: 14 FN: 0 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 98
+Actual: ['belirti', 'eşzamanl', 'dilbilgisi', 'artzamanl', 'yaklaşım', 'işlev', 'edilgen', 'kaymas']
+Extracted: ['edilgen']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 99
+Actual: ['söylem', 'eylem', 'tümce', 'üst', 'türkçe', 've', 'işlev', 'olumsuz', 'dil']
+Extracted: ['biçim', 'olumsuzlamak']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Total accuracy of document "Dilbilim" is: %15.401042560133465

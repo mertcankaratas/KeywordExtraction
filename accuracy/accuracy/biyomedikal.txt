@@ -1,0 +1,1021 @@
+Article Index: 1
+Actual: ['dönüşüm', 'kdysa', 'ekg', 'dalga', 'kompleks']
+Extracted: ['kdd']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 2
+Actual: ['algoritma', 'ekg', 'ağı', 'yapay', 'kümelemek', 'sinir', 'bulanık']
+Extracted: ['kümelemek', 'sınıf']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 3
+Actual: ['ekg', 'ysa', 'tba', 'fpga']
+Extracted: ['donanım', 'sayı', 'ysa']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 4
+Actual: ['denge', 'sempatovagal', 'dönüşüm', 'paket', 'taşiaritmi', 'ventriküler', 'dalga']
+Extracted: ['denge', 'sempatovagal']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 5
+Actual: ['mode', 'paradigma', 'arayüz', 'hecelemek', 'ters', 'wiener', 'p300', 'beyin', 'evrişim', 'bilgisayar']
+Extracted: ['hecelemek', 'karakter', 'paradigma', 'tahmin', 'yanmak']
+TP: 2 TN: 0 FP: 8 FN: 3 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 6
+Actual: ['düşün', 'örüntü', 'arayüz', 'uzam', 'ortak', 'eeg', 'hareket', 'beyin', 'bilgisayar']
+Extracted: ['düşün', 'hareket', 'sınıf']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 7
+Actual: ['ağ', 'elektroretinografi', 'pattern', 'yapay', 'göz', 'sinir', 'hastalık']
+Extracted: ['perg', 'sınıf', 'ysa']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 8
+Actual: ['ağ', 'hepatit', 'teşhis', 'yapay', 'tıbbî', 'sinir']
+Extracted: ['ağ', 'ağı']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 9
+Actual: ['ağ', 'kalp', 'rahat', 'ekg', 'yapay', 'sinir']
+Extracted: ['kalp', 'rahat', 'ysa']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 10
+Actual: ['tomografi', 'rezonans', 'görüntülemek', 'elektrik', 'yoğun', 'manyetik', 'akım', 'empedans']
+Extracted: ['akım', 'görüntülemek', 'iletken']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 11
+Actual: ['işaretlemek', 'karın', 'kalp', 'harp', 'manyetik', 'hareket', 'analiz', 'mrg', 'sol']
+Extracted: ['hareket', 'kalp', 'tag']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 12
+Actual: ['teager', 'kabarcık', 'ultrason', 'enerji', 'ses', 'operatör', 'doppler', 'hava']
+Extracted: ['kabarcık', 'tehlike']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 13
+Actual: ['anormal', 'meme', 'tespit', 'sayısal', 'görüntü', 'doku', 'hizalamak', 'mammografik', 'mammografi']
+Extracted: ['anormal', 'film', 'görüntü', 'karşılaştırmak', 'mammogram', 'saptamak']
+TP: 2 TN: 0 FP: 7 FN: 4 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 14
+Actual: ['formülasyon', 'tıp', 'görüntülemek', 'raporlamak', 'teşhis', 'kodlamak']
+Extracted: ['bilgi', 'formül', 'kondisyon', 'rapor', 'yazmak']
+TP: 0 TN: 0 FP: 6 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['indüklemek', 'medikal', 'görüntülemek', 'elektrik', 'manyetik', 'iletken']
+Extracted: ['hazırlamak', 'manyetik']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 16
+Actual: ['kamera', 'carlo', 'gama', 'tıp', 'monte', 'nükleer', 'yöntem']
+Extracted: ['nükleer', 'tıp']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 17
+Actual: ['iyon', 'kanal', 'yazılım', 'modellemek', 'sinaps', 'uyarmak', 'hücre', 'zar', 'sinir', 'bilgisayar']
+Extracted: ['iyon', 'kanal']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 18
+Actual: ['kanal', 'olasılık', 'yöntem', 'yol', 'iyon']
+Extracted: ['denge', 'denklem']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 19
+Actual: ['biyokimya', 'sistem', 'birleşim', 'matlab']
+Extracted: ['biyokimya', 'matlab']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 20
+Actual: ['ağ', 'yapı', 'emkg', 'bölütlemek', 'ileri', 'problem', 'sey', 'kesişmek']
+Extracted: ['göz', 'çözüm']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 21
+Actual: ['modellemek', 'ileti', 'sinyal', 'yol', 'fgf']
+Extracted: ['fgf', 'ileti', 'protein']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 22
+Actual: ['in', 'glycolysis', 'modeling', 'silico', 'cerevisiae', 'saccharomyces']
+Extracted: ['glikoliz', 'glikoz', 'metabolizma']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 23
+Actual: ['konjestif', 'sistem', 'dolaşım', 'kalp', 'yetmek', 'regülasyon', 'yapay']
+Extracted: ['mekanizma', 'model']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 24
+Actual: ['kişisel', 'ağ', 'fp6', 'görüntülemek', 'mükemmeliyet']
+Extracted: ['araştırmak', 'invasive', 'mükemmeliyet', 'patoloji', 'çerçeve', 'ülke']
+TP: 1 TN: 0 FP: 4 FN: 5 
+Accuracy: %10.0
+-----------------
+Article Index: 25
+Actual: ['metabolic', 'yol', 'melanin', 'uv']
+Extracted: ['genetik', 'metabolik']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['biyobilişim', 'erim', 'sıcak', 'primer', 'pzt', 'çok', 'javascript', 'dna']
+Extracted: ['dna', 'primer', 'pzt', 'sıcak']
+TP: 4 TN: 0 FP: 4 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 27
+Actual: ['hedef', 'cerrahi', 'anatomik', 'beyin', 'yerleşmek', 'sinir']
+Extracted: ['atlas']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 28
+Actual: ['saçmak', 'compton', 'etki', 'benzetim', 'oluşum', 'oluşmak', 'ışılelektriksel', 'çift']
+Extracted: ['can', 'etkileşim', 'madde']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 29
+Actual: ['aradeğerleme', 'görüntülemek', 'eeg']
+Extracted: ['band', 'eeg', 'hz', 'veri']
+TP: 1 TN: 0 FP: 2 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 30
+Actual: ['ağ', 'yapı', 'tahmin', 'etmek', 'som', 'yapay', 'kendi', 'organize', 'protein', 'sinir']
+Extracted: ['metot']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 31
+Actual: ['toplamak', 'küre', 'düzenek', 'tek', 'özellik', 'etkileşim', 'optik']
+Extracted: ['hesaplamak', 'optik']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 32
+Actual: ['hematoksilen', 'laser', 'cd68', 'elektrokoagülasyon', 'doku', 'markör', 'diyot', 'cerrahi', 'makrofaj', 'stereotaksik', 'lezyon', 'etkileşim', 'eosin']
+Extracted: ['lezyon']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 33
+Actual: ['çınlaç', 'mikroküre', 'biyoalgılayıcı']
+Extracted: ['optik', 'çınlamak']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['biyostimulasyon', 'laser', 'periferik', 'proliferasyon', 'hücre', 'kan', 'pha', 'mononükleer']
+Extracted: ['grup', 'laser', 'pha']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 35
+Actual: ['kalp', 'uyarı', 'ekg', 'elektrofizyoloji', 'intrakardiyak', 'katerizasyonu']
+Extracted: ['ayrı', 'kalp']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 36
+Actual: ['fasiyal', 'uyarı', 'sinir']
+Extracted: ['lif', 'sinir', 'uyarı']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 37
+Actual: ['hız', 'algılamak', 'led', 'görüntülemek', 'optik']
+Extracted: ['hog', 'optik']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 38
+Actual: ['egg', 'motilite', 'gastrik']
+Extracted: ['ilişkin', 'işlemek', 'veri']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['morbid', 'darbe', 'üreteç', 'uyarı', 'obezite']
+Extracted: ['kilo', 'morbid', 'obezite']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 40
+Actual: ['değişken', 'frekans', 'kaynak', 'güç']
+Extracted: ['görüntü', 'güç', 'kaynak', 'ses']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 41
+Actual: ['ağ', 'uyuklamak', 'dönüşüm', 'eeg', 'dalga', 'sinir']
+Extracted: ['bölüt', 'uyuklamak']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 42
+Actual: ['modellemek', 'ar', 'doppler', 'ateroskleroz']
+Extracted: ['damar', 'karotid', 'sertlik']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['belirlemek', 'mod', 'görüntü', 'devre', 'taşımak', 'akım', 'mrg', 'kenar']
+Extracted: ['kenar']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 44
+Actual: ['karotid', 'arter', 'ateroskleroz', 'doppler', 'sonogramı', 'hfd']
+Extracted: ['damar', 'doppler', 'karotis', 'sertlik', 'ultrasonik']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 45
+Actual: ['belirsiz', 'cohen', 'dönüşüm', 'fourier', 'sınıf', 'dağılım', 'işlev', 'kesir']
+Extracted: ['kesir']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 46
+Actual: ['sınır', 'eleman', 'kaynak', 'modellemek', 'sayısal', 'görüntülemek', 'paralel', 'elektromanyetik', 'işlemek', 'yöntem', 'beyin']
+Extracted: ['işlemci', 'yazılım']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['ekg', 'geri', 'bayes', 'kestirim']
+Extracted: ['kısıt', 'çözüm']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 48
+Actual: ['model', 'ar', 'frekans', 'kalp', 'örneklem', 'sayı', 'eeg', 'özilinti', 'ekg', 'atmak', 'dalga']
+Extracted: ['eeg', 'işaret']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 49
+Actual: ['karşılık', 'kura', 'eleman', 'kaynak', 'meg', 'görüntülemek', 'eeg', 'son', 'ileri', 'problem', 'yöntem']
+Extracted: ['uç', 'çözüm']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 50
+Actual: ['peroksit', 'derişim', 'luminometre', 'kimyasal', 'hidrojen', 'luminesans', 'biyosensör']
+Extracted: ['derişim', 'ferrisiyanür', 'luminesans', 'peroksit']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 51
+Actual: ['elektrokimya', 'biyosensör', 'dna']
+Extracted: ['baz', 'dna', 'tayin']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 52
+Actual: ['organofosfat', 'organofosforlu', 'hidrolaz', 'oph', 'potasiyometrik', 'isfet', 'bileşik', 'enfet', 'pestisidler', 'biyosensörler']
+Extracted: ['enzim']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['kütle', 'mammografik', 'labview', 'yuvarlak', 'normalize']
+Extracted: ['tümör']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 54
+Actual: ['deproteinizasyon', 'kemik', 'hayvan', 'hidroksilapatit']
+Extracted: ['hap']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 55
+Actual: ['osteid', 'yöntem', 'kemik']
+Extracted: ['cam', 'jel']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 56
+Actual: ['bobin', 'alan', 'implant', 'elektromanyetik']
+Extracted: ['bobin', 'darbe']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 57
+Actual: ['çözümlemek', 'biyo', 'rfr', 'denklem', 'ısıl', 'ısı', 'sarmak']
+Extracted: ['anten', 'biyo', 'kalan', 'çiftkutup', 'ısıl']
+TP: 2 TN: 0 FP: 5 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 58
+Actual: ['biyomateryal', 'çene', 'kist', 'kemik', 'alt', 'fosfat', 'trikalsiyum']
+Extracted: ['göstermek', 'kemik', 'olumlu']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 59
+Actual: ['zeolit', 'klinoptilolite', 'medikal', 'gördes', 'doğal', 'uygulamak']
+Extracted: ['bileşim', 'glikoz', 'klinoptilolite', 'zeolitler']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 60
+Actual: ['kişisel', 'pm', 'görüntülemek', 'anestezi', 'kontrol']
+Extracted: ['anestezi', 'dönem', 'esna', 'kontrol', 'operasyon']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 61
+Actual: ['problar', 'fizyoterapi', 'ultrasound']
+Extracted: ['ultrasonik']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['sistem', 'protez', 'seramik', 'dişhekimliğinde', 'tam', 'uygulamak']
+Extracted: ['estetik', 'seramik']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 63
+Actual: ['frekans', 'ortalama', 'güç', 'emg', 'spor', 'dağılım', 'yorgun', 'ortanca', 'analiz', 'elit', 'kürek']
+Extracted: ['kas', 'kontraksiyon', 'ocf', 'omf']
+TP: 0 TN: 0 FP: 11 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 64
+Actual: ['döngü', 'şartname', 'yaşam', 'cihaz', 'teknik', 'tıbbî']
+Extracted: ['cihaz', 'tıbbî']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 65
+Actual: ['testi', 'sitolojik', 'incelemek', 'mavis', 'toluidin', 'eğilim', 'biyopsi', 'lökoplazi', 'değişim', 'habis']
+Extracted: ['kesin', 'takip']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 66
+Actual: ['izlemek', 'ölüm', 'örüntü', 'bebek', 'uyum', 'ani', 'üreteç', 'dönüşüm', 'algoritma', 'engellemek', 'solunum', 'uyku', 'apneası', 'dalga', 'sendrom', 'uyarlamak']
+Extracted: ['solunum', 'örüntü', 'üreteç']
+TP: 3 TN: 0 FP: 13 FN: 0 
+Accuracy: %18.75
+-----------------
+Article Index: 67
+Actual: ['olmak', 'rezonans', 'alan', 'görüntülemek', 'manyetik', 'homojen', 'ana']
+Extracted: ['homojen', 'manyetik']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 68
+Actual: ['steteskop', 'kalp', 'sayısal', 'ses', 'islemek', 'fourier', 'dönüşüm', 'işaret', 'ayrık', 'elektronik']
+Extracted: ['kalp', 'ses']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 69
+Actual: ['oksijen', 'horlamak', 'sıcaklık', 'saturasyonu', 'apne', 'tıkamak', 'uyku', 'sendrom', 'değişim', 'nazal']
+Extracted: ['horlamak', 'tuas']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 70
+Actual: ['koroner', 'dikrotik', 'hacim', 'seviye', 'anjiyografi', 'deri', 'iletken', 'kan', 'notch', 'sinyal']
+Extracted: ['anjiyo', 'değişken', 'fizyolojik', 'işlem', 'stres']
+TP: 0 TN: 0 FP: 10 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 71
+Actual: ['pml', 'mode', 'silindirik', 'alan', 'katman', 'elektrik', 'fdtd', 'insan']
+Extracted: ['fdtd', 'katman']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 72
+Actual: ['tanımak', 'ysa', 'ekg', 'aritmi', 'sınıflamak']
+Extracted: ['eğitim', 'set', 'ysa']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 73
+Actual: ['artırım', 'meme', 'mr', 'görüntülemek', 'sinyal', 'artmak', 'dinamik', 'kesimlemek', 'eğri', 'fark']
+Extracted: ['görüntü', 'yazılım']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 74
+Actual: ['işaretlemek', 'kasmak', 'kalp', 'miyokardiyum', 'harp', 'manyetik', 'analiz', 'mrg']
+Extracted: ['işaretlemek', 'kalp', 'manyetik', 'tag']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 75
+Actual: ['fantom', 'sayısal', 'çıkartmak', 'anjiyo', 'başarı']
+Extracted: ['fantom']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 76
+Actual: ['potansiyel', 'dönüşüm', 'oi̇p', 'p200', 'olay', 'p300', 'dalga', 'ilişkin']
+Extracted: ['ayrım', 'bileşen', 'oi', 'süreç', 'yanıt']
+TP: 0 TN: 0 FP: 8 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 77
+Actual: ['potansiyel', 'dönüşüm', 'oi̇p', 'olay', 'alzheimer', 'dalga', 'ilişkin', 'hastalık']
+Extracted: ['ah', 'erken', 'evre', 'oi']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['ağ', 'ekg', 'wavelet', 'yapay', 'atrial', 'fibrilasyon', 'sinir']
+Extracted: ['adet', 'af', 'ritim']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 79
+Actual: ['sinoviyum', 'poli', 'diz', 'reaksiyon', 'dikiş', 'asit', 'cerrahi', 'ok', 've', 'kıkırdak']
+Extracted: ['erimek']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 80
+Actual: ['deproteinizasyon', 'kabuk', 'kemik', 'hidroksiapatit', 'hayvan', 'midye', 'kalsinasyon']
+Extracted: ['ha']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 81
+Actual: ['dehidrate', 'mekanik', 'kemik', 'donmak', 'etmek', 'direnç', 'kurumak', 'solvent']
+Extracted: ['greft', 'kemik']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 82
+Actual: ['izlemek', 'ses', 'kullanım', 'kötü', 'hastalık']
+Extracted: ['khz', 'ses']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 83
+Actual: ['256', 'kanal', 'toplamak', 'kaynak', 'veri', 'görüntülemek', 'eeg']
+Extracted: ['donanım', 'kanal']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 84
+Actual: ['ayarlamak', 'koşu', 'band', 'eğim', 'mikrodenetleyici']
+Extracted: ['bant', 'eğim']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 85
+Actual: ['ışınım', 'elektromagnetik', 'etki', 'cep', 'telefon', 'epilepsi', 'kan', 'biyolojik', 'beyin', 'engel']
+Extracted: ['sıçan', 'ışınım']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 86
+Actual: ['eş', 'ağaç', 'yapı', 'sınıf', 'ortak', 'büyük', 'sonek', 'en', 'ikincil', 'protein']
+Extracted: ['bulanmak', 'protein', 'yöntem']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 87
+Actual: ['vektör', 'dvm', 'yapı', 'tahmin', 'etmek', 'destek', 'motorı', 'protein']
+Extracted: ['başarı']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 88
+Actual: ['model', 'kanal', 'termodinamik', 'alan', 'doğru', 'elektrik', 'iyon']
+Extracted: ['ac', 'aktivasyon', 'açık']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 89
+Actual: ['mode', 'modellemek', 'membran', 'uyarmak', 'nöron']
+Extracted: ['benzeşim', 'iyon']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 90
+Actual: ['dentrit', 'kablo', 'membran', 'teorem', 'nöron']
+Extracted: ['dendrit']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 91
+Actual: ['doz', 'skopi', 'güvence', 'kalite']
+Extracted: ['aapm', 'skopi', 'çekim']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 92
+Actual: ['yakın', 'spektroskopi', 'oksidatif', 'metabolizma', 'kas', 'fark']
+Extracted: ['kas', 'oksijen']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 93
+Actual: ['yakın', 'oksijen', 'seviye', 'rezonans', 'görüntülemek', 'öte', 'manyetik', 'işlev', 'spektroskopu', 'kanmak', 'kızıl', 'bağımlı']
+Extracted: ['nefes', 'tutmak']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 94
+Actual: ['laser', 'fibroblast', 'diyot', 'hücre', 'çoğalım', 'biyostimülasyon']
+Extracted: ['laser', 'saniye', 'ışımak']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 95
+Actual: ['darbe', 'laser', 'doku', 'ışık', 'diyot', 'mikrodenetleyici', 'etkileşim']
+Extracted: ['diyot', 'mikrodenetleyici', 'mod']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 96
+Actual: ['eeg', 'sağ', 'sürücü', 'palm', 'bacak']
+Extracted: ['dönüşmek', 'eeg', 'yükselteç']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 97
+Actual: ['akı', 'apnesi', 'apne', 'monitör', 'uyku', 'hava']
+Extracted: ['apne', 'sensör', 'sistem']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 98
+Actual: ['iyon', 'model', 'kanal', 'doğru', 'gürültü', 'plant']
+Extracted: ['dalga', 'zar']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 99
+Actual: ['yaymak', 'kurumak', 'kıvılcımlanmak', 'elektrot', 'pıhtı']
+Extracted: ['bıçak', 'kesmek']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['kırmızı', 'diyagram', 'akmak', 'hücre', 'kan', 'iyon']
+Extracted: ['direnç', 'iyon', 'kan']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 101
+Actual: ['birleşim', 'hiperamonya']
+Extracted: ['biokimyasal', 'birleşim', 'matlab', 'çözmek']
+TP: 1 TN: 0 FP: 1 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 102
+Actual: ['doz', 'skopi', 'güvence', 'kalite']
+Extracted: ['aapm', 'skopi', 'çekim']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 103
+Actual: ['biyomühendislik', 'modellemek', 'gepasi', 'hücre']
+Extracted: ['gen', 'protein', 'rsk2']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 104
+Actual: ['kanser', 'gepasi', 'matematik', 'modellemek', 'wnt', 'kolon', 'sinyal']
+Extracted: ['baskılamak', 'ilâç', 'kanser', 'kolon', 'wnt']
+TP: 3 TN: 0 FP: 4 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 105
+Actual: ['kalp', 'uyarı', 'elektrofizyoloji', 'intrakardiyak', 'katerizasyonu', 'mikrodenetleyici']
+Extracted: ['dinlenim', 'kalp', 'süre']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 106
+Actual: ['örüntü', 'tremör', 'biyomedikal', 'tanımak', 'işlemek', 'işaret']
+Extracted: ['kestirim', 'tremör']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 107
+Actual: ['mantık', 'nakil', 'böbrek', 'anestezi', 'bulanık']
+Extracted: ['böbrek']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 108
+Actual: ['ultrason', 'transfer', 'bioheat', 'artmak', 'denklem', 'tanı', 'gösterge', 'ısı']
+Extracted: ['mod']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 109
+Actual: ['amplifier', 'power', 'ultrasound']
+Extracted: ['fizyoterapi', 'güç', 'mhz', 'ultrasonik']
+TP: 0 TN: 0 FP: 3 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 110
+Actual: ['ağ', 'mantar', 'bakteri', 'burun', 'yapay', 'elektronik', 'sinir']
+Extracted: ['koku']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 111
+Actual: ['21', 'alan', 'down', 'sendrom', 'trizomi', 'çekirdek']
+Extracted: ['lenfosit', 'çekirdek']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 112
+Actual: ['formant', 'koklear', 'frekans', 'implant']
+Extracted: ['formant', 'implant', 'koklear']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 113
+Actual: ['periyodogram', 'kalp', 'ses', 'ikiz', 'spektrum', 'kestirim']
+Extracted: ['ikiz', 'spektrum']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 114
+Actual: ['kırmızı', 'diyagram', 'akmak', 'hücre', 'kan', 'iyon']
+Extracted: ['direnç', 'iyon', 'kan']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 115
+Actual: ['dokunsal', 'salınım', 'delta', 'görmek', 'eeg', 'uyarmak', 'ağrı', 'engel']
+Extracted: ['birey', 'dokunsal', 'engel', 'yanıt']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 116
+Actual: ['alan', 'ölçmek', 'elektromanyetik', 'diyatermi', 'fizyoterapi']
+Extracted: ['none']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 117
+Actual: ['açık', 'sistem', 'meme', 'veritabanı', 'memory', 'veri', 'yönetim', 'bağ', 'touch', 'ilişki', 'kanser', 'mammografi', 'taban']
+Extracted: ['erişim', 'kanser', 'meme', 'sistem', 'veri']
+TP: 4 TN: 0 FP: 9 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 118
+Actual: ['koroner', 'kamera', 'termal', 'perfüzyon', 'gref', 'arter', 'görüntülemek']
+Extracted: ['komplikasyon', 'koroner']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 119
+Actual: ['alan', 'çekirdek', 'hücre', 'kanser', 'sayım']
+Extracted: ['hücre', 'kanser', 'çekirdek']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 120
+Actual: ['implant', 'radyografi', 'püskürmek', 'biyocam', 'plazma']
+Extracted: ['implant']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 121
+Actual: ['asıltı', 'bakteri', 'bakterikarşıt', 'gümüş', 'saymak']
+Extracted: ['bakteri', 'gümüş']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 122
+Actual: ['implanti', 'diş', 'teşhis', 'implant']
+Extracted: ['destek', 'diş', 'implant', 'kemik', 'klinik', 'kök', 'yapay']
+TP: 2 TN: 0 FP: 2 FN: 5 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 123
+Actual: ['diş', 'aşınmak', 'oyuk', 'hava']
+Extracted: ['aşınmak', 'diş']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 124
+Actual: ['behçet', 'arter', 'sonogram', 'spektral', 'analiz', 'oftalmik', 'işaret', 'doppler', 'hastalık']
+Extracted: ['analiz', 'doppler', 'spektral']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 125
+Actual: ['dalga', 'ses', 'fourier', 'dönüşüm', 'peryot', 'analiz', 'işlemek', 'temel', 'işaret']
+Extracted: ['analiz', 'ses']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 126
+Actual: ['ar', 'kalp', 'ses', 'analiz', 'hfd']
+Extracted: ['kalp', 'kapak', 'spektrum']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 127
+Actual: ['elektroensefalogram', 'analiz']
+Extracted: ['enerji', 'gösterim', 'oi', 'sinyal']
+TP: 0 TN: 0 FP: 2 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['hız', 'akmak', 'ses', 'solunum', 'kestirim']
+Extracted: ['akmak', 'evre', 'kesmek']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 129
+Actual: ['teori', 'yumuşak', 'arınmak', 'eşiklemek', 'ykös', 'ile', 'gürültü', 'dalga', 'yöntem']
+Extracted: ['gürültü']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 130
+Actual: ['laser', 'doku', 'diyot', 'cerrahi', 'stereotaksik', 'lezyon', 'laseri', 'etkileşim', 'elektrolitik']
+Extracted: ['lezyon', 'yarımküre']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 131
+Actual: ['laser', 'karşılaştırmak', 'doku', 'diyot', 'cerrahi', 'histopatoloji', 'stereotaksik', 'lezyon', 'etkileşim', 'çalışmak', 'elektrolitik', 'sinir']
+Extracted: ['lezyon', 'mm2']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 132
+Actual: ['bakım', 'adım', 'sonra', 'ameliyat', 'optoelektronik', 'sayı', 'saymak']
+Extracted: ['adım', 'hareket']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 133
+Actual: ['izge', 'toplamak', 'sık', 'ses', 'veri', 'analiz', 'akciğer']
+Extracted: ['akciğer', 'izge']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 134
+Actual: ['arterial', 'basınç', 'kan']
+Extracted: ['basınç', 'eğim']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 135
+Actual: ['xenon', 'parıldamak', 'ses', 'tel', 'videostroboskopi', 'lamba']
+Extracted: ['videostroboskopi', 'ışık']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 136
+Actual: ['oksijen', 'izlemek', 'tüketim', 'oksidatif', 'polarografi', 'elektrotu', 'fosforilasyon', 'clark']
+Extracted: ['oksijen']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 137
+Actual: ['kişisel', 'rtp', 'dinlemek', 'ip', 'steteskop', 'sayısal', 'telesteteskop', 'gerçek', 'zaman', 'uzak', 've', 'teşhis', 'analiz', 'işlemek', 'işaret', 'bilgisayar']
+Extracted: ['bilgisayar', 'sağlamak', 'ses', 'steteskop']
+TP: 2 TN: 0 FP: 14 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 138
+Actual: ['sistem', 'uzak', 'ekg', 'ultrases', 'danışmak']
+Extracted: ['danışmak', 'sistem', 'ultrases']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 139
+Actual: ['hız', 'frekans', 'maksimum', 'geri', 'yayılım', 'dönüşüm', 'fourier', 'ağı', 'eğri', 'transcranial', 'doppler', 'sinir', 'hfd']
+Extracted: ['doppler', 'transcranial']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 140
+Actual: ['rezonans', 'görüntülemek', 'yoğun', 'manyetik', 'akım']
+Extracted: ['akım', 'manyetik', 'yoğun']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 141
+Actual: ['yazılım', 'ağaç', 'hiza', 'görüntü', 'uzak', 'harita', 'paket']
+Extracted: ['ağaç', 'görüntü', 'hiza', 'metot']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 142
+Actual: ['rezonans', 'görüntülemek', 'elektrik', 'manyetik', 'empedans']
+Extracted: ['gerilim', 'iletken']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['hız', 'hfd', 'dönüşüm', 'fourier', 'kapakçık', 'sınıflamak', 'aort', 'kardiyak', 'sinir', 'doppler', 'bulanık']
+Extracted: ['diastol', 'doppler', 'hfd', 'mantık', 'sistol', 'spektral']
+TP: 2 TN: 0 FP: 9 FN: 4 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 144
+Actual: ['konsensus', 'arter', 'diskriminant', 'hipoksi', 'umbilikal', 'serebral', 'orta', 'fonksiyon']
+Extracted: ['sınıf']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 145
+Actual: ['mamografi', 'olası', 'meme', 'duyarlı', 'sınıf', 'ağı', 'kanser', 'bayes', 'özgül', 'sinir']
+Extracted: ['bayes', 'mamografi', 'sınıf', 'taban']
+TP: 3 TN: 0 FP: 7 FN: 1 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 146
+Actual: ['mantık', 'kalp', 'ses', 'dalga', 'bulanık']
+Extracted: ['bulanık', 'dalga', 'ses', 'stenosis']
+TP: 3 TN: 0 FP: 2 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 147
+Actual: ['hız', 'ar', 'ysa', 'dönüşüm', 'fourier', 'emg', 'ağı', 'özbağlanım', 'elektromyogram', 'yapay', 'sinir', 'hfd']
+Extracted: ['emg', 'katsayı']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 148
+Actual: ['yakın', 'i̇takura', 'ölçüt', 'ses', 'sınıf', 'dsp', 'özbağlanım', 'komşu', 'mahalanobis', 'lpc', 'akciğer']
+Extracted: ['akciğer', 'evre', 'ses', 'sınıf']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 149
+Actual: ['imge', 'felç', 'labirent', 'matlab', 'sıçan', 'su', 'morris', 'işlemek', 'beyin']
+Extracted: ['beyin', 'hasar', 'sıçan']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 150
+Actual: ['ağ', 'ar', 'örüntü', 'mode', 'kalp', 'tanımak', 'ses', 'ayrışım', 'yapay', 'dalga', 'doppler', 'sinir']
+Extracted: ['doppler']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 151
+Actual: ['kırmızı', 'hücre', 'diyagram', 'kan']
+Extracted: ['parametre']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 152
+Actual: ['ölçüm', 'uv', 'sedimentasyon', 'partikül', 'ile', 'metot', 'mikroorganizma', 'taşınmak', 'işın', 'hava']
+Extracted: ['partikül', 'ìm', 'ölçüm']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 153
+Actual: ['dxa', 'kemik', 'güvence', 'densitometresi', 'kalite', 'osteoporoz']
+Extracted: ['cihaz', 'hastalık', 'kemik', 'tedavi']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 154
+Actual: ['dxa', 'kemik', 'standardizasyon', 'densitometresi', 'bmd', 'osteoporoz']
+Extracted: ['bel', 'cihaz', 'fantom', 'kemik', 'omur']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 155
+Actual: ['alan', 'etki', 'baz', 'istasyon', 'doz', 'gtem', 'fdtd', 'elektromanyetik', 'biyolojik', 'ölçü']
+Extracted: ['deney', 'düzenek', 'sarmak']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 156
+Actual: ['frekans', 'emg', 'spor', 'yorgun', 'ortanca']
+Extracted: ['frekans', 'ortanca', 'spor']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 157
+Actual: ['hipotermiya']
+Extracted: ['kontrol', 'sıcaklık']
+TP: 0 TN: 0 FP: 1 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 158
+Actual: ['ağ', 'ses', 'solunum', 'yapay', 'dalga', 'sinir']
+Extracted: ['teşhis', 'ysa']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 159
+Actual: ['hyoidoplasti', 'larinks', 'laringoplasti', 'resonansı', 'fonocerrahi']
+Extracted: ['cerrahi', 'laringoplasti', 'supraglottik', 'sütun']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 160
+Actual: ['eleman', 'diş', 'implant', 'son', 'analiz']
+Extracted: ['germek', 'implant']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 161
+Actual: ['a', 'gece', 'vitamin', 'kör', 'eksik', 'adaptasyon', 'karanlık']
+Extracted: ['adaptasyon', 'cihaz', 'göz', 'karanlık', 'ışık']
+TP: 2 TN: 0 FP: 5 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 162
+Actual: ['vektör', 'makine', 'sınıf', 'ekg', 'destek', 'aritmi']
+Extracted: ['aritmi', 'dvm', 'kardiyak', 'sınıf', 'teşhis']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 163
+Actual: ['güç', 'ritim', 'dönüşüm', 'elektrogastrografi', 'spektral', 'midevî', 'yoğun', 'dalga']
+Extracted: ['diyabet', 'egg', 'mide', 'ritim']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 164
+Actual: ['model', 'ar', 'ağ', 'yapay', 'ven', 'siroz', 'portal', 'stft', 'sinir']
+Extracted: ['siroz', 'sistem', 'stft', 'yorumlamak']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 165
+Actual: ['fonokardiogram', 'dönüşüm', 'gürültü', 'temizlemek', 'dalga']
+Extracted: ['gürültü', 'temizlemek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 166
+Actual: ['ağ', 'kalp', 'yaklaşım', 'harita', 'yapay', 'sinir']
+Extracted: ['epikardın', 'harita', 'venlere']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 167
+Actual: ['volterra', 'gidermek', 'eeg', 'süzgeç', 'gürültü', 'eog', 'uyarlamak']
+Extracted: ['eeg', 'eog']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 168
+Actual: ['korozyon', '316l', 'femur']
+Extracted: ['malzeme', 'yüzde']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 169
+Actual: ['sabitlemek', 'implant', 'kırık', 'metatars', 'beşinci', 'jones']
+Extracted: ['kırık']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 170
+Actual: ['yüzey', 'alan', 'kemik', 'hidroksiapatit', 'hayvan', 'kalsinasyon']
+Extracted: ['femur', 'kesmek']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Total accuracy of document "biyomedikal" is: %15.253740540505243

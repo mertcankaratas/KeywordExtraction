@@ -1,0 +1,1147 @@
+Article Index: 1
+Actual: ['güvenlik', 'sektör', 'gıda', 'inovasyon']
+Extracted: ['gıda', 'sektör']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 2
+Actual: ['değişken', 'benzetim', 'süre', 'sezgi', 'problem', 'yöntem', 'tepki', 'tavlamak']
+Extracted: ['literatür', 'orta', 'problem', 'tsd', 'ölçek']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 3
+Actual: ['uyum', 'yönetim', 'yaratı', 'ortam', 'çalışmak', 'inovasyon']
+Extracted: ['birey', 'yaratı']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 4
+Actual: ['arge', 'ürün', 'gelişmek', 'otomotiv', 'tasarım', 'inovasyon']
+Extracted: ['devam', 'gelişim', 'gelişmek', 'kültürel', 'süreç', 'yetkin']
+TP: 1 TN: 0 FP: 5 FN: 5 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 5
+Actual: ['cocreation', 'araştırmak', 'hizmet', 'bilim', 'teknoloji', 'öncelik', 'yeni']
+Extracted: ['hizmet']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 6
+Actual: ['model', 'eniyile', 'yönetim', 've', 'zincir', 'lojistik', 'sürmek', 'tedarik', 'uygulamak']
+Extracted: ['lojistik', 'sürmek', 'tedarik']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 7
+Actual: ['yonetimi', 'hizmet', 'bilgi', 'teknoloji', 'bankacilik']
+Extracted: ['bt', 'hemen']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 8
+Actual: ['sistem', 'vermek', 'iş', 'talimat', 'güvenlik', 'ilâç', 'order', 'destek', 'hekim', 'analiz', 'barkod', 'hast', 'bilgisayar']
+Extracted: ['hata', 'ilâç', 'talimat']
+TP: 2 TN: 0 FP: 11 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 9
+Actual: ['model', 'sistem', 'iş', 'yetkin', 'anp']
+Extracted: ['yetkin']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 10
+Actual: ['antropometri', 'kumanda', 'dost', 'eleman', 'kullanmak', 'ergonomi', 'ekonomi', 'üretim', 'hareket', 'tasarım', 'tasarı']
+Extracted: ['antropometrik', 'ayak']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['iç', 'birey', 'ara', 'değer', 'risk', 'performans', 'teknolojik', 'dağılım', 've', 'faktör']
+Extracted: ['faktör', 'sosyal']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 12
+Actual: ['mantık', 'sistem', 'değer', 'çıkmak', 'mamdani', 'ergonomik', 'yöntem', 'bulanık']
+Extracted: ['değer', 'ergonomik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 13
+Actual: ['vektör', 'veri', 'örneklem', 'destek', 'perakende', 'regresyon', 'maden']
+Extracted: ['gözlem', 'veri']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 14
+Actual: ['veri', 'ilişki', 'perakende', 'hazır', 'maden', 'giyim']
+Extracted: ['kural', 'maden']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 15
+Actual: ['kura', 'bilgi', 'yönetim', 'veri', 'çizge', 'gösteri', 'maden', 'stratejik', 'görsel']
+Extracted: ['görsel', 'çizge']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 16
+Actual: ['karma', 'birlik', 'ara', 'programlamak', 'yönetim', 'afet', 'kurtarmak', 'planlamak', 'tamsayı']
+Extracted: ['afet', 'birlik', 'deprem', 'kurtarmak']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 17
+Actual: ['vermek', 'çok', 'karar', 'seçim', 'tedarik', 'anp']
+Extracted: ['tedarik']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 18
+Actual: ['yönetim', 'proje', 'teknoloji', 'inovasyon']
+Extracted: ['fikir', 'fizibilite', 'kordsa', 'müşteri', 'proje']
+TP: 1 TN: 0 FP: 3 FN: 4 
+Accuracy: %12.5
+-----------------
+Article Index: 19
+Actual: ['işbirliği', 'yönetim', 'teknoloji', 'organizasyon', 'strateji', 'inovasyon']
+Extracted: ['aktarmak', 'işbirliği', 'tecrübe']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 20
+Actual: ['proje', 'yönetim', 'teknoloji']
+Extracted: ['aktivite', 'proje']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 21
+Actual: ['etkin', 'veri', 'zarflamak', 'hastane', 'analiz', 'devlet']
+Extracted: ['hastane', 'verim']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 22
+Actual: ['kaynak', 'altı', 'sigma', 'deney', 'tasarı', 'optimizasyon']
+Extracted: ['cam', 'değişken', 'kaynak', 'lcd', 'tespit', 'ürün']
+TP: 1 TN: 0 FP: 5 FN: 5 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 23
+Actual: ['genetik', 'vermek', 'algoritma', 'amaç', 'çok', 'karar', 'kümelemek']
+Extracted: ['genetik', 'kümelemek', 'tercih']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 24
+Actual: ['programlamak', 'ara', 'genel', 'tabu', 'atamak', 'problem', 'tamsayı']
+Extracted: ['gevşemek', 'kaynak']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['güvenlik', 'ergonomi', 'iş']
+Extracted: ['başlamak', 'güvenlik', 'sağlık']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 26
+Actual: ['mantık', 'iş', 'sağlık', 'etki', 'güvenlik', 've', 'tür', 'analiz', 'hata', 'bulanık']
+Extracted: ['htea', 'kaza']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 27
+Actual: ['bilgi', 'sepet', 'pazar', 'veri', 'analiz', 'çizge', 'ilişki', 'maden', 'görsel']
+Extracted: ['daire', 'görmek', 'görsel']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 28
+Actual: ['teb', 'inovasyon']
+Extracted: ['inovasyon', 'teb', 'çıkar']
+TP: 2 TN: 0 FP: 0 FN: 1 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 29
+Actual: ['dayalı', 'kalkınmak', 'işbirliği', 'sorun', 'küresel', 'strateji', 'inovasyon']
+Extracted: ['inovasyon', 'sorun']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 30
+Actual: ['performans', 'ölçüt', 'yönetim', 'zincir', 'tedarik', 'ölçü']
+Extracted: ['performans', 'scor', 'the']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 31
+Actual: ['sistem', 'bilgi', 'veri', 'karar', 'destek', 'ilişki', 'maden']
+Extracted: ['ilişki', 'maden', 'otomatik']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 32
+Actual: ['sistem', 'cam', 'programlamak', 'tamsayı', 'float', 'çok', 'karar', 'planlamak', 'üretim', 'destek', 'kapasite', 'tesis', 'toplaşık']
+Extracted: ['cam', 'üretim']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 33
+Actual: ['çizelgelemek', 'planlamak', 'vardiya', 'kapasite']
+Extracted: ['aşama', 'kağıt', 'pek']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['çizelgelemek', 'planlamak', 'üretim', 'lastik']
+Extracted: ['aşama']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 35
+Actual: ['çizelgelemek', 'dayalı', 'sipariş', 'terzi', 'sevkiyat', 'planlamak', 've', 'üretim', 'usul']
+Extracted: ['icron', 'planlamak', 'sistem']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 36
+Actual: ['çamaşır', 'iyi', 'fabrika', 'model', 'vermek', 'matematik', 'aralık', 'bilgi', 'çizelgelemek', 'bulunmak', 'gerçek', 'alınmak', 'konum', 'an', 'oluşmak', 'stok', 'sağlamak', 'yönelik', 'sürmek', 'kritik', 'forklift', 'bant', 'malzeme', 'formülasyon', 'için', 'hat', 'göre', 'bir', 'kullanım', 'beslemek', 'tüm', 'her', 'önce', 'tahminî', 'iç', 'araştırmak', 'tüketim', 't1', 'örnek', 't2', 'birlikte', 'iş', 'veri', 'çıkmak', 'istasyon', 'yanısıra', 'politika', 'nokta', 'temel', 'dikkat', 'kontrol', 'olmak', 'sistem', 'makine', 'plan', 'herhangi', 'hesaplamak', 'parti', 'proje', 'hangi', 'gelişmek', 'zaman', 'muhtemel', 'bu', 'üretim', 've', 'üremek', 'doğrulamak', 'planlamak', 'elleçleme', 'ikmal']
+Extracted: ['formülasyon', 'malzeme']
+TP: 2 TN: 0 FP: 69 FN: 0 
+Accuracy: %2.8169014084507045
+-----------------
+Article Index: 37
+Actual: ['puanlamak', 'vermek', 'denge', 'akmak', 'optimizasyon', 'risk', 'satmak', 'belirsiz', 'pazarlamak', 'müşteri', 'çok', 'karar', 'nakit', 'üretim', 'çeşit', 'ahp', 'kriter', 'gru']
+Extracted: ['müşteri', 'sanayi', 'tutmak']
+TP: 1 TN: 0 FP: 17 FN: 2 
+Accuracy: %5.0
+-----------------
+Article Index: 38
+Actual: ['çizelgelemek', 'düşünmek', 'süre', 'algoritma', 'karar', 'markov', 'zincir']
+Extracted: ['karar', 'sistem']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 39
+Actual: ['teori', 'simülasyon', 'carlo', 'operasyonel', 'kayıp', 'uç', 'değer', 'monte']
+Extracted: ['dağılım', 'kayıp', 'operasyonel']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 40
+Actual: ['makine', 'risk', 'veri', 'zekâ', 'yapay', 'öğrenmek', 'maden', 'skor']
+Extracted: ['skor']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 41
+Actual: ['model', 'sistem', 'satmak', 'kademe', 'kayıp', 'envanter', 'çok', 's']
+Extracted: ['perakende', 'talep']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 42
+Actual: ['sistem', 'araştırmak', 'sağlık', 'sınıf', 'yöneylem']
+Extracted: ['sağlık', 'sistem', 'yöneylem']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 43
+Actual: ['hız', 'eskidimi', 'iş', 'herkes', 'ilişki', 'toplam', 'değişim', 'kalite', 'inovasyon']
+Extracted: ['deming', 'dinamizm', 'kalite', 'kavram', 'kuruluş', 'mükemellik', 'toplam']
+TP: 2 TN: 0 FP: 7 FN: 5 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 44
+Actual: ['mantık', 'sistem', 'yönetim', 'algoritma', 'karar', 'yapay', 'zekâ', 'destek', 'bulanık', 'inovasyon']
+Extracted: ['anket', 'belirlemek', 'inovasyon']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 45
+Actual: ['sistem', 'kaynak', 'yaratı', 'kültür', 'rekabet', 'insan', 'değişim', 'yenilik', 'inovasyon']
+Extracted: ['insan', 'yenilik']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 46
+Actual: ['kalkınmak', 'rekabet', 'pazarlamak', 'inovasyon']
+Extracted: ['inovasyon']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 47
+Actual: ['malzeme', 'programlamak', 'rassal', 'risk', 'depo', 'afet', 'tedariği', 'yer', 'ağı', 'seçim', 'önce', 'ulaşım']
+Extracted: ['afet', 'rassal', 'risk', 'ölçüt']
+TP: 3 TN: 0 FP: 9 FN: 1 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 48
+Actual: ['endüstri', 'tersine', 'yönetim', 'zincir', 'lojistik', 'tedarik', 'uygulamak']
+Extracted: ['konteynır', 'takip', 'varlık']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['güvenlik', 'ergonomi', 'iş']
+Extracted: ['eğitim', 'güvenlik', 'uzman']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 50
+Actual: ['mühendis', 'eğitim', 'tip', 'u', 'hat', 'ergonomi', 'montaj']
+Extracted: ['laboratuar', 'montaj', 'öğrenci']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 51
+Actual: ['tersine', 'derece', 'degeri', 'geri', 'yönetim', 'ürün', 'kalite', 'zincir', 'tedarik', 'enformasyon', 'kazanım']
+Extracted: ['geri', 'kazanım']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 52
+Actual: ['model', 'olmak', 'ayrışmak', 'karma', 'tersine', 'ağ', 'ters', 'doğru', 'benders', 'lojistik', 'tamsayı', 'tasarı']
+Extracted: ['geri', 'problem', 'tersine']
+TP: 1 TN: 0 FP: 11 FN: 2 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 53
+Actual: ['ağ', 'dağıtım', 'yer', 'seçim', 'lojistik', 'rotalama', 'problem', 'asker', 'uygulamak', 'tasarı']
+Extracted: ['lrp', 'muharebe', 'mühimmat', 'statik']
+TP: 0 TN: 0 FP: 10 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 54
+Actual: ['mode', 'eğitim', 'süreç', 'yönetim', 'karar', 'destek', 'anp']
+Extracted: ['öğretim']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 55
+Actual: ['talep', 'modellemek', 'tahmin', 'seri', 'zaman', 'hibrid', 'yaklaşım', 'analiz']
+Extracted: ['aylık', 'brisa', 'bölüm', 'lastik', 'şef']
+TP: 0 TN: 0 FP: 8 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 56
+Actual: ['davranmak', 'sadakat', 'yönetim', 'müşteri', 'memnuniyet', 'analiz']
+Extracted: ['brisa', 'davranmak', 'kullanmak', 'marka', 'sadakat']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 57
+Actual: ['dağıtım', 'hız', 'tüketim', 'yönetim', 'ağı', 'zincir', 'depolamak', 'tedarik', 'tesis', 'yerleşmek', 'mal']
+Extracted: ['depo', 'sevkiyat']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 58
+Actual: ['hız', 'tahminî', 'sistem', 'tüketim', 'talep', 'çok', 'karar', 'destek', 'regresyon', 'mal']
+Extracted: ['aktivite', 'fiyat', 'talep']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 59
+Actual: ['endüstri', 'mühendis', 'eğitim']
+Extracted: ['kongre', 'ulusal', 'yöneylem']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 60
+Actual: ['endüstri', 'mühendis', 'eğitim']
+Extracted: ['eğitim', 'kuşak', 'öğretmek']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 61
+Actual: ['endüstri', 'mühendis', 'eğitim']
+Extracted: ['dönüşüm', 'yaem']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['ağ', 'döngü', 'kuyruk', 'zincir', 'kapmak', 'yeniden', 'tedarik', 'imalât']
+Extracted: ['geri', 'satmak', 'ürün']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 63
+Actual: ['demontaj', 'tersine', 'ekip', 'hat', 'zincirlerme', 'itfaiye', 'beceri', 'lojistik']
+Extracted: ['hat']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 64
+Actual: ['ara', 'toplamak', 'tabu', 'algoritma', 'sezgi', 've', 'dagitma', 'problem']
+Extracted: ['araç', 'karşılamak', 'problem', 'pybtdp', 'talep', 'taşımak']
+TP: 1 TN: 0 FP: 7 FN: 5 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 65
+Actual: ['dağıtım', 'genetik', 'satıcı', 'toplamak', 'algoritma', 'problem', 'gezgin']
+Extracted: ['tdgsp']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 66
+Actual: ['çizelgelemek', 'araç', 'sütun', 've', 'gürbüz', 'üremek', 'problem', 'satır']
+Extracted: ['kaplama', 'problem', 'sütun']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 67
+Actual: ['sektör', 'türkiye', 'lojistik']
+Extracted: ['lojistik']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 68
+Actual: ['çizelgelemek', 'malzeme', 'koordinasyon', 'matematik', 'yan', 'sevkiyat', 'modellemek', 'depo', 'sanayi', 'yönetim', 'denetim', 'kabul', 'rampa', 'mal']
+Extracted: ['boş', 'depo', 'kasa', 'rampa']
+TP: 2 TN: 0 FP: 12 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 69
+Actual: ['süreç', 'proje', 'inşat', 'yönetim']
+Extracted: ['inşaat']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 70
+Actual: ['çizelgelemek', 'benzetim', 'tek', 'makine']
+Extracted: ['form', 'kaynak', 'miktar', 'wip', 'çbtf', 'üretim', 'ürün']
+TP: 0 TN: 0 FP: 4 FN: 7 
+Accuracy: %0.0
+-----------------
+Article Index: 71
+Actual: ['montaj', 'yalın', 'hat', 'üretim', 'otomotiv', 'dengelem']
+Extracted: ['akmak', 'dimitriadis', 'hat']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 72
+Actual: ['merkez', 'müşteri', 'altı', 'memnuniyet', 'sigma', 'çağrı']
+Extracted: ['müşteri', 'çağrı']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 73
+Actual: ['reklamasyon', 'iletişim', 'müşteri', 'şikayet', 'altı', 'memnuniyet', 'sigma', 'strateji']
+Extracted: ['memnuniyet', 'müşteri']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 74
+Actual: ['programlamak', 'genel', 'araç', 'rotalama', 'tamsayı']
+Extracted: ['düğüm', 'eşit', 'garp', 'üstel']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 75
+Actual: ['belirlemek', 'güzergâh', 'doğru', 'maliyet', 'eşit', 'geçerli', 'ulaşım']
+Extracted: ['güzergâh']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 76
+Actual: ['vermek', 'eş', 'dağıtık', 'güdüm', 'karar', 'zincir', 'sözleşme', 'tedarik']
+Extracted: ['eş', 'güdüm', 'sözleşme']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 77
+Actual: ['çizelgelemek', 'makine', 'programlamak', 'iş', 'operatör', 'kısıt', 'paralel', 'tamsayı']
+Extracted: ['makine', 'operatör']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 78
+Actual: ['stokastik', 'sipariş', 'simülasyon', 'belirlemek', 'parti', 'büyük', 'miktar', 'optimizasyon']
+Extracted: ['sipariş', 'tedarik', 'zincir']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 79
+Actual: ['kura', 'programlamak', 'rassal', 'süreç', 'oyun', 'dinamik']
+Extracted: ['olasılık']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 80
+Actual: ['benzetim', 'yara', 'tahliye']
+Extracted: ['ambulans', 'tugay', 'yara']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 81
+Actual: ['sektörel', 'değer', 'bölge', 'çok', 'yer', 'seçim', 'lojistik', 'analiz', 'kriter']
+Extracted: ['kent', 'konu', 'kriter', 'lojistik', 'seçim', 'ulaşım']
+TP: 3 TN: 0 FP: 6 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 82
+Actual: ['modellemek', 'linear', 'enerji', 'programlamak']
+Extracted: ['enerji', 'senaryo']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 83
+Actual: ['şebeke', 'kayıp', 'kaynak', 'geri', 'hat', 'yönetim', 'dönüşüm', 'su']
+Extracted: ['kaçak', 'su']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 84
+Actual: ['programlamak', 'matematik', 'algoritma', 'kolon', 'türemek']
+Extracted: ['kolon', 'kısıt']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 85
+Actual: ['ağ', 'dayanıklı', 'belirsiz', 'yapay', 'sinir']
+Extracted: ['dayanıklı', 'kriz', 'organizasyon']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 86
+Actual: ['programlamak', 'verim', 'benzetim', 'üretim', 'planlamak', 'tamsayı']
+Extracted: ['hat', 'çevrim', 'üretim', 'ürün']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 87
+Actual: ['endüstri', 'mühendis', 'eğitim', 'oyun', 'simulasyon']
+Extracted: ['oyun', 'şirket']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 88
+Actual: ['endüstri', 'mühendis', 'işbirliği', 'eğitim', 'depo', 'yönetim', 'uzak', 'lojistik', 'kitle']
+Extracted: ['depolamak', 'saban', 'site', 'video']
+TP: 0 TN: 0 FP: 9 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 89
+Actual: ['mantık', 'kontrol', 'kalite', 'bulanık']
+Extracted: ['bulanık', 'kk', 'süreç']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 90
+Actual: ['sistem', 'modellemek', 'mimarî', 'etmek', 'çok', 'gelişmek', 'karmaşık', 'ortam', 'taban']
+Extracted: ['mimarî']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 91
+Actual: ['model', 'benzetim', 'veri', 'girmek', 'istatistik', 'dagilimlar']
+Extracted: ['dağılım', 'metodoloji', 'modellemek', 'sistem']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 92
+Actual: ['benzetim', 'optimizasyon']
+Extracted: ['ışık']
+TP: 0 TN: 0 FP: 2 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 93
+Actual: ['dağıtım', 'eş', 'ara', 'toplamak', 'araç', 'algoritma', 'zaman', 've', 'besin', 'rotalama', 'problem', 'bakteriyel']
+Extracted: ['bbaa', 'olay']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 94
+Actual: ['tüketim', 'algoritma', 'tahminleme', 'sezgi', 'doğalgaz']
+Extracted: ['doğalgaz', 'tüketim']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 95
+Actual: ['ağ', 'tahminî', 'talep', 'enerji', 'elektrik', 'yapay', 'sinir']
+Extracted: ['elektrik', 'saat', 'tahmin']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 96
+Actual: ['ağ', 'model', 'paketlemek', 'endüstri', 'kesim', 'envanter', 'planlamak', 'kısa', 'enküçültülmesi', 'problem', 'en', 'atık', 'yol']
+Extracted: ['envanter', 'paketlemek', 'rulo']
+TP: 2 TN: 0 FP: 11 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 97
+Actual: ['ağ', 'modellemek', 'kablo', 'sezgi', 'duygaç', 'yöntem', 'tamsayı']
+Extracted: ['istasyon']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 98
+Actual: ['sistem', 'kişi', 'karar', 'reklâm', 'destek']
+Extracted: ['reklâm']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 99
+Actual: ['vermek', 'ölçüt', 'sayı', 'çok', 'karar', 'üçgen', 'sıra', 'bulanık']
+Extracted: ['bulanık']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 100
+Actual: ['eğitim', 'bilmek', 'veri', 'sistmeleri', 'haritalamak', 'maden', 'bulanık']
+Extracted: ['eğitim', 'haritalamak']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 101
+Actual: ['sistem', 'itmek', 'çekmek', 'benzetim', 've', 'hücre', 'üretim']
+Extracted: ['hücre', 'itmek']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 102
+Actual: ['al', 'sistem', 'bilgi', 'satmak', 'karar', 'destek', 'veya', 'imalât', 'taban', 'yapmak']
+Extracted: ['firma', 'imalât', 'çizelge', 'üremek', 'üretim']
+TP: 1 TN: 0 FP: 9 FN: 4 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 103
+Actual: ['hiyerarsi', 'vermek', 'süreç', 'performans', 'ölçüt', 'çok', 'karar', 'değerlemek', 'karsılastırma', 'analitik', 'iki']
+Extracted: ['değerlemek', 'insan', 'is']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 104
+Actual: ['malzeme', 'siparis', 'belirlemek', 'büyük', 'üretim', 'planlamak', 'ihtiyaç']
+Extracted: ['siparis', 'yöntem']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 105
+Actual: ['çizelgelemek', 'deney', 'genetik', 'tip', 'tasarı', 'algoritma', 'parametre', 'akıs', 'optimizasyon']
+Extracted: ['akıs', 'parametre', 'yapılmıstır']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 106
+Actual: ['ağ', 'güvenilir', 'yapay', 'deney', 'tasarı', 'sinir']
+Extracted: ['güvenilir']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 107
+Actual: ['sistem', 'bilgi', 'taşımak', 'tehlike', 'coğrafi', 'madde']
+Extracted: ['madde', 'taşımak', 'tehlike']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 108
+Actual: ['ağ', 'ara', 'gözetim', 'tabu', 'yapay', 'öğrenmek', 'sinir']
+Extracted: ['gözetim', 'set', 'ysa', 'öğrenmek']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 109
+Actual: ['yüklem', 'heuristic', 'düzenlemek', 'değişken', 'program', 'algoritma', 'çok', 'sertkısıtlama', 'paket', 'boyut', 'problem', 'kendi', 'yöntem', 'boole']
+Extracted: ['knapsack']
+TP: 0 TN: 0 FP: 14 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 110
+Actual: ['üstel', 'teori', 'gino', 'fayda', 'program', 'sayısal', 'kapasite', 'artmak', 'planlamak', 'çözüm', 'paket', 'fonksiyon']
+Extracted: ['artmak', 'fayda', 'kapasite']
+TP: 3 TN: 0 FP: 9 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 111
+Actual: ['ağ', 'vektör', 'nicemlemek', 'zekâ', 'taşımak', 'yer', 'seçim', 'yapay', 'sinir']
+Extracted: ['uzak']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['sistem', 'tip', 'hücre', 'polihedral', 'kombinatoriks', 'imalât']
+Extracted: ['hücre']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 113
+Actual: ['sistem', 'tip', 'benzetim', 'çıktı', 'istatistik', 'üretim', 'atölye', 'analiz', 'uygulamak']
+Extracted: ['benzetim']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 114
+Actual: ['türkiye', 'modellemek', 'veri', 'uzak', 'kestirim', 'yol']
+Extracted: ['koordinat', 'uzak']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 115
+Actual: ['vermek', 'değer', 'performans', 'ölçüt', 'vikor', 'çok', 'karar', 'yöntem']
+Extracted: ['banka']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 116
+Actual: ['ağ', 'mantık', 'vermek', 'bilgi', 'süreç', 'aksiyom', 'karar', 'analitik', 'tasarım', 'bulanık']
+Extracted: ['aksiyom', 'alternatif', 'aşmak']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 117
+Actual: ['mode', 'pearl', 'tahmin', 'teknoloji', 'eğri', 'patent', 'analiz', 'yöntem', 'değişim']
+Extracted: ['teknoloji']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 118
+Actual: ['çizelgelemek', 'enjeksiyon', 'hazırlık', 'sıralamak', 'süre', 'bağ', 'makina', 'paralel', 'problem', 'plastik']
+Extracted: ['enjeksiyon', 'makina']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 119
+Actual: ['hız', 'sipariş', 'göre', 'envanter', 'politika', 'tedarik', 'kontrol', 'birleşmek']
+Extracted: ['masraf', 'stok']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 120
+Actual: ['ağ', 'değer', 'yönetim', 'zincir', 'yapay', 'tedarik', 'sinir']
+Extracted: ['ağı', 'tedarik', 'yazın', 'ölçüt']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 121
+Actual: ['sistem', 'vermek', 'bilgi', 'süreç', 'çok', 'karar', 'konum', 'analiz', 'boolean', 'analitik', 'coğrafi', 'kriter', 'hiyerarşi']
+Extracted: ['bileşen', 'kriter', 'orman']
+TP: 1 TN: 0 FP: 12 FN: 2 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 122
+Actual: ['milkrun', 'sevkiyat', 'araç', 'arçelik', 'çizelge', 'zincir', 'rotalama', 'tedarik']
+Extracted: ['arayüz', 'optimal', 'tedarik']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 123
+Actual: ['talep', 'mode', 'hat', 'envanter', 'esnek', 'operatör', 'atamak', 'otomatik', 'dalga', 'yarı', 'montaj']
+Extracted: ['enjektör', 'envanter', 'operatör', 'tablo']
+TP: 2 TN: 0 FP: 9 FN: 2 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 124
+Actual: ['çizelgelemek', 'programlamak', 'eşit', 'sürekli', 'sayı', 'tam', 'sezgi', 'metot', 'imalât', 'geçerli', 'karışık']
+Extracted: ['bölmek', 'deterjan', 'kurulum', 'toz']
+TP: 0 TN: 0 FP: 11 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 125
+Actual: ['manevra', 'yük', 'alan', 'sınıf', 'planlamak', 'taşımak', 'demir', 'yol']
+Extracted: ['manevra', 'vagon']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 126
+Actual: ['altı', 'yalın', 'sigma']
+Extracted: ['sigma', 'yalın']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 127
+Actual: ['işbirliği', 'teknopark', 'sanayi', 'transfer', 'teknoloji', 'savunmak']
+Extracted: ['bölüm', 'savunmak', 'teknoloji', 'teknopark', 'transfer']
+TP: 4 TN: 0 FP: 2 FN: 1 
+Accuracy: %57.14285714285714
+-----------------
+Article Index: 128
+Actual: ['ağ', 'gelir', 'ağaç', 'performans', 'topluluk', 'ölçüt', 'sınıf', 'karar', 'gişe', 'sektör', 'film', 'sinir']
+Extracted: ['film', 'kestirim']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 129
+Actual: ['dağıtım', 'sistem', 'deniz', 'merkez', 'karar', 'planlamak', 'taşımak', 'destek', 'yerleşmek']
+Extracted: ['dağıtım', 'tır']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 130
+Actual: ['ağ', 'tahminî', 'firma', 'ekonomik', 'yapay', 'kriz', 'başarı', 'sinir']
+Extracted: ['başarı', 'firma', 'kriz']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 131
+Actual: ['sistem', 'düzen', 'sepet', 'veri', 'algoritma', 'çok', 'karar', 'kural', 'boyut', 'ölçeklemek', 'destek', 'apriori', 'analiz', 'yerleşim', 'birliktelik', 'market', 'maden']
+Extracted: ['taban', 'veri']
+TP: 1 TN: 0 FP: 16 FN: 1 
+Accuracy: %5.555555555555555
+-----------------
+Article Index: 132
+Actual: ['sipariş', 'iş', 'esnek', 'üretim', 'sürmek', 'imalât', 'kontrol']
+Extracted: ['esnek', 'imalât']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 133
+Actual: ['ar', 'sürü', 'genel', 'algoritma', 'atamak', 'problem', 'optimizasyon']
+Extracted: ['ar']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 134
+Actual: ['karışım', 'yatırım', 'programlamak', 'modellemek', 'doğru', 'planlamak', 'telekomünikasyon', 'deney', 'tamsayı', 'olası', 'karışık']
+Extracted: ['baz', 'istasyon', 'yatırım']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 135
+Actual: ['sistem', 'talep', 'satmak', 'eleman', 'iş', 'toplamak', 'sezgi', 'rotalama', 'ön', 'paket']
+Extracted: ['eleman', 'ofis', 'satmak']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 136
+Actual: ['sistem', 'milkrun', 'optimizasyon']
+Extracted: ['milkrun']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 137
+Actual: ['modellemek', 'benzetim', 'eniyile', 'yönetim', 'taşımak', 'konteyner', 'liman', 'elleçleme']
+Extracted: ['rıhtım', 'terminal', 'vinç']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 138
+Actual: ['etkin', 'vermek', 'çanta', 'amaç', 'skalerleştirme', 'çok', 'karar', 'sırt', 'çözüm', 'problem', 'pareto']
+Extracted: ['amaç', 'dışbükey', 'konik', 'problem', 'skalerleştirme', 'sçp']
+TP: 3 TN: 0 FP: 8 FN: 3 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 139
+Actual: ['opsiyon', 'stokastik', 'korumak', 'programlamak', 'tamsayı', 'eniyile', 'işlem', 'doğru', 'maliyet', 'koşul', 'yüküm', 'fiyat', 'arbitraj', 'karışık']
+Extracted: ['amerikan', 'fiyat', 'koşul', 'sözleşme']
+TP: 2 TN: 0 FP: 12 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 140
+Actual: ['nitelenmek', 'servis', 'bilgi', 'seviye', 'envanter', 'havuzlamak', 'politika', 've', 'eniyi', 'paylaşım', 'mevcudiyet', 'strateji']
+Extracted: ['dağıtmak', 'havuzlamak']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 141
+Actual: ['malzeme', 'sistem', 'sürekli', 'taşımak', 'seçim', 'uzman']
+Extracted: ['sürekli', 'taşımak']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 142
+Actual: ['sipariş', 'seviye', 'yedek', 'parça', 'envanter', 'ürün', 'çok', 'iki', 'toplu']
+Extracted: ['lagranj', 'metot', 'sezgi']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['thomopoulos', 'pozisyon', 'hat', 'algoritma', 'sezgi', 'ağırlık', 'hoffman', 'dengelem']
+Extracted: ['hat', 'montaj']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 144
+Actual: ['teori', 'ii', 'yaratmak', 'bilgi', 'kura', 'belit', 'tip', 'yapı', 've', 'i', 'felsefe', 'bulanık']
+Extracted: ['bulanık']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 145
+Actual: ['teori', 'buhar', 'bağlantı', 'süreç', 'bulut', 'güvenlik', 'kısıt', 'düşünce', 'i̇nternet']
+Extracted: ['ağaç', 'darboğaz', 'teori']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 146
+Actual: ['çizelgelemek', 'makine', 'algoritma', 'enerji', 'gelişim', 'tek', 'maliyet', 'diferansiyel']
+Extracted: ['elektrik', 'problem', 'çizelgelemek']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 147
+Actual: ['acil', 'hizmet', 'enbüyük', 'istasyon', 'çok', 'yer', 'kapsam', 'itfaiye', 'seçim']
+Extracted: ['istasyon', 'itfaiye', 'müdahale']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 148
+Actual: ['sistem', 'eş', 'çekmek', 'proses', 'zaman', 'analitik', 'arp', 'hiyerarşi']
+Extracted: ['kanban', 'milkrun', 'stok']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 149
+Actual: ['matematik', 'modellemek', 'atamak', 'sezgi', 'kontuar', 'yöntem']
+Extracted: ['havalimanı', 'kontuar', 'uçmak']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 150
+Actual: ['hizmet', 'envanter', 'politika', 'zincir', 'kan', 'merkeziyet', 'tedarik']
+Extracted: ['kan']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 151
+Actual: ['çizelgelemek', 'yöntem', 'hazırlık', 'süre', 'ürün', 'sezgi', 'sıra', 'bağımlı', 'tasarı']
+Extracted: ['hazırlık', 'süre']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 152
+Actual: ['çizelgelemek', 'yöntem', 'makine', 'hazırlık', 'süre', 'sezgi', 'tek', 'problem', 'sıra', 'bağımlı']
+Extracted: ['kural', 'sıralamak']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 153
+Actual: ['etkin', 'belediye', 'veri', 'zarflamak', 'maliyet', 'analiz']
+Extracted: ['birim']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 154
+Actual: ['programlamak', 'küme', 'yer', 'tam', 'seçim', 'itfaiye', 'kapsam', 'sayılı']
+Extracted: ['itfaiye']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 155
+Actual: ['vermek', 'prometheeii', 'veri', 'çok', 'karar', 'zarflamak', 'seçim', 'problem', 'analiz', 'tedarik', 'kriter']
+Extracted: ['kriter', 'tedarik']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 156
+Actual: ['programlamak', 'ara', 'çiftdüzeyli', 'tabu', 'yer', 'sezgi', 'seçim', 'rekabet', 'tesis', 'tamsayı', 'karışık']
+Extracted: ['gösteri', 'tesis']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 157
+Actual: ['teori', 'mühendis', 'kaba', 'web', 'küme', 'kansei', 'sayfa', 'tasarı']
+Extracted: ['sayfa', 'web']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 158
+Actual: ['çizelgelemek', 'makine', 'hat', 'tek', 'paralel', 'problem', 'montaj']
+Extracted: ['hat', 'montaj']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 159
+Actual: ['tekstil', 'bölgesel', 'yoğun', 'sektör', 'deniz']
+Extracted: ['bölgesel', 'yoğun']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 160
+Actual: ['sistem', 'modellemek', 'yetmek', 'gelişim', 'çocuk', 'böbrek', 'periton', 'diyaliz', 'dinamik', 'kronik', 'hastalık']
+Extracted: ['birikmek', 'diyaliz', 'oyun', 'pd', 'periton', 'çocuk']
+TP: 3 TN: 0 FP: 8 FN: 3 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 161
+Actual: ['sektör', 'hacim', 'süreç', 'etki', 'havacılık', 'istatistik', 'planlamak', 've', 'tür', 'üretim', 'analiz', 'düşük', 'hata', 'muayene', 'kontrol', 'kalite']
+Extracted: ['hata', 'kontrol', 'sistem']
+TP: 2 TN: 0 FP: 14 FN: 1 
+Accuracy: %11.76470588235294
+-----------------
+Article Index: 162
+Actual: ['montaj', 'programlamak', 'matematik', 'hat', 'sezgi', 'yöntem', 'dengelem']
+Extracted: ['istasyon', 'işçi']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['çizelgelemek', 'hedef', 'makine', 'genetik', 'programlamak', 'algoritma', 'paralel']
+Extracted: ['boyut', 'içermek', 'mamul', 'problem', 'özel']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 164
+Actual: ['genişlemek', 'saha', 'hedef', 'teori', 'ara', 'hareket', 'aramak']
+Extracted: ['alnımış', 'el', 'gayret', 'gelişigüzel', 'menzil', 'mevki', 'planlamak', 'sürat']
+TP: 0 TN: 0 FP: 7 FN: 8 
+Accuracy: %0.0
+-----------------
+Article Index: 165
+Actual: ['oecd', 'etkin', 'ülke', 'sağlık', 'veri', 'zarflamak', 'üye', 'analiz']
+Extracted: ['ülke']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 166
+Actual: ['çizelgelemek', 'hedef', 'makine', 'vardiya', 'hazırlık', 'programlamak', 'özdeş', 'süre', 'baz', 'paralel', 'sıra', 'bağımlı']
+Extracted: ['problem']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 167
+Actual: ['model', 'matematik', 'ders', 'proje', 'oluşmak', 'gams', 'tamsayı', 'grup']
+Extracted: ['ders', 'grup']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 168
+Actual: ['otomobil', 'koltuk', 'klima', 'konfor', 'termal']
+Extracted: ['konfor', 'otomobil']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 169
+Actual: ['süreç', 'iyi', 'yönetim', 'kritik']
+Extracted: ['esna', 'haziran', 'tübitak']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 170
+Actual: ['antropometri', 'çocuk', 'anaokulu', 'türkiye']
+Extracted: ['istatistik', 'ölçü']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 171
+Actual: ['çizelgelemek', 'süre', 'hücre', 'planlamak', 'üretim', 'teslimat']
+Extracted: ['hücre', 'yöntembilim']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 172
+Actual: ['aralık', 'rassal', 'sezgi', 'güven', 'problem']
+Extracted: ['fonksiyon', 'rassal', 'sığmak', 'tesis']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 173
+Actual: ['dağıtım', 'fabrika', 'iç', 'tekrar', 'çekmek', 'araç', 'esas', 'lojistik', 'rotalama']
+Extracted: ['mamül', 'yarı']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 174
+Actual: ['sistem', 'vermek', 'iş', 'puan', 'sanayi', 'metal', 'değerlemek', 'karar', 'yöntem', 'mess', 'grup']
+Extracted: ['faktör', 'mess']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 175
+Actual: ['alternatif', 'genetik', 'algoritma', 'teknoloji', 'oluşmak', 'hücre', 'üretim', 'problem', 'grup', 'rota']
+Extracted: ['hücre', 'rota']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 176
+Actual: ['ağ', 'tahminî', 'vermek', 'süreç', 'pazar', 'ölçüt', 'çok', 'karar', 'analitik', 'pay', 'hiyerarşi']
+Extracted: ['analitik', 'pay', 'proses', 'yöntem']
+TP: 2 TN: 0 FP: 9 FN: 2 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 177
+Actual: ['sistem', 'tasarı', 'aksiyom', 'harita', 'tasarım', 'yol']
+Extracted: ['tasarı', 'tasarım', 'çekmek', 'üretim']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 178
+Actual: ['iç', 'fabrika', 'sistem', 'araç', 'taşımak', 'rotalama']
+Extracted: ['fabrika', 'rota', 'seçenek']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 179
+Actual: ['hız', 'olmak', 'dağıtım', 'sistem', 'tüketim', 'programlamak', 'satmak', 'çalışmak', 'sıcak', 'benzetim', 'buluş', 'algoritma', 'ürün', 'doğru', 'tamsayı']
+Extracted: ['algoritma', 'buluş', 'düşük']
+TP: 2 TN: 0 FP: 13 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 180
+Actual: ['dağıtım', 'pazar', 'su', 'ağı', 'yer', 'damacana', 'seçim', 'analiz', 'problem', 'tasarı']
+Extracted: ['damacana', 'su']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 181
+Actual: ['dağıtım', 'programlamak', 'araç', 'filo', 'bölmek', 'heterojen', 'rotalama', 'problem', 'tamsayı']
+Extracted: ['problem', 'teslimat']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 182
+Actual: ['hat', 'üretim', 'süre', 'hazırlık']
+Extracted: ['hazırlık', 'üretim', 'ürün']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 183
+Actual: ['derece', 'verim', 'performans', '360', 'kurum', 'değerlemek', 'analiz']
+Extracted: ['değerlemek', 'performans', 'yön']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 184
+Actual: ['endüstri', 'mühendis', 'eğitim', 'ürün', 'tasarım', 'tasarı']
+Extracted: ['mühendis', 'tasarım']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 185
+Actual: ['mühendis', 'mutfak', 'kullanmak', 'odak', 'ürün', 'kansei', 'lojistik', 'armatür', 'sıra', 'regresyon', 'tasarı']
+Extracted: ['armatür', 'mutfak', 'tasarım']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 186
+Actual: ['güneş', 'aydınlatmak', 'led', 'enerji', 'ekonomik', 'analiz', 'yol']
+Extracted: ['aydınlatmak', 'enerji', 'kaynak', 'ülke']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 187
+Actual: ['iyi', 'bidon', 'yüklem', 'hizmet', 'iş', 'süreç', 'standart', 'kümelemek', 'posta']
+Extracted: ['dağıtım', 'gönderi', 'seçenek', 'süreç']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 188
+Actual: ['çizelgelemek', 'makine', 'başlangıç', 'hazırlık', 'programlamak', 'ara', 'tamsayı', 'algoritma', 'zaman', 'doğru', 'çok', 'paralel', 'benzeti', 'sıra', 'bağımlı', 'yerel', 'tavla', 'karışık']
+Extracted: ['algoritma', 'çizelge']
+TP: 1 TN: 0 FP: 17 FN: 1 
+Accuracy: %5.263157894736842
+-----------------
+Article Index: 189
+Actual: ['plan', 'toplamak', 'araç', 'kapasite', 'ağı', 'sezgi', 'rotalama', 'problem', 'atık', 'yerleşim', 'tasarı', 'ev']
+Extracted: ['atölye', 'ayrışmak', 'palet']
+TP: 0 TN: 0 FP: 12 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 190
+Actual: ['araştırmak', 'enbüyük', 'yedek', 'küme', 'yöneylem', 'sezgi', 'kapsam', 'yöntem', 'çift']
+Extracted: ['acil', 'dönem']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 191
+Actual: ['hedef', 'vermek', 'programlamak', 'değişken', 'proses', 'çok', 'karar', 'seçim', 'tedarik', 'analitik', 'hiyerarşi']
+Extracted: ['seçim', 'tedarik']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Total accuracy of document "endustri muhendisligi" is: %14.577662877876351

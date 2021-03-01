@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<makale>
+<Etiket>ELEKTRONİK İLETİŞİM</Etiket>
+<Başlık>Döndürme ve Bileşen Serpiştirme Çeşitlemesi ile ÇGÇÇ-DFBÇ Yapılarının Performansı</Başlık>
+<Özetçe>Bu çalışmada, Çoklu-Girişli Çoklu-Çıkışlı (ÇGÇÇ) Dikgen
+Frekans Bölmeli Çoklama (DFBÇ) sistemlerine Döndürme ve
+Bileşen Serpiştirme çeşitlemesi (DBSÇ) uygulanmasıyla
+oluşan yapılar ve bu yapılara ait optimum döndürme açıları,
+farklı seviyeli Faz Kaydırmalı Anahtarlama (FKA)
+modülasyonu işaret kümeleri için incelenmiştir. Yapılan
+inceleme, DBSÇ tekniıinin 8-yollu üstel güç daıılımlı
+Frekans-Seçici yavaş Rayleigh sönümlemeli kanalda ÇGÇÇ-
+DFBÇ’li sistemlerin çeşitleme düzeyini arttırdııını, çeşitleme
+düzeyindeki bu artışın ve hata performansındaki iyileşmenin
+FKA işaretlerinin M seviyeleri ile ters orantılı olduıunu
+göstermiştir. Ayrıca, incelenen sistemler için hata
+performansını maksimize eden optimum açı deıerlerinin, Düz
+Rayleigh kanalda saf M-FKA işaretleri için bulunan optimum
+açı deıerleri ile aynı olduıu gösterilmiştir.
+</Özetçe>
+<Anahtar>ÇGÇÇ, DFBÇ, UZBK, Döndürme ve Bileşen Serpiştirme</Anahtar>
+<Kaynak></Kaynak>
+<TürkçeKarakter>Sorunlu (ğ-ı)</TürkçeKarakter>
+</makale>
+</data>

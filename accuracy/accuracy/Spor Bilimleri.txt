@@ -1,0 +1,1201 @@
+Article Index: 1
+Actual: ['antropometri', 'vücut', 'kompozisyon', 'esnek', 'yüzmek']
+Extracted: ['yüzmek']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 2
+Actual: ['olmak', 'sporcu', 'yaşam', 'elit', 'doyum']
+Extracted: ['elit']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 3
+Actual: ['kalça', 'test', 'ilişki', 'açı', 'izokinetik', 'futbol']
+Extracted: ['kuvvet', 'pozisyon']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 4
+Actual: ['sporcu', 'test', 'kullanım', 'sigara', 'solunum', 'fonksiyon']
+Extracted: ['içmek', 'sigara', 'solunum', 'zor']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 5
+Actual: ['demokratik', 'davranmak', 'lider', 'takım', 'spor', 'boyut']
+Extracted: ['davranmak', 'spor']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 6
+Actual: ['hedef', 'güdü', 'olmak', 'i̇klim', 'ustalık', 'performans', 'iklim', 'yaşam', 'doyum', 'görev', 've', 'yönelim', 'elit', 'ego']
+Extracted: ['doyum', 'iklim', 'yönelim']
+TP: 3 TN: 0 FP: 11 FN: 0 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 7
+Actual: ['depresyon']
+Extracted: ['düzelmek', 'hekim', 'sportif']
+TP: 0 TN: 0 FP: 1 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 8
+Actual: ['sıçramak', 'test', 'spor', 'dik', 'cimnastik']
+Extracted: ['cimnastik']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 9
+Actual: ['güdü', 'i̇klim', 'ustalık', 'performans', 'yönelim', 'ego', 'yapmak', 'iklim', 'süre', 'yaşam', 'görev', 'deneyim', 'yaş', 'doyum', 'hedef', 'olmak', 'spor', 've', 'elit']
+Extracted: ['elit', 'yönelim']
+TP: 2 TN: 0 FP: 17 FN: 0 
+Accuracy: %10.526315789473683
+-----------------
+Article Index: 10
+Actual: ['sağlık', 'için', 'spor', 'destek', 'sosyal']
+Extracted: ['öğrenci']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['ölçüm', 'fizik', 'vücut', 'kompozisyon', 'performans', 'basketbol']
+Extracted: ['cm', 'çevre', 'ölçüm']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 12
+Actual: ['performans', 'yarışmak', 'kaygı']
+Extracted: ['kaygı']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 13
+Actual: ['spor', 'haber', 'ba']
+Extracted: ['basın', 'haber']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 14
+Actual: ['hizmet', 'yönetim', 'spor', 'boyut', 'toplam', 'kalite']
+Extracted: ['hizmet', 'kalite']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 15
+Actual: ['fizik', 'sedanter', 'kan', 'parametre', 'uygun']
+Extracted: ['kan', 'uygun', 'ölçüm']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 16
+Actual: ['basketbol', 'sakat', 'spor']
+Extracted: ['kategori', 'oyun', 'sakat']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 17
+Actual: ['spor', 'doyum', 'yönetmek', 'iş']
+Extracted: ['doyum', 'olanak', 'yönetmek', 'örgüt']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 18
+Actual: ['fizik', 'kadın', 'anket', 'düzey', 'aktivite']
+Extracted: ['kadın']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 19
+Actual: ['fizik', 'motorik', 'erkek', 'test', 'spor', 'hentbol', 'özellik', 'yağ', 'oran']
+Extracted: ['antrenman', 'hafta', 'hentbol', 'ölçüm']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 20
+Actual: ['antrenör', 'motivasyon', 'lider', 'futbol']
+Extracted: ['antrenör', 'lider']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 21
+Actual: ['bowling', 'fizik', 'fizyolojik', 'parametre']
+Extracted: ['bowling', 'fizyolojik', 'spor']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 22
+Actual: ['yüzmek', 'bayan', 'esnek']
+Extracted: ['deney', 'fleksiyon', 'germek', 'hafta', 'streching', 'yüzmek']
+TP: 1 TN: 0 FP: 2 FN: 5 
+Accuracy: %12.5
+-----------------
+Article Index: 23
+Actual: ['futbol', 'yönetim', 'kalite', 'toplam', 'strateji']
+Extracted: ['futbol', 'harita', 'takım', 'yapı', 'yol']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 24
+Actual: ['fizik', 'bayan', 'elit', 'fizyolojik', 'futbol']
+Extracted: ['bayan', 'futbol', 'ortalama', 'ölçüm']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 25
+Actual: ['oksijen', 'maksimal', 'vo2', 'dayanıklı', 'max', 'kapasite', 'antrenman', 'futbol']
+Extracted: ['futbol', 'kapasite', 'koşu', 'tempo', 'tepecik']
+TP: 2 TN: 0 FP: 6 FN: 3 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 26
+Actual: ['kaynak', 'kulüp', 'spor', 'dış', 'seyahat']
+Extracted: ['acente', 'seyahat']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 27
+Actual: ['taraftar', 'şiddet', 'kimlik', 'sosyal', 'futbol']
+Extracted: ['gitmek', 'saha', 'taraftar']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 28
+Actual: ['fizik', 'motorik', 'kaleci', 'özellik', 'futbol']
+Extracted: ['ayak', 'kaleci']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 29
+Actual: ['yönetim', 'kulüp', 'spor', 'özellik', 'toplam', 'demografik', 'kalite']
+Extracted: ['tky']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 30
+Actual: ['fizik', 'sedanter', 'uygun', 'fitness', 'futbol']
+Extracted: ['fitness', 'kuvvet', 'parametre']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 31
+Actual: ['müsabaka', 'hentbol', 'erkek', 'analiz']
+Extracted: ['galip', 'gol', 'hentbol', 'mağlup', 'parametre']
+TP: 1 TN: 0 FP: 3 FN: 4 
+Accuracy: %12.5
+-----------------
+Article Index: 32
+Actual: ['okulöncesi', 'eğitim', 'dans', 'gelişim', 'modern', 'yaratı', 'sosyal', 'drama']
+Extracted: ['etkin', 'çocuk']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 33
+Actual: ['kuvvet', 'kilo', 'judo']
+Extracted: ['doğum', 'ölçüm']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['antropometri', 'fizik', 'uygun', 'adolesan']
+Extracted: ['biceps', 'çap', 'çevre']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 35
+Actual: ['zihin', 'dans', 'eğitmek', 'engel', 'kaynaşmak']
+Extracted: ['engel', 'eğitmek', 'kaynaşmak', 'zihin']
+TP: 4 TN: 0 FP: 1 FN: 0 
+Accuracy: %80.0
+-----------------
+Article Index: 36
+Actual: ['kuvvet', 'voleybol', 'bacak', 'dinamometre']
+Extracted: ['oyun']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 37
+Actual: ['basınç', 'kalp', 'sistolik', 'sayı', 'kapasite', 'atım', 'aerobik']
+Extracted: ['ortalama', 'yükselmek']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 38
+Actual: ['sprint', 'i̇zokinetik', 'futbol']
+Extracted: ['izokinetik', 'sprint']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 39
+Actual: ['hanım', 'kadın', 'spor', 've', 'sabah', 'egzersiz', 'ev']
+Extracted: ['ev', 'hanım', 'sabah']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 40
+Actual: ['sprint', 'i̇zokinetik', 'futbol']
+Extracted: ['izokinetik', 'sprint']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 41
+Actual: ['spor', 'engel', 'rehabilitasyon', 'paralimpik']
+Extracted: ['engel', 'paralimpik', 'rehabilitasyon']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 42
+Actual: ['spor', 'yönetim', 'yönetmek', 'çatışmak']
+Extracted: ['çatışmak']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 43
+Actual: ['parametre', 'fizik', 'engel', 'görmek']
+Extracted: ['engel', 'up']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 44
+Actual: ['fizik', 'öğretim', 'eleman', 'fa', 'uygun']
+Extracted: ['aktivite', 'denek', 'fizik']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 45
+Actual: ['öğrenci', 'fizik', 'eğitim', 'beden', 'aktivite']
+Extracted: ['fap', 'puan']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 46
+Actual: ['antropometri', 'çocuk', 'somatotip']
+Extracted: ['biceps', 'parametre']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['fizik', 'çocuk', 'uygun', 'futbol']
+Extracted: ['kitle', 'parametre', 'vo2max', 'vyk', 'yvk']
+TP: 0 TN: 0 FP: 4 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 48
+Actual: ['antrenör', 'sporcu', 'lider', 'tatmin', 'futbol']
+Extracted: ['davranmak', 'lider']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 49
+Actual: ['i̇mmünoglobulin', 'aerobik', 'hormon', 'egzersiz']
+Extracted: ['acth', 'egzersiz', 'kortizol']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 50
+Actual: ['iş', 'eğitim', 'öğretmen', 'beden', 'doyum']
+Extracted: ['beden', 'doyum', 'eğitim', 'yeterli', 'öğretmen']
+TP: 4 TN: 0 FP: 1 FN: 1 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 51
+Actual: ['ihtiyaç', 'hakem', 'güreş', 'psikolojik']
+Extracted: ['hakem']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 52
+Actual: ['beden', 'yöntem', 'öğretim', 'eğitim']
+Extracted: ['yöntem', 'öğretmen']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 53
+Actual: ['anaerobik', 'güç', 'esnek', 'antrenman', 'pliometrik', 'futbol', 'sürat']
+Extracted: ['antrenman', 'deney', 'güç', 'sn', 'tekrar']
+TP: 2 TN: 0 FP: 5 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 54
+Actual: ['antropometri', 'vücut', 'somatotip', 'basketbol', 'spor', 'bileşim']
+Extracted: ['kategori', 'somatotip']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 55
+Actual: ['fizik', 'fizyolojik', 'özellik', 'badminton']
+Extracted: ['badminton', 'yabancı']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 56
+Actual: ['zihin', 'motor', 'eğitmek', 'antrenman', 'yetenek', 'engel']
+Extracted: ['antrenman', 'ezmek', 'motor']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 57
+Actual: ['öğrenci', 'taraftar', 'özdeş', 'spor', 'üniversite']
+Extracted: ['taraftar', 'özdeş']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 58
+Actual: ['spor', 'politika', 'türk', 'yönetim']
+Extracted: ['hedef', 'politika', 'öngörü']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 59
+Actual: ['ölçüm', 'genç', 'fonksiyonel', 'erkek', 'test', 'spor', 'antropometrik', 'okul']
+Extracted: ['barfiks', 'es', 'eö', 'hafta', 'kuvvet', 'mesafe', 'okul', 'vki']
+TP: 1 TN: 0 FP: 7 FN: 7 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 60
+Actual: ['yüzmek', 'güvenlik', 'yönetim', 'havuz']
+Extracted: ['acil', 'havuz']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 61
+Actual: ['pazarlamak', 'spor', 'ilişki', 'halk', 'sponsor']
+Extracted: ['faaliyet', 'halk', 'pazarlamak']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 62
+Actual: ['kişisel', 'antrenör', 'hissî', 'duyar', 'duygu', 'tükenmek', 'başarı', 'düşmek']
+Extracted: ['tükenmek']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 63
+Actual: ['öneri', 'bilgi', 'öğretmen', 'ilköğretim', 'önlem', 'kullanım', 'görüş', 'madde']
+Extracted: ['bağımlı', 'kullanım', 'madde', 'rehber', 'öneri', 'öğretmen']
+TP: 4 TN: 0 FP: 4 FN: 2 
+Accuracy: %40.0
+-----------------
+Article Index: 64
+Actual: ['yüzmek', 'güvenlik', 'yönetim', 'havuz']
+Extracted: ['acil', 'havuz']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 65
+Actual: ['tip', 'saldırgan', 'hakem', 'futbol']
+Extracted: ['klâsman']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 66
+Actual: ['eğitim', 'istihdam', 'spor', 'beden', 've', 'okul', 'yüksek', 'kariyer']
+Extracted: ['bulmak', 'varlık', 'öğrenci']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 67
+Actual: ['öğrenci', 'katılım', 'motivasyon', 'spor', 'yaş', 'lise', 'cinsiyet']
+Extracted: ['katılım', 'motivasyon', 'spor']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 68
+Actual: ['toplam', 'yönetmek', 'yönetim', 'ortaöğretim', 'kalite']
+Extracted: ['müdür', 'ortaöğretim', 'personel', 'yönetmek']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 69
+Actual: ['ölçek', 'düzey', 'durum', 'kaygı']
+Extracted: ['aday', 'sınav']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 70
+Actual: ['eğitim', 'değer', 'ilköğretim', 'öğretmen', 'program', 'beden', 'görüş', 'yeni']
+Extracted: ['beden', 'eğitim', 'öğretmen']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 71
+Actual: ['lise', 'öğrenci', 'saldırgan', 'spor']
+Extracted: ['lise', 'saldırgan']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 72
+Actual: ['spor', 'medya', 'teknoloji']
+Extracted: ['hayat', 'medya', 'telefon']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 73
+Actual: ['çok', 've', 'zekâ', 'müzik', 'futbol']
+Extracted: ['alan', 'zekâ', 'öğrenci']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 74
+Actual: ['motorik', 'adolesan', 'yapı', 'spor', 'basketbol', 've', 'özellik']
+Extracted: ['gard', 'pivot']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 75
+Actual: ['vücut', 'boy', 'kilo', 'basketbol', 'çocuk', 'yağ', 'oran']
+Extracted: ['basketbol', 'ortalama', 'çocuk']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 76
+Actual: ['öğretim', 'çok', 'spor', 'zekâ', 'yaratı', 'orta', 'yapmak']
+Extracted: ['zekâ']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 77
+Actual: ['batarya', 'güvenirlik', 'test', 'basketbol', 'geçer', 'çocuk', 'seçim', 'yetenek']
+Extracted: ['batarya', 'top']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 78
+Actual: ['antropometri', 'reaksiyon', 'kuvvet', 'esnek', 'badminton', 'pençe', 'sürat']
+Extracted: ['amatör', 'mil', 'sporcu', 'yıldız']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 79
+Actual: ['hematoloji', 'taekwondo']
+Extracted: ['kamp', 'taekwondo']
+TP: 1 TN: 0 FP: 1 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 80
+Actual: ['yoğun', 'kemik', 'i̇zokinetik', 'egzersiz']
+Extracted: ['izokinetik', 'kas', 'kemik']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 81
+Actual: ['zihin', 'eğitim', 'spor', 'beden', 've', 'eğitmek', 'engel', 'özel']
+Extracted: ['zihin', 'çocuk', 'özel']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 82
+Actual: ['aile', 'spor', 'yönlenmek', 'başarı', 'okul']
+Extracted: ['aile', 'okul', 'spor', 'çocuk', 'öğrenci']
+TP: 3 TN: 0 FP: 2 FN: 2 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 83
+Actual: ['öğrenci', 'ahlak', 'eğitim', 'sporcu', 'spor', 'beden', 've']
+Extracted: ['ahlaki', 'yargı']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 84
+Actual: ['ölçek', 'eğitim', 'dönüşüm', 'lider', 'çok', 'spor', 'beden', 've', 'faktör']
+Extracted: ['dönüşüm', 'lider', 'stil', 'yönetmek']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 85
+Actual: ['iş', 'taşra', 'yönetim', 'teşkilât', 'spor', 'müdür', 'genç', 'il', 'doyum', 'personel']
+Extracted: ['doyum', 'personel']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 86
+Actual: ['model', 'ölçüm', 'voleybol', 'etki', 'sabit', 'bağ', 'şans', 'tekrarlamak', 'karışık']
+Extracted: ['tekrarlamak']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 87
+Actual: ['vücut', 'somatotip', 'futbol', 'kompozisyon']
+Extracted: ['bikondüler', 'çap', 'ölçüm']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 88
+Actual: ['hız', 'parasempatik', 'sistem', 'değişken', 'kalp', 'watsu', 'gevşemek', 'sinir']
+Extracted: ['konum', 'watsu']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 89
+Actual: ['kortizol', 'egzersiz', 'epinefrin', 'gliserol']
+Extracted: ['egzersiz', 'gliserol', 'takviye']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 90
+Actual: ['performans', 'ergojenik', 'destek', 'kreatin', 'izokinetik']
+Extracted: ['yüklem', 'üretim']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 91
+Actual: ['öğretim', 'eğitim', 'değer', 'spor', 'beden', 'ölçmek', 've', 'yöntem']
+Extracted: ['yöntem']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 92
+Actual: ['düzey', 'gerçek', 'benlik', 'kendi', 'tasarı']
+Extracted: ['benlik', 'envanter', 'tasarı', 'tasarım']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 93
+Actual: ['beceri', 'voleybol', 'motivasyon', 'servis']
+Extracted: ['atmak', 'bölüm', 'servis']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 94
+Actual: ['demokratik', 'cinsiyet', 'eğitim', 'öğretmen', 'bab', 'öğrenim', 'sınıf', 'tutum', 'beden', 'anne', 'aday']
+Extracted: ['demokratik', 'tutum', 'yüksekokul', 'öğrenim']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 95
+Actual: ['düzey', 'doping', 'bilgi']
+Extracted: ['doping']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 96
+Actual: ['antrenör', 'yaşam', 'beceri', 'empatik', 'doyum']
+Extracted: ['doyum', 'empatik']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 97
+Actual: ['sporcu', 'iş', 'bağ', 'lider', 'tatmin', 'örgüt']
+Extracted: ['bağ', 'lider', 'tatmin']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 98
+Actual: ['katılım', 'spor', 'okul', 'yüksek', 'beklenti']
+Extracted: ['bölüm', 'öğrenci']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 99
+Actual: ['öğrenci', 'genel', 'çok', 'spor', 'zekâ', 'lise']
+Extracted: ['lise', 'zekâ', 'öğrenci']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 100
+Actual: ['katılım', 'spor', 'okul', 'yüksek', 'beklenti']
+Extracted: ['bölüm', 'öğrenci']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 101
+Actual: ['öğrenci', 'genel', 'çok', 'spor', 'zekâ', 'lise']
+Extracted: ['lise', 'zekâ', 'öğrenci']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 102
+Actual: ['iş', 'eğitim', 'öğretmen', 'tatmin', 'beden', 'tükenmek', 'meslekî']
+Extracted: ['doyum', 'tükenmek', 'öğretmen']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 103
+Actual: ['sporcu', 'çözmek', 'beceri', 'problem', 'mil']
+Extracted: ['problem', 'çözmek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 104
+Actual: ['eğitim', 'öğretim', 'genel', 'amaç', 'beden', 'orta']
+Extracted: ['lise', 'okul', 'yenimahalle', 'yer', 'öğrenci']
+TP: 0 TN: 0 FP: 6 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 105
+Actual: ['ölçüm', 'hacim', 'antropometrik', 'akciğer', 'ölçü', 'fonksiyon']
+Extracted: ['fev1', 'solunum']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 106
+Actual: ['dağıtım', 'yönetim', 'işlem', 'spor', 'boyut', 'adalet', 'örgüt', 'etkileşim']
+Extracted: ['adalet', 'örgüt']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 107
+Actual: ['spor', 'sektör', 'sponsor']
+Extracted: ['sponsor']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 108
+Actual: ['eğitim', 'öğretmen', 'ilköğretim', 'beden', 'ortaöğretim', 'yılmak']
+Extracted: ['ortaöğretim', 'yılmak', 'öğretmen']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 109
+Actual: ['toparlamak', 'içecek', 'süt', 'egzersiz']
+Extracted: ['süt', 'toparlamak']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 110
+Actual: ['diz', 'sakat', 'kuvvet', 'i̇zokinetik', 'oran']
+Extracted: ['kontrol', 'nondominant', 'oran', 'sporcu', 'zirve']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 111
+Actual: ['paramedik', 'kadın', 'kuvvet', 'egzersiz', 'aerobik']
+Extracted: ['dayanıklı', 'kuvvet', 'mekik', 'paramedik', 'testi']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 112
+Actual: ['zaman', 'denge', 'badminton', 'reaksiyon']
+Extracted: ['denge', 'işitsel', 'reaksiyon']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 113
+Actual: ['eğitim', 'eğilim', 'nevrotik', 'badminton', 'çocuk']
+Extracted: ['grup', 'nevrotik']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 114
+Actual: ['eskrim', 'maksimal', 'reaksiyon', 'yüklemek', 'zaman', 'görsel']
+Extracted: ['eskrim', 'maksimal', 'reaksiyon', 'yoğun', 'yüklemek']
+TP: 4 TN: 0 FP: 2 FN: 1 
+Accuracy: %57.14285714285714
+-----------------
+Article Index: 115
+Actual: ['antropometri', 'performans', 'somatotip', 'test', 'çocuk', 'seçim', 'yetenek']
+Extracted: ['fırlamak', 'koşu', 'mekik', 'somatotip', 'özellik']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 116
+Actual: ['vücut', 'kompozisyon', 'bia', 'master', 'solunum', 'atlet', 'parametre']
+Extracted: ['atlet', 'master']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 117
+Actual: ['hedef', 'belirlemek', 'penaltı', 'atmak', 'antrenman', 'futbol']
+Extracted: ['futbol', 'hedef', 'penaltı']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 118
+Actual: ['birinci', 'eğitim', 'öğretim', 'ilköğretim', 'öğretmen', 'beden', 'görüş', 'kazanım', 'kademe']
+Extracted: ['beden', 'eğitim', 'öğretmen']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 119
+Actual: ['amatör', 'motivasyon', 'profesyonel', 'başarı', 'futbol']
+Extracted: ['futbol', 'profesyonel']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 120
+Actual: ['mevki', 'test', 'motor', 'fark', 'futbol']
+Extracted: ['kaleci', 'mevki', 'saha']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 121
+Actual: ['t4', 'submaksimal', 't3', 'tsh', 'egzersiz']
+Extracted: ['egzersiz', 'lot', 't3', 't4', 'tsh']
+TP: 4 TN: 0 FP: 1 FN: 1 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 122
+Actual: ['eskrim', 'hedef', 'antrenör', 'kolektif', 'davranmak', 'yönelim', 'yeterlik']
+Extracted: ['davranmak', 'kolektif', 'yönelim']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 123
+Actual: ['öğrenci', 'eğitim', 'bilgi', 'iletişim', 'teknoloji', 'spor', 'beden', 've', 'özgüven']
+Extracted: ['kullanım', 'teknoloji']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 124
+Actual: ['sedanter', 'denge', 'esnek', 'rehabilitasyon', 'pilates']
+Extracted: ['hastalık', 'metot', 'pilates', 'çıkmak']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 125
+Actual: ['hizmet', 'merkez', 'tatmin', 'spor', 'tüketmek', 'kalite']
+Extracted: ['tüketmek']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 126
+Actual: ['hayal', 'bilmek', 'etmek', 'spor', 'çocuk']
+Extracted: ['eşdeğer', 'güvenirlik', 'hall', 'ölçek']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 127
+Actual: ['spor', 'yönelmek', 'dağ']
+Extracted: ['dağ', 'güvenirlilik', 'spor', 'yetişmek', 'yönelmek']
+TP: 3 TN: 0 FP: 0 FN: 2 
+Accuracy: %60.0
+-----------------
+Article Index: 128
+Actual: ['spor', 'öğrenci', 'ilköğretim', 'depresyon']
+Extracted: ['depresyon', 'öğrenci']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 129
+Actual: ['sporcu', 'ara', 'duygu', 'ekstre', 'gelenek']
+Extracted: ['duygu', 'ekstre', 'gelenek', 'sporcu', 'şubat']
+TP: 4 TN: 0 FP: 1 FN: 1 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 130
+Actual: ['stres', 'eğitim', 'öğretmen', 'ilköğretim', 'başaçıkma', 'beden', 'ortaöğretim']
+Extracted: ['başaçıkma', 'stres', 'tarz']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 131
+Actual: ['saygı', 'benlik', 'inanç', 'epistemolojik']
+Extracted: ['inanç', 'saygı']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 132
+Actual: ['spor', 'kişilik', 'eğitim']
+Extracted: ['eysenck', 'kişilik', 'nevrotik']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 133
+Actual: ['ölçek', 'eğitim', 'ders', 'gelişmek', 'tutum', 'beden']
+Extracted: ['tutum', 'çocuk']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 134
+Actual: ['işletme', 'hizmet', 'spor', 'servqual', 'kalite']
+Extracted: ['hizmet', 'kalite']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 135
+Actual: ['devam', 'bağ', 'duygu', 'örgüt', 'bağımlı', 'normatif']
+Extracted: ['bağ']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 136
+Actual: ['spor', 'şiddet', 'yazar']
+Extracted: ['yazar']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 137
+Actual: ['sıçramak', 'emg', 'mean', 'root', 'dikey', 'square']
+Extracted: ['koşmak', 'sıçramak', 'vastus']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 138
+Actual: ['çay', 'gelir', 'boy', 'aile', 'kemik', 'kilo', 'gaz', 'yoğun', 'sigara', 'mineral', 'düzey', 'i̇çecek']
+Extracted: ['içmek', 'sigara']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 139
+Actual: ['antropometri', 'somatotip', 'performanstest', 'futbol']
+Extracted: ['somatotip', 'çocuk']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 140
+Actual: ['güç', 'pozisyon', 'oyun', 'toparlamak', 'elit', 'aerobik', 'futbol']
+Extracted: ['oyun', 'pozisyon']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 141
+Actual: ['laktat', 'gliserol', 'maxvo2', 'egzersiz']
+Extracted: ['laktat', 'maxvo2', 'tes']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 142
+Actual: ['ligi', 'güç', 'kapasite', 'basketbol', 'patlamak', 'aerobik']
+Extracted: ['lig', 'oyun']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['vücut', 'kompozisyon', 'sıcak', 'basmak', 'perimenopoz', 'pilates']
+Extracted: ['basmak', 'mat', 'pilates', 'semptom', 'vasomotor']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 144
+Actual: ['katılmak', 'taraftar', 'motivasyon', 'spor', 'analiz', 'faktör']
+Extracted: ['eşdeğer', 'güvenirlik', 'ölçek']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 145
+Actual: ['işitmek', 'ergen', 'engel', 'kaygı']
+Extracted: ['ergen', 'işitmek', 'kaygı']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 146
+Actual: ['spor', 'lise', 'fark', 'yönetim']
+Extracted: ['güzel', 'kurum', 'sanat', 'yönetmek']
+TP: 0 TN: 0 FP: 4 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 147
+Actual: ['medya', 'buz', 'dans', 'spor', 'çocuk', 'yönelmek']
+Extracted: ['buz', 'paten']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 148
+Actual: ['fizik', 'takım', 'spor', 'bireysel', 'uygun']
+Extracted: ['bireysel', 'dayanıklı', 'kız', 'metre', 'performans', 'takım']
+TP: 2 TN: 0 FP: 3 FN: 4 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 149
+Actual: ['performans', 'yapı', 'test', 'alt', 'atletizm']
+Extracted: ['atletizm', 'deney', 'dk', 'kontrol', 'ölçüm']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 150
+Actual: ['spinal', 'beden', 'refleks', 'h', 'tüm', 'vibrasyon', 'elektromiyografi']
+Extracted: ['vibrasyon']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 151
+Actual: ['voleybol', 'sıçramak', 'yöntem', 'güreş']
+Extracted: ['güreş', 'sıçramak', 'voleybol']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 152
+Actual: ['i̇llinois', 'testi', 'çevik', 'vas', 'kas', 'egzentrik', 'egzersiz', 'ağrı']
+Extracted: ['hasar', 'kas', 'sürat', 'çevik']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 153
+Actual: ['antrenör', 'türk', 'saygı', 'benlik', 'meslekî']
+Extracted: ['antrenör']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 154
+Actual: ['vatandaş', 'eğitim', 'akademisyen', 'beden', 'spor', 'örgüt', 'düzey']
+Extracted: ['akademisyen', 'vatandaş']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 155
+Actual: ['hizmet', 'öğretmen', 'toplum', 'aday', 'uygulamak']
+Extracted: ['aday', 'değişken', 'toplum', 'öğretmen', 'üniversitesi']
+TP: 3 TN: 0 FP: 2 FN: 2 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 156
+Actual: ['öğretim', 'eğitim', 'öğretmen', 'program', 'beden', 'önce']
+Extracted: ['başlık', 'bilgi', 'öğretmen']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 157
+Actual: ['nitel', 'metafor', 'araştırmak', 'rafting']
+Extracted: ['metafor', 'rafting']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 158
+Actual: ['iş', 'medya', 'spor', 'doyum', 'personel']
+Extracted: ['kategorik', 'kodlamak']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 159
+Actual: ['karar', 'yaratı', 'vermek', 'satranç']
+Extracted: ['bilim', 'karar']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 160
+Actual: ['karakteristik', 'fizik', 'badminton', 've', 'elit', 'fizyolojik']
+Extracted: ['amatör', 'badminton', 'çevik']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 161
+Actual: ['kinaz', 'laktat', 'stres', 'oksidatif', 'yardım', 'tokoferol', 'ergojenik', 'dehidrojenaz', 'kreatin', 'alfa']
+Extracted: ['antioksidan', 'atlet', 'egzersiz', 'vitamin']
+TP: 0 TN: 0 FP: 10 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 162
+Actual: ['anaerobik', 'performans', 'pliyometrik', 'basketbol', 'antrenman']
+Extracted: ['anaerobik', 'egzersiz', 'pliyometrik']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 163
+Actual: ['fut', 'vücut', 'denge', 'kompozisyon']
+Extracted: ['denge', 'vücut', 'yağ', 'yüzde']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 164
+Actual: ['hizmet', 'güvenirlik', 'spor', 'geçer', 'rekreasyon', 'kalite']
+Extracted: ['hizmet', 'katılım', 'rekreasyonel', 'ölçek']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 165
+Actual: ['kavram', 'takım', 'spor', 'saygı', 'benlik', 'deneyim', 'bireysel']
+Extracted: ['benlik', 'saygı']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 166
+Actual: ['universiade', 'kaynak', 'motivasyon', 'oyun', 'kış', 'insan']
+Extracted: ['kişi', 'motivasyon']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 167
+Actual: ['fizik', 'öğretmen', 'yaşam', 'spor', 'beden', 'benlik', 'aday', 'doyum']
+Extracted: ['benlik', 'doyum', 'yaşam']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 168
+Actual: ['rekreatif', 'turizm', 'istek', 'rekreasyon', 'tercih', 'çalışmak']
+Extracted: ['istek', 'rekreasyon']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 169
+Actual: ['süper', 'sportif', 'sürekli', 'güven', 'lig', 'kendi', 'yeterlik', 'öz', 'durum', 'futbol']
+Extracted: ['güven', 'yeterlik']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 170
+Actual: ['eğitim', 'beden', 'merak', 'öğretmen']
+Extracted: ['merak']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 171
+Actual: ['katılım', 'aile', 'spor', 'psikolojik', 'kazanım']
+Extracted: ['benlik', 'kazanmak', 'kazanım', 'saygı', 'statü', 'özdeş']
+TP: 1 TN: 0 FP: 4 FN: 5 
+Accuracy: %10.0
+-----------------
+Article Index: 172
+Actual: ['öğrenci', 'çözmek', 'destek', 'sosyal', 'problem', 'beceri', 'üniversite']
+Extracted: ['arkadaş', 'destek', 'sosyal', 'çözmek']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 173
+Actual: ['servis', 've', 'antrenman', 'tenis', 'isabet', 'pliometrik', 'sürat']
+Extracted: ['deney', 'tenis']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 174
+Actual: ['propriosepsiyon', 'omuz', 'kalça', 'pozisyon', 'hissî', 'dans', 'eklem']
+Extracted: ['dans']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 175
+Actual: ['dominant', 'el', 'masa', 'transfer', 'bilateral', 'resesif', 'tenis']
+Extracted: ['transfer']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 176
+Actual: ['bayan', 'düzen', 'sporcu', 'menstruel', 'menstruasyon']
+Extracted: ['menstruel']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 177
+Actual: ['salınım', 'denge', 'basınç', 'merkez', 'ok', 'postural']
+Extracted: ['ok']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 178
+Actual: ['öğrenci', 'fizik', 'sağlık', 'biçim', 'yaşam', 'aktivite']
+Extracted: ['biçim', 'yaşam', 'öğrenci', 'üniversite']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 179
+Actual: ['sporcu', 'kaygı', 'korku', 'değer', 'empati', 'sosyal', 'olumsuz']
+Extracted: ['empatik', 'ilk', 'müsabaka', 'ulus', 'ulusal']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 180
+Actual: ['antrenör', 'tükenmek', 'meslekî', 'yılmak', 'futbol']
+Extracted: ['antrenör', 'tükenmek', 'yılmak']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 181
+Actual: ['engel', 'yılmak']
+Extracted: ['engel', 'yılmak']
+TP: 2 TN: 0 FP: 0 FN: 0 
+Accuracy: %100.0
+-----------------
+Article Index: 182
+Actual: ['stres', 'sporcu', 'doğrulamak', 'açıklamak', 'analiz', 'örgüt', 'faktör']
+Extracted: ['davranmak', 'madde', 'ölçek', 'örneklem']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 183
+Actual: ['değer', 'çerçeve', 'odç', 'kamu', 'kurum', 'yönetim', 'ortak', 'spor', 'özdeğer', 'toplam', 'kalite']
+Extracted: ['kalite', 'kamu', 'kurum', 'ortak', 'çerçeve']
+TP: 5 TN: 0 FP: 6 FN: 0 
+Accuracy: %45.45454545454545
+-----------------
+Article Index: 184
+Actual: ['akademik', 'çare', 'spor', 'öğrenmek', 'başarı']
+Extracted: ['çare', 'öğrenmek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 185
+Actual: ['metafor', 'olimpiyat', 'algı']
+Extracted: ['olimpiyat']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 186
+Actual: ['yaz', 'okul', 'futbol']
+Extracted: ['aile', 'yoğun']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 187
+Actual: ['bayan', 'televole', 'cinsiyet', 'arabesk', 'müzik', 'futbol']
+Extracted: ['futbol']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 188
+Actual: ['şiddet', 'futbol']
+Extracted: ['şiddet']
+TP: 1 TN: 0 FP: 1 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 189
+Actual: ['etken', 'kulüp', 'ekip', 'futbol']
+Extracted: ['ekip', 'etken', 'kulüp']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 190
+Actual: ['spor', 'politika', 'oluşmak', 'unsur']
+Extracted: ['politika', 'öneri']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 191
+Actual: ['lisans', 'sporcu', 'spor', 'yönelmek', 'unsur', 'beklenti']
+Extracted: ['anket', 'branş', 'spor']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 192
+Actual: ['bayan', 'sporcu', 'reaksiyon', 'işitsel', 'hentbol', 'görsel']
+Extracted: ['işitsel', 'kanat', 'oyun']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 193
+Actual: ['voleybol', 'mil', 'somatotip', 'takım']
+Extracted: ['somatotip', 'voleybol']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 194
+Actual: ['vücut', 'sedanter', 'kompozisyon', 'kan', 'egzersiz', 'lipidleri']
+Extracted: ['aerobik', 'egzersiz', 'vücut']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 195
+Actual: ['spor', 'antropometri', 'vücut', 'oran']
+Extracted: ['branş', 'halter', 'oran', 'tekvando']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 196
+Actual: ['yürümek', 'lipoprotein', 'densiteli', 'ldl', 'yoğun', 've', 'düşük', 'jogging', 'yüksek', 'hdl']
+Extracted: ['dansiteli', 'denek', 'dkas', 'ekas', 'jogging', 'tc', 'tg']
+TP: 1 TN: 0 FP: 9 FN: 6 
+Accuracy: %6.25
+-----------------
+Article Index: 197
+Actual: ['vücut', 'sedanter', 'bayan', 'kompozisyon', 'kan', 'egzersiz', 'lipidleri']
+Extracted: ['kolesterol', 'vücut']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 198
+Actual: ['antropometri', 'solunum', 'futbol']
+Extracted: ['dsy', 'fb', 'fo']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 199
+Actual: ['zaman', 'spor', 'boş', 'personel', 'asker']
+Extracted: ['boş', 'hafta', 'zaman']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 200
+Actual: ['spor', 'reklâm', 'televizyon', 'imaj']
+Extracted: ['reklâm']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Total accuracy of document "Spor Bilimleri" is: %23.78006317512898

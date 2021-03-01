@@ -1,0 +1,1201 @@
+Article Index: 1
+Actual: ['eğitim', 'akademi', 'sanat', 'yapı', 'sinan', 'üniversitesi', 'güzel', 'devlet', 'mimar']
+Extracted: ['cemile', 'saray', 'sultan', 'zekiye']
+TP: 0 TN: 0 FP: 9 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 2
+Actual: ['scarpa', 'merdiven', 'carlo']
+Extracted: ['duyarlı', 'merdiven']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 3
+Actual: ['toplu', 'standart', 'eylem', 'ataşehir', 'konut', 'mekân']
+Extracted: ['aile', 'konut', 'toplu']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 4
+Actual: ['tech', 'sistem', 'estetik', 'teknoloji', 'high', 'strüktürel', 'tesisat']
+Extracted: ['high', 'tech']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 5
+Actual: ['güvenlik', 'kontrol', 'otomasyon']
+Extracted: ['bina', 'sistem']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 6
+Actual: ['pasif', 'deprem', 'aktif', 'kontrol']
+Extracted: ['deprem', 'kontrol']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 7
+Actual: ['türk', 'araştırmak', 'sosyoloji', 'göç', 'popüler', 'sinema', 'kültür', 'film', 'kent']
+Extracted: ['gecekondu', 'göç', 'kent', 'stanbul']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 8
+Actual: ['katılım', 'kor', 'yaz', 'okul', 'birgi']
+Extracted: ['bilinç', 'birgi', 'katılım', 'kor', 'yaz']
+TP: 4 TN: 0 FP: 1 FN: 1 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 9
+Actual: ['simülasyon', 'çevre', 'taklit']
+Extracted: ['ad', 'duyar', 'taklit', 'tüketim']
+TP: 1 TN: 0 FP: 2 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 10
+Actual: ['semt', 'pazar', 'periyodik', 'i̇stanbul', 'hafta']
+Extracted: ['alışveriş', 'kolay']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['kısıtlamak', 'yarım', 'kalıp', 'tam', 've', 'tünel', 'olanak']
+Extracted: ['kalıp']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 12
+Actual: ['şiir', 'dönüşüm', 'gelişmek', 'bilge']
+Extracted: ['sanat']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 13
+Actual: ['yüzyıl', 'daire', 'belediye', 'parsel', 'beyoğlu', '19', 'apartman', '6', 'morfoloji', 'galata']
+Extracted: ['bölge', 'ticaret']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 14
+Actual: ['korumak', 'sit', 'değer', 'kor', 'yapı', 'alan', 'rövitalizasyon', 'tarih', 'kurul', 'gelenek', 'kent']
+Extracted: ['bölge', 'parsel', 'reyhan', 'tescil']
+TP: 0 TN: 0 FP: 11 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['tarikat', 'meşruta', 'tekke', 'semahane']
+Extracted: ['tekke']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 16
+Actual: ['ortakent', 'kule', 'ev', 'musandralı', 'müsgebi', 'konut', 'gelenek', 'bodrum']
+Extracted: ['ev', 'köyiçi']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 17
+Actual: ['ahşap', 'sistem', 'türkiye', 'yöre', 'yapı', 'gelenek']
+Extracted: ['ahşap', 'bölge', 'sistem']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 18
+Actual: ['döküm', 'top', 'restorasyon', 'tesis', 'amire', 'tophane']
+Extracted: ['döküm', 'top']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 19
+Actual: ['anıt', 'holzmeister', 'mimarî', 'bölgesel', 'modern', 'gelenek', 'evrensel']
+Extracted: ['ankara', 'avusturya', 'mimar', 'mimarî', 'tartışmak']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 20
+Actual: ['karşılamak', 'kura', 'bilim', 'ürün', 'sınıf', 'ipucu', 'anlam', 'işlev', 'profil', 'gösterge', 'görsel']
+Extracted: ['ipucu', 'zihin', 'ürün']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 21
+Actual: ['anlamak', 'kor', 'tarih', 'modern', 'kent']
+Extracted: ['kent', 'tarih', 'yazı']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 22
+Actual: ['eşit', 'erişmek', 'erişim', 'evrensel', 'engel', 'tasarım', 'uyarlamak']
+Extracted: ['evrensel']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 23
+Actual: ['toplam', 'kesim', '9000', 'standart', 'yönetim', 'seri', 'konut', 'iso', 'toplu', 'kalite']
+Extracted: ['kesim', 'toplu']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 24
+Actual: ['değişmek', 'yapı', 'sistem', 'hiyerarşik']
+Extracted: ['değişmek', 'hiyerarşik', 'sistem']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 25
+Actual: ['perde', 'tasarım', 'planlamak', 'duvar', 'strüktür', 'konut', 'toplu']
+Extracted: ['blok', 'duvar', 'kat', 'konut']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 26
+Actual: ['kaldırım', 'çevre', 'sosyal', 'yüksek', 'değişim', 'mekân']
+Extracted: ['kaldırım']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 27
+Actual: ['fizik', 'davranmak', 'kimlik', 'çeşit', 'ortam', 'kuruluş', 'can']
+Extracted: ['can', 'kadıköy', 'çarşıiçi']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 28
+Actual: ['alan', 'kamu', 'donatı', 'erişmek', 'yaş', 'ilişki', 'insan']
+Extracted: ['yaş']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 29
+Actual: ['odak', 'kimlik', 'merkez', 'kutsal', 'toplum', 'simge', 'bellek', 'kent', 'görsel']
+Extracted: ['kent', 'kubbet', 'kudüs', 'kutsal', 'şerif']
+TP: 2 TN: 0 FP: 7 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 30
+Actual: ['9000', 'yönetim', 'mimarlık', 'mekân', 'iso', 'tasarım', 'kalite']
+Extracted: ['kalite']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 31
+Actual: ['çözümlemek', 'beykoz', 'onçeşmeler', 'i̇shak', 'tarih', 'ağa', 'çeşme']
+Extracted: ['shak', 'çeşme']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 32
+Actual: ['tasarım', 'kurum', 'kimlik']
+Extracted: ['kurum']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 33
+Actual: ['ofis', 'teknoloji', 'mimarlık', 'tasarım', 'otomasyon', 'bilgisayar']
+Extracted: ['bilgi', 'kolay', 'sistem']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['olmak', 'söylem', 'ülke', 'gelişmek', 'çevre']
+Extracted: ['bilim', 'fen', 'çevre']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 35
+Actual: ['alışveriş', 'merkez', 'mimarlık', 'modern', 'dönem', 'mağaza', 'mimar']
+Extracted: ['alışveriş', 'biçimlemek', 'dönüşüm', 'şehir']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 36
+Actual: ['öneri', 'bozmak', 'kor', 'sürmek', 'gelenek', 'ev']
+Extracted: ['diyarbakır', 'ev', 'gelenek']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 37
+Actual: ['konut', 'kerpiç', 'yöre', 'anadolu']
+Extracted: ['anadolu', 'kerpiç', 'teknik']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 38
+Actual: ['toprak', 'mekanik', 'puzolan', 'ağırnas', 'harç', 'puzolanik', 'özellik', 'sıva', 'aktivite']
+Extracted: ['kireç', 'puzolanik', 'toprak']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 39
+Actual: ['tahminî', 'inşaat', 'veri', 'maliyet', 'analiz', 'taban']
+Extracted: ['tahmin']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 40
+Actual: ['bilişim', 'bilgi', 'teknoloji', 'planlamak', 'toplum', 'zekâ', 'yapay', 'akıl', 'kent']
+Extracted: ['kent', 'teknoloji']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 41
+Actual: ['endüstri', 'yapı', 'unkapanı', 'miras', 'değirmen']
+Extracted: ['arkeoloji', 'endüstri']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 42
+Actual: ['söylem', 'mimarî', 'bütün', 'yorum', 'hermenötik', 'tasarım']
+Extracted: ['mimarî', 'tasarım']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 43
+Actual: ['mimarî', 'algı', 'hareket', 'mekân', 'görsel']
+Extracted: ['aktarım']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 44
+Actual: ['malzeme', 'tekstil', 'uygulamak', 'estetik']
+Extracted: ['tekstil']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 45
+Actual: ['korun', 'yapı', 'yangın', 'güvenlik', 'yüksek']
+Extracted: ['yangın']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 46
+Actual: ['endüstri', 'kültürlerarası', 'ürün', 'organizasyon', 'küresel', 'tasarım', 'tasarı']
+Extracted: ['firma', 'ürün']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 47
+Actual: ['banyo', 'evrensel', 'tasarım', 'tasarı']
+Extracted: ['evrensel']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 48
+Actual: ['karşılamak', 'örnek', 'anlambilim', 'endüstriyel', 'eğretileme', 'elvermek', 'göstergebilim', 'sağlamak', 'tasarım']
+Extracted: ['düzlem']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['endüstri', 'benzemek', 'ürün', 'eğretileme', 'tasarım']
+Extracted: ['eğretileme', 'ürün']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 50
+Actual: ['kontrol', 'aydınlatmak', 'mekân', 'hastane']
+Extracted: ['aydınlatmak']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 51
+Actual: ['yangın', 'mimarî', 'güvenlik', 'merdiven', 'tasarım']
+Extracted: ['yangın']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 52
+Actual: ['katılım', 'kullanmak', 'mimarlık', 'ilişki', 'küresel']
+Extracted: ['katılım']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 53
+Actual: ['ab', 'sistem', 'türkiye', 'meslek', 'eğitim', 'systems', 'inşaat', 'yetişmek', 'hollânda', 've', 'vet', 'sözleşme', 'sektör', 'toplu']
+Extracted: ['ab', 'sözleşme', 'toplu']
+TP: 3 TN: 0 FP: 11 FN: 0 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 54
+Actual: ['kor', 'kamu', 'sertifika', 'alt', 'sit', 'değer', 'takas', 'taşınmaz', 'aktarım', 'yönetmelik', 'değişmek', 'yönetim', 'kültür', 'kânun', 'il', 'temel', 'yerel', 'mode', 'tescil', 'tabiat', 've', 'varlık', 'banka']
+Extracted: ['aktarım']
+TP: 1 TN: 0 FP: 22 FN: 0 
+Accuracy: %4.3478260869565215
+-----------------
+Article Index: 55
+Actual: ['iç', 'yapı', 'ışık', 'mimarî', 'kontrol', 've', 'saydam', 'mekân']
+Extracted: ['saydam']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 56
+Actual: ['doğa', 'karya', 'mimarlık', 've', 'yerseçimi']
+Extracted: ['doğa', 'teras']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 57
+Actual: ['plan', 'anadolu', 'ızgara', 'doku', 'batı', 'hippodamos', 'liman', 'kent']
+Extracted: ['düşünce', 'karya', 'miletos', 'yonya']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 58
+Actual: ['osmanlı', 'yapı', 'kilis', 'cami', 'tapınmak', 'mimarî', 'kurgu', 'kent']
+Extracted: ['ayvalık', 'cami', 'hamidiye']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 59
+Actual: ['şirket', 'tipoloji', 'yapı', 'sanayi', 'konut', 'toplu', 'kent']
+Extracted: ['eskişehir', 'sanayi', 'yerleşke', 'şirket']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 60
+Actual: ['tüketim', 'otel', 'turizm', 'tema', 'kurgu', 'mekân']
+Extracted: ['kurgu', 'mekân', 'otel', 'tema']
+TP: 4 TN: 0 FP: 2 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 61
+Actual: ['yapı', 'otel', 'turizm', 'hip', 'özgü', 'kendi', 'fark', 'mekân']
+Extracted: ['konaklamak']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['yöntem', 'fizik', 'konfor', 'mode', 'tasarım', 'enerji', 'mimarî', 'çevre', 'destek', 'ahp', 'günışığı', 'analitik', 'hiyerarşik', 'erken', 'ısı']
+Extracted: ['günışığı', 'tasarım']
+TP: 2 TN: 0 FP: 13 FN: 0 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 63
+Actual: ['salon', 'du', 'güzel', 'sedad', 'fındıklı', 'sofa', 'ali', 'cemile', 'i̇zgi', 'duvar', 'mehmet', 'elde', 'brütalizm', 'hafif', 'nefis', 'akademi', 'modernizm', 'hak', 'çok', 'utarit', 'konferans', 'bölme', 'alis', 'saray', 'sultan', 'çifte', 'î', 'sanat', 'esad', 'amaç', 'suher', 'han']
+Extracted: ['akademi', 'konferans', 'salon', 'saray']
+TP: 4 TN: 0 FP: 28 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 64
+Actual: ['kent', 'kolektif', 'alan', 'kamu', 'bellek', 'sürek']
+Extracted: ['bellek', 'berlin']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 65
+Actual: ['endüstri', 'kalkınmak', 'plan', 'eğitim', 'tasarım', 'ürün', 'politika', 'ulusal', 'tasarı']
+Extracted: ['endüstri', 'kalkınmak', 'plan']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 66
+Actual: ['belen', 'maruf', 'modernizm', 'önal', 'cumhuriyet', 'mimar', 'ev']
+Extracted: ['belen', 'mimar', 'modernist', 'modernizm', 'âdeta', 'önal']
+TP: 4 TN: 0 FP: 3 FN: 2 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 67
+Actual: ['devam', 'stratonikeia', 'mimarî', 'şaban', 'camii', 'eskihisar', 'ağa', 'yerleşim', 'sivil', 'sürek']
+Extracted: ['eskihisar', 'sivil', 'yapı']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 68
+Actual: ['yersiz', 'mimarlık', 'yer', 'küresel', 'tasarım']
+Extracted: ['dizge', 'mimarlık', 'yersiz']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 69
+Actual: ['tüketim', 'yaşam', 'site', 'tarz', 'toplum', 'kapmak', 'konut']
+Extracted: ['kapmak', 'konut', 'piyasa', 'site']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 70
+Actual: ['koolhaas', 'almere', 'alışveriş', 're']
+Extracted: ['almere', 'kent', 'koolhaas']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 71
+Actual: ['yöntem', 'sakınım', 'kor', 'risk', 'modellemek', 'yönetim', 'afet', 'hak', 'aktarım', 'dönüşüm', 've', 'planlamak', 'imar', 'yenilemek', 'nicel', 'mülkiyet', 'kent']
+Extracted: ['hak', 'imar', 'mülkiyet']
+TP: 3 TN: 0 FP: 14 FN: 0 
+Accuracy: %17.647058823529413
+-----------------
+Article Index: 72
+Actual: ['iç', 'ofis', 'esnek', 'teknoloji', 'mekân', 'tasarı']
+Extracted: ['esnek', 'ofis']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 73
+Actual: ['yanılsama', 'katılım', 'kullanmak', 'mimarî', 'üretim', 'tüketmek']
+Extracted: ['ağı', 'kırmak', 'üretim']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 74
+Actual: ['teori', 'ant', 'pozitivizm', 'işlev', 'tasarım']
+Extracted: ['anlayış', 'bilim', 'tasarım']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 75
+Actual: ['gerçek', 'beden', 'sanal', 'olay', 'artırmak', 'mekân']
+Extracted: ['deneyim', 'mekân', 'sibertektonik']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 76
+Actual: ['kor', 'paşa', 'camii', 'bizans', 'miras', 'mustafa', 'müze', 'orta', 'atik', 'dünya', 'pammakaristos', 'kilis', 'manastır', 'i̇stanbul', 'dönem', 'kilise', 'vefa', 've', 'fethiye']
+Extracted: ['anıt', 'kilise', 'kor', 'vefa']
+TP: 3 TN: 0 FP: 16 FN: 1 
+Accuracy: %15.0
+-----------------
+Article Index: 77
+Actual: ['yığmak', 'kalkınmak', 'yapı', 'sürmek', 'konut', 'kır', 'yerleşmek']
+Extracted: ['kalkınmak', 'kır', 'sürmek']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 78
+Actual: ['kor', 'paşa', 'camii', 'bizans', 'miras', 'mustafa', 'müze', 'orta', 'atik', 'dünya', 'pammakaristos', 'kilis', 'manastır', 'i̇stanbul', 'dönem', 'kilise', 'vefa', 've', 'fethiye']
+Extracted: ['anıt', 'kor', 'vefa']
+TP: 2 TN: 0 FP: 17 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 79
+Actual: ['seasons', 'otel', 'dönüşüm', 'four', 'kullanım', 'yeniden', 'sultanahmet', 'mekân']
+Extracted: ['mekân', 'otel']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 80
+Actual: ['sınır', 'sistem', 'ekolojik', 'beykoz', 'bitişik', 'zonlar', 'geçmek', 'i̇stanbul', 'ekoton']
+Extracted: ['ekolojik']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 81
+Actual: ['anıt', 'kor', 'ayasofya', 'bina', 'camii', 'fatih', 'dolmabahçe', 'tarih', 'cumhuriyet', 'dönem', 'müze', 'saray', 'topkapı']
+Extracted: ['anıt', 'kor', 'onarım']
+TP: 2 TN: 0 FP: 11 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 82
+Actual: ['seasons', 'otel', 'dönüşüm', 'four', 'kullanım', 'yeniden', 'sultanahmet', 'mekân']
+Extracted: ['mekân', 'otel']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 83
+Actual: ['davranmak', 'deprem', 'şehir', 'planlamak', 'tasarım']
+Extracted: ['davranmak', 'deprem']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 84
+Actual: ['sektör', 'yayın', 'desantralizasyon', 'yapı', 'teknoloji', 've', 'yeniden', 'basım', 'yeni']
+Extracted: ['basım', 'sektör', 'süreç', 'teknoloji']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 85
+Actual: ['belirlemek', 'sanayi', 'tekstil', 'yer', 'planlamak', 'seçim', 'kuruluş']
+Extracted: ['yıllık']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 86
+Actual: ['malzeme', 'kompozit', 'beton', 'hafif', 'kabuk', 'atık', 'tarım', 'yerfıstığı']
+Extracted: ['agrega']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 87
+Actual: ['ahşap', 'hasar', 'türk', '1999', 'kocaeli', 'dayanıklı', 'davranmak', 'yapı', 'deprem', 'düzce', 'iskelet', 've', 'konut', 'gelenek']
+Extracted: ['ahşap', 'iskelet']
+TP: 2 TN: 0 FP: 12 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 88
+Actual: ['sınır', 'ışınım', 'aralık', 'yangın', 'mesafe', 'güven', 'bina']
+Extracted: ['mesafe', 'metot']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 89
+Actual: ['üretken', 'mimarî', 'geometri', 'yaklaşım', 'destek', 'fraktal', 'tasarım', 'bilgisayar']
+Extracted: ['form', 'fraktal', 'mimarî', 'üremek']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 90
+Actual: ['paradigma', 'dil', 'mimarî', 'temsil']
+Extracted: ['temsil']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 91
+Actual: ['açık', 'bilgi', 'iletişim', 'teknoloji', 'şehir', 'ağı', 'mekân', 'aktivite']
+Extracted: ['aktivite', 'sanal']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 92
+Actual: ['alan', 'kamu', 'dönüşüm', 'gelişmek', 'mekân', 'sürmek', 'tasarım', 'kent']
+Extracted: ['gelişmek', 'kamu', 'kent']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 93
+Actual: ['ilke', 'algılamak', 'kimlik', 'çevre', 'haliç', 'gestalt', 'kent']
+Extracted: ['haliç', 'öge']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 94
+Actual: ['alan', 'hanehalkı', 'yer', 'seçim', 'hareket', 'memnuniyet', 'konut']
+Extracted: ['konut', 'seçim']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 95
+Actual: ['endüstri', 'fabrika', 'bursa', 'i̇pek', 'kor', 'miras']
+Extracted: ['pek']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 96
+Actual: ['türk', 'meslek', 'iş', 'değer', 'inşaat', 'kültür', 'sektör', 'fark', 'kültürel']
+Extracted: ['inşaat']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 97
+Actual: ['tahminî', 'veri', 'maliyet', 'evre', 'taban', 'tasarım', 'önce']
+Extracted: ['veri']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 98
+Actual: ['kor', 'ipekböceği', 'ekonomi', 'konut', 'mekân', 'kent']
+Extracted: ['değişim']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 99
+Actual: ['model', 'fizik', 'holistik', 'kimlik', 'turizm', 'çevre', 'sürmek']
+Extracted: ['birtakım', 'değişmek']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['ev', 'sinema', 'sanal', 'bilimkurgu', 'i̇nternet', 'bilgisayar']
+Extracted: ['ev', 'sanal']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 101
+Actual: ['bileşen', 'belirlemek', 'asal', 'ofis', 'kira', 'i̇stanbul', 'analiz', 'faktör']
+Extracted: ['analiz', 'parametre']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 102
+Actual: ['planlamak', 'kent', 'kor']
+Extracted: ['kor']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 103
+Actual: ['açık', 'gözlem', 'amasya', 'dizin', 'mekân', 'kent']
+Extracted: ['amasya', 'kent']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 104
+Actual: ['kullanmak', 'kor', 'doku', 'şehir', 've', 'özellik', 'gelenek', 'mekân']
+Extracted: ['doku', 'gelenek', 'karakteristik', 'şehir']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 105
+Actual: ['turizm', 'şehir', 'planlamak', 'memnuniyet', 'faktör']
+Extracted: ['turizm', 'şehir']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 106
+Actual: ['şekil', 'sistem', 'kompozit', 'katsayı', 'kaymak', 'panel', 'değişmek', 'sandviç']
+Extracted: ['eleman', 'sistem']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 107
+Actual: ['empati', 'mimarî', 'oyun', 'diyalog', 'sezgi', 'dil', 'tasarım']
+Extracted: ['birliktelik', 'dil', 'düşünce', 'esin', 'katkı']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 108
+Actual: ['süreç', 'gerçek', 'yönetim', 'toplam', 'bina', 'kalite']
+Extracted: ['bina', 'kalite']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 109
+Actual: ['perde', 'fds', 'modellemek', 'program', 'yangın', 'cfd', 'duman', 'hareket', 'kontrol', 'hava']
+Extracted: ['duman', 'modellemek', 'perde']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 110
+Actual: ['estetik', 'deco', 'mimarlık', 'modern', 'art']
+Extracted: ['art', 'deco']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 111
+Actual: ['formel', 'eğitim', 'bütün', 'mimarlık', 'gündelik', 'toplum', 'faaliyet', 'hayat']
+Extracted: ['eğitim', 'formel', 'gündelik']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 112
+Actual: ['boğaziçi', 'yasa', 'kent', 'kor']
+Extracted: ['boğaziçi']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 113
+Actual: ['fizik', 'nitelik', 'değer', 'kampus', 'çevre', 'dış', 'kullanım', 'yaklaşım', 'tanım', 'mekân', 've', 'bina', 'faktör']
+Extracted: ['değer', 'kullanım', 'tanım']
+TP: 3 TN: 0 FP: 10 FN: 0 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 114
+Actual: ['renk', 'algılamak', 'sıcak', 'aydın', 'parıltı', 'öznel', 'düzey']
+Extracted: ['performans', 'renk', 'sıcak']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 115
+Actual: ['sınır', 'modernizm', 'mekân', 'konut', 'yerleşmek']
+Extracted: ['sınır']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 116
+Actual: ['ahşap', 'mekanik', 'tutkal', 'lâmi', 'sarıçam', 'üretim', 'mukavemet', 'özellik', 'kiriş', 'fark']
+Extracted: ['kiriş', 'kozalak', 'çam']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 117
+Actual: ['değer', 'ölçüt', 'afet', 've', 'hoşnut', 'tercih', 'konut', 'tasarım']
+Extracted: ['afet']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 118
+Actual: ['araştırmak', 'kalitatif', 'yapım', 'proje', 'yönetim', 've', 'yöntem']
+Extracted: ['kalitatif', 'pyy']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 119
+Actual: ['konut', 'göç', 'aidiyet', 'kimlik']
+Extracted: ['aidiyet', 'kimlik']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 120
+Actual: ['sistem', 'mühendis', 'eşzamanlı', 'inşaat', 'proje', 'teslim', 'yöntem']
+Extracted: ['eşzamanlı', 'mühendis', 'proje']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 121
+Actual: ['türk', 'yüzyıl', 'anadolu', 'cami', 'mimarî']
+Extracted: ['avlu', 'cami', 'harim']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 122
+Actual: ['tüketim', 'otel', 'turizm', 'antalya', 'değişim', 'tasarım']
+Extracted: ['değişim', 'konaklamak', 'turist']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 123
+Actual: ['tüketim', 'alışveriş', 'kamu', 'merkez', 'toplum', 'ilişki', 'mekân']
+Extracted: ['kamu']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 124
+Actual: ['mimarlık', 'rasyonalizm', 'mimar', 'i̇stanbul']
+Extracted: ['aramak', 'batı', 'üslup']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 125
+Actual: ['çerçeve', 'mimarî', 'silmek', 'kapı', 'suriye', 'süslemek']
+Extracted: ['motif', 'suriye']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 126
+Actual: ['endüstri', 'kor', 'arkeoloji', 'i̇stanbul', 'işlev', 'yeniden', 'miras']
+Extracted: ['endüstri']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 127
+Actual: ['antik', 'mimarî', 'vuni', 'çağ', 'saray', 'kıbrıs']
+Extracted: ['saray']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 128
+Actual: ['1960', 'hayal', 'proje', 'lar', 'mimarlık', 'ütopya', 'hayalî']
+Extracted: ['hayalî', 'ütopya']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 129
+Actual: ['değer', 'alan', 'bütün', 'eksen', 'özellik', 'harita', 'dizi', 'mekân', 'biçimlemek']
+Extracted: ['alan', 'biçimlemek', 'hat']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 130
+Actual: ['çevre', 've', 'memnuniyet', 'konut', 'kalite']
+Extracted: ['konut', 'memnuniyet']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 131
+Actual: ['hedonik', 'beyoğlu', 'dönüşüm', 'analiz', 'konut', 'fiyat', 'kent']
+Extracted: ['can', 'fiyat', 'satmak']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 132
+Actual: ['teori', 'havza', 'oyun', 'planlamak', 'kazanç', 'sürmek', 'strateji']
+Extracted: ['aktör', 'havza']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 133
+Actual: ['ölçek', 'kurum', 'bölge', 'metropoliten', 'gelişmek', 'kapasite', 'planlamak', 'mekân', 'stratejik']
+Extracted: ['metropoliten', 'sayılı']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 134
+Actual: ['şehir', 'gelenek', 'yeni', 'tasarım', 'kent']
+Extracted: ['akım', 'yerleşmek']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 135
+Actual: ['kent', 'kullanmak', 'değer', 'park', 'algı', 'kriter', 'kalite']
+Extracted: ['kriter']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 136
+Actual: ['eski', 'merkez', 'şehir', 'yeniden', 'can']
+Extracted: ['eski', 'şehir']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 137
+Actual: ['davranmak', 'iletişim', 'tatmin', 'konut', 'insan', 'kalite']
+Extracted: ['döngü', 'iletişim', 'kalite', 'mekân']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 138
+Actual: ['dönüşmek', 'gereksinmek', 'yapı', 'gerçek', 'veri', 'mimarî', 'teknoloji', 've', 'öge', 'işlemek', 'enformasyon', 'tasarım']
+Extracted: ['gerçek', 'tasarım', 'teknoloji', 'öge']
+TP: 4 TN: 0 FP: 8 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 139
+Actual: ['müzik', 'dokunsallık', 'ses', 'teknoloji', 've', 'etkileşim', 'mekân']
+Extracted: ['fizik', 'mekân', 'ses']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 140
+Actual: ['kirletmek', 'enerji', 'emisyon', 'çevre', 'dış', 'prefabrike', 'ısıtmak', 'duvar', 'kir']
+Extracted: ['enerji', 'prefabrike', 'sistem', 'ısıtmak']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 141
+Actual: ['ilçe', 'derece', 'il', 'kriter', 'kent']
+Extracted: ['il', 'ilçe', 'kent']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 142
+Actual: ['model', 'sistem', 'anadolu', 'selçuklu', 'yerleşmek', 'kent']
+Extracted: ['anadolu', 'selçuklu']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 143
+Actual: ['ateşlemek', 'deprem', 'proje', 'dönüşüm', 'finansal', 'i̇stanbul', 'fizibilite']
+Extracted: ['deprem', 'dönüşüm']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 144
+Actual: ['yapı', 'yapım', 'yönetim', 'mimarî', 'üretim', 'hata', 'tasarım', 'kalite']
+Extracted: ['boyut', 'kalite', 'tasarım']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 145
+Actual: ['kullanım', 'yeniden', 'eskimek', 'işlemek', 'renovasyon', 'bina']
+Extracted: ['bina', 'ofis']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 146
+Actual: ['bilgi', 'yapı', 'çevre', 'mimarlık', 'yorum', 'dil']
+Extracted: ['bilgi', 'görüngü', 'özgül', 'özne', 'üretim']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 147
+Actual: ['hasar', 'risk', 'deprem', 'görmek', 'i̇stanbul', 'analiz']
+Extracted: ['deprem', 'risk']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 148
+Actual: ['mimarlık', 'modern', 'seyfi', 'arka', 'yıl']
+Extracted: ['arka', 'batı']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 149
+Actual: ['halkevi', 'mimar', 'kemalist', 'halkevleri', 'dönem', 'cumhuriyet', 'erken', 'bina', 'ideoloji']
+Extracted: ['cumhuriyet', 'halkevleri', 'kurum']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 150
+Actual: ['sürmek', 'inşaat', 'sektör', 'kalkınmak']
+Extracted: ['kalkınmak', 'sürmek']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 151
+Actual: ['dönüşüm', 'gazimağusa', 'akdeniz', 'liman', 'kent']
+Extracted: ['lima', 'liman']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 152
+Actual: ['süreç', 'davranmak', 'inşaat', 'proje', 'tutum', 'kobi', 've', 'leri']
+Extracted: ['kobi', 'sektör']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 153
+Actual: ['mode', 'süreç', 'modellemek', 'ifc', 'yapım', 'yönetim', 'ürün', 'ortak', 'crm', 'fm', 'işlemek', 'ilişki', 'enformasyon', 'bina']
+Extracted: ['bilişim', 'enformasyon', 'mode']
+TP: 2 TN: 0 FP: 12 FN: 1 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 154
+Actual: ['konfor', 'kullanmak', 'yapı', 'kabuk', 'değişken', 'cephe', 'sürmek', 'tasarım']
+Extracted: ['değişken', 'kabuk', 'puan']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 155
+Actual: ['atriyum', 'simülasyon', 'konfor', 'kullanmak', 'değer', 'performans', 'enerji', 'bina']
+Extracted: ['atriyum', 'bina', 'enerji', 'performans', 'simülasyon']
+TP: 5 TN: 0 FP: 3 FN: 0 
+Accuracy: %62.5
+-----------------
+Article Index: 156
+Actual: ['yaya', 'space', 'syntax', 'dizin', 'mekân', 'hareket', 'tasarım', 'kent', 'yürünmek']
+Extracted: ['galata', 'hareket', 'yaya']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 157
+Actual: ['acil', 'davranmak', 'kaçmak', 'kalabalık', 'hastane', 'görüş', 'açı', 'dizi', 'mekân', 'tasarı']
+Extracted: ['acil', 'bina', 'hastane', 'karmaşık']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 158
+Actual: ['alan', 'gelişmek', 'yaymak', 'yoğun', 'korunak', 'düşük', 'konut', 'kent']
+Extracted: ['alan', 'gelir', 'kent', 'konut', 'yerleşim']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 159
+Actual: ['alan', 'gelişmek', 'kültür', 'sürmek', 'konut', 'kent']
+Extracted: ['gelişmek', 'kent', 'sosyokültürel', 'sürmek']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 160
+Actual: ['gelenek', 'türkü', 'yerleşmek', 'anadolu']
+Extracted: ['anadolu', 'düşünmek', 'gündelik', 'türkü']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 161
+Actual: ['çizgi', 'yat', 'alan', 'kamu', 'turizm', 'marina', 'kıyı']
+Extracted: ['kıyı', 'marina']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 162
+Actual: ['konservasyon', 'bozmak', 'volkanik', 'itmek', 'tüf', 'su', 'morfoloji', 'çalışmak']
+Extracted: ['deney', 'kimyasal']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['dijital', 'tech', 'in', 'etkin', 'akıl', 'biçim', 'enerji', 'üretim', 'high', 'göstergebilim', 'dil', 'bina']
+Extracted: ['dizge', 'teknoloji']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 164
+Actual: ['kayseri', 'ferma', 'kor', 'kilis', 'tanzimat', 'işlev', 'yeni']
+Extracted: ['gayrimüslim', 'kilise', 'rota']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 165
+Actual: ['anadolu', 'kor', 'demiryolu', 'haydarpaşa', 'miras']
+Extracted: ['demiryolu']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 166
+Actual: ['emlak', 'talep', 'deprem', 'dağılım', 'komisyon', 'arz', 'konut', 'mekân', 'piyasa']
+Extracted: ['konut', 'piyasa', 'talep']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 167
+Actual: ['stratejik', 'işbirliği', 'marmara', 'batı', 'bölge', 'planlamak', 'sınırötesi']
+Extracted: ['bölgesel', 'işbirliği', 'kalkınmak', 'sınırötesi']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 168
+Actual: ['mode', 'katılım', 'yönetim', 'turizm', 'ortak', 've', 'frig', 'sürmek']
+Extracted: ['gelişim', 'ortaklık', 'turizm', 'yönetim']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 169
+Actual: ['yaşam', 'şehir', 'i̇stanbul', 'planlamak', 'kalite']
+Extracted: ['kalite', 'stanbul', 'ulaşım', 'yaşam']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 170
+Actual: ['malzeme', 'kaplama', 'anlam', 'cephe', 'konut', 'simgesel']
+Extracted: ['anlam', 'iletmek', 'malzeme']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 171
+Actual: ['pasif', 'iç', 'i̇klim', 'etki', 'rüzgâr', 'soğutmak', 'hareket', 'avlu', 'doğal', 'havalanmak', 'bina', 'hava']
+Extracted: ['avlu', 'hava', 'rüzgâr']
+TP: 3 TN: 0 FP: 9 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 172
+Actual: ['pasif', 'katsayı', 'eleman', 'basınç', 'dağılım', 'soğutmak', 'gölgelemek', 'doğal', 'havalanmak']
+Extracted: ['basınç', 'ge', 'kanat', 'rüzgâr']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 173
+Actual: ['doku', 'tarih', 'değişim', 'kent']
+Extracted: ['değişim', 'erzurum', 'içeri', 'kent', 'mahalle']
+TP: 2 TN: 0 FP: 2 FN: 3 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 174
+Actual: ['söylem', 'popüler', 'nostalji', 'kültür', 'metropol', 'küresel', 'kent']
+Extracted: ['kültür', 'popüler', 'söylem']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 175
+Actual: ['idarî', 'yarımada', 'yapı', 'tanzimat', 'mimarlık', 'tarih', 'dönem', 'konak']
+Extracted: ['bina', 'idarî', 'nezaret']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 176
+Actual: ['kireç', 'perlit', 'harç', 'puzolanik', 'aktivite']
+Extracted: ['aktivite', 'perlitin', 'puzolanik']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 177
+Actual: ['endüstri', 'biçim', 'geri', 'ürün', 'ölçer', 'strüktür', 'tasarı']
+Extracted: ['endüstri', 'strüktür', 'tasarım']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 178
+Actual: ['konfor', 'ilköğretim', 'aydınlatmak', 'yapmak', 'doğal', 'okul', 'görsel']
+Extracted: ['aydınlatmak', 'ilköğretim', 'konfor']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 179
+Actual: ['düzenlemek', 'alan', 've', 'arsa', 'arazi', 'aad', 'uygulamak', 'kent']
+Extracted: ['arazi', 'arsa']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 180
+Actual: ['yaşamak', 'değer', 'alan', 'i̇stanbul', 'yoğun', 'arazi', 'konut']
+Extracted: ['alan', 'arazi', 'konut', 'oran', 'yoğun']
+TP: 4 TN: 0 FP: 3 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 181
+Actual: ['araştırmak', 'i̇ngiliz', 'ta', 'kuzey', 'mimarlık', 'sömürge', 'planlamak', 've', 'kent', 'kıbrıs']
+Extracted: ['sömürge']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 182
+Actual: ['devir', 'türk', 'evren', 'devrim', 'aydınlanmak', 'mimar']
+Extracted: ['devrim']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 183
+Actual: ['klâsisizm', 'yeni', 'neoklasisizm', 'historisizm']
+Extracted: ['akı', 'antik', 'dâhil', 'klâsik', 'klâsisizm', 'neoklasisizm', 'üslup']
+TP: 2 TN: 0 FP: 2 FN: 5 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 184
+Actual: ['kalmak', 'sonra', 'kullanmak', 'esnek', 'afet', 'tercih', 'konut']
+Extracted: ['esnek', 'kalmak', 'konut']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 185
+Actual: ['araştırmak', 'konut', 'yöntem', 'nitel', 'kariyer']
+Extracted: ['görüşme', 'hane', 'konut']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 186
+Actual: ['alan', 'morfoloji', 'konut', 'dizi', 'mekân']
+Extracted: ['konut', 'tepe', 'örüntü']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 187
+Actual: ['ara', 'kavram', 'mimarlık', 'modern', 'özgün', 'mimar']
+Extracted: ['mimarlık', 'özgün', 'ürün']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 188
+Actual: ['değer', 'yapı', 'sentaks', 'arazi', 'mekân', 'kent']
+Extracted: ['arazi', 'değer', 'sokak']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 189
+Actual: ['algı', 'çocukluk', 'konut', 'bellek', 'ev']
+Extracted: ['bellek']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 190
+Actual: ['çizgi', 'yat', 'alan', 'kamu', 'turizm', 'marina', 'kıyı']
+Extracted: ['kıyı', 'marina']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 191
+Actual: ['etkin', 'ilköğretim', 'aydınlatmak', 'enerji', 'yönetim', 'tasarım']
+Extracted: ['gölgelemek', 'günışığı', 'kabuk']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 192
+Actual: ['ikonografi', 'mimarî', 'kari', 'bizans', 'resim']
+Extracted: ['kilise', 'mimarî', 'resim', 'sahne']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 193
+Actual: ['nitelik', 'çeşit', 'siluet', 'entropi', 'tasarım', 'kent']
+Extracted: ['entropi', 'görsel', 'siluet']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 194
+Actual: ['semt', 'değer', 'tasarım', 'ölçüt', 'nesnel', 'özellik', 'öznel', 'park']
+Extracted: ['park', 'tasarım']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 195
+Actual: ['çizgi', 'aralık', 'çerçeve', 'değişken', 'medya', 'topografya', 'düz', 'eğri', 'i̇nternet']
+Extracted: ['yeryüzü', 'çizgi']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 196
+Actual: ['sistem', 'kura', 'bütün', 'felsefe', 'tasarım']
+Extracted: ['dil', 'ilk', 'insan', 'işaret', 'kavram']
+TP: 0 TN: 0 FP: 5 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 197
+Actual: ['kayseri', 'kimlik', 'modern', 'konut', 'kent']
+Extracted: ['devlet', 'fabrika', 'modern', 'sanayi', 'yatırım']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 198
+Actual: ['firma', 'yüklemek', 'iş', 'inşaat', 'çevre', 'rekabet', 'sektör']
+Extracted: ['firma', 'rekabet']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 199
+Actual: ['yapı', 'bağ', 'afet', 'yer', 'yeniden', 'değişmek']
+Extracted: ['afet']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 200
+Actual: ['gelişim', 'çimento', 'taş', 'bağlamak', 'hidrolik', 'yapay', 'erken']
+Extracted: ['cephe', 'malzeme', 'taş', 'yapay']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Total accuracy of document "mimarlık" is: %21.43022916980717

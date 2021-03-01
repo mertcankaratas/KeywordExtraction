@@ -1,0 +1,1297 @@
+Article Index: 1
+Actual: ['spor', 'saygı', 'benlik', 'çocuk']
+Extracted: ['benlik', 'saygı']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 2
+Actual: ['iç', 'potansiyel', 'deniz', 'rekreasyon', 'park', 'kent']
+Extracted: ['puan']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 3
+Actual: ['alışveriş', 'rekreatif', 'zaman', 'rekreasyon', 'tüketmek', 'boş', 'perakende']
+Extracted: ['alışveriş']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 4
+Actual: ['lejyoner', 'lejyonella', 'hastalık']
+Extracted: ['hastalık', 'klor', 'lejyoner']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 5
+Actual: ['çocuk', 'sokak', 'yaşam', 'doyum']
+Extracted: ['doyum', 'çocuk']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 6
+Actual: ['eğitim', 'beden', 'dağ', 'sosyal', 'beceri']
+Extracted: ['beceri', 'denek']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 7
+Actual: ['açık', 'sağlık', 'alan', 'örtü', 'çevre', 'rekreasyon', 'çim', 'yeşil', 'insan']
+Extracted: ['insanoğlu', 'kent', 'yeşil']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 8
+Actual: ['huzurevi', 'rekreasyon', 'yaşam', 'kalite']
+Extracted: ['faaliyet', 'kalite', 'yaşam']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 9
+Actual: ['turizm', 'zaman', 'sağcan', 'rekreasyon', 'boş', 'mustafa']
+Extracted: ['kitap']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 10
+Actual: ['spor', 'rekreasyon', 'belediye']
+Extracted: ['faktör', 'farkındalık', 'tespit', 'öğrenci']
+TP: 0 TN: 0 FP: 3 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['dalyan', 'rekreasyon']
+Extracted: ['dalyan', 'rekreasyonel']
+TP: 1 TN: 0 FP: 1 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 12
+Actual: ['iklim', 'topografya', 'ordinasyon', 'rekreasyon', 'vejetasyon']
+Extracted: ['alan', 'ekolojik', 'rekreasyonel']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 13
+Actual: ['öğrenci', 'rekreasyon', 'girişim', 'düzey', 'üniversite']
+Extracted: ['dördüncü', 'girişim', 'sınıf']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 14
+Actual: ['güdü', 'fizik', 'kaygı', 'rekreasyon', 'sosyal', 'egzersiz']
+Extracted: ['egzersiz', 'güdü', 'sfk']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 15
+Actual: ['korumak', 'alan', 'turizm', 'rekreasyon', 'dağ', 'ilgaz', 'mil', 'park']
+Extracted: ['doğa', 'mil', 'park']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 16
+Actual: ['iç', 'yenice', 'potansiyel', 'dinlenmek', 'yer', 'orman', 'rekreasyon']
+Extracted: ['orman', 'yenice']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 17
+Actual: ['akademik', 'motivasyon', 'zaman', 'üniversitesi', 'rekreasyon', 'akdeniz', 'faaliyet', 'boş', 'personel']
+Extracted: ['akademik', 'boş', 'personel']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 18
+Actual: ['öğrenci', 'üniversite', 'tıp', 'kaygı']
+Extracted: ['kaygı', 'öğrenci']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 19
+Actual: ['rekreasyon', 'lider']
+Extracted: ['lider', 'rekreasyon']
+TP: 2 TN: 0 FP: 0 FN: 0 
+Accuracy: %100.0
+-----------------
+Article Index: 20
+Actual: ['hız', 'animasyon', 'turistik', 'rol', 'desteklemek', 'turizm', 'ürün', 'coaster', 'tren', 'rekreasyon', 'sürmek']
+Extracted: ['animasyon', 'coaster', 'rol', 'yatırım', 'zmir']
+TP: 3 TN: 0 FP: 8 FN: 2 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 21
+Actual: ['iç', 'konaklamak', 'med', 'fransa', 'türkiye', 'turizm', 'rekreasyon', 'club']
+Extracted: ['fransa', 'gelişmek', 'turizm', 'ülke']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 22
+Actual: ['birlik', 'spor', 'politika', 'uluslararası', 'avrupa']
+Extracted: ['ab', 'avrupa', 'politika', 'spor']
+TP: 3 TN: 0 FP: 2 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 23
+Actual: ['dayalı', 'işletme', 'su', 'antalya', 'rekreasyon']
+Extracted: ['işlemek', 'sdr']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 24
+Actual: ['eğilim', 'rekreatif', 'turizm', 'rekreasyon', 'tercih', 'çalışmak', 'sakarya']
+Extracted: ['bölüm', 'rekreasyon']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 25
+Actual: ['program', 'gelişmek', 'doktor', 'rekreasyon', 'müfredat']
+Extracted: ['program']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 26
+Actual: ['hizmet', 'avm', 'rekreasyon', 'ticarî', 'kalite']
+Extracted: ['avm', 'tüketmek']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 27
+Actual: ['memnuniyet', 'kalite', 'eğitim']
+Extracted: ['boyut', 'ders', 'kuram']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 28
+Actual: ['etki', 'alan', 'ekoloji', 'rekreasyon', 'doğal']
+Extracted: ['etki', 'faaliyet', 'olumsuz', 'rekreasyonel']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 29
+Actual: ['alışveriş', 'merkez', 'zama', 'boş', 'tercih']
+Extracted: ['alışveriş', 'personel', 'rahatlamak', 'zihin']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 30
+Actual: ['piknik', 'kamp', 'yedigöller', 'gürültü', 'rekreasyon']
+Extracted: ['gürültü', 'kullanım']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 31
+Actual: ['serbest', 'özgür', 'algılamak', 'yaşam', 'zaman', 'tatmin']
+Extracted: ['serbest', 'tatmin', 'özgür']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 32
+Actual: ['serbest', 'katılım', 'zaman', 'rekreasyon', 'park']
+Extracted: ['belediye', 'katılım', 'spor']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 33
+Actual: ['seferihisar', 'şehir', 'rekreasyon', 'yavaş']
+Extracted: ['seferihisar', 'yavaş', 'şehir']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 34
+Actual: ['sivas', 'katılım', 'akademik', 'zaman', 'rekreasyon', 'faaliyet', 'personel']
+Extracted: ['faaliyet', 'katılım', 'rekreasyon']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 35
+Actual: ['rafting', 'turizm', 'yayla', 'rekreasyon', 'trekking', 'vadi', 'fırtına']
+Extracted: ['fırtına', 'havza', 'rekreasyonel', 'vadi']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 36
+Actual: ['alan', 'erişmek', 'park', 'sürek', 'kademe']
+Extracted: ['alan', 'açı', 'kent', 'mahalle', 'semt', 'sözkonusu']
+TP: 1 TN: 0 FP: 4 FN: 5 
+Accuracy: %10.0
+-----------------
+Article Index: 37
+Actual: ['serbest', 'öğrenci', 'turizm', 'zaman', 'muğla', 'gereksinim', 'doyum']
+Extracted: ['faktör', 'serbest']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 38
+Actual: ['serbest', 'eğitim', 'rekreasyon', 'zaman']
+Extracted: ['eğitim', 'serbest']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 39
+Actual: ['serbest', 'zaman', 'rekreasyon', 'eğitim']
+Extracted: ['birey', 'deneyim']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 40
+Actual: ['serbest', 'rekreasyon', 'zaman', 'felsefe']
+Extracted: ['felsefî']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 41
+Actual: ['serbest', 'öğrenci', 'yerleşke', 'zaman', 'üniversite']
+Extracted: ['serbest', 'yerleşke', 'zaman']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 42
+Actual: ['yaşam', 'algı', 'rekreatif', 'toplum', 'rekreasyon', 'sosyal', 'uygulamak']
+Extracted: ['sosyal', 'toplum']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 43
+Actual: ['kır', 'kalkınmak', 'turizm', 'erzurum']
+Extracted: ['erzurum', 'kır']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 44
+Actual: ['araştırmak', 'zıpkın', 'av', 'rekreasyon', 'balık', 'nitel']
+Extracted: ['av']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 45
+Actual: ['kalkınmak', 'turizm', 'çeşit', 'il', 'kır', 'adana']
+Extracted: ['adana', 'gezi', 'kır']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 46
+Actual: ['potansiyel', 'rize', 'eser', 'tarih', 'rekreasyon', 'kent']
+Extracted: ['flora', 'kent', 'rekreasyonel', 'rize', 'zengin']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 47
+Actual: ['öğretim', 'kocaeli', 'eleman', 'zaman', 'üniversitesi', 'boş']
+Extracted: ['boş', 'eleman', 'öğretim']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 48
+Actual: ['mental', 'gelişim', 'rekreasyon', 'sosyal', 'retardasyon']
+Extracted: ['arkadaş', 'grup', 'hafta']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['gelişim', 'çocuk', 'sosyal', 'ayak', 'tenis']
+Extracted: ['etkin', 'gelişim', 'öğrenci']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 50
+Actual: ['gecikmek', 'pozisyon', 'sandalye', 'tekerlek', 'hissî', 'basketbol', 'şut', 'kas', 'yüzde', 'ağrı']
+Extracted: ['egzersiz', 'eksantrik', 'kas']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 51
+Actual: ['katılım', 'rekreasyonel', 'rekreasyon', 'engel', 'aktivite']
+Extracted: ['alt', 'boyut', 'eksik', 'fark', 'katılım']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 52
+Actual: ['sağlık', 'sedanter', 'rekreasyon', 'sporcu']
+Extracted: ['sedanter', 'öğrenci']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 53
+Actual: ['aile', 'süreç', 'kurum', 'turizm', 'i̇stanbul', 'işlemek']
+Extracted: ['aile', 'işlemek', 'kurum']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 54
+Actual: ['olmak', 'para', 'otel', 'turizm', 'tutum', 'etik', 'işlemek', 'meslekî']
+Extracted: ['etik', 'meslekî', 'para']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 55
+Actual: ['balıkesir', 'niş', 'pazarlamak', 'turizm', 'sektör']
+Extracted: ['niş']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 56
+Actual: ['planlamak', 'yaratı', 'menü']
+Extracted: ['menü']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 57
+Actual: ['turizm', 'toplum', 'paydaş', 'düzce', 'sivil', 'kuruluş', 'yerel']
+Extracted: ['stk']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 58
+Actual: ['araştırmak', 'akademik', 'turizm', 'kimlik', 'akademisyen', 'kariyer']
+Extracted: ['akademik', 'akademisyen', 'bilimsel']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 59
+Actual: ['tatmin', 'iklim', 'örgüt', 'iş']
+Extracted: ['klim', 'tatmin', 'örgüt']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 60
+Actual: ['türk', 'turizm', 'etmek', 'rekabet', 'küresel']
+Extracted: ['küresel']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 61
+Actual: ['restoran', 'karma', 'pazarlamak', 'etkilemek', 'etmen', 'özellik', 'dönem', 'işlemek', 'fark']
+Extracted: ['işlemek', 'pazarlamak']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 62
+Actual: ['turizm', 'gerillâ', 'pazarlamak', 'örnek']
+Extracted: ['pazarlamak']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 63
+Actual: ['model', 'sarı', 'toplam', 'veri', 'seri', 'zaman', 'çıkmak', 'turist', 'harcamak', 'kestirim', 'yapmak']
+Extracted: ['ay', 'aylık', 'harcamak']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 64
+Actual: ['zeytinliada', 'belirlemek', 'süreç', 'mesaj', 'turizm', 'tutunmak', 'kültürel']
+Extracted: ['alternatif', 'erdek', 'mesaj', 'tutunmak', 'zeytinliada', 'ürün']
+TP: 3 TN: 0 FP: 4 FN: 3 
+Accuracy: %30.0
+-----------------
+Article Index: 65
+Actual: ['araştırmak', 'türkiye', 'dergi', 'turizm', 'bibliyometri']
+Extracted: ['dergi', 'makale', 'yayımlamak']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 66
+Actual: ['sağlık', 'turizm', 've', 'turist', 'deneyim', 'tatil']
+Extracted: ['sağlık', 'sorun', 'turist']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 67
+Actual: ['işletme', 'meslek', 'eğitim', 'otel', 'turizm', 've', 'seçim', 'yüksekokul']
+Extracted: ['meslek', 'öğrenci']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 68
+Actual: ['acente', 'umre', 'i̇zmir', 'turizm', 'seyahat', 'hac']
+Extracted: ['hac', 'işlemek', 'organizasyon', 'umre']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 69
+Actual: ['dergi', 'hakem', 'turizm', 'makale', 'literatür', 'ulusal', 'bibliyometri']
+Extracted: ['makale', 'turizm', 'yayımlamak']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 70
+Actual: ['ticaret', 'alanya', 'konaklamak', 'web', 'site', 'işlemek', 'elektronik']
+Extracted: ['nternet', 'site', 'web']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 71
+Actual: ['öğrenci', 'gdo', 'üniversite', 'bilgi']
+Extracted: ['gdo', 'lu', 'ürün']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 72
+Actual: ['restoran', 'sistem', 'kayıp', 'food', 'fast', 'üretim']
+Extracted: ['fast', 'food', 'kayıp']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 73
+Actual: ['mutfak', 'sanat', 'aşçı', 'usta', 'yaratı']
+Extracted: ['yaratı']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 74
+Actual: ['inanç', 'turizm', 'hacı', 'bektaş', 'veli', 'müze']
+Extracted: ['hacıbektaş', 'inanç', 'türbe']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 75
+Actual: ['tüketim', 'mode', 'yavaş', 'food', 'turizm', 'slow', 'sürmek', 'yemek']
+Extracted: ['slow', 'sürmek', 'yavaş']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 76
+Actual: ['vermek', 'kaynak', 'yönetim', 'karar', 'insan', 'strateji']
+Extracted: ['dikkat', 'strateji', 'tazmin']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 77
+Actual: ['incelemek', 'değer', 'süreç', 'ders', 'bologna', 'anket', 'dokuma']
+Extracted: ['ders']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 78
+Actual: ['catering', 'sistem', 'hizmet', 'süreç', 'üretim', 'işlemek', 'analitik', 'yemek', 'hiyerarşi']
+Extracted: ['üretim']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 79
+Actual: ['yasa', 'bradford', 'turizm', 'pazarlamak', 'atıf', 'analiz', 'bibliyometri']
+Extracted: ['atıf', 'makale']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 80
+Actual: ['kalkınmak', 'plan', 'ajans', 'marka', 'bölge', 'şehir', 'doküman', 'analiz']
+Extracted: ['ajans', 'bölge', 'marka']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 81
+Actual: ['kor', 'idare', 'eser', 'i̇stanbul', 'tarih', 'restorasyon', 'il', 'özel']
+Extracted: ['idare', 'tabiat', 'özel']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 82
+Actual: ['rafting', 'düzce', 'su', 'spor', 'ziyaret']
+Extracted: ['rafting', 'ziyaret']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 83
+Actual: ['turizm', 'genç', 'il', 'düzce', 'üniversite']
+Extracted: ['turistik', 'öğrenci']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 84
+Actual: ['analiz', 'servperf', 'kalite', 'hizmet']
+Extracted: ['banka', 'hizmet', 'kalite']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 85
+Actual: ['bilim', 'dal', 'turizm', 'turizmbilim', 'turizmoloji', 'disiplin']
+Extracted: ['akademisyen', 'turizm']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 86
+Actual: ['turizm', 'elçi', 'turist', 'ankara', 'kültür', 'rehber', 'profesyonel', 'sürmek']
+Extracted: ['rehber', 'turist']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 87
+Actual: ['toprak', 'dek', 'türkiye', 'göç', 'ata', 'turizm', 'diaspora', 'kültür', 'uluslararası', 'ziyaret']
+Extracted: ['diaspora', 'göç']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 88
+Actual: ['turizm', 'literatür', 'turba', 'bibliyometri', 'yıllık']
+Extracted: ['makale', 'turizm', 'yıllık']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 89
+Actual: ['dış', 'kayıt', 'turizm', 'istihdam']
+Extracted: ['karakter', 'reel']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 90
+Actual: ['öğrenci', 'seçim', 'besin', 'üniversite']
+Extracted: ['besin', 'seçim']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 91
+Actual: ['turizm', 'talimhane', 'sürmek', 'sokak', 'kent']
+Extracted: ['düzen', 'kent', 'sokak', 'talimhane']
+TP: 3 TN: 0 FP: 2 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 92
+Actual: ['meslek', 'kadın', 'ayrım', 'rehber', 'turist', 'cinsiyet']
+Extracted: ['meslek', 'rehber']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 93
+Actual: ['ağ', 'konu', 'araştırmak', 'işbirliği', 'bilgi', 'ara', 'dergi', 'yapı', 'kurum', 'turizm', 'anatolia', 'sosyal', 'analiz']
+Extracted: ['ağ', 'işbirliği']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 94
+Actual: ['dergi', 'bilim', 'turizm', 'makale', 'sosyal', 'enstitü', 'bibliyometri']
+Extracted: ['makale', 'sayı']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 95
+Actual: ['adıyaman', 'turizm', 'av']
+Extracted: ['av']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 96
+Actual: ['internet', 'web', 'kolay', 'turizm', 'site', 'medikal', 'fasilitatörler']
+Extracted: ['hastane', 'site']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 97
+Actual: ['ders', 'etik', 'turizm', 'eğitim']
+Extracted: ['ders', 'etik', 'tutum']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 98
+Actual: ['algılamak', 'safranbolu', 'turizm', 'çevre', 've', 'yabancı', 'turist', 'kir', 'kent']
+Extracted: ['test', 'turist']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 99
+Actual: ['seyyah', 'seyahatname', 'tarih', 'seyahat', 'kırgızistan']
+Extracted: ['kırgızistan', 'seyahatname', 'seyyah']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 100
+Actual: ['wellness', 'spa', 'yöneticliği', 've']
+Extracted: ['spa', 'wellness', 'ürün']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 101
+Actual: ['masal', 'birey', 'edebî', 'turizm', 'metin', 'toplum']
+Extracted: ['edebî', 'kahraman', 'masal', 'metin']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 102
+Actual: ['trakya', 'işletme', 'alan', 'turizm', 'bölge', 'sulak', 'ekoturizm']
+Extracted: ['göl', 'çevre']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 103
+Actual: ['simülasyon', 'tüketim', 'havalimanı', 'kültür', 'terminal', 'yerel']
+Extracted: ['havalimanı', 'hiper', 'kültür']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 104
+Actual: ['sistem', 'bilgi', 'turistik', 'web', 'map', 'planlamak', 'earth', 'coğrafi', 'taban', 'virtual', 'rota']
+Extracted: ['antik', 'ege', 'rota']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 105
+Actual: ['kolan', 'çarpmak', 'dokuma', 'eyüboğlu', 'koleksiyon']
+Extracted: ['dokuma']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 106
+Actual: ['bakanlık', 'web', 'iletişim', 'kurum', 'turizm', 'site', 'kültür']
+Extracted: ['web']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 107
+Actual: ['eğitim', 'sağlık', 'kaynak', 'iletişim', 'turizm', 'insan']
+Extracted: ['eğitim', 'sağlık', 'turizm']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 108
+Actual: ['nikomedia', 'arkeoloji', 'turizm', 'aktif', 'dış', 'tarih', 'kültür', 'miras', 'i̇zmit']
+Extracted: ['arkeoloji', 'arkeolojik', 'buluntu', 'kent', 'tarih', 'zmit']
+TP: 2 TN: 0 FP: 7 FN: 4 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 109
+Actual: ['osmanlı', 'arkeoloji', 'seyahat', 'devlet', 'izin']
+Extracted: ['izin', 'osmanlı', 'seyahat']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 110
+Actual: ['roma', 'konaklamak', 'anadolu', 'antik', 'turizm', 'seyahat', 'çağ']
+Extracted: ['anadolu', 'antik', 'çağ']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 111
+Actual: ['yabancı', 'çalışmak', 'hak', 'izin']
+Extracted: ['hak', 'yabancı']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 112
+Actual: ['kor', 'turizm', 'biyotop', 'amasra', 'sürmek', 'yerleşim', 'kır', 'tarlaağzı', 'köy']
+Extracted: ['amasra', 'bart', 'biyotop', 'köy', 'yerleşim']
+TP: 4 TN: 0 FP: 5 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 113
+Actual: ['bursa', 'ittifak', 'kültürlerarası', 'turizm', 'köprü', 'i̇znik', 've', 'kurtuba', 'medeniyet', 'yeni']
+Extracted: ['kültür', 'medeniyet', 'turizm', 'çıktı']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 114
+Actual: ['belediye', 'idare', 'il', 'yönetim', 'turizm', 'sürmek', 'yerel', 'özel']
+Extracted: ['yerel']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 115
+Actual: ['antik', 'deprem', 'turizm', 'bölge', 'tarih', 'akdeniz', 'mitoloji', 'kent']
+Extracted: ['deprem', 'fay']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 116
+Actual: ['hedef', 'yat', 'lima', 'işletme', 'iletişim', 'pazar', 'kulak', 'kulaktan']
+Extracted: ['tekne', 'yat']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 117
+Actual: ['turizm', 'gıda', 'çevre', 'beslemek', 'ekoloji', 'güvenlik']
+Extracted: ['gıda']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 118
+Actual: ['işlemek', 'yönetim', 'turizm', 'rekabet', 'sürmek', 'yetenek']
+Extracted: ['yetenek', 'yönetim']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 119
+Actual: ['eğitim', 'turizm', 'tarih', 'müze', 'yerel']
+Extracted: ['müze', 'tarih']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 120
+Actual: ['turistik', 'çekmek', 'safranbolu', 'ürün', 'ev']
+Extracted: ['ev', 'safranbolu']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 121
+Actual: ['muhafazakâr', 'değer', 'inanç', 'turizm', 'algı', 'helâl']
+Extracted: ['muhafazakâr']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 122
+Actual: ['kıyıköy', 'doğa', 'bir', 'turizm', 've', 'destinasyon', 'yeni', 'kültürel', 'deniz']
+Extracted: ['belde', 'kıyıköy']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 123
+Actual: ['spline', 'talep', 'turizm', 'düğüm', 'nokta', 'regresyon']
+Extracted: ['regresyon', 'spline']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 124
+Actual: ['web', 'iletişim', 'turizm', 'analiz', 'kalite', 'fonksiyon']
+Extracted: ['fonksiyon', 'netice', 'site', 'web']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 125
+Actual: ['imge', 'kültürel', 'yazar', 'eser', 'gezi', 'turizm', 'hareket', 'yazı', 'edebiyat']
+Extracted: ['edebiyat', 'yazı', 'yeni']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 126
+Actual: ['hız', 'devir', 'konaklamak', 'işgücü', 'motivasyon', 'işlemek']
+Extracted: ['devir', 'işgücü']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 127
+Actual: ['antalya', 'peyzaj', 'kültürel', 'turizm']
+Extracted: ['kültürel', 'peyzaj']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 128
+Actual: ['ekonomik', 'turizm', 'fırsat', 'tehdit', 'kriz', 'yunanistan']
+Extracted: ['kriz']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 129
+Actual: ['ölçek', 'bilgi', 'jeopark', 'tutum', 'sosyal', 'yönelik', 'yaşantı']
+Extracted: ['jeopark']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 130
+Actual: ['sorun', 'bulgaristan', 'turizm', 'mil', 'park']
+Extracted: ['bulgaristan', 'mil']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 131
+Actual: ['sermaye', 'sağlık', 'kaynak', 'entelektüel', 'turizm', 'insan']
+Extracted: ['entelektüel', 'sağlık', 'sermaye']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 132
+Actual: ['havayolu', 'turizm', 'çevre', 'taşımak', 'havaalanı', 'doğal']
+Extracted: ['havaalanı', 'havayolu', 'yatırım']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 133
+Actual: ['öğrenci', 'sorun', 'öğretim', 'turizm', 'paket', 'profil', 'disiplinlerarası', 'fransızca', 'çalışmak', 'öğrenmek']
+Extracted: ['eleman', 'fransızca', 'mezun', 'sıkıntı', 'yetişmek', 'öğretim']
+TP: 2 TN: 0 FP: 8 FN: 4 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 134
+Actual: ['iyi', 'peyzaj', 'türkiye', 'sağlık', 'turizm']
+Extracted: ['peyzaj', 'sağlık']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 135
+Actual: ['banyo', 'yüzey', 'sıcak', 'bölge', 'su', 'akdeniz', 'dönem', 'deniz']
+Extracted: ['deniz', 'sıcak', 'yüzey']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 136
+Actual: ['sağlık', 'turizm', 'müşteri', 'talassoterapi', 'memnuniyet']
+Extracted: ['memnuniyet', 'merkez', 'talassoterapi']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 137
+Actual: ['gastronomi', 'şalgam', 'turizm', 'su', 'adana']
+Extracted: ['gastronomi', 'şalgam']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 138
+Actual: ['turizm', 'mağara', 'potansiyel', 'antalya']
+Extracted: ['mağara']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 139
+Actual: ['turizm', 'inanç', 'tarih', 'kültür', 'silifke']
+Extracted: ['silifke']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 140
+Actual: ['restoran', 'sistem', 'haccp', 'görükle', 'food', 'fast', 'gıda', 'güvenlik']
+Extracted: ['haccp', 'restoran', 'sistem']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 141
+Actual: ['karadeniz', 'sağlık', 'turizm', 'medikal', 'bölge', 'trabzon', 'doğu']
+Extracted: ['medikal']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 142
+Actual: ['i̇zmir', 'kültür', 'destinasyon', 'turizm']
+Extracted: ['kültür', 'tur', 'turizm']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 143
+Actual: ['otel', 'motivasyon', 'halk', 'işlemek', 'ilişki', 'çalışmak', 'kurumiçi']
+Extracted: ['kurum', 'motivasyon', 'müşteri', 'çalışmak']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 144
+Actual: ['1960', 'turizm', 'mimarî', 'kimlik', 'tusan', 'tur', 'zincir', 'larda']
+Extracted: ['mimarlık', 'tusan', 'zincir']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 145
+Actual: ['kaza', 'meslek', 'eğitim', 'iş', 'sağlık', 'turizm', 'güvenlik', 'hastalık']
+Extracted: ['güvenlik', 'hastalık', 'kaza', 'konu', 'resmî']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 146
+Actual: ['alternatif', 'havza', 'çankırı', 'turizm', 'coğrafya', 'planlamak', 'ekoturizm', 'orta']
+Extracted: ['coğrafi', 'ekoturizm', 'havza']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 147
+Actual: ['yönetmek', 'çatışmak', 'kişilik', 'otel', 'yönetim', 'özellik', 'yöntem']
+Extracted: ['yönetmek', 'çatışmak']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 148
+Actual: ['saha', 'peyzaj', 'futbol', 'turizm', 'spor', 'mimar']
+Extracted: ['futbol', 'turizm']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 149
+Actual: ['plan', 'yönetim', 'orman', 'miras', 'çamlıdere', 'fosil']
+Extracted: ['fosil', 'orman', 'çamlıdere']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 150
+Actual: ['yöre', 'ayakkabı', 'el', 'sanat', 'turizm', 'kültür']
+Extracted: ['ayakkabı', 'yöre']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 151
+Actual: ['devir', 'beylik', 'i̇zmir', 'sanat', 'tarih', 'selçuk']
+Extracted: ['taş', 'çeşme']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 152
+Actual: ['kültürel', 'turizm', 'toplum', 'finike', 'değişim']
+Extracted: ['finike', 'kültürel', 'turist', 'yerleşik']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 153
+Actual: ['yeni', 'mücadele', 'sorun', 'turistik', 'bir', 'turizm', 'çevre', 'büyük', 'anlayış', 've', 'çözüm', 'felâket', 'bilinç', 'insanoğlu', 'küresel', 'iki', 'anahtar']
+Extracted: ['barışmak', 'dünya', 'gelmek', 'insanoğlu', 'mücadele', 'savaş', 'yaşamak', 'çevre']
+TP: 3 TN: 0 FP: 14 FN: 5 
+Accuracy: %13.636363636363635
+-----------------
+Article Index: 154
+Actual: ['paydaş', 'kalite', 'futbol']
+Extracted: ['futbol']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 155
+Actual: ['alanya', 'marka', 'yönetim', 'destinasyon']
+Extracted: ['alanya', 'marka']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 156
+Actual: ['yapı', 'kurum', 'turizm', 'kimlik', 'işlemek']
+Extracted: ['kimlik', 'kurum']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 157
+Actual: ['troya', 'kazı', 'arkeoloji', 'turizm', 'kültür']
+Extracted: ['arkeolojik', 'kazı', 'troya']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 158
+Actual: ['antlaşma', 'hizmet', 'divan', 'sunu', 'karar', 'rehber', 'turist', 'adalet', 'serbestî', 'kuru']
+Extracted: ['rehber', 'vatandaş']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 159
+Actual: ['etkin', 'vücut', 'kompozisyon', 'rekreatif', 'rekreasyon']
+Extracted: ['obezite', 'personel', 'vücut']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 160
+Actual: ['bant', 'dayalı', 'sistem', 'hizmet', 'kaynak', 'yapı', 'yönetim', 'ücret', 'insan', 'kalite']
+Extracted: ['kalite', 'ücret']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 161
+Actual: ['yaşamboyu', 'yetişkin', 'eğitim', 'turizm', 've', 'öğrenmek', 'teknik']
+Extracted: ['eğitim', 'yetişkin', 'öğrenmek']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 162
+Actual: ['osmanlı', 'seyyah', 'turizm', 'seyahat', 'imparator']
+Extracted: ['dönem', 'osmanlı']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 163
+Actual: ['miras', 'kültürel', 'turizm', 'çevre']
+Extracted: ['etki', 'kültürel', 'olumsuz']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 164
+Actual: ['rol', 'kriz', 'medya']
+Extracted: ['kriz', 'medya']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 165
+Actual: ['betim', 'turizm', 'istatistik', 'görüş', 'halk', 'yerel']
+Extracted: ['kültürel', 'miras']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 166
+Actual: ['chaid', 'i̇şgören', 'işlemek', 'otel', 'analiz', 'örgüt', 'sinizm']
+Extracted: ['sinizm', 'şgören']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 167
+Actual: ['işlemek', 'konaklamak', 'otel', 'eğitim']
+Extracted: ['anlayış', 'işlemek', 'konaklamak']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 168
+Actual: ['türkiye', 'eskişehir', 'değer', 'zaman', 'avukat', 'boş']
+Extracted: ['boş', 'zaman']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 169
+Actual: ['kent', 'türkiye', 'eskişehir', 'turizm', 'pazarlamak', 'imaj', 'destinasyon', 'üniversite']
+Extracted: ['imaj', 'kent', 'tercih', 'öğrenci', 'üniversite']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 170
+Actual: ['türkiye', 'anamur', 'yapı', 'turizm', 'gelişmek', 'halk', 'kır', 'yerel']
+Extracted: ['anamur', 'turizm']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 171
+Actual: ['türkiye', 'iş', 'i̇şgören', 'sağlık', 'kaynak', 'yönetim', 'i̇si̇g', 'güvenlik', 've', 'i̇stanbul', 'insan']
+Extracted: ['güvenlik', 'işlev', 'si', 'şgören']
+TP: 1 TN: 0 FP: 10 FN: 3 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 172
+Actual: ['çanakkale', 'övd', 'türkiye', 'vatandaş', 'iş', 'davranmak', 'tatmin', 'örgüt']
+Extracted: ['tatmin', 'vatandaş', 'örgüt']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 173
+Actual: ['turizm', 'çevre', 'planlamak', 'sürmek', 'stratejik']
+Extracted: ['planlamak', 'stratejik', 'sürmek', 'çevre']
+TP: 4 TN: 0 FP: 1 FN: 0 
+Accuracy: %80.0
+-----------------
+Article Index: 174
+Actual: ['türkiye', 'engellemek', 'unsur', 'yaratı', 'ankara']
+Extracted: ['yaratı']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 175
+Actual: ['ticaret', 'gelir', 'etki', 'ekonomik', 'turizm', 'dış', 've']
+Extracted: ['açık', 'dış', 'ticaret']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 176
+Actual: ['türkiye', 'spil', 'niş', 'pazar', 'pazarlamak', 'bölüm', 'dağ', 'manisa', 'strateji']
+Extracted: ['niş', 'pazar', 'spil']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 177
+Actual: ['gözlem', 'kuş', 'türkiye']
+Extracted: ['gözlem', 'kuş']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 178
+Actual: ['bulmak', 'türkiye', 'iş', 'süreç', 'kaynak', 'antalya', 'insan', 'i̇nternet']
+Extracted: ['bulmak', 'nternet']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 179
+Actual: ['türkiye', 'hizmet', 'bölge', 'müşteri', 'memnuniyet', 'kalite', 'kapadokya']
+Extracted: ['kapadokya', 'niyet']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 180
+Actual: ['konaklamak', 'türkiye', 'duygu', 'zekâ', 'özellik', 'içerik', 'analiz', 'sektör', 'uygulamak', 'kariyer']
+Extracted: ['kariyer', 'yönetmek']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 181
+Actual: ['iç', 'türkiye', 'yönetmek', 'sorun', 'algılamak', 'iletişim', 'otel', 'bilmek', 'örgüt']
+Extracted: ['bilmek', 'sorun', 'yönetmek']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 182
+Actual: ['mardin', 'türkiye', 'turistik', 'pazarlamak', 'turizm', 'bölgesel', 'planlamak', 'destinasyon', 'imaj']
+Extracted: ['mardin', 'planlamak']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 183
+Actual: ['türkiye', 'satmak', 'süreç', 'otel', 'pazarlamak', 'almak', 'tutum']
+Extracted: ['otel', 'seçim']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 184
+Actual: ['türkiye', 'yönetim', 'amaç', 'müşteri', 'gütmek', 'beklenti', 'memnuniyet', 'toplam', 'kar', 'kuruluş', 'kalite']
+Extracted: ['bağımsız', 'kalite', 'memnuniyet', 'müşteri', 'tesis']
+TP: 3 TN: 0 FP: 8 FN: 2 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 185
+Actual: ['türkiye', 'hizmet', 'müşteri', 'tatmin', 'işlemek', 'kalite']
+Extracted: ['akşam', 'hizmet', 'müşteri']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 186
+Actual: ['ağ', 'kalkınmak', 'kurum', 'turizm', 've', 'küresel', 'yerel']
+Extracted: ['kalkınmak', 'yerel']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 187
+Actual: ['işletme', 'türkiye', 'erzurum', 'menü', 'içmek', 'menu', 've', 'dizayn', 'kart', 'yemek']
+Extracted: ['kart', 'menü']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 188
+Actual: ['alternatif', 'türkiye', 'kaynak', 'turizm', 'coğrafya', 'antalya', 'kuz', 'kö', 'kır']
+Extracted: ['kır']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 189
+Actual: ['karşılamak', 'japon', 'türkiye', 'acentalar', 'pazarlamak', 'turizm', 'destinasyon']
+Extracted: ['japon', 'pazar']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 190
+Actual: ['stres', 'konaklamak', 'türkiye', 'işlemek', 'örgüt', 'adana']
+Extracted: ['stres']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 191
+Actual: ['alanya', 'türkiye', 'göç', 'bağlantı', 'turizm', 'yaş']
+Extracted: ['alanya', 'göç']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 192
+Actual: ['birlik', 'turizm', 'bölgesel', 'polikası', 'avrupa']
+Extracted: ['avrupa', 'bölgesel', 'politika']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 193
+Actual: ['pazarlamak', 'engel', 'turizm', 'türkiye']
+Extracted: ['engel']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 194
+Actual: ['türkiye', 'marmaris', 'etki', 'turizm', 'sosyal', 'osmaniye', 'kö', 'sosyoloji']
+Extracted: ['orhaniye', 'turizm', 'yöre']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 195
+Actual: ['türkiye', 'turizm', 'ürün', 'tema', 'park']
+Extracted: ['tema']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 196
+Actual: ['türkiye', 'talep', 'ülke', 'turizm', 'akdeniz', 'robust', 'regresyon']
+Extracted: ['akdeniz', 'etkilemek', 'talep', 'turist', 'turizm', 'ülke']
+TP: 4 TN: 0 FP: 3 FN: 2 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 197
+Actual: ['etkin', 'türkiye', 'pazarlamak', 'turizm', 'i̇stanbul', 'şehir']
+Extracted: ['organizasyon', 'şehir']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 198
+Actual: ['müşteri', 'gelirleriı', 'maliyet', 'analiz', 'kar']
+Extracted: ['müşteri']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 199
+Actual: ['türk', 'sosyolojik', 'düşünmek', 'turizm', 'davranışıı', 'turist', 'kültür', 'sosyoloji']
+Extracted: ['sosyoloji', 'sosyolojik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 200
+Actual: ['türkiye', 'eskişehir', 'zaman', 've', 'hekim', 'boş', 'cinsiyet']
+Extracted: ['hekim']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 201
+Actual: ['efa', 'faktör', 'bilişim', 'mode', 'performans', 'yapı', 'otel', 'sem', 'teknoloji', 'cfa', 'doğrulamak', 'açıklamak', 'analiz', 'beş', 'işlemek', 'eşit', 'yıldız']
+Extracted: ['beklemek', 'bilişim', 'performans']
+TP: 2 TN: 0 FP: 15 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 202
+Actual: ['göl', 'potansiyel', 'turizm', 'bölge', 'tarih', 'doğal', 'sürmek']
+Extracted: ['arkeolojik', 'bölge', 'doğal', 'tarih', 'turizm']
+TP: 4 TN: 0 FP: 3 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 203
+Actual: ['belirti', 'işlemek', 'otel', 'sosyal', 'ankara', 'örgüt']
+Extracted: ['örgüt', 'şgören']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 204
+Actual: ['işlemek', 'otel', 'ankara', 'kültür', 'örgüt']
+Extracted: ['kültür', 'şgören']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 205
+Actual: ['acentaları', 'yönetim', 'analiz', 'seyahat', 'swot', 'stratejik']
+Extracted: ['dır', 'endüstri', 'stratejik']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 206
+Actual: ['serbest', 'dolaşım', 'türkiye', 'birlik', 'turizm', 'avrupa']
+Extracted: ['ab', 'dolaşım']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 207
+Actual: ['alternatif', 'alanya', 'kaynak', 'turizm', 'coğrafya', 'sezon']
+Extracted: ['alanya', 'antalya', 'ilçe', 'konya', 'saha', 'seçenek', 'turizm']
+TP: 2 TN: 0 FP: 4 FN: 5 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 208
+Actual: ['acentaları', 'müşteri', 'şikayet', 'tur', 'seyahat', 'paket']
+Extracted: ['şikayet']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 209
+Actual: ['kilit', 'sektör', 'turizm', 'analiz']
+Extracted: ['sektör']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 210
+Actual: ['toplam', 'mutfak', 'kalite', 'yönetim']
+Extracted: ['kalite', 'rekabet', 'yönetim']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 211
+Actual: ['band', 'kıyı', 'analiz', 'göcek', 'görsel']
+Extracted: ['belde', 'görsel', 'mekân']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 212
+Actual: ['emekli', 'göç', 'kimlik', 'uluslararası', 'yurttaş']
+Extracted: ['göç', 'yurttaş']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 213
+Actual: ['fuar', 'etkin', 'hata', 'önlem', 'delphi', 'teknik']
+Extracted: ['fuar', 'hata']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 214
+Actual: ['malzeme', 'hizmet', 'performans', 'otel', 'yönetim', 'rfıd', 'değerlemek', 'işlemek', 'kat']
+Extracted: ['kat', 'rfıd']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 215
+Actual: ['eğitim', 'hizmet', 'program', 'gelişmek', 'housekeeping', 'meslekî', 'temiz']
+Extracted: ['temiz']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 216
+Actual: ['mutfak', 'sıfır', 'altı', 'üretim', 'sigma', 'hata', 'yemek', 'atık']
+Extracted: ['atık', 'sigma']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Total accuracy of document "Turizm" is: %25.970797463853025

@@ -1,0 +1,1183 @@
+Article Index: 1
+Actual: ['çay', 'siyah']
+Extracted: ['dem', 'çay']
+TP: 1 TN: 0 FP: 1 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 2
+Actual: ['verim', 'ans', 'kuantum', 'triptofan', 'fret', 'leghemoglobin']
+Extracted: ['ans', 'lb']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 3
+Actual: ['ii', 'karbonik', 'over', 'polikistik', 've', 'i', 'otoantikor', 'sendrom', 'anhidraz']
+Extracted: ['ca', 'pcos']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 4
+Actual: ['psa', 'performans', 'tanı', 'prostat', 'kanser', 'bph']
+Extracted: ['cpsa', 'pca', 'psa', 'tpsa']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 5
+Actual: ['ağır', 'antropojenik', 'etki', 'nehir', 'metal', 'su', 'yeraltı']
+Extracted: ['boi', 'koi', 'mkl', 'su', 'tçk', 'yeraltı']
+TP: 2 TN: 0 FP: 5 FN: 4 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 6
+Actual: ['simvastatin', 'etki', 'enerji', 'metabolizma', 'warburg']
+Extracted: ['enerji', 'hücre', 'lösemi', 'metabolizma', 'promyelositik']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 7
+Actual: ['mutasyon', 'stromal', 'gen', 'gastrointestinal', 'dizilemek', 'farmakogenomik', 'kıt', 'tümör', 'dna']
+Extracted: ['mutasyon', 'tümör']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 8
+Actual: ['q10', 'malondialdehit', 'koenzim', 'arilesteraz', 'paraoksanaz']
+Extracted: ['koenzim', 'q10', 'yaş']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 9
+Actual: ['na', 'diyabetik', 'polinöropati', 'eritropoietin']
+Extracted: ['eritropoietin', 'na']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 10
+Actual: ['kelime', 'anahtar']
+Extracted: ['aspirin', 'txb2']
+TP: 0 TN: 0 FP: 2 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['keratinaz', 'keratin', 'kolo', 'agaroz', 'afinite', 'lektin']
+Extracted: ['enzim', 'saf', 'serin']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 12
+Actual: ['lactobacillus', 'kesik', 'fermentasyon', 'laktik', 'asit', 'su', 'altı', 'enantiyo', 'casei', 'seçim', 'peynir']
+Extracted: ['laktik', 'may', 'özüt']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 13
+Actual: ['kullanım', 'sigara', 'kan', 'hematolojik', 'parametre', 'sayım']
+Extracted: ['sigara']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 14
+Actual: ['araştırmak', 'eğitim', 'bilim', 'sağlık', 'doktor', 'mezun', 'kariyer']
+Extracted: ['mezun', 'phd']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 15
+Actual: ['moleküler', 'amilaz', 'fibuligera', 'karakterizasyon', 'saccharomycopsis', 'üretim', 'may', 'artırmak']
+Extracted: ['amilaz']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 16
+Actual: ['sitometri', 'uygulamak', 'eğitim', 'flow']
+Extracted: ['flow', 'fsm', 'sitometri']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 17
+Actual: ['moleküler', 'gen', 'genetik', 'rett', 'mecp2', 'analiz', 'sendrom', 'danışmak']
+Extracted: ['mecp2', 'mutasyon', 'rett', 'sendrom']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 18
+Actual: ['gen', 'karbonilasyonu', 'lipid', 'ekspresyonu', 'peroksidasyonu', 'mellitus', 'protein', 'diabetes']
+Extracted: ['antioksidan', 'diyabet', 'düzenlemek', 'enzim']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 19
+Actual: ['meme', 'apoptozis', 'fec', 'desitabin', 'metilasyonu', 'kanser', 'dna']
+Extracted: ['desitabin', 'kombinasyon', 'metilasyon']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 20
+Actual: ['total', 'paraoksonaz', 'stres', 'malondialdehit', 'oksidatif', 'sialik', 'asit', 'deney', 'arilesteraz', 'kolit', 'laktonaz']
+Extracted: ['kolit', 'tedavi']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 21
+Actual: ['serbest', 'lpx', 'lipid', 'antioksidan', 'peroksidasyonu', 'malabarica', 'paphia', 'radikal', 'dpph']
+Extracted: ['antioksidan', 'indirgemek', 'radikal']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 22
+Actual: ['korposküler', 'hacim', 'ortalama', 'tam', 'kan', 'antikor', 'sayım']
+Extracted: ['igg']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 23
+Actual: ['ht29', 'hücre', 'kültür', 'ileti', 'sinyal', 'ekonazol']
+Extracted: ['ekonazolün', 'ht29', 'hücre']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 24
+Actual: ['karl', 'landsteiner', 'filateli', 'tarih', 'kan', 'transfüzyon', 'grup']
+Extracted: ['karl', 'keşif', 'landsteiner']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 25
+Actual: ['stres', 'enzim', 'metil', 'oksidatif', 'antioksidan', 'hipertansiyon', 'lisinopril', 'hidroklorid', 'ester', 'n']
+Extracted: ['hipertansiyon', 'lisinopril']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 26
+Actual: ['crp', 'artrit', 'sitrülin', 'romatoid', 'arjinin', 'adma']
+Extracted: ['adma', 'arjinin', 'ra']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 27
+Actual: ['ölçmek', 'cannabis', 'belirsiz', 'opiyat']
+Extracted: ['belirsiz', 'değer']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 28
+Actual: ['lipid', 'c1236t', 'risk', 'mdr1', 'mellitus', 'polimorfizm', 'c3435t', 'diabetes']
+Extracted: ['mdr1']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 29
+Actual: ['olmak', 'aromataz', 'kanser', 'porrum', 'crocus', 'hücre', 'nobilis', 've', 'laurus', 'mentha', 'piperita', 'allium', 'sativus', 'akciğer', 'inhibitör', 'küçük']
+Extracted: ['aromataz']
+TP: 1 TN: 0 FP: 15 FN: 0 
+Accuracy: %6.25
+-----------------
+Article Index: 30
+Actual: ['fusarium', 'culmorum', 'transesterifikasyon', 'proliferatum', 'biyodizel', 'semitectum']
+Extracted: ['biyodizel', 'fusarium']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 31
+Actual: ['hrp', 'boya', 'gidermek', 'tekstil', 'reactive', 'blue', 'peroksidaz', 'endüstriyel', '19', 'rb', 'horseradish', 'atık']
+Extracted: ['boya', 'gidermek']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 32
+Actual: ['aşama', 'trombosit', 'likit', 'megakaryosit', 'hücre', 'kök', 'kültür', 'iki', 'hematopoetik']
+Extracted: ['hkh', 'hücre', 'kültür']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 33
+Actual: ['karadeniz', 'türkiye', 'heteroplazmi', 'boy', 'varyasyon', 'mersin', 'balık']
+Extracted: ['mersin', 'tekrar']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 34
+Actual: ['turbidimetri', 'karşılaştırmak', 'nefelometri', 'c', 'sistatin', 'yöntem']
+Extracted: ['cobas', 'integra', 'interferans', 'kazanım']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 35
+Actual: ['kinaz', 'etkin', 'mitojenle', 'map', 'heterotrimerik', 'g', 'mapk', 'protein']
+Extracted: ['kinaz']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 36
+Actual: ['ii', 'apoptosis', 'topoizomeraz', 'etoposit', 'onarım', 'dna']
+Extracted: ['dna', 'etoposit', 'onarım']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 37
+Actual: ['oksit', 'homosistein', 'huvec', 'endotoksemi', 'nitrik', 'adma']
+Extracted: ['adma', 'homosistein', 'huvec', 'inos', 'no']
+TP: 3 TN: 0 FP: 3 FN: 2 
+Accuracy: %37.5
+-----------------
+Article Index: 38
+Actual: ['moleküler', 'reseptör', 'yüzey', 'alan', 'rsa', 'mfa', 'androjen', 'analiz', 'katalizör', 'qsar', 'prostat', '3d', 'kanser']
+Extracted: ['androjen', 'reseptör']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 39
+Actual: ['mellitus', 'hba1c', 'diabetes', 'adma']
+Extracted: ['adma', 'hba1c']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 40
+Actual: ['lpin1', 'metabolik', 'sendrom']
+Extracted: ['lpin1', 'mets']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 41
+Actual: ['amberzyme', 'enzim', 'immobilizasyonu', 'fluorescens', 'lipaz', 'bağlama', 'pseudomonas', 'kovalent']
+Extracted: ['immobilizasyon', 'lipazın']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 42
+Actual: ['major', 'fi', 'chemical', 'fraction', 'denaturation', 'commercial', 'structural', 'stability']
+Extracted: ['cf']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['oksit', 'nos3', 'polimorfizmi', 'hint', 'vntr', 'cep', 'nitrik', 'orofasiyal']
+Extracted: ['nos3', 'nsclp', 'toplum', 'vntr']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 44
+Actual: ['dayanıklı', 'lipaz', 'rekombinant', 'kültür', 'ısı', 'coli']
+Extracted: ['besleme', 'fermentasyon', 'vasat']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 45
+Actual: ['geniş', 'yapı', 'hat', 'domuz', 'fibroblast', 'karakterizasyon', 'yorkshire', 'biyolojik']
+Extracted: ['faz', 'hat', 'hücre', 'saklamak']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 46
+Actual: ['total', 'prokalsitonin', 'faz', 'reaksiyon', 'akut', 'protein', 'endoprotez']
+Extracted: ['enfeksiyon', 'postoperatif']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['ısıl', 'geobacillus', 'karakterizasyon', 'karar', 'termofil', 'esteraz', 'ph']
+Extracted: ['enzim', 'esteraz', 'karar', 'saf']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 48
+Actual: ['ellagik', 'hesperetin', 'kalsiyum', 'eser', 'asit', 'element', 'aluminyum']
+Extracted: ['alcl3', 'ellagik']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 49
+Actual: ['siniperca', 'hafif', 'miyozin', 'scherzeri', 'ifade', 'gelişim', 'esansiyel', 'zincir', 'kas', 'balık', 'beyaz']
+Extracted: ['mlc1', 'mlc3']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 50
+Actual: ['örnek', 'toplamak', 'sıcaklık', 'numune', 'kan', 'işlemek']
+Extracted: ['santrifüj', 'ısı']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 51
+Actual: ['alg', 'miro', 'asit', 'algler', 'amino', 'mikro', 'metot', 'tatlısu', 'yeşil', 'kültivasyon']
+Extracted: ['alg', 'amino', 'biyokütle', 'yetişmek']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 52
+Actual: ['antiprotozoal', 'lycopodium', 'sitotoksisite', 'lycopodiaceae', 'aktivite']
+Extracted: ['ekstre', 'ic50']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['posa', 'şekerkamışı', 'cmcaz', 'düzenlemek', 'kabuk', 'merkez', 'komposit', 'turunçgil', 'optimizasyon']
+Extracted: ['enzim', 'vasat', 'üretim']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 54
+Actual: ['koroner', 'reseptör', 'lipid', 'kalp', 'peroksizom', 'metabolizma', 'hastalık']
+Extracted: ['kkh', 'ppar']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 55
+Actual: ['hemoglobin', 'mellitus', 'hba1c', 'beckman', 'diabetes']
+Extracted: ['hb', 'hba1c', 'varyant']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 56
+Actual: ['total', 'ar', 'fenol', 'değişik', 'güç', 'tutkal', 'histopatolojik', 'indirgemek']
+Extracted: ['ar', 'gentamicin', 'reçine', 'tavşan']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 57
+Actual: ['kavirensis', 'bufo', 'hemoliz', 'antimikrobiyal', 'peptidler', 'mic']
+Extracted: ['antimikrobiyal', 'gram']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 58
+Actual: ['yağ', 'antibakteriyel', 'vulgaris', 'ziziphora', 'tenuior', 'antioksidan', 'esansiyel', 'kotschyanus', 'clinopodioides', 'thymus']
+Extracted: ['esansiyel', 'thymus', 'vulgaris']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 59
+Actual: ['stres', 'oksidatif', 'mnsod', 'sıçan', 'yaş', 'karaciğer', 'cinsiyet', 'fark']
+Extracted: ['cinsiyet', 'mnsod', 'sıçan']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 60
+Actual: ['diyabet', 'tip', '1', 'tromboz']
+Extracted: ['apt', 'tip']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 61
+Actual: ['hipertermofil', 'kodakarensis', 'fosfoglukoz', 'termostabilite', 'archaeon', 'metaloenzim', 'izomeraz', 'thermococcus']
+Extracted: ['pgi', 'tk1111']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['agregatları', 'enzim', 'matematik', 'glukoz', 'modellemek', 'benzeşim', 'kinetik', 'oksidaz']
+Extracted: ['god', 'kinetik', 'matematik', 'model']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 63
+Actual: ['hasar', 'stres', 'lipid', 'oksidatif', 'antioksidan', 'peroksidasyonu', 'asetaminofen', 'karaciğer']
+Extracted: ['hepatit', 'karaciğer', 'toksik']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 64
+Actual: ['bakteriorodopsin', 'laser', 'immobilizasyonu', 'protein', 'biyoelektronik', 'hafıza', 'film', 'işın', 'optik']
+Extracted: ['bakteriorodopsin', 'film']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 65
+Actual: ['arıtım', 'kimyasal', 'biyoetanol', 'stipitis', 'pichia', 'ön', 'sap', 'buğday']
+Extracted: ['arıtım', 'etanol']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 66
+Actual: ['miyelin', 'demiyelinasyon', 'fare', 'remiyelinasyon', 'temel', 'protein']
+Extracted: ['fare']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 67
+Actual: ['eğitim', 'laboratuvar', 'yeterli', 'çerçeve', 'biyokimya', 'ulusal']
+Extracted: ['laboratuvar', 'yeterli', 'çalıştay']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 68
+Actual: ['klonlamak', 'karsch', 'polimorfizmi', 'modellemek', 'homoloji', 'tek', 'cdna', 'zincir', 'analjezik', 'buthus', 'konformasyon', 'martensii', 'aktivite']
+Extracted: ['analjezik', 'bmk']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 69
+Actual: ['ağır', 'biyomonitör', 'metal', 'çevre', 'balarısı', 'mineral', 'kir']
+Extracted: ['ar', 'mineral']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 70
+Actual: ['turkish', 'yayın', 'journal', 'dergi', 'bilgi', 'yazar', 'rol', 'hakem', 'okur', 'biyokimya', 'bilimsel', 'beklenti', 'of', 'editör', 'katkı', 'kalite']
+Extracted: ['dergi', 'makale', 'yayın', 'yayınlamak']
+TP: 2 TN: 0 FP: 14 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 71
+Actual: ['bileşen', 'kompozisyon', 'apoptotik', 'asit', 'biyoinformatik', 'doğru', 'amino', 'diskriminant', 'analiz', 'temel', 'protein', 'bulanık']
+Extracted: ['bulanık', 'diskriminant', 'doğru']
+TP: 3 TN: 0 FP: 9 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 72
+Actual: ['kanal', 'sitokrom', 'capsulatus', 'rhodobacter', 'pompalamak', 'oksidaz', 'yönlenmek', 've', 'mutagenez', 'proton']
+Extracted: ['alt', 'boyamak', 'e380q', 'mutasyon', 'ünite']
+TP: 0 TN: 0 FP: 10 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 73
+Actual: ['hız', 'kalın', 'media', 'intima', 'duyarlı', 'tepe', 'karotis', 'ekspiratuvar', 'ateroskleroz', 'akım', 'yüksek', 'kalorifer', 'protein']
+Extracted: ['ekspiratuvar', 'karboksihemoglobin', 'sensiviteli', 'tepe']
+TP: 2 TN: 0 FP: 11 FN: 2 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 74
+Actual: ['fusarium', 'lignoselülozik', 'biyokütle', 'aspergillus', 'selülaz', 'hal', 'niger', 'fermentasyonu', 'ksilanaz', 'oxysporum', 'katı']
+Extracted: ['ksilanaz', 'muamele', 'orman', 'selülaz']
+TP: 2 TN: 0 FP: 9 FN: 2 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 75
+Actual: ['stres', 'oksidatif', 'kist', '1', 'hidatik', 'paraoksonaz', 'arilesteraz']
+Extracted: ['durum', 'hidatik', 'kist', 'total']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 76
+Actual: ['saf', 'kısmî', 'pseudomonas', '2', 'vitamin', 'aminoasit', 'ssf', 'sp']
+Extracted: ['enzim', 'mg', 'pseudomonas', 'üretim']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 77
+Actual: ['tirozinaz', 'cupressus', 'kolinesteraz', 'antioksidan', 'sempervirens', 'sedir', 'aktivite']
+Extracted: ['ekstre']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['çapraz', 'agregatları', 'enzim', 'glıkoz', 'bağ', 'biyouyumluluk', 'oksidaz']
+Extracted: ['clea', 'çapraz']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 79
+Actual: ['lipazı', 'deterjan', 'lipaz', 'tolerant', 'organik', 'solvent', 'may', 'tolerans', 'gelenek', 'yoğurt', 'aktivite']
+Extracted: ['aktivite', 'enzim', 'mrs', 'oc']
+TP: 1 TN: 0 FP: 10 FN: 3 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 80
+Actual: ['diyabet', 'ölçüm', 'glukoz', 'belirsiz', 'gestasyonel']
+Extracted: ['belirsiz', 'gct']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 81
+Actual: ['sialik', 'ankilozan', 'spondilit', 'artrit', 'asit', 'romatoid']
+Extracted: ['ankilozan', 'sialik']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 82
+Actual: ['iç', 'belirteç', 'varyant', 'mbl', 'bağışık', 'sigara', 'doğal', 'koah', 'erken']
+Extracted: ['mbl']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 83
+Actual: ['nikel', 'salınım', 'yüzey', 'sisplatin', 'al2o3', 'polarite', 'partikül']
+Extracted: ['al2o3', 'partikül', 'sisplatin']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 84
+Actual: ['oksit', 'endotel', 'disfonksiyonu', 'dimetilarjininin', 'dimetilarjinin', 'nitrik', 'dimetilaminohidrolaz', 'asimetrik']
+Extracted: ['asimetrik', 'dimetilarjinin']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 85
+Actual: ['moleküler', 'enzim', 'evrim', 'docking', 'nitrilaz', 'üreaz', 'haloarchaea', 'tasarı']
+Extracted: ['esas', 'model', 'substrat', 'yapı', 'üreaz']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 86
+Actual: ['pch110', 'transfeksiyon', 'lipofektamin', 'vdkh', 'fugene']
+Extracted: ['fugene', 'transfeksiyon', 'vdkh']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 87
+Actual: ['ketoprofen', 'albumin', 'mikroküre', 'biyoparçalanma']
+Extracted: ['albumin', 'ilâç', 'salı']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 88
+Actual: ['gen', 'dna', 'rezidüel', 'nöroblastom', 'minimal', 'metilasyonu', 'p14arf', 'hastalık']
+Extracted: ['mycn', 'nöroblastom', 'p14arf']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 89
+Actual: ['sporcu', 'asit', 'amino', 'egzersiz', 'arjinin']
+Extracted: ['arjinin', 'egzersiz']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 90
+Actual: ['aterosleroz', 'pon2', 'polimorfizm', 'aktivite']
+Extracted: ['paraoksonaz', 'pon2', 'ser311cys']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 91
+Actual: ['gebe', 'kanı', 'd', 'vitamin', 'kordon']
+Extracted: ['kordon', 'vitamin']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 92
+Actual: ['dnaz', 'ii', 'bağırsak', 'immünabsorbsiyon', 'dlad', 'lizozom', 'ince']
+Extracted: ['dnaz', 'ii']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 93
+Actual: ['lipid', 'köken', 'diosgenin', 'safra', 'abcg8', 'kolesterol', 'abcg5']
+Extracted: ['beslenen', 'fraksiyon', 'gradiyent', 'kolesterol']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 94
+Actual: ['protoonkogenleri', 'revers', 'füzyon', 'p210', 'hücre', 'p190', 'telomeraz', 'eşsoyları', 'transkriptaz', 'transforme', 'protein']
+Extracted: ['füzyon']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 95
+Actual: ['supramoleküler', 'sistem', 't', 'spektrası', 'fluoresans', 'safranin', 'dna']
+Extracted: ['bağlamak', 'dna', 'interkalasyon']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 96
+Actual: ['astacus', 'karbaril', 'glutatyon', 'katalaz', 'karbamat', 'süperoksit', 'su', 'peroksidaz', 'dismutaz', 'istakoz', 'tatlı', 'leptodactylus']
+Extracted: ['dismutaz', 'istakoz', 'katalaz', 'peroksidaz', 'saat', 'su', 'tatlı']
+TP: 6 TN: 0 FP: 6 FN: 1 
+Accuracy: %46.15384615384615
+-----------------
+Article Index: 97
+Actual: ['preterm', 'kemotaktik', 'servikal', 'migrasyon', 'eylem', 'inhibitör', 'uzunluk', 'monosit', 'faktör']
+Extracted: ['doğum', 'mif', 'servikovaginal']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 98
+Actual: ['anodonta', 'nehri', 'dicle', 'corbicula', 'asit', 'fluminalis', 'piscinalis', 'tatlısu', 'yağ', 'midye']
+Extracted: ['fraksiyon', 'midye']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 99
+Actual: ['bilimsel', 'etik', 'yayın', 'hakem']
+Extracted: ['hakem']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 100
+Actual: ['gen', 'staphylococcus', 'eutd', 'fosfotranasetilaz', 'saprophyticus', 'inhibisyon', 'allosterik', 'analiz', 'kinetik']
+Extracted: ['pta', 'saprophyticus']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 101
+Actual: ['diyabet', 'ß', 'tip', 'pcr', 'i', 'polimorfizm', 'sitokin']
+Extracted: ['a252g', 'alel', 'diyabet']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 102
+Actual: ['trogii', 'enzim', 'antioksidan', 'kalp', 'elektrik', 'funalia', 'deltametrin', 'aktivite']
+Extracted: ['deltametrin', 'kalp', 'trogii']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 103
+Actual: ['hasar', 'vasküler', 'endotelyal', 'asetilsalisilat', 'lipopolisakkarit', 'büyümek', 'akciğer', 'faktör']
+Extracted: ['akciğer', 'asetilsalisilat', 'endotelyal', 'vasküler']
+TP: 4 TN: 0 FP: 4 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 104
+Actual: ['bacillus', 'biyodönüşüm', 'coagulans', 'koza', 'kakao', 'atık', 'selülaz', 'co4', 'tarım']
+Extracted: ['saf', 'selülaz', 'selülazın']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 105
+Actual: ['sekans', 'gen', 'cyprinus', 'carpio', 'yapı', 'üçüncül', 'l', 'pept1', 'cdna', 'analiz', 'protein']
+Extracted: ['pept1']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 106
+Actual: ['meme', 'pten', 'pi3k', 'egfr', 'alfa', 'kanser']
+Extracted: ['alfa', 'inhibitör', 'sinyal']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 107
+Actual: ['vibrofermentör', 'biyoreaktör', 'karışmak', 'tank']
+Extracted: ['havalanmak', 'hücre', 'karışmak']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 108
+Actual: ['artık', 'kurşun', 'kadmiyum', 'havuç', 'adsorban']
+Extracted: ['kadmiyum', 'kurşun']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 109
+Actual: ['stres', 'oksidatif', 'duodenal', 'mikroemülsiyon', 'aprotinin', 'ülser', 'tem']
+Extracted: ['ülser']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 110
+Actual: ['fermentasyon', 'karakterizasyon', 'bakteri', 'selülaz', 'aktivite']
+Extracted: ['asn2', 'bakteri', 'cellulomonas', 'selülaz', 'tanım']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 111
+Actual: ['trombositopenik', 'psödotrombositopeni', 'purpura', 'i̇diopatik', 'edta']
+Extracted: ['edta', 'trombosit']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 112
+Actual: ['stres', 'patoloji', 'aspirin', 'oksidatif', 'antioksidan', 'doz', 'düşük']
+Extracted: ['aspirin', 'grup']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 113
+Actual: ['etki', 'ksantin', 'antioksidant', 'aurita', 've', 'antimikrobiyal', 'laggera', 'oksidaz']
+Extracted: ['aurita', 'uçmak']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 114
+Actual: ['matriks', 'dental', 'protez', 'sabit', 'sülfat', 'potasyum', 'alüminyum', 'metalloproteinaz', 'gingival', 'mmp', 'retraksiyon', 'sitokin']
+Extracted: ['dental', 'dişeti', 'periodontal', 'protez', 'ret']
+TP: 2 TN: 0 FP: 10 FN: 3 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 115
+Actual: ['homosistein', 'lipit', 'egzersiz']
+Extracted: ['egzersiz']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 116
+Actual: ['mekanizma', 'katsayı', 'sıcaklık', 'inhibisyon', 'molekül', 'dehidrogenaz', 'ağırlık', 'kinetik', 'menten']
+Extracted: ['enzim', 'kinetik', 'mekanizma']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 117
+Actual: ['değişim', 'klonlamak', 'macrobrachium', 'kabuk', 'hemosiyanin', 'pcr', 'evre', 'nipponense']
+Extracted: ['gen', 'hemosiyanin']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 118
+Actual: ['tromboplastin', 'protrombin', 'aralık', 'zaman', 'parsiyel', 'normal', 'referans', 'uluslararası', 'oran']
+Extracted: ['yetişkin', 'çocuk']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 119
+Actual: ['aralık', 'anemi', 'b12', 'vitamin', 'referans', 'uibc', 'demir', 'folat']
+Extracted: ['demir', 'ferritin', 'folat', 'referans']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 120
+Actual: ['hasar', 'karaciğer', 'nitrit', 'fare']
+Extracted: ['ir']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['anisidin', 'anilin', 'asit', 'baz', 'dehidroasetik', 'antibakteriyal', 'şift', 'aktivite']
+Extracted: ['antibakteriyal', 'baz', 'şift']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 122
+Actual: ['kinaz', 'mb', 'kreatin', 'interferans', 'hemoliz']
+Extracted: ['havuz', 'hemoliz', 'kinaz', 'kreatin', 'miyoglobin', 'troponin']
+TP: 3 TN: 0 FP: 2 FN: 3 
+Accuracy: %37.5
+-----------------
+Article Index: 123
+Actual: ['tohum', 'soğurmak', 'protein', 'biyoinformatik']
+Extracted: ['alkalen', 'biyoinformatik', 'gen']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 124
+Actual: ['tavşan', 'serum', 'lipid', 'termal', 'yağı', 'oksidasyon', 'vanaspati', 'temizlemek', 'profil', 'radikal', 'ghee', 'aktivite']
+Extracted: ['oksit', 'profil', 'radikal', 'temizlemek', 'termal']
+TP: 4 TN: 0 FP: 8 FN: 1 
+Accuracy: %30.76923076923077
+-----------------
+Article Index: 125
+Actual: ['ii', 'nadph', 'vasküler', 'ras', 'p38', 'ang', 'hücre', 'kas', 'düz', 'mapk', 'oksidaz']
+Extracted: ['ang', 'mapk', 'p38']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 126
+Actual: ['koroner', 'protrombin', 'c677t', 'mthfr', 'arter', 'g1691a', 'xiiia', 've', 'b', 'v', 'g20210a', 'a1298c', 'faktör', 'hastalık']
+Extracted: ['faktör', 'kâh', 'mthfr', 'xiiia']
+TP: 3 TN: 0 FP: 11 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 127
+Actual: ['enzim', 'inhibisyonu', 'türev', 'gst', 'ilâç', 'benzazol']
+Extracted: ['cdnb', 'µm']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['stres', 'oksidatif', 'çinko', 'antioksidan', 'karaciğer', 'etanol']
+Extracted: ['etanol', 'çinko']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 129
+Actual: ['ksantin', 'caulerpenyne', 'inhibisyon', 'tür', 'caulerpa', 'kinetik', 'oksidaz']
+Extracted: ['caulerpenyne', 'ksantin']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 130
+Actual: ['bacillus', 'amilaz', 'enzim', 'saf', 'hidrokarbon', 'optimizasyon', 'subtilis', 'mtcc', 'molekül', 'ağırlık', 'aromatik', 'polisiklik', 'yüksek', 'bmt4i', '9447', 'aktivite']
+Extracted: ['bmt4i', 'saf', 'üretim']
+TP: 2 TN: 0 FP: 14 FN: 1 
+Accuracy: %11.76470588235294
+-----------------
+Article Index: 131
+Actual: ['serum', 'haptoglobin', 'hemoglobin', 'yaş', 'sıçan', 'protein']
+Extracted: ['haptoglobin', 'serum', 'yaş']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 132
+Actual: ['tiyoredoksin', 'stres', 'soğuk', 'glutatyon', 'süperoksit', 'peroksidaz', 'dismutaz', 'hareket', 'redüktaz', 'lep']
+Extracted: ['grup', 'lep', 'stres']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 133
+Actual: ['glomerüler', 'hız', 'yetmek', 'filtrasyon', 'böbrek', 'kreatin', 'kronik']
+Extracted: ['filtrasyon', 'formül', 'glomerüler']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 134
+Actual: ['kuşak', 'hıv', 'yalan', 'pozitif', 'advia']
+Extracted: ['hıv', 'kuşak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 135
+Actual: ['testi', 'taramak', 'üç', 'medya', 'tanımak', 'down', 'bölgesel', 'prenatal', 'sendrom']
+Extracted: ['değer', 'medya']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 136
+Actual: ['kanser', 'kolorektal', 'lektin', 'polimorfizm']
+Extracted: ['kanser', 'kolorektal']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 137
+Actual: ['tutum', 'hiperprolaktinemi', 'davranmak', 'ebeveyn']
+Extracted: ['anket', 'anne', 'baba', 'grup', 'kadın', 'prolaktin', 'tutum']
+TP: 1 TN: 0 FP: 3 FN: 6 
+Accuracy: %10.0
+-----------------
+Article Index: 138
+Actual: ['ayakkabı', 'süre', 'organik', 'ast', 'maruziyet', 'alt', 'imalât', 'solvent']
+Extracted: ['ayakkabı', 'imalât']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 139
+Actual: ['beta', 'miyeloperoksidaz', 'dönüşmek', 'glutatyon', 'oksit', 'tiyobarbiturik', 'askorbik', 'büyümek', 'asit', 'reaktif', 'nitrik', 'faktör', 'madde']
+Extracted: ['beta', 'bez', 'dönüşmek', 'tükürük', 'yara']
+TP: 2 TN: 0 FP: 11 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 140
+Actual: ['oktadekanoik', 'asit', 'elaidik', 'oleik', 'yağ', 'trans']
+Extracted: ['adezyon', 'oktadekanoik']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 141
+Actual: ['adiponektin', 'eritematoz', 'skleroz', 'lupus', 'insülin', 'direnç', 'vaspin', 'sistemik']
+Extracted: ['sle', 'ssc']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 142
+Actual: ['sığır', 'serum', 'polielektrolit', 'proteinpolielektrolit', 'albumin', 'kompleks', 'biyokonjugasyon']
+Extracted: ['albumin', 'kompleks', 'mo', 'ph', 'sığır']
+TP: 3 TN: 0 FP: 4 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 143
+Actual: ['rahu', 'rohita', 'mukus', 'labeo', 'lizozim', 'antimikrobiyal', 'protein', 'aktivite']
+Extracted: ['mukus']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 144
+Actual: ['gen', 'termofilik', 'klonlamak', 'geobacillus', 'ekspresyonu', 'caldoxylosilyticus', 'karakterizasyon', 'ksiloz', 'izomeraz']
+Extracted: ['rekombinant', 'xyi']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 145
+Actual: ['sitrülinlenmiş', 'prognozu', 'vimentin', 'sinovium', 'romatoid', 'antikor', 'artirit']
+Extracted: ['antikor', 'artrit', 'ra', 'sa']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 146
+Actual: ['batık', 'streptomyces', 'kompozit', 'yüzey', 'fermentasyon', 'smf', 'merkez', 'metot', 'rsm', 'dizayn', 'kültür', 'ccd', 'cevap']
+Extracted: ['bileşen', 'gliserol', 'kazeinat', 'soğuk', 'üretim']
+TP: 0 TN: 0 FP: 13 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 147
+Actual: ['tetrasiklin', 'arıtım', 'antibiyotik', 'su', 'biyosorpsiyon', 'caulerpa', 'scalpelliformis', 'atık']
+Extracted: ['dr', 'mertebe', 'model', 'tetrasiklin', 'yalan']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 148
+Actual: ['klonlamak', 'nadh', 'hipertermofil', 'kodakaraensis', 'flavoenzim', 'thermococcus', 'termostabil', 'oksidaz']
+Extracted: ['nadh', 'tk1392']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 149
+Actual: ['hasar', 'tip', 'hepatit', 'asit', 'protein', 'bağlamak', 'c', 'ast', 'yağ', 'alt', 'karaciğer', 'hepatosellüler', 'kronik']
+Extracted: ['aminotransferaz', 'hepatit', 'kronik']
+TP: 2 TN: 0 FP: 11 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 150
+Actual: ['ligand', 'reseptör', 'skleroz', 'aktivatörü', 'osteoporoz', 'kemik', 'osteoprotegerin', 'dansitesi', 'mineral', 'multiple']
+Extracted: ['kemik', 'opg', 'rankl', 'seviye']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 151
+Actual: ['tandem', 'spektrometre', 'kütle', 'karşılaştırmak', 'd3', 'yöntem']
+Extracted: ['d3', 'hplc', 'kemiluminesans', 'ria', 'yöntem']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 152
+Actual: ['akkaraman', 'süt', 'atomik', 'koymak', 'absorbsiyon', 'spektrofotometre', 'laktasyon', 'iz', 'element', 'genotipi', 'dönem', 'merinos']
+Extracted: ['baş', 'laktasyon', 'laktasyonun', 'süt']
+TP: 2 TN: 0 FP: 10 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 153
+Actual: ['q10', 'yenidoğan', 'sarılık', 'koenzim']
+Extracted: ['bilirubin', 'koenzim', 'q10']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 154
+Actual: ['hipotiroidizim', 'hipertiroidizim', 'kadın', 'peptit', 'natriüretik']
+Extracted: ['düzey', 'tiroit']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 155
+Actual: ['gammaglutamyl', 'osteoporoz', 'belirteç', 'biyokimya', 'postmenapoz', 'transferase']
+Extracted: ['kemik', 'transferaz', 'üriner']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 156
+Actual: ['hemoglobin', 'glukoz', 'mellitus', 'a1c', 'hiperglisemi', 'protein', 'diabetes']
+Extracted: ['a1c', 'dansiteli', 'tolerans']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 157
+Actual: ['hematoloji', 'tam', 'soğutmak', 'kan', 'sayım']
+Extracted: ['kan', 'örnek']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 158
+Actual: ['testi', 'fanconi', 'tanımak', 'anemi', 'algoritma', 'deb', 'fancd2']
+Extracted: ['fancd2', 'olgu']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 159
+Actual: ['oksijen', 'monoamin', 'mao', 'fare', 'tür', 'reaktif', 'oksidaz']
+Extracted: ['h2o2', 'mao']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 160
+Actual: ['karbakol', 'adenilat', 'siklaz', 'ileti', 'sinyal']
+Extracted: ['camp', 'muskarinik', 'reseptör']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 161
+Actual: ['ii', 'birlik', 'unep', 'osha', 'zarar', 'seveso', 'yönerge', 'avrupa', 'madde']
+Extracted: ['girişim', 'karar', 'yönerge']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 162
+Actual: ['uzak', 'genetik', 'gammarus']
+Extracted: ['dna', 'gammarus', 'mitokondrial', 'çoğalmak']
+TP: 1 TN: 0 FP: 2 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 163
+Actual: ['antioksidan', 'hdl', 'asit', 'askorbik']
+Extracted: ['hdl']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 164
+Actual: ['kül', 'karbohidrat', 'mantar', 'nem', 'kompozisyon', 'azot', 'kimyasal', 'eser', 'yabanî', 've', 'element', 'yağ', 'major', 'protein']
+Extracted: ['besin', 'mantar', 'yenmek']
+TP: 1 TN: 0 FP: 13 FN: 2 
+Accuracy: %6.25
+-----------------
+Article Index: 165
+Actual: ['hasar', 'mekanik', 'stres', 'oksidatif', 'ventilasyon', 'teofilin', 'kas', 'solunum']
+Extracted: ['oksidatif', 'teofilin', 'xo']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 166
+Actual: ['denge', 'bikarbonat', 'enzimatik', 'hesaplamak', 'ölçü']
+Extracted: ['bikarbonat', 'gaz', 'kan', 'ölçüm']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 167
+Actual: ['hepatit', 'polimorfizm', 'paraoksonaz', 'siroz', 'pon', 'kronik']
+Extracted: ['hepatit', 'siroz']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 168
+Actual: ['stimülasyon', 'bitki', 'regülâtör', 'asit', 'amino', 'kişniş']
+Extracted: ['gy', 'ışımak']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 169
+Actual: ['genetik', 'hemoraji', 'polimorfizm', 'kininojen', 'intraserebral']
+Extracted: ['kng1', 'sh']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 170
+Actual: ['lox', 'antioksidan', 'nepeta', 'lipoksijenaz', 'calamintha', 'yağ', 'uçmak', 'aktivite']
+Extracted: ['lipoksijenaz', 'nepeta', 'uçmak']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 171
+Actual: ['araştırmak', 'aşı', 'hıv', 'kapasite', 'üretim']
+Extracted: ['aşı']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 172
+Actual: ['glutatyon', 'katalaz', 'mangan', 'süperoksit', 'dismutaz', 'polimorfizm', 'migren']
+Extracted: ['cat', 'migren']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 173
+Actual: ['endotoksin', 'nox', 'böbrek', 'arjinin', 'karaciğer', 'adma']
+Extracted: ['adma', 'arjinaz', 'böbrek', 'doku', 'endotoksemi']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 174
+Actual: ['paraoksonaz', 'streptozotosin', 'mellitus', 'aminoguanidin', 'diabetes']
+Extracted: ['grup', 'pon', 'sk']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 175
+Actual: ['aile', 'ras', 'onkogenez', 'rasgap', 'rasgef', 'küçük']
+Extracted: ['hücre', 'ras']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 176
+Actual: ['glomerüler', 'hız', 'karşılaştırmak', 'standardizasyon', 'filtrasyon', 'böbrek', 'kreatin', 'yöntem', 'kronik', 'hastalık']
+Extracted: ['jaffe', 'kreatin', 'yöntem']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 177
+Actual: ['bileşim', 'vulgaris', 'esansiyel', 'yağ', 'antimikrobiyal', 'thymus', 'aktivite']
+Extracted: ['esansiyel', 'tür', 'yağ']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 178
+Actual: ['ölçüm', 'aşağı', 'belirsiz', 'dış', 'yaklaşım', 'yukarı', 'kontrol', 'kalite']
+Extracted: ['belirsiz', 'test', 'ölçüm']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 179
+Actual: ['tavşan', 'stres', 'yara', 'oksit', 'glutatyon', 'oksidatif', 'kesi', 'aminoguanidin', 'iyleşmesi', 'nitrik']
+Extracted: ['tavşan', 'yara']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 180
+Actual: ['cajanus', 'korumak', 'hepatik', 'hepatit', 'sıçan', 'caja']
+Extracted: ['antiperoksidatif', 'caja', 'cajanus', 'glutatyon', 'indükte']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 181
+Actual: ['moleküler', 'enzim', 'evrim', 'bağdaşmak', 'arkea', 'formiltetrahidrofolat', 'ligaz', 'dinamik', 'dizayn']
+Extracted: ['bölge', 'varyant']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 182
+Actual: ['mulamele', 'alkali', 'küspe', 'sakkarifikasyon', 'şeker', 'ön', 'kamış']
+Extracted: ['koh', 'lignin']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 183
+Actual: ['in', 'vitro', 'tuberosum', 'varyasyon', 'rapd', 'solanum', 'kültür', 'somaklonal']
+Extracted: ['bap', 'kallus', 'varyasyon']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 184
+Actual: ['karbon', 'enzim', 'tetraklorür', 'antioksidan', 've', 'stobadin', 'beyin']
+Extracted: ['karbon', 'tetraklorür']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 185
+Actual: ['antijen', 'sitokrom', 'giemsa', 'fragmentasyonu', 'boyamak', 'tunel', 'c', 'm30', 'propidyum', 'anneksin', 'dna']
+Extracted: ['apoptozis', 'ölüm', 'örn']
+TP: 0 TN: 0 FP: 11 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 186
+Actual: ['total', 'hasar', 'sialik', 'troponin', 'bağ', 'asit', 'miyokart', 've', 'lipit', 'i', 'infarktüsü', 'hücre', 'deney']
+Extracted: ['miyokart', 'sialik']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 187
+Actual: ['karbodiimid', 'polielektrolitler', 'su', 'sentetik', 'çözünmek', 'biyokonjugasyon', 'peptidler']
+Extracted: ['molekül', 'peptid', 'polielektrolit']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 188
+Actual: ['akrilik', 'salınım', 'akrilamid', 'hidrojel', 'asit', 'sefaleksin', 'ilâç', 'jelâtin', 'kontrol']
+Extracted: ['hidrojeller', 'ilâç', 'ph', 'salınım']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 189
+Actual: ['ortalama', 'b12', 'normal', 'vitamin', 'aon', 'kontrol', 'kalite']
+Extracted: ['formül', 'limit']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 190
+Actual: ['film', 'pku', 'amonyak', 'i̇mmobilizasyon', 'fenilketonüri', 'poliester', 'jelâtin', 'pal', 'fenilalanin', 'liyaz']
+Extracted: ['fenilalanin', 'immobilize']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 191
+Actual: ['serbest', 'antioksidan', 'taurin', 'böbrek', 'radikal', 'tümör']
+Extracted: ['grup', 'taurin', 'tümör']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 192
+Actual: ['mutasyon', 'mikroarray', 'dehidrogenaz', 'eksik']
+Extracted: ['dehidrogenaz', 'olgu']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 193
+Actual: ['guanidin', 'fi', 'hidroklorür', 'evre', 'üre', 'denatürasyon', 'floresans']
+Extracted: ['evre', 'floresans', 'hidroklorür']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 194
+Actual: ['ölüm', 'folfiri', 'apoptoz', 'sitokeratin', 'kolon', 'hücre', '18', 'kanser']
+Extracted: ['ck18', 'folfiri', 'ölüm']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 195
+Actual: ['harmonizasyon', 'laboratuvar', 'klinik', 'karşılaştırmak', 'standardizasyon', 'test', 'hba1c', 'laboratuvarlararası']
+Extracted: ['harmonizasyon', 'laboratuvar', 'standardizasyon']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 196
+Actual: ['sıvı', 'glukoz', 'asit', 'ishal', 'hiyaluronik', 'buzağı', 'sinoviyal', 'protein']
+Extracted: ['sinoviyal', 'sıvı', 'viskozite']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 197
+Actual: ['metanol', 'değer', 'aspergillus', 'sitrik', 'asit', 'niger', 'etanol', 'kinetik']
+Extracted: ['etanol', 'sitrik', 'üretim']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Total accuracy of document "temeltip" is: %17.423559652583233

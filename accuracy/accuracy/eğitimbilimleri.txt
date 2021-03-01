@@ -1,0 +1,1177 @@
+Article Index: 1
+Actual: ['süreç', 'danışmak', 'bağışlamak', 'psikolojik']
+Extracted: ['bağışlamak', 'danışmak']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 2
+Actual: ['ölçek', 'yapı', 'ortam', 'öğrenmek']
+Extracted: ['yöo', 'öğretmen']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 3
+Actual: ['anlamak', 'farkındalık', 'fonolojik', 'okumak']
+Extracted: ['beceri', 'birinci', 'okumak']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 4
+Actual: ['etkin', 'matematik', 'algı', 'öğretmen']
+Extracted: ['matematik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 5
+Actual: ['eğitim', 'sorun', 'çevre', 'azerbaycan', 've', 'bilinç']
+Extracted: ['çevre']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 6
+Actual: ['etkin', 'matematik', 'algı', 'öğretmen']
+Extracted: ['matematik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 7
+Actual: ['mülakat', 'öğretmen', 'güvenirlik', 'geçer', 'seçim', 'sınav', 'aday']
+Extracted: ['mülakat', 'puanlamak']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 8
+Actual: ['teknik', 'müze', 'drama', 'eğitim']
+Extracted: ['müze']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 9
+Actual: ['model', 'öğrenci', 'kaygı', 'performans', 'bilmek', 'sosyal', 'müzik']
+Extracted: ['kaygı', 'performans']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 10
+Actual: ['geçer', 'öğrenci', 'yabancı', 'güvenirlik']
+Extracted: ['faktör', 'güvenirlik', 'yabancı', 'ölçek']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 11
+Actual: ['öğrenci', 'sistem', 'şifrelemek', 'geçmek', 've', 'yükseköğretim', 'sınav', 'seçmek', 'yerleşmek']
+Extracted: ['şifrelemek']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 12
+Actual: ['terki', 'eğitim', 'finansman', 'planlamak', 'yükseköğretim', 'okul']
+Extracted: ['üye']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 13
+Actual: ['pısa', 'eşdeğer', 'ortalama', 'yapı', 'oky', 'çok', 'ölçmek', 'doğrulamak', 've', 'madde', 'analiz', 'dmf', 'değişmek', 'kovaryans', 'grup', 'faktör', 'fonksiyon']
+Extracted: ['dmf', 'madde']
+TP: 2 TN: 0 FP: 15 FN: 0 
+Accuracy: %11.76470588235294
+-----------------
+Article Index: 14
+Actual: ['çokdisiplin', 'disiplinlerötesi', 'kırmak', 'disiplinlerarası', 'yükseköğretim', 'paradigmatik']
+Extracted: ['disiplin', 'evre']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['postmodern', 'eğitim', 'öğretmen', 'coğrafya', 'modern', 'mülk']
+Extracted: ['coğrafya', 'mekân']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 16
+Actual: ['akı', 'üç', 'aşama', 'kavram', 'yanılgı', 'analoji', 'test', 'elektrik', 'harita']
+Extracted: ['elektrik', 'kavram']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 17
+Actual: ['edinim', 'gereksinim', 'göstermek', 'dil', 'gelişim', 'çocuk', 'yönelmek', 'normal', 'etkileşim', 'özel']
+Extracted: ['etkileşim', 'çocuk']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 18
+Actual: ['etkin', 'akademik', 'ders', 'fen', 'gazete', 'teknoloji', 've', 'başarı']
+Extracted: ['ders', 'gazete']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 19
+Actual: ['eğitim', 'öğretmen', 'program', 'yetişmek', 'beden']
+Extracted: ['beden', 'ders', 'öğretmen']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 20
+Actual: ['öğrenci', 'birinci', 'bitişik', 'eğik', 'ilköğretim', 'sınıf', 'yazı', 'yazma']
+Extracted: ['bitişik', 'eğik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 21
+Actual: ['örüntü', 'derece', 'genel', 'sınıf', 'doğru', 've', 'strateji', 'ikinci']
+Extracted: ['strateji', 'örüntü']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 22
+Actual: ['süreç', 'yazma', 'geribildirim', 'tür']
+Extracted: ['geribildirim']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 23
+Actual: ['lider', 'etik', 'güven', 'örgüt', 'yılmak']
+Extracted: ['etik', 'lider']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 24
+Actual: ['matematik', 'öğretim', 'öğretmen', 'değer', 'ders', 'program', 'biçim', 'sınıf', 'ölçmek', 'biçmek', 've', 'yönelik']
+Extracted: ['beşinci', 'mdöp', 'sınıf', 'uygulamak', 'öğretmen']
+TP: 2 TN: 0 FP: 10 FN: 3 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 25
+Actual: ['ölçek', 'güvenirlik', 'farkındalık', 'geçer', 've', 'bilinç']
+Extracted: ['bi', 'fö']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['akı', 'üç', 'aşama', 'kavram', 'yanılgı', 'analoji', 'test', 'elektrik', 'harita']
+Extracted: ['elektrik', 'kavram']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 27
+Actual: ['ergen', 'program', 'yaşam', 'amaç', 'pozitif', 'psikoterapi']
+Extracted: ['ergen']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 28
+Actual: ['pısa', 'türk', 'sistem', 'eğitim', 'yönetim']
+Extracted: ['oecd', 'pısa']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 29
+Actual: ['ölçek', 'öğrenci', 'ders', 'staj', 'uygulamak', 'algı', 'sosyoloji']
+Extracted: ['algı', 'ders', 'sosyoloji']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 30
+Actual: ['okul', 'yönetmek', 'işkolik']
+Extracted: ['işkolik', 'yönetmek']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 31
+Actual: ['matematik', 'bilim', 'doğa', 'fen', 'alan', 'öğretmen', 'çalıştay', 've']
+Extracted: ['bilim']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 32
+Actual: ['kalmak', 'değer', 'kaygı', 'gelişim', 'dosya', 'tamamlamak', 'sınav', 'bireysel', 'öğrenmek']
+Extracted: ['grup', 'kaygı', 'sınav']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 33
+Actual: ['öğrenci', 'ara', 'alan', 'gönül', 'problem', 'yardım', 'üniversite']
+Extracted: ['yardım']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 34
+Actual: ['öğretim', 'laboratuvar', 'ders', 'fen', 'program', 'süreç', 'teknoloji', 'kitap', 've', 'bilimsel', 'beceri']
+Extracted: ['beceri', 'etkin', 'kitap']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 35
+Actual: ['okul', 'yeterlik', 'yönetmek', 'öğretmen']
+Extracted: ['yönetmek']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 36
+Actual: ['güvenirlik', 'çözmek', 'sosyal', 'çocukluk', 'beceri', 'problem', 'orta']
+Extracted: ['problem', 'yaş', 'çocuk', 'çözmek']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 37
+Actual: ['geçer', 'kendi', 'sabotaj', 'güvenirlik']
+Extracted: ['ksö']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 38
+Actual: ['düşünmek', 'eğitim', 'öğretmen', 'yaratı', 'okul', 'önce']
+Extracted: ['grub', 'orijinal', 'sözel']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['eğitim', 'öğretmen', 'günlük', 'aday', 'yansımak']
+Extracted: ['aday', 'öğretmen']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 40
+Actual: ['düşünmek', 'bilmek', 'farkındalık', 'algı', 'üst', 'zekâ', 'çözmek', 'problem', 'ihtiyaç']
+Extracted: ['bilmek', 'farkındalık', 'zekâ', 'üst']
+TP: 4 TN: 0 FP: 5 FN: 0 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 41
+Actual: ['path', 'düşünce', 'otomatik', 'analiz']
+Extracted: ['düşünce', 'otomatik']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 42
+Actual: ['zihin', 'farkındalık', 'okumak', 'beceri', 'engel']
+Extracted: ['beceri', 'okumak', 'sesbilgisel']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 43
+Actual: ['ergen', 'değer', 'algı', 'zaman', 'kültür', 'boş']
+Extracted: ['boş', 'zaman']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 44
+Actual: ['ölçek', 'öğretmen', 'yapı', 'ortam', 'yöoö', 'öğrenmek', 'aday']
+Extracted: ['öğrenmek']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 45
+Actual: ['dayalı', 'kimya', 'öğretim', 'elektroliz', 've', 'problem', 'pil', 'öğrenmek']
+Extracted: ['kimya', 'pdö', 'öğrenmek']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 46
+Actual: ['kişisel', 'öğretim', 'bağımsız', 'öğrenim', 'yabancı', 'dil', 'fark', 'öğrenmek', 'strateji']
+Extracted: ['dil', 'strateji']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 47
+Actual: ['kavram', 'reaksiyon', 'yanılgı', 'enerji', 'kimyasal', 've', 'öğrenmek', 'başarı']
+Extracted: ['deney', 'kavram', 'ünite']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 48
+Actual: ['ölçek', 'alan', 'ortam', 'destek', 'ortaklaşa', 'bdoö', 'sosyal', 'öğrenmek', 'etkileşim', 'bilgisayar']
+Extracted: ['dil', 'etkileşim', 'türkçe', 'ölçek', 'özgün']
+TP: 2 TN: 0 FP: 8 FN: 3 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 49
+Actual: ['hizmetiçi', 'eğitim', 'öğretmen', 'gelişim', 'meslekî']
+Extracted: ['beklenti', 'hizmetiçi']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 50
+Actual: ['obsesyon', 'kompulsiyon', 'bilmek', 'yaklaşım']
+Extracted: ['belirti', 'danışmak', 'grup']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 51
+Actual: ['eğitim', 'öğretmen', 'yaratı', 'önce', 'aday', 'yöntem', 'okul', 'drama', 'özyeterlik']
+Extracted: ['drama', 'yaratı']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 52
+Actual: ['fizik', 'matematik', 'kavram', 'öğretmen', 'genel', 'ders', 'yanılgı', 've', 'aday', 'limit', 'görsel']
+Extracted: ['fizik', 'limit', 'matematik']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 53
+Actual: ['neden', 'düzey', 'kor', 'sınıf', 'tür', 'cinsiyet', 'canlı']
+Extracted: ['biyosferik', 'canlı']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 54
+Actual: ['senaryo', 'kavram', 'kullanmak', 'bilmek', 'stil']
+Extracted: ['bilmek', 'senaryo']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 55
+Actual: ['iş', 'çok', 'dil', 'dünya', 'i̇ngilizce']
+Extracted: ['ilân', 'sektör', 'site', 'yabancı']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 56
+Actual: ['öğretmen', 'sesbilgisel', 'farkındalık', 'işitmek', 'aday', 'engel']
+Extracted: ['sesbilgisel']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 57
+Actual: ['katılım', 'aile', 'okumak', 'çocuk', 'işitmek', 'engel']
+Extracted: ['aile', 'çocuk', 'örüntü']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 58
+Actual: ['eğitim', 'iletişim', 'yönetim', 'denetim', 'denet']
+Extracted: ['beklenti', 'denet', 'iletişim']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 59
+Actual: ['işbirliği', 'kura', 'coğrafya', 'çok', 'istatistik', 'zekâ', 'öğrenmek']
+Extracted: ['deney', 'grub', 'ortalama', 'puan', 'sontest']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 60
+Actual: ['stres', 'iş', 'eşit', 'yapı', 'modellemek', 'şiddet', 'yaşam', 'tükenmek', 'psikolojik', 'doyum']
+Extracted: ['doyum', 'tükenmek']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 61
+Actual: ['güdü', 'öğrenci', 'matematik', 'eğitim', 'lise', 'öğrenmek', 'strateji']
+Extracted: ['güdü', 'puan', 'strateji', 'çaba']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 62
+Actual: ['teori', 'evrim', 'öğretim', 'öğretmen', 'davranmak', 'ara', 'planlamak', 'biyoloji', 'içerik', 'analiz', 'kültür', 'nitel', 'çalışmak', 'aday']
+Extracted: ['evrim', 'niyet']
+TP: 1 TN: 0 FP: 13 FN: 1 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 63
+Actual: ['kimya', 'mode', 'ders', 'motivasyon', 'yaşam', 'günlük', 'tutum', '5', 'yönelik', 'öğrenmek', 'temel']
+Extracted: ['günlük', 'kimya']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 64
+Actual: ['matematik', 'eğitim', 'ilköğretim', 'göre', 'doğru', 'simetri']
+Extracted: ['simetri']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 65
+Actual: ['eğitim', 'biçim', 'uzak', 'çevrimiçi', 'öğrenmek', 'strateji']
+Extracted: ['öğrenmek']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 66
+Actual: ['ölçek', 'eşdeğer', 'güvenirlik', 'bilmek', 'stil', 'geçer', 'dil', 'görsel']
+Extracted: ['nesne', 'stil', 'sözel', 'uzam']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 67
+Actual: ['stres', 'baş', 'öğretmen', 'duygu', 'kimlik', 'çıkmak', 'zekâ', 'işlev', 'aday', 'strateji']
+Extracted: ['kimlik', 'zekâ']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 68
+Actual: ['öğretmen', 'dil', 'farkındalık', 'tutum', 'ağız', 'aday']
+Extracted: ['ağız']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 69
+Actual: ['yönetim', 'çok', 'tutum', 'toplum', 'müdür', 'kültür', 'okul', 'fark']
+Extracted: ['kültür', 'müdür']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 70
+Actual: ['ölçek', 'güvenirlik', 'yaşam', 'geçer', 'okul', 'kalite']
+Extracted: ['alpha', 'boyut', 'faktör', 'okul', 'yapı']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 71
+Actual: ['statü', 'i̇klim', 'zorba', 'algı', 'sanal', 'sosyal', 'genellemek', 'akran', 'gelenek', 'okul']
+Extracted: ['zorba']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 72
+Actual: ['danışman', 'dinlemek', 'eğitim', 'iletişim', 'beceri', 'psikolojik', 'danışmak']
+Extracted: ['beceri', 'dinlemek']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 73
+Actual: ['rol', 'stil', 'bağ', 'yalnız', 'cinsiyet']
+Extracted: ['rol', 'yalnız']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 74
+Actual: ['mode', 'algılamak', 'yapı', 'umut', 'saygı', 'benlik', 'sosyal', 'destek', 'ergenlik', 'eşit']
+Extracted: ['benlik', 'ergen', 'model', 'saygı', 'umut']
+TP: 3 TN: 0 FP: 7 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 75
+Actual: ['öğretmen', 'duygu', 'ifade', 'sınıf', 'tarz', 'zekâ', 'öfke', 'aday']
+Extracted: ['zekâ', 'öfke']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 76
+Actual: ['iyi', 'öğrenci', 'kura', 'oluşmak', 'seçim', 'öznel', 'ihtiyaç', 'temel', 'üniversite']
+Extracted: ['ihtiyaç', 'öznel']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 77
+Actual: ['danışman', 'ilköğretim', 'kırmak', 'yönlenmek', 'cesaret', 'psikolojik']
+Extracted: ['okul', 'süreç', 'yönelmek', 'öğrenci']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['özel', 'öğretim', 'eleman', 'bağ', 'üniversitesi', 'örgüt', 'öğrenmek', 'devlet', 'üniversite']
+Extracted: ['bağ', 'örgüt']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 79
+Actual: ['kolektif', 'öğretim', 'öğretmen', 'lider', 'müdür', 'yeterlik', 'öz', 'okul']
+Extracted: ['kolektif', 'yeterlik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 80
+Actual: ['iç', 'sermaye', 'bilgi', 've', 'güven', 'sosyal', 'paylaşım', 'örgüt', 'okul']
+Extracted: ['paylaşım', 'sermaye']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 81
+Actual: ['akademisyen', 'hareket', 'kültür', 'psikolojik', 'kariyer']
+Extracted: ['akademisyen', 'hareket', 'kanada']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 82
+Actual: ['saat', 'ders', 'süre', 'dinlenmek', 'dönem', 'okul', 'tatil']
+Extracted: ['geçiri', 'okul', 'tatil', 'veli', 'yarı', 'zaman']
+TP: 2 TN: 0 FP: 5 FN: 4 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 83
+Actual: ['oecd', 'ülke', 'analiz', 'kümelemek', 'ayırmak']
+Extracted: ['küme', 'ülke']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 84
+Actual: ['mode', 'korumak', 'eğitim', 'korku', 'motivasyon', 'uyarı', 've', 'biyoloji', 'sigara', 'birleşik', 'paket', 'yazılı']
+Extracted: ['uyarı']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 85
+Actual: ['model', 'pısa', 'aşama', 'matematik', 'ülke', 'çok', 'komşu', 'öğrenmek', 'başarı', 'strateji']
+Extracted: ['aşama', 'değişken', 'strateji', 'ülke']
+TP: 3 TN: 0 FP: 7 FN: 1 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 86
+Actual: ['ölçek', 'güvenirlik', 'akademik', 'motivasyon', 'geçer', 'adaptasyon']
+Extracted: ['geçer', 'motivasyon', 'sınamak', 'ölçek']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 87
+Actual: ['sorgulamak', 'timss', 'dayalı', 'öğretim', '2007', 'hlm', 'reform']
+Extracted: ['fen', 'okul']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 88
+Actual: ['yönetmek', 'öğretmen', 'aday', 'okul', 'uygulamak']
+Extracted: ['uygulamak', 'öğretmen']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 89
+Actual: ['eğitim', 'öğretmen', 'motivasyon', 'karar', 'strateji', 'aday', 'okul', 'öğrenmek', 'önce']
+Extracted: ['karar', 'motivasyon', 'strateji']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 90
+Actual: ['saldırgan', 'yeterli', 'duygu', 've', 'müdahale', 'sosyal', 'çözmek', 'problem', 'önlemek']
+Extracted: ['değer', 'duygu', 'çocuk']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 91
+Actual: ['okulöncesi', 'davranmak', 'stil', 'sosyal', 'dönem', 'olumlu', 'yeterlik', 'ebeveyn']
+Extracted: ['anne', 'ebeveyn', 'stil', 'çocuk']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 92
+Actual: ['model', 'araştırmak', 'geçirmek', 'öğretim', 'otistik', 'otizm', 'video', 'gözde', 'bozuk']
+Extracted: ['video']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 93
+Actual: ['kaza', 'model', 'olmak', 'otizm', 'ilkyardım', 'video', 'basit', 'güvenlik', 'beceri', 'ev']
+Extracted: ['beceri', 'denek', 'ilkyardım']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 94
+Actual: ['olmak', 'öğrenci', 'zihin', 'değer', 'davranmak', 'yetersiz', 'sosyal', 'beceri', 'problem']
+Extracted: ['beceri', 'puan', 'yetersiz']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 95
+Actual: ['endişe', 'eğitim', 'öğretmen', 'sınıf', 'tutum', 'etkileşim', 'kaynaşmak']
+Extracted: ['kaynaşmak', 'sınıf']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 96
+Actual: ['anlamak', 'kelime', 'kuram', 'okumak', 'i̇şlemleme']
+Extracted: ['kelime', 'okumak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 97
+Actual: ['birinci', 'öğretim', 'değer', 'bitişik', 'eğik', 'güçlük', 'sınıf', 'yazı']
+Extracted: ['harf', 'yazı']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 98
+Actual: ['anlamak', 'öğretim', 'okumak', 'i̇lkokuma', 'düzey', 'yazma']
+Extracted: ['anlamak', 'okumak']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 99
+Actual: ['öneri', 'bilişim', 'sorun', 'öğretmen', 'ders', 'ilköğretim', 'teknoloji', 'müdür', 've', 'çözüm', 'okul']
+Extracted: ['bt']
+TP: 0 TN: 0 FP: 11 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['öğretim', 'bilim', 'doğa', 'fen', 'program', 'okuryazar', 'bilimsel', 'içerik', 'analiz']
+Extracted: ['bilim', 'biyoloji', 'kimya', 'temas', 'vurgulamak']
+TP: 1 TN: 0 FP: 8 FN: 4 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 101
+Actual: ['fizik', 'algılamak', 'destek', 'sosyal', 'aktivite']
+Extracted: ['aktivite', 'destek', 'fizik']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 102
+Actual: ['aday', 'öğretmen']
+Extracted: ['aday', 'inanç', 'yeterlik']
+TP: 1 TN: 0 FP: 1 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 103
+Actual: ['ruhsal', 'lider', 'öğretim', 'eleman']
+Extracted: ['lider', 'ruhsal']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 104
+Actual: ['bağıntı', 'güvenirlik', 'aile', 'ölçüt', 'yaşam', 'kalite', 'geçer', 'doğrulamak', 'analiz', 'faktör']
+Extracted: ['aile', 'beach', 'center', 'kalite']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 105
+Actual: ['öğrenci', 'birinci', 'yönetmek', 'eğitim', 'ilköğretim', 'aile', 'yönetim', 'sınıf', 'veli', 'okul', 'uzman']
+Extracted: ['aile', 'veli']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 106
+Actual: ['iyi', 'öğrenci', 'etkin', 'öğretim', 'değer', 'öğretmen']
+Extracted: ['eleman', 'öğretim']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 107
+Actual: ['boy', 'elektronik', 'veri', 'yaşam', 'ortam', 'öğrenmek', 'başarı', 'maden', 'faktör']
+Extracted: ['elektronik', 'öğrenmek']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 108
+Actual: ['networks', 'artificial', 'student', 'performance', 'neural', 'prediction', 'regression']
+Extracted: ['ysa']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 109
+Actual: ['eşdeğer', 'ortalama', 'mode', 'yapı', 'kişilik', 'ölçmek', 've', 'dönem', 'kovaryans', 'beş', 'ergenlik', 'faktör']
+Extracted: ['faktör', 'fke', 'kişilik', 'yapı']
+TP: 3 TN: 0 FP: 9 FN: 1 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 110
+Actual: ['zihin', 'davranmak', 'engel', 'çocuk', 'sosyal', 'beceri', 'problem', 'ebeveyn']
+Extracted: ['ebeveyn', 'faktör', 'sbds']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 111
+Actual: ['internet', 'duygu', 'kullanım', 'saygı', 'zekâ', 'problem', 'öz']
+Extracted: ['nternet']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['orta', 'matematik', 'ders', 'başarı', 'okul']
+Extracted: ['avrupa', 'seviye', 'türkiye']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 113
+Actual: ['powerpoint', 'matematik', 'öğretim', 'somut', 'materyal']
+Extracted: ['materyal', 'öğretim']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 114
+Actual: ['neden', 'öğretim', 'öğrenim', 'taktik', 'görmek', 'sosyal', 'yüksek']
+Extracted: ['taktik']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 115
+Actual: ['eğitim', 'boy', 'öğretmen', 'yaşam', 'öğrenmek', 'yeterlik']
+Extracted: ['anahtar', 'boy', 'yeterlik']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 116
+Actual: ['öğrenci', 'öğretmen', 'mutlu', 'müdür', 'okul']
+Extracted: ['mutlu']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 117
+Actual: ['amerikan', 'eğitim', 'türk', 'vatandaş']
+Extracted: ['amerikan', 'türk', 'vatandaş']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 118
+Actual: ['akademik', 'tutum', 'yabancı', 'dil', 'başarı', 'anadil']
+Extracted: ['başarı', 'tutum']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 119
+Actual: ['ahlaki', 'tipik', 'gelişim', 'yargı', 'yaratı', 'üstün', 'yetenek', 'drama']
+Extracted: ['ahlaki', 'yargılamak', 'üstün']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 120
+Actual: ['bilgi', 'güvenirlik', 'alan', 'teknolojik', 'geçer', 'pedagojik']
+Extracted: ['güvenirlik', 'lik', 'tpab', 'yapı', 'ölçek']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 121
+Actual: ['genel', 'meslekî', 'i̇ngilizce', 'öğretmen']
+Extracted: ['ngilizce', 'yetkin']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 122
+Actual: ['ölçek', 'genç', 'gelişmek', 'tutum', 'yönelik']
+Extracted: ['madde', 'tutum', 'ölçek']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 123
+Actual: ['olmak', 'çözümlemek', 'gereksinim', 'öğretim', 'eğitim', 'merkez', 'türkçe', 'yabancı', 'dil', 'öğrenmek']
+Extracted: ['dil', 'gereksinim', 'öğrenmek']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 124
+Actual: ['olmak', 'inanç', 'ilişki', 'rasyonel', 'romantik']
+Extracted: ['romantik']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 125
+Actual: ['eğitim', 'öğretmen', 'ders', 'dönüt', 'spor', 'beden', 've']
+Extracted: ['dönüt']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 126
+Actual: ['türk', 'ders', 'almak', 'kitap', 'içerik', 'analiz', 'okul']
+Extracted: ['imaj', 'kitap', 'türk']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 127
+Actual: ['meslekî', 'okul', 'yönetmek', 'tükenmek']
+Extracted: ['tükenmek', 'yönetmek']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 128
+Actual: ['dil', 'öğrenmek', 'strateji']
+Extracted: ['strateji']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 129
+Actual: ['beceri', 'yaratı', 'drama', 'muhakeme']
+Extracted: ['işitsel', 'muhakeme', 'çocuk']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 130
+Actual: ['ölçek', 'eğitim', 'kavram', 'bracken', 'öykü', 'temel', 'yöntem', 'okul', 'önce']
+Extracted: ['deney', 'kavram', 'test', 'çocuk', 'öykü']
+TP: 2 TN: 0 FP: 7 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 131
+Actual: ['sorgulamak', 'öğrenci', 'bilgi', 'klinik', 'alan', 'görüşme', 'pedagojik', 'strateji']
+Extracted: ['aday', 'sorgulamak']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 132
+Actual: ['matematik', 'öğretmen', 'çözmek', 'problem', 'öğrenmek', 'değişim']
+Extracted: ['ikilem', 'pedagoji', 'süreç', 'takip', 'çözmek']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 133
+Actual: ['araştırmak', 'meslek', 'öğretmen', 'yetişmek', 'inanç', 'tutum', 'yönelik', 'boylam', 'özyeterlik']
+Extracted: ['meslek', 'özyeterlik']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 134
+Actual: ['eğitim', 'öğretmen', 'program', 'metafor', 'aday']
+Extracted: ['aday', 'program', 'öğretmen']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 135
+Actual: ['olmak', 'ydt', 'dil', 'gelişmek', 'türkçe', 'yabancı', 'analiz', 'müfredat', 'ihtiyaç', 'durum']
+Extracted: ['ihtiyaç', 'ydt', 'ydtö']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 136
+Actual: ['araştırmak', 'eğitim', 'öğretmen', 'değer', 'öncelik', 'yönelim']
+Extracted: ['eğitim', 'öğretmen']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 137
+Actual: ['eğitim', 'teknoloji']
+Extracted: ['nternet', 'paylaşım', 'site', 'teknoloji', 'web']
+TP: 1 TN: 0 FP: 1 FN: 4 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 138
+Actual: ['matematik', 'tutum', 'üstbiliş', 'öğrenmek', 'uyarlamak']
+Extracted: ['güvenilir', 'sdl']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 139
+Actual: ['matematik', 'kavram', 'eğitim', 'ilke', 'değer', 'sayı', 'saymak', 'kardinal']
+Extracted: ['ilke', 'saymak']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 140
+Actual: ['düşünmek', 'inanç', 'eleştirel', 'üstbiliş', 'epistemolojik']
+Extracted: ['eleştirel', 'epistemolojik', 'eğilim']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 141
+Actual: ['öğrenci', 'öğretmen', 'akademik', 'algı', 'tutum', 'sorumluluk', 'yönelik', 'başarı']
+Extracted: ['algı', 'başarı', 'sorumluluk']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 142
+Actual: ['eğitim', 'öğretmen', 'duyarlı', 'farkındalık', 'toplum', 've', 'cinsiyet']
+Extracted: ['duyarlı', 'toplum']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 143
+Actual: ['eğitim', 'vatandaş', 'ders', 'hak', 'kitap', 've', 'insan']
+Extracted: ['hak', 'insan']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 144
+Actual: ['program', 'geçmek', 'çocuk', 'müdahale', 'önce', 'görüşme', 'ebeveyn', 'gereksinim', 'okul', 'erken', 'özel']
+Extracted: ['geçmek', 'ög']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 145
+Actual: ['fizik', 'saldırgan', 'davranmak', 'sosyal', 'dönem', 'ilişki', 'okul', 'önce']
+Extracted: ['saldırgan', 'çocuk']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 146
+Actual: ['cinsiyet', 'kariyer', 'akademik']
+Extracted: ['akademisyen', 'kadın', 'kariyer']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 147
+Actual: ['ergen', 'ergenlik', 'duygu', 'özerklik']
+Extracted: ['birliktelik', 'ergen', 'ideal', 'özerklik']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 148
+Actual: ['gelenek', 'matematik', 'kanıtlamak', 'öğretmen']
+Extracted: ['kanıt', 'kanıtlamak']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 149
+Actual: ['ölçek', 'güvenirlik', 'geçer', 'çevrimiçi', 'hazırbulunuşluluk', 'öğrenmek']
+Extracted: ['hazırbulunuşluluk', 'türkçe', 'çevrimiçi', 'ölçek']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 150
+Actual: ['güvenirlik', 'duygu', 'geçer', 'zekâ', 'özellik']
+Extracted: ['geçer', 'güvenirlik', 'türkçe']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 151
+Actual: ['öğretmen', 'zorba', 'farkındalık', 'çocuk', 'sanal', 'tehdit', 'i̇nternet']
+Extracted: ['sanal', 'zorba']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 152
+Actual: ['yönetmek', 'öğretmen', 'stajyer', 'sosyal', 'okul']
+Extracted: ['stajyer']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 153
+Actual: ['eğitim', 'gelişim', 'okul', 'bellek', 'önce']
+Extracted: ['bellek', 'sürmek']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 154
+Actual: ['ab', 'türk', 'sistem', 'eğitim', 'ülke', 'cinsiyet', 'eşit']
+Extracted: ['ab']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 155
+Actual: ['aile', 'geçirmek', 'gözde', 'eğitim']
+Extracted: ['aile', 'önem']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 156
+Actual: ['katılım', 'bab', 'sağlık', 'ruh', 'anne', 'ergenlik']
+Extracted: ['anne', 'bab', 'katılım']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 157
+Actual: ['uçurmak', 'pedagoji', 'haber', 'örgüt', 'muhalefet']
+Extracted: ['muhalefet', 'yönetmek']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 158
+Actual: ['vignette', 'eğitim', 'öğretmen', 'hikâye', 'teknik']
+Extracted: ['hikâye', 'vignette', 'örnek']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 159
+Actual: ['çözümlemek', 'teori', 'çatışmak', 'geçmek', 've', 'tür', 'sosyal', 'ilişki', 'ergenlik', 'değişim', 'strateji']
+Extracted: ['çatışmak']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 160
+Actual: ['ara', 'bilgi', 'güvenirlik', 'geçer', 'çevrimiçi', 'strateji']
+Extracted: ['envanter', 'katsayı', 'mcdonald', 'omega', 'çevrimiçi']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 161
+Actual: ['alternatif', 'seçil', 'kavram', 'rehber', 'materyal', 'doğal', 'adaptasyon']
+Extracted: ['seçil', 'test']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 162
+Actual: ['bilgi', 'öğretim', 'genel', 'eğitim', 'öğretmen', 'sınıf', 'sosyal', 'beceri', 'düzey', 'kaynaşmak']
+Extracted: ['beceri', 'bilgi', 'sosyal']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 163
+Actual: ['öğrenci', 'farabi', 'lisans', 'eğitim', 'program', 'fakülte', 'değişim']
+Extracted: ['değişim', 'farabi', 'program']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 164
+Actual: ['öğrenci', 'iç', 'ilköğretim', 'motivasyon', 'okumak', 'dış']
+Extracted: ['motivasyon', 'okumak']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 165
+Actual: ['geometrik', 'geogebra', 'dönüşüm']
+Extracted: ['dinamik', 'ötelemek']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 166
+Actual: ['eğitim', 'program', 'gelişmek', 'lisansüstü', 'doktor', 'tez']
+Extracted: ['doktor', 'tez']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 167
+Actual: ['fizik', 'eğitim', 'bilgi', 'sağlık', 'alan', 'beden', 'ilgili', 'uygun']
+Extracted: ['bilgi', 'sfu']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 168
+Actual: ['öğrenci', 'bilim', 'ilköğretim', 'davranmak', 'merkez', 'öğrenmek', 'i̇nformal']
+Extracted: ['merkez', 'set']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 169
+Actual: ['testi', 'kavram', 'yanılgı', 'eğitim', 'fen', 'bilgi', 'öğretmen', 'astronomi', 'aday']
+Extracted: ['astronomi', 'fen']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 170
+Actual: ['öğretim', 'akademik', 'eleman', 've', 'cinsiyet', 'başarı']
+Extracted: ['başarı', 'etkilemek']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 171
+Actual: ['ergen', 'aile', 'yordayıcı', 'işlev', 'istismar']
+Extracted: ['cinsel', 'istismar']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 172
+Actual: ['öğrenci', 'senaryo', 'örnek', 'öğretmen', 'davranmak', 'a', 'istemek', 'vak']
+Extracted: ['davranmak', 'istemek', 'rehber']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 173
+Actual: ['öğrenci', 'başarı', 'akademik', 'özdisiplin', 'özdeş', 'okul']
+Extracted: ['akademik', 'başarı', 'kişilik', 'özdeş', 'özdisiplin']
+TP: 4 TN: 0 FP: 2 FN: 1 
+Accuracy: %57.14285714285714
+-----------------
+Article Index: 174
+Actual: ['olmak', 'konuşmak', 'sözcük', 'bütün', 'sözlü', 'dil', 'anadil']
+Extracted: ['anadil']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 175
+Actual: ['i̇şgören', 'ilköğretim', 'ses', 'örgüt', 'okul']
+Extracted: ['katılım', 'ses']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 176
+Actual: ['conners', 'derecelemek', 'öğretmen', 'güvenirlik', 'geçer', 'doğrulamak', 'kısa', 'analiz', 'faktör']
+Extracted: ['güvenirlik', 'kısa']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 177
+Actual: ['eğitim', 'bab', 'davranmak', 'sorun', 'program', 'anne', 'çocuk', 'depresyon']
+Extracted: ['anne', 'bab', 'baba']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 178
+Actual: ['statü', 'gelir', 'eğitim', 'meslek', 'aile', 'yatırım', 'sosyoekonomik', 'sınıf', 'çocuk', 'sosyal', 'ya', 'uygulamak', 'da']
+Extracted: ['aile', 'sosyal']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 179
+Actual: ['anlamak', 'kavram', 'yanılgı', 'geometrik', 'yaprak', 'çalışmak', 'optik']
+Extracted: ['geometrik', 'optik', 'yaprak']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 180
+Actual: ['öğretmen', 'dörtgen', 'sınıf', 'köşegen', 'aday']
+Extracted: ['köşegen']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 181
+Actual: ['matematik', 'inanmak', 'öğretmen', 'hak', 'aday']
+Extracted: ['inanmak']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 182
+Actual: ['model', 'ölçek', 'mode', 'bilmek', 'stil', 'envanter', 'kolb', 'gregorc', 'portre', 'öğrenmek']
+Extracted: ['stil', 'öğrenmek']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 183
+Actual: ['kaygı', 'çözmek', 'destek', 'sosyal', 'problem']
+Extracted: ['kaygı', 'sosyal']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 184
+Actual: ['hesaplamak', 'kıyaslamak', 'esnek', 'duyu', 'sayı', 'nokta', 'kullanım', 'referans', 'kesir']
+Extracted: ['boyut', 'duyu', 'madde', 'ölçek']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 185
+Actual: ['kimya', 'ad', 'eğitim', 'kimyasal', 'jigsaw', 'bileşik']
+Extracted: ['başarı', 'bileşik', 'deney', 'jigsaw', 'öğrenci']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 186
+Actual: ['üç', 'eğitim', 'öğretmen', 'ders', 'çevre', 'kitap', 'temel', 'çalışmak', 'yıllık']
+Extracted: ['kitap', 'set']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 187
+Actual: ['öğretim', 'bilgi', 'alan', 'işlem', 'bölme', 'açıklamak', 'öğretmek']
+Extracted: ['bölme', 'işlem']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 188
+Actual: ['öğretim', 'eğitim', 'eleman', 'program', 've', 'profil', 'yükseköğretim', 'fakülte']
+Extracted: ['eleman', 'öğretim']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 189
+Actual: ['özerklik', 'duygu', 'doğrulamak', 'analiz', 'ergenlik', 'faktör']
+Extracted: ['döö', 'faktör', 'özgün']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 190
+Actual: ['vatandaş', 'davranmak', 'odak', 'örgüt', 'denetim']
+Extracted: ['denetim']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 191
+Actual: ['öğrenci', 'dayalı', 'tıp', 'tutum', 'görüş', 'problem', 'öğrenmek']
+Extracted: ['pdö']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 192
+Actual: ['kavram', 'eğitim', 'tarih', 'felsefe', 'düşünce']
+Extracted: ['aristo', 'erdemli', 'eser', 'politika']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 193
+Actual: ['teori', 'evrim', 'bilim', 'doğa', 'öğretmen', 'biyoloji', 'aday']
+Extracted: ['doğa', 'evrim', 'teori']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 194
+Actual: ['öğrenci', 'puan', 'değer']
+Extracted: ['ayırmak', 'kredi', 'mevcud', 'sınıf', 'tanımlamak']
+TP: 0 TN: 0 FP: 3 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 195
+Actual: ['pısa', 'mode', 'yapı', 'fen', 'okuryazar', 'eşit', '2006']
+Extracted: ['fen', 'okuryazar']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 196
+Actual: ['eğitim', 'yetişkin', 'bbc', 'i̇ngiltere', 'hak', 'okumak', 'teknoloji', 'okuryazar', 'kullanım', 'kampanya', 'temel']
+Extracted: ['kampanya', 'toplum']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Total accuracy of document "eğitimbilimleri" is: %21.734079829067834

@@ -1,0 +1,1033 @@
+Article Index: 1
+Actual: ['çay', 'bitki', 'tortum', 'peyzaj', 'odun', 'havza', 'planlamak', 'tür', 'doğal']
+Extracted: ['havza', 'peyzaj', 'planlamak', 'tortum', 'özellik']
+TP: 4 TN: 0 FP: 5 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 2
+Actual: ['bitki', 'fayda', 'azerbaycan', 'dağ', 'ekosistem']
+Extracted: ['rastlamak', 'yıllık']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 3
+Actual: ['spermatophyta', 'zonguldak', 'pteridophyta', 'flora']
+Extracted: ['divizyosuna', 'tür']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 4
+Actual: ['türkiye', 'minuartia', 'nifensis', 'nif', 'biyoloji', 'dağ', 'üremek']
+Extracted: ['birey', 'dişi', 'hermafrodit', 'toz', 'çiçek']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 5
+Actual: ['bitki', 'vejetasyon', 'yetişmek', 'bölge', 'ekoloji', 'orman', 'akdeniz', 'analiz', 'ortam', 'birliktelik']
+Extracted: ['grup', 'ortam']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 6
+Actual: ['gaziantep', 'lokaliteler', 'flora']
+Extracted: ['isim']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 7
+Actual: ['polen', 'türkiye', 'anatomi', 'mikroskop', 'ışık', 'peganum', 'harmala', 'morfoloji']
+Extracted: ['harmala', 'peganum', 'zygophyllaceae']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 8
+Actual: ['tufa', 'türkiye', 'anadolu', 'batı', 'bryofit', 'flora', 'formasyon']
+Extracted: ['bryofit', 'tufa']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 9
+Actual: ['türkiye', 'ankara', 'vadi', 'flora', 'hacıkadın']
+Extracted: ['hacıkadın', 'keçiören', 'takson']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 10
+Actual: ['yeni', 'gaziantep', 'teucrium', 'lokalite']
+Extracted: ['gaziantep', 'hausskn', 'paederotoides']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 11
+Actual: ['kekik', 'allelopati', 'yayla', 'karaçam', 'ardıç', 'yağ', 'uçmak']
+Extracted: ['uçmak']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 12
+Actual: ['verbenaceae', 'karadeniz', 'türkiye', 'ağaç', 'kısmet', 'clerodendrum']
+Extracted: ['bungei']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 13
+Actual: ['hederifolium', 'cyclamen', 'cites']
+Extracted: ['yumru']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 14
+Actual: ['türkiye', 'dağ', 'flora', 'nemrut', 'adıyaman']
+Extracted: ['esna', 'tohum', 'çenek']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['kadın', 'kor', 'yaymak', 'çalı', 'çeşit', 'doğal', 'biyolojik']
+Extracted: ['andırın', 'kadın', 'yaymak', 'çalı']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 16
+Actual: ['türkiye', 'kültür', 'salvia', 'lamiaceae', 'adaçayı']
+Extracted: ['officinalis']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 17
+Actual: ['soğuk', 'odun', 'türkiye', 'tomentosa', 'kayıt', 'mil', 'yeni', 'çürük', 'park', 'onnia']
+Extracted: ['tomentosa', 'kayıt', 'mil', 'yeni', 'çürük']
+TP: 5 TN: 0 FP: 5 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 18
+Actual: ['kısır', 'kars', 'türkiye', 'dağ', 'vejetasyon', 'ardahan']
+Extracted: ['dağ', 'kısır']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 19
+Actual: ['anadolu', 'domuz', 'karakterizasyon', 'dactylis', 'ayrık']
+Extracted: ['mera', 'ıslah']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 20
+Actual: ['bitki', 'sof', 'türkiye', 'dağ', 'soğan']
+Extracted: ['biflorus', 'cancellatus', 'crocus', 'mathew']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 21
+Actual: ['türkiye', 'alcea', 'taksonomi', 'malvaceae', 'iucn']
+Extracted: ['alcea', 'kategori']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 22
+Actual: ['türkiye', 'revizyon', 'labiatae', 'taksonomi', 'calamintha']
+Extracted: ['calamintha']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 23
+Actual: ['güney', 'türkiye', 'marmara', 'bölge', 'tür', 'coleoptera', 'çeşit', 'hydrophilidae']
+Extracted: ['lumetus']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 24
+Actual: ['ağır', 'polen', 'metal', 'kayısı', 'kurşun', 'kir']
+Extracted: ['polen']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 25
+Actual: ['türkiye', 'mamak', 'ankara', 'vadi', 'flora', 'kö', 'kıbrıs']
+Extracted: ['element']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['populasyon', 'var', 'kor', 'ekoloji', 'biyoloji', 'dianthus', 'erinaceus']
+Extracted: ['ilişki', 'ortalama', 'sarıkaya']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 27
+Actual: ['bitki', 'peyzaj', 'örtü', 'sarıkamış', 'çeşit', 'doğal', 'biyolojik', 'tasarım', 'mimar']
+Extracted: ['odun', 'peyzaj', 'tür', 'önem']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 28
+Actual: ['alg', 'i̇zmir', 'taksonomi', 'ege', 'flora', 'çeşme', 'deniz']
+Extracted: ['değişken']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 29
+Actual: ['ağır', 'cedrus', 'anatomi', 'nigra', 'pinus', 'metal', 'kurşun', 'yaprak', 'libani', 'kir']
+Extracted: ['yaprak']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 30
+Actual: ['stres', 'incir', 'anatomi', 'alan', 'yaprak', 'elektromanyetik', 'hareket', 'stoma']
+Extracted: ['stoma', 'stres']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 31
+Actual: ['kare', 'nâdir', 'a2', 'ciğerotu', 'tür', 'karayosunu']
+Extracted: ['a2', 'avrupa', 'ikinci', 'kayıt']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 32
+Actual: ['compositae', 'taksonomi', 'cass', 'phalolepis', 'morfoloji', 'centaurea']
+Extracted: ['morfolojik', 'morfometrik']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 33
+Actual: ['türkiye', 'çakmak', 'samsun', 'flora', 'baraj']
+Extracted: ['takson']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['izolâsyon', 'algler', 'ctab', 'kahverengi', 'dna']
+Extracted: ['dna']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 35
+Actual: ['serpula', 'türkiye', 'lacrymans', 'basidiomycetes', 'serpulaceae', 'çürük', 'kuru']
+Extracted: ['dolmabahçe', 'lacrymans', 'resmetmek', 'saray', 'schröt', 'serpula', 'wulfen']
+TP: 2 TN: 0 FP: 5 FN: 5 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 36
+Actual: ['bitki', 'tohum', 'türkiye', 'kor', 'sem', 'endemik', 'morfoloji']
+Extracted: ['tohum']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 37
+Actual: ['sakarat', 'bitki', 'vasküler', 'amasya', 'dağ', 'flora']
+Extracted: ['araştırmak', 'tür']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 38
+Actual: ['ekoloji', 'paracaryum', 'boraginaceae', 'türkiye']
+Extracted: ['çarşakotu']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['karyotip', 'amaryllidaceae', 'galanthus', 'foster', 'analiz']
+Extracted: ['foster']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 40
+Actual: ['biyospeleoloji', 'türkiye', 'mağara', 'omurgasızlar']
+Extracted: ['altsınıf', 'omurgasızlar', 'tür']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 41
+Actual: ['türkiye', 'anatomi', 'delileana', 'dağılım', 'çeşit', 'morfolojik', 'crithopsis']
+Extracted: ['delileana']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 42
+Actual: ['türkiye', 'amasya', 'dağ', 'gümüşhacıköy', 'flora', 'i̇negöl']
+Extracted: ['negöl', 'tane']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['yeni', 'türkiye', 'boraginaceae', 'kayıt', 'anchusa']
+Extracted: ['aegyptiaca']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 44
+Actual: ['çorum', 'türkiye', 'sucul', 'yozgat', 'fauna', 'coleoptera']
+Extracted: ['yozgat', 'çorum']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 45
+Actual: ['karadeniz', 'türkiye', 'amasya', 'bölge', 'etnobotanik', 'katkı']
+Extracted: ['gün', 'köy']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 46
+Actual: ['i̇zmir', 'alan', 'bir', 'rubiaceae', 'yaymak', 'mahmut', 'asperula', 'dağ', 'yeni']
+Extracted: ['daphneola', 'mahmut']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 47
+Actual: ['ağır', 'çay', 'metal', 'biyomonitor', 'su', 'spicatum', 'myriophyllum', 'kir', 'porsuk']
+Extracted: ['ppm']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 48
+Actual: ['türkiye', 'convolvulaceae', 'convolvulus', 'oleifolius', 'koroloji']
+Extracted: ['oleifolius']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 49
+Actual: ['sphaerophysa', 'ekoloji', 'kotschyana', 'morfoloji', 'karyoloji']
+Extracted: ['görüntü', 'mm', 'tohum']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 50
+Actual: ['türkiye', 'anamur', 'yayla', 'mersin', 'flora', 'kaş']
+Extracted: ['element']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 51
+Actual: ['centaurea', 'türkiye', 'regia', 'cynaroides']
+Extracted: ['regia', 'taksonun']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 52
+Actual: ['balıkesir', 'kapıdağ', 'türkiye', 'yarımada', 'etnobotanik']
+Extracted: ['familya', 'takson', 'yarımada']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 53
+Actual: ['risk', 'bilecik', 'etnobotanik', 'osmaneli', 'turkey', 'kategori', 'lamiaceae']
+Extracted: ['element', 'hastalık', 'takson']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 54
+Actual: ['mersin', 'anamur', 'flora', 'türkiye']
+Extracted: ['element']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 55
+Actual: ['arietinum', 'cicer', 'ekotoksikoloj', 'çimlenmek']
+Extracted: ['akçin', 'cv', 'gök']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 56
+Actual: ['scrophularia', 'scrophulariaceae', 'türkiye', 'flora']
+Extracted: ['scrophularia']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 57
+Actual: ['musa', 'epifit', 'yaşam', 'briyofit', 'strateji', 'dağ', 'hayat', 'form']
+Extracted: ['strateji']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 58
+Actual: ['altınbeşik', 'i̇bradı', 'antalya', 'mağara', 'flora', 'akseki', 'mil', 'park']
+Extracted: ['takson']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 59
+Actual: ['ticaret', 'türkiye', 'kor', 'üretim', 'kardelen']
+Extracted: ['kardelen', 'katılım']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 60
+Actual: ['tohum', 'çimlenmek', 'nif', 'dağ', 'endemik', 'salvia', 'smyrnaea']
+Extracted: ['ppm', 'tohum']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 61
+Actual: ['havza', 'mersin', 'ekoloji', 'vejetasyon', 'akarsu', 'kent']
+Extracted: ['örtü']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['karyotip', 'türkiye', 'stereocalyx', 'leguminosae', 'astragalus']
+Extracted: ['kromozom', 'stereocalyx']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 63
+Actual: ['bitki', 'yenmek', 'eskişehir', 'mihalıcçık', 'gıda', 'yabanî', 'beslemek']
+Extracted: ['subsp', 'tüketmek']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 64
+Actual: ['sivas', 'şarkışla', 'dağ', 'tehlike', 'flora', 'kategori', 'karababa']
+Extracted: ['element', 'takson']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 65
+Actual: ['grammosciadium', 'anatomi', 'turki', 'endemik', 'morfoloji', 'confertum']
+Extracted: ['grammosciadium']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 66
+Actual: ['marchantiophyta', 'türkiye', 'ciğerotu', 'dağ', 'ilgaz', 'flora']
+Extracted: ['ciğerotu']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 67
+Actual: ['polatlı', 'türkiye', 'duatepe', 'ankara', 'flora']
+Extracted: ['coğrafya', 'çenek']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 68
+Actual: ['türkiye', 'kars', 'etnobotanik', 'çevre']
+Extracted: ['ad', 'kullanım']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 69
+Actual: ['fermentasyon', 'mikrobiyoloji', 'laktik', 'bakteri', 'asit', 'gıda', 'kültür', 'starter']
+Extracted: ['ürün']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 70
+Actual: ['bakır', 'maden', 'flora', 'elazığ', 'endemic']
+Extracted: ['maden']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 71
+Actual: ['i̇stanbul', 'tehlike', 'kayışdağı', 'flora', 'ataşehir', 'kategori']
+Extracted: ['alan', 'element', 'izlemek', 'yön']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['sistematik', 'türkiye', 'revizyon', 'flora', 'gypsophila']
+Extracted: ['boy', 'cm', 'salgı', 'tüy', 'uzun']
+TP: 0 TN: 0 FP: 5 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 73
+Actual: ['alternatif', 'fotosafari', 'doğa', 'turizm', 'ekoturizm', 'flora']
+Extracted: ['turizm']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 74
+Actual: ['sünnet', 'flora', 'dca', 'twinspan', 'bolu']
+Extracted: ['alan', 'küme']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 75
+Actual: ['türkiye', 'osmaneli', 'orchidaceae', 'orkide', 'flora']
+Extracted: ['bölge', 'orkide', 'risk']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 76
+Actual: ['türkiye', 'fagus', 'epifitik', 'liken', 'ekoloji', 'biyoçeşitlilik']
+Extracted: ['fagus', 'kaydetmek', 'liken', 'sylvatica']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 77
+Actual: ['linaceae', 'türkiye', 'linum', 'iucn']
+Extracted: ['doğa', 'ex', 'kırmızı', 'sınıf', 'ölçüt']
+TP: 0 TN: 0 FP: 4 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['bursa', 'türkiye', 'vasküler', 'dağ', 'katır', 'flora']
+Extracted: ['takson']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 79
+Actual: ['yeni', 'pyronemataceae', 'türkiye', 'kayıt', 'makromantarlar']
+Extracted: ['armatospora', 'boud', 'chateri', 'denison', 'deskripsiyonları', 'makromantarları', 'melastiza', 'pyronemataceae', 'scutellinia']
+TP: 1 TN: 0 FP: 4 FN: 8 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 80
+Actual: ['polen', 'türkiye', 'erodium', 'sayı', 'endemik', 'somanum', 'morfoloji', 'kromozom']
+Extracted: ['polen']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 81
+Actual: ['polen', 'sayı', 'ekoloji', 'kromozom', 'apiaceae', 'ferula']
+Extracted: ['anadolu', 'anatolica']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 82
+Actual: ['karyotip', 'montana', 'matthiola', 'brassicaceae']
+Extracted: ['kromozom', 'matthiola', 'montana']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 83
+Actual: ['güney', 'akçaağaç', 'ova', 'anadolu', 'kor', 'amanos', 'yaymak', 'dağ', 'doğal']
+Extracted: ['amanos', 'yaymak']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 84
+Actual: ['stres', 'lycopersicon', 'büyümek', 'tuz', 'raphanus', 'sativus', 'esculentum', 'fide']
+Extracted: ['esculentum', 'fotoperyot', 'gelişim', 'lycopersicon', 'raphanus', 'uygulamak']
+TP: 3 TN: 0 FP: 5 FN: 3 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 85
+Actual: ['türkiye', 'bidens', 'anadolu', 'kayıt', 'asteraceae', 'yeni', 'bipinnata']
+Extracted: ['bidens']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 86
+Actual: ['türkiye', 'flueggea', 'relikt', 'endemik', 'tehlike', 'kategori', 'iucn', 'anatolica']
+Extracted: ['anatolica', 'tehlike']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 87
+Actual: ['bitki', 'tohum', 'çimlenmek', 'fotoperiyot', 'fotoperiyodizm']
+Extracted: ['cv', 'gün', 'çimlenmek']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 88
+Actual: ['etki', 'sitotoksik', 'piridin', 'cepa', 'soğan', 'allium']
+Extracted: ['doz', 'piridin']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 89
+Actual: ['türkiye', 'van', 'çatak', 'endemik', 'flora']
+Extracted: ['element', 'takson', 'taksonun']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 90
+Actual: ['mikrohabitat', 'substrat', 'maki', 'hayat', 'biryofitler', 'form']
+Extracted: ['hayat', 'maki', 'mikrohabitat']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 91
+Actual: ['kare', 'c5', 'pozantı', 'körk', 'dağ', 'sarımsak', 'flora', 'vadi']
+Extracted: ['alt', 'divisiosu', 'element']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 92
+Actual: ['anatomi', 'fitokimyasal', 'tüy', 'forskohlii', 'yaprak', 'analiz', 'coleus', 'morfoloji', 'forskolin']
+Extracted: ['forskolin', 'yaprak']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 93
+Actual: ['türkiye', 'sayı', 'kromozom', 'marrubium', 'lamiaceae']
+Extracted: ['bourgaei', 'marrubium']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 94
+Actual: ['yarımada', 'karpaz', 'kumul', 'kıyı', 'flora', 'mil', 'park', 'kıbrıs']
+Extracted: ['akdeniz', 'bölge']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 95
+Actual: ['mantar', 'quercus', 'türkiye', 'epifitik', 'liken', 'biyoçeşitlilik', 'likenikol']
+Extracted: ['liken', 'likenikol']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 96
+Actual: ['tripleurospermum', 'hieracium', 'uludağ', 'olympicus', 'pichleri', 'leptodermum', 'tehlike', 'kategori', 'rumex']
+Extracted: ['tehlike']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 97
+Actual: ['türkiye', 'anatomi', 'liliaceae', 'bellevalia', 'mathewii']
+Extracted: ['parankima', 'rafit', 'sünger']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 98
+Actual: ['ağır', 'enzim', 'katalaz', 'antioksidan', 'metal', 'sod', 'buğday']
+Extracted: ['enzim', 'metal']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 99
+Actual: ['bitki', 'ethnobotanik', 'tibbi', 'bingöl', 'aktar']
+Extracted: ['yöre']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['türkiye', 'pamukkale', 'makrofungus', 'üniversitesi', 'kampüs', 'deniz']
+Extracted: ['makrofungus']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 101
+Actual: ['türkiye', 'palinoloji', 'leguminosae', 'morfoloji', 'cicer']
+Extracted: ['floribundum']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 102
+Actual: ['ot', 'yem', 'etnobotanik', 'gıda', 'ilâç', 'yabancı', 'hayvan']
+Extracted: ['ot', 'protein', 'sumak']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 103
+Actual: ['türkiye', 'bryaceae', 'pohlia', 'bitkicoğrafyası', 'bryofit', 'flora']
+Extracted: ['kayıt']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 104
+Actual: ['mtt', 'homalothecium', 'sericeum', 'glioma', 'bryofit', 'sitotoksisite']
+Extracted: ['hücre', 'özüt']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 105
+Actual: ['türkiye', 'fenoloji', 'ekoloji', 'gypsophila', 'habitat']
+Extracted: ['ortam', 'ph', 'taksonlar', 'tohum', 'yaymak', 'yetişmek']
+TP: 0 TN: 0 FP: 5 FN: 6 
+Accuracy: %0.0
+-----------------
+Article Index: 106
+Actual: ['bitki', 'toksikoloji', 'peyzaj', 'mimar', 'isparta', 'zehir', 'süs']
+Extracted: ['zehir']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 107
+Actual: ['türkiye', 'rize', 'hayrat', 'kalkandere', 'etnobotanik', 'trabzon']
+Extracted: ['ayrı']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 108
+Actual: ['türkiye', 'bozkır', 'flora', 'konya']
+Extracted: ['divisiosun', 'takson']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 109
+Actual: ['türkiye', 'güdül', 'ankara', 'vadi', 'flora', 'karayosunu', 'kirmir']
+Extracted: ['karayosunu']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 110
+Actual: ['epifit', 'bryofit', 'ciğerotu', 'dağ', 'abant', 'karayosunu']
+Extracted: ['form', 'hayat']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 111
+Actual: ['türkiye', 'kayıt', 'strobilomyces', 'biyoçeşitlilik', 'yeni', 'makrofungus', 'strobilaceus']
+Extracted: ['strobilomyces']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 112
+Actual: ['türkiye', 'fagus', 'orientalis', 'yapı', 'fitoekoloji', 'floristik', 'fitososyoloji']
+Extracted: ['orientalis']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 113
+Actual: ['polen', 'tuz', 'morfoloji', 'limonium', 'habitat', 'plumbaginaceae']
+Extracted: ['polen']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 114
+Actual: ['santral', 'termik', 'afşin', 'fauna', 'örümcek', 'elbistan']
+Extracted: ['örümcek']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 115
+Actual: ['bitki', 'türkiye', 'etnobotanik', 'gıda', 'yarar', 'tıbbî']
+Extracted: ['etnobotanik', 'içerik']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 116
+Actual: ['çay', 'türkiye', 'eskişehir', 'flora', 'porsuk']
+Extracted: ['b3', 'b4']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 117
+Actual: ['makrofunguslar', 'sivas', 'türkiye', 'gemerek', 'akdağmadeni', 'yozgat', 'biyoçeşitlilik']
+Extracted: ['akdağmadeni', 'gemerek', 'makrofungi', 'numara']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 118
+Actual: ['kızıldağ', 'seligeria', 'ekoloji', 'isparta', 'karayosunu', 'mil', 'park']
+Extracted: ['donniana', 'kızıldağ', 'müll', 'seligeria', 'tanıtım']
+TP: 2 TN: 0 FP: 5 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 119
+Actual: ['çay', 'faktör', 'lymnaea', 'su', 'iz', 'element', 'felent', 'analiz', 'stagnalis', 'kalite']
+Extracted: ['istasyon', 'su', 'zn']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 120
+Actual: ['hepaticae', 'türkiye', 'riccia', 'fluitans', 'ciğerotu', 'lamellosa']
+Extracted: ['biryofitler', 'fluitans', 'lamellosa', 'riccia']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 121
+Actual: ['kırklareli', 'trakya', 'türkiye', 'epifitik', 'liken']
+Extracted: ['kırklareli', 'liken']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 122
+Actual: ['arıtım', 'vulgaris', 'azot', 'gider', 'biyolojik', 'fosfat']
+Extracted: ['atıksu']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 123
+Actual: ['ot', 'yenmek', 'tüketim', 'gıda', 'afyonkarahisar', 'yerel']
+Extracted: ['chamaedrys', 'draba', 'polygonum', 'tüketmek']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 124
+Actual: ['pathetica', 'nurhak', 'morfoloji', 'pelasga', 'helix', 'kahramanmaraş']
+Extracted: ['helix', 'pelasga']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 125
+Actual: ['güney', 'bitki', 'bursa', 'sahil', 'mudanya', 'vasküler', 'marmara', 'kumul', 'kıyı']
+Extracted: ['lyrata', 'subsp', 'vasküler']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 126
+Actual: ['yeni', 'türkiye', 'hypocrea', 'ascomycota', 'leucopus', 'kayıt']
+Extracted: ['askomikota', 'chamb', 'fotoğraflarları', 'hypocrea', 'kısaç', 'leucopus', 'uzungöl']
+TP: 2 TN: 0 FP: 4 FN: 5 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 127
+Actual: ['türkiye', 'labranda', 'milâs', 'flora', 'muğla']
+Extracted: ['element']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['kırmızı', 'i̇nterpolasyon', 'harita', 'buğday', 'kalite']
+Extracted: ['kalite', 'yön']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 129
+Actual: ['göl', 'kampus', 'kare', 'alan', 'c5', 'akkaya', 'flora', 'niğde', 'baraj']
+Extracted: ['divisiosuna', 'takson']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 130
+Actual: ['türkiye', 'flora', 'biyoçeşitlilik', 'sakarya', 'geyve']
+Extracted: ['belirlemek', 'bölge', 'bölüm', 'takson', 'taksonlardan']
+TP: 0 TN: 0 FP: 5 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 131
+Actual: ['bitki', 'kurucuova', 'etnobotanik', 'gıda']
+Extracted: ['bitki', 'gıda']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 132
+Actual: ['bitki', 'semt', 'pazar', 'etnobotanik', 'gıda', 'bingöl', 'tıbbî']
+Extracted: ['pazar', 'takson']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 133
+Actual: ['generatif', 'organ', 'kristal', 'astragalus']
+Extracted: ['kristal']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 134
+Actual: ['deformasyon', 'eritrosit', 'göl', 'rutilus', 'baraj', 'porsuk']
+Extracted: ['eritrosit']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 135
+Actual: ['armutluçayır', 'kastamonu', 'flora', 'türkiye']
+Extracted: ['seviye', 'takson', 'tür']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 136
+Actual: ['galleria', 'mellonella', 'parazit', 'pimpla', 'zehir', 'hemolenf', 'turionellae', 'protein']
+Extracted: ['protein', 'zehir']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 137
+Actual: ['cousinia', 'x', 'taksonomi', 'takson', 'asteraceae', 'yeni', 'kurubasgecidiensis', 'hibrit']
+Extracted: ['cousinia']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 138
+Actual: ['sitometri', 'flow', 'sangaria', 'silmek', 'endemik', 'tür', 'içerik', 'çekirdek', 'dna', 'caryophyllaceae']
+Extracted: ['çekirdek']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 139
+Actual: ['şanlıurfa', 'alet', 'el', 'sanat', 'etnobotanik', 'halk', 'müzik']
+Extracted: ['alet', 'müzik']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 140
+Actual: ['balıkesir', 'endemizm', 'kare', 'ulus', 'b2', 'dağ', 'flora']
+Extracted: ['b2']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 141
+Actual: ['galanthus', 'amaryllidaceae', 'taksonomi', 'palinoloji', 'morfoloji']
+Extracted: ['galanthus']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 142
+Actual: ['acutiloba', 'anatomi', 'asparagaceae', 'hyacinthella', 'endemik', 'morfoloji']
+Extracted: ['skapus', 'yaprak']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['derviş', 'türkiye', 'uşak', 'eşme', 'flora']
+Extracted: ['element']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 144
+Actual: ['yıldırım', 'solanaceae', 'kayıt', 'solanum', 'angustifolium', 'yeni', 'kıbrıs']
+Extracted: ['angustifolium', 'mill']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 145
+Actual: ['mantar', 'türkiye', 'zehirlemek', 'köygöçüren', 'deniz']
+Extracted: ['zehirlemek']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 146
+Actual: ['sivrihisardaghlarensis', 'anatomi', 'muscari', 'asparagaceae', 'morfoloji', 'endemi']
+Extracted: ['sivrihisardaghlarensis']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 147
+Actual: ['bitki', 'yenmek', 'tüketim', 'gıda', 'kemaliye', 'yerel']
+Extracted: ['kavurma']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 148
+Actual: ['briyofitler', 'dernekpazarı', 'türkiye', 'trabzon', 'il']
+Extracted: ['fissidens', 'yapraklı']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 149
+Actual: ['makrofunguslar', 'biyoçeşitlilik', 'türkiye', 'sarız']
+Extracted: ['ascomycota', 'basidiomycota', 'makromantar', 'sarız']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 150
+Actual: ['türkiye', 'kare', 'burdur', 'c3', 'flora', 'göl']
+Extracted: ['takson']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 151
+Actual: ['tohum', 'genista', 'sem', 'fabaceae', 'morfoloji']
+Extracted: ['tohum']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 152
+Actual: ['şanlıurfa', 'etnobotanik', 'dağ', 'flora', 'kalecik']
+Extracted: ['tane']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 153
+Actual: ['verim', 'düzenlemek', 'fasulye', 'öge', 'ekim', 'bodur', 'karışık']
+Extracted: ['ağırlık', 'ekim', 'mısır']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 154
+Actual: ['türkiye', 'briyofit', 'körk', 'dağ', 'sarımsak', 'flora', 'vadi']
+Extracted: ['briyofit']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 155
+Actual: ['türkiye', 'biyolojik', 'amblystegiaceae', 'campyliadelphus', 'çeşit', 'flora', 'karayosunu']
+Extracted: ['karadeniz']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 156
+Actual: ['ekoloji', 'origanum', 'morfoloji', 'anatomi']
+Extracted: ['majorana', 'tüy']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 157
+Actual: ['its', 'türkiye', 'hieracium', 'asteraceae', 'nrdna']
+Extracted: ['birey', 'ilişki', 'its', 'mp', 'nj', 'sağlamak']
+TP: 1 TN: 0 FP: 4 FN: 5 
+Accuracy: %10.0
+-----------------
+Article Index: 158
+Actual: ['carabidae', 'fauna', 'yer', 'dağ', 'i', 'kaz', 'böcek']
+Extracted: ['kaz']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 159
+Actual: ['polen', 'trıfolıum', 'olgun', 'yapı', 'ince']
+Extracted: ['hücre']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 160
+Actual: ['belirti', 'varyasyon', 'envanter', 'yaban', 'iz', 'hayvan', 've', 'teşhis', 'hayat']
+Extracted: ['belirti', 'iz', 'yaban']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 161
+Actual: ['ağır', 'ekotoksikoloji', 'çimlenmek', 'metal', 'fitoremediasyon', 'kir', 'buğday']
+Extracted: ['ağır', 'metal']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 162
+Actual: ['anatomi', 'kazdağları', 'tüy', 'mikromorfoloji', 'lamiaceae', 'thymus']
+Extracted: ['anatomik', 'gövde', 'kesit', 'mikromorfolojik']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['türkiye', 'status', 'kor', 'taksonomi', 'smyrnium', 'apiaceae']
+Extracted: ['czeczott']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 164
+Actual: ['phanerochaete', 'mantar', 'chrysosporium', 'renk', 'boya', 'tekstil', 'gider', 've', 'beyaz', 'çürükçül']
+Extracted: ['boya', 'orange', 'renk']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 165
+Actual: ['bitki', 'alaşehir', 'etnobotanik', 'aktar', 'manisa', 'tıbbî']
+Extracted: ['aktar', 'satmak']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 166
+Actual: ['bitki', 'rize', 'etnobotanik', 'kullanım', 'aromatik', 'gelenek', 'tıbbî']
+Extracted: ['amaç', 'familya', 'kullanmak', 'rahat']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 167
+Actual: ['nümerik', 'taksonomi', 'asteraceae', 'morfoloji', 'elazığ', 'centaurea']
+Extracted: ['dc', 'subsp', 'urvillei', 'wagenitz']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 168
+Actual: ['compositae', 'revizyon', 'kayıt', 'taksonomi', 'morfoloji', 'yeni']
+Extracted: ['akraba', 'carduus', 'macrocephalus', 'transcaspicus']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 169
+Actual: ['kuş', 'tar', 'türkiye', 'otididae', 'büyük', 'toy', 'otis']
+Extracted: ['erkek', 'kuş', 'toy']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 170
+Actual: ['lolium', 'toplamak', 'karakterizasyon', 'perenne', 'morfolojik', 'fizyolojik']
+Extracted: ['boy', 'genotip', 'çiçek']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 171
+Actual: ['kor', 'alan', 'tabiat', 'colurna', 'flora', 'corylus']
+Extracted: ['album', 'boiss', 'takson', 'örnek']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 172
+Actual: ['myxomycetes', 'kayıt', 'hadim', 'konya', 'taşkent', 'yeni']
+Extracted: ['comatricha', 'hadim', 'pulchelloides', 'taşkent']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Total accuracy of document "Biyoloji" is: %11.254767519302398

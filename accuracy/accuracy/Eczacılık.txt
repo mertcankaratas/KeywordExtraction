@@ -1,0 +1,1201 @@
+Article Index: 1
+Actual: ['akı', 'glikoz', 'metabolizma', 'alkolizm', 'kan', 'beyin']
+Extracted: ['alkol']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 2
+Actual: ['psikiyatri', 'tıp', 'liyazon', 'konsültasyon', 'psikosomatik']
+Extracted: ['disiplin', 'konsültasyon']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 3
+Actual: ['nrem', 'bozuk', 'uyku', 're']
+Extracted: ['uyku']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 4
+Actual: ['otoantikorlar', 'immünmodülatörler', 'şizofreni']
+Extracted: ['kuram', 'varlık']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 5
+Actual: ['karbamazepin', 'antikonvulzanlar', 'valporik', 'klonezepam', 'asid']
+Extracted: ['antikonvülzan', 'klonezepam', 'valporik']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 6
+Actual: ['miaserin', 'yan', 'çalışmak', 'amineptin', 'etki', 'antidepresan', 'kör', 'çift']
+Extracted: ['amineptine', 'antidepresant', 'etki', 'ncı', 'türk', 'yan']
+TP: 2 TN: 0 FP: 6 FN: 4 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 7
+Actual: ['elektrokonvülsif', 'manik', 'tedavi', 'bozuk', 'kafein']
+Extracted: ['kafein']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 8
+Actual: ['kullanım', 'bağımlı', 'kötü', 'benzodiazepin']
+Extracted: ['bağımlı']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 9
+Actual: ['prostaglandin', 'şizofreni']
+Extracted: ['pg']
+TP: 0 TN: 0 FP: 2 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 10
+Actual: ['plasebo', 'nosebo']
+Extracted: ['plasebo', 'pratik']
+TP: 1 TN: 0 FP: 1 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 11
+Actual: ['maoi', 'kişilik', 'li', 'antidepresan', 'bozuk', 'trisiklik', 'borderline']
+Extracted: ['impulsivite', 'saldırgan']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 12
+Actual: ['nöroendokrin', 'elektrokonvülsif', 'hormon', 'tedavi']
+Extracted: ['oldukça']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 13
+Actual: ['kortizol', 'serotonin', 'depresyon']
+Extracted: ['kortizol', 'majör']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 14
+Actual: ['nervosa', 'nörobiyolojik', 'bulimia', 'yaklaşım', 'epidemiyoloji']
+Extracted: ['bulimia', 'nervosa']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 15
+Actual: ['lityum', 'kalsiyum', 'glukoz', 'metabolizma']
+Extracted: ['lityum', 'tüketim', 'şeker']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 16
+Actual: ['fuoksetin', 'maprotilin', 'depresyon']
+Extracted: ['iids', 'maprotilin', 'şuoksetin']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 17
+Actual: ['bakır', 'has', 'mental', 'çinko', 'eser', 'element', 'retarde', 'demir', 'magnezyum']
+Extracted: ['element', 'eser']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 18
+Actual: ['esrar', 'bozuk', 'psikoz', 'psikiyatrik']
+Extracted: ['esrar']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 19
+Actual: ['lityum', 'etki', 'antimanik', 'gösterge']
+Extracted: ['antimanik', 'lityum']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 20
+Actual: ['şizofreni', 'sulpiride']
+Extracted: ['benzamide', 'bileşim', 'stimulan', 'sulpiride']
+TP: 1 TN: 0 FP: 1 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 21
+Actual: ['ilâç', 'psikiyatri', 'psikotrop']
+Extracted: ['doz']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 22
+Actual: ['karbamazepin', 'antikonvulsanlar']
+Extracted: ['cbz', 'direnç']
+TP: 0 TN: 0 FP: 2 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 23
+Actual: ['akı', 'şizofreni', 'bilgisayar', 'rezonans', 'manyetik', 'nükleer', 'kan', 'beyin', 'tomografi']
+Extracted: ['bbt', 'johnstone', 'şizofren']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 24
+Actual: ['akut', 'psikoz', 'ekt', 'prolaktine']
+Extracted: ['ektde', 'kısmî', 'prl', 'uld']
+TP: 0 TN: 0 FP: 4 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['hastalğı', 'parkinson', 'psikiyatri', 'antiparkinsonien', 'ilâç', 'parkinsonizm']
+Extracted: ['bromokriptin', 'hasta', 'parkinson']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 26
+Actual: ['nöroleptik', 'dbh', 'şizofreni', 'hidroksilaz', 'ilâç']
+Extracted: ['dbh']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 27
+Actual: ['lityum', 'etki', 'psikofarmakolojik', 'diltiazem']
+Extracted: ['klorür', 'lityum', 'sıçan']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 28
+Actual: ['psikobiyoloji', 'faz', 'geçmek', 'bozuk', 'disforik', 'luteal', 'depresyon']
+Extracted: ['glfdb']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 29
+Actual: ['komputerize', 'kantitatif', 'eeg']
+Extracted: ['eeg']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 30
+Actual: ['sgi', 'klinik', 'antidepresan', 'psikofarmakoloji', 'gerialım', 'serotonin', 'inhibitör']
+Extracted: ['sertralinin', 'sgi']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 31
+Actual: ['örüntü', 'enüresis', 'nokturna', 'uyku']
+Extracted: ['dönem', 'enüretik', 'yûzdesinin']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 32
+Actual: ['saldırgan', 'uyuşturucu', 'kişilik', 'kullanım', 'hipoglisemi', 'antisosyai']
+Extracted: ['glukoz', 'saldırgan']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 33
+Actual: ['trazodon', 'gerilim', 'başağrısı', 'pizotifen', 'depresyon']
+Extracted: ['pizotifenin']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['antipsikotik', 'haloperidol', 'yan', 'klinik', 'etki', 'tedavi']
+Extracted: ['hafta', 'yan']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 35
+Actual: ['reçete', 'ilâç', 'psikotrop']
+Extracted: ['hastane', 'psikotrop', 'resmî']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 36
+Actual: ['amnezi', 'diazepam', 'bellek']
+Extracted: ['amnezi']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 37
+Actual: ['reseptör', 'serotonin']
+Extracted: ['beyin', 'serotonin', 'triptofan']
+TP: 1 TN: 0 FP: 1 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 38
+Actual: ['araştırmak', 'mode', 'preklinik', 'hayvan', 'serotonin', 'depresyon']
+Extracted: ['açıklama', 'model', 'oluşmak']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['ağrı', 'nörotransmitterler', 'serotonin']
+Extracted: ['ağrı']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 40
+Actual: ['nrem', 'uyku', 'serotonin', 'yavaş']
+Extracted: ['mekanizma']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 41
+Actual: ['saldırgan', 'intihar', 'şiddet', 'serotonin', 'depresyon']
+Extracted: ['intihar']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 42
+Actual: ['obsesif', 'bozuk', 'gerialım', 'serotonin', 'inhibitör', 'kompulsif']
+Extracted: ['okb', 'serotonerjik', 'trombosit']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['genel', 'anksiyete', 'bozuk', 'serotonin', 'panik']
+Extracted: ['oluşum']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 44
+Actual: ['agresyon', 'serotonin']
+Extracted: ['agresyon']
+TP: 1 TN: 0 FP: 1 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 45
+Actual: ['geri', 'alım', 'serotonin', 'inhibitör', 'depresyon']
+Extracted: ['bozuk', 'selektif', 'serotonin']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 46
+Actual: ['yan', 'geri', 'etki', 'engellemek', 'ilâç', 'alım', 'serotonin', 'etkileşim', 'özgül']
+Extracted: ['kontrendikasyon', 'ösge', 'şoksetin']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['fuvoksamin', 'depresyon']
+Extracted: ['fuvoksamin', 'fuvoksaminin', 'sendrumunda']
+TP: 1 TN: 0 FP: 1 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 48
+Actual: ['komplikasyon', 'epilepsi', 'gebe']
+Extracted: ['epileptik', 'gebe']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 49
+Actual: ['haloperidol', 'yan', 'laboratuvar', 'etki', 'tedavi', 'bozuk', 'skizofreniform']
+Extracted: ['dalga', 'ekg', 'prolaktin', 'tetkik']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 50
+Actual: ['diş', 'anksiyete', 'diazepam', 'premedikasyon', 'operasyon']
+Extracted: ['diazepamin', 'diş', 'maternal', 'operasyon', 'pemedikan']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 51
+Actual: ['akı', 'metabolizma', 'bariyer', 'kanbeyin', 'kan', 'cinsiyet', 'beyin']
+Extracted: ['beyin']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 52
+Actual: ['bozuk', 'klomipramin', 'moklobemid', 'panik']
+Extracted: ['agorafobi', 'oksidaz']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['yan', 'çalışmak', 'etki', 'antidepresan', 'tedavi', 'plasebo', 'amitriptilin', 'mianserin']
+Extracted: ['amitriptilin', 'mianserin']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 54
+Actual: ['laktasyon', 'lityum', 'gebe', 'teratojen']
+Extracted: ['lityum', 'teratojen']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 55
+Actual: ['komputerize', 'uyku', 'şizofreni', 'eeg']
+Extracted: ['eeg']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 56
+Actual: ['tedavi', 'direnç', 'bozuk', 'obsessif', 'kompulsif']
+Extracted: ['direnç']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 57
+Actual: ['fluvoksamin', 'bozuk', 'düşünce', 'major', 'depresif', 'intihar']
+Extracted: ['düşünce', 'intihar', 'ölçek']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 58
+Actual: ['sağaltım', 'major', 'moklobemid', 'depresyon']
+Extracted: ['hddö']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 59
+Actual: ['antidepresan', 'tedavi', 'bozuk', 'agorafobi', 'psikoterapi', 'panik']
+Extracted: ['psikoterapi', 'tedavi', 'teknik', 'uygulamak']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 60
+Actual: ['nöroleptik', 'şizofreni', 'nöroleplik', 'atipik', 'zuklopentiksol']
+Extracted: ['tedavi', 'zuklopentiksol', 'ölçek']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 61
+Actual: ['fobi', 'bozuk', 'anksiyete', 'sosyal', 'fluoksetin']
+Extracted: ['sosyal', 'şuoksetine']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 62
+Actual: ['konfabulasyon', 'travma', 'amnestik', 'kafa', 'sendrom']
+Extracted: ['travma']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 63
+Actual: ['sertralin', 'akatizi']
+Extracted: ['akatizi']
+TP: 1 TN: 0 FP: 1 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 64
+Actual: ['nöroleptik', 'major', 'antipsikotik', 'trankilizan']
+Extracted: ['nöroleptik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 65
+Actual: ['klozapin', 'nöroleptik', 'tedavi', 'eizofreni', 'atipik']
+Extracted: ['klozapinin', 'konvensiyonel']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 66
+Actual: ['vasküler', 'demans', 'etyopatogenez']
+Extracted: ['demans', 'vasküler']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 67
+Actual: ['belirti', 'taramak', 'liste', 'ruhsal', 'ebeveyn', '90', 'kronik', 'hastalık']
+Extracted: ['ebeveyinlerin', 'çocuk']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 68
+Actual: ['saldırgan', 'test', 'biyokimya', 'araştırm', 'nöroendokrinolojik']
+Extracted: ['grup', 'hast', 'idrar', 'korelâsyon', 'saldırgan']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 69
+Actual: ['antipsikotik', 'klozapin', 'şizofreni', 'olanzapin', 'risperidon']
+Extracted: ['antipsikotik']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 70
+Actual: ['enzim', 'sitokrom', 'ilâç', 'p450', 'psikotrop']
+Extracted: ['p450', 'sitokrom']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 71
+Actual: ['davranmak', 'içgüdü', 'emosyon', 'limbik']
+Extracted: ['emosyonel']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['antipsikotik', 'risperidon']
+Extracted: ['konvensiyonel']
+TP: 0 TN: 0 FP: 2 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 73
+Actual: ['obsesif', 'sertralin', 'bozuk', 'gerialım', 'serotonin', 'selektif', 'inhibitör', 'kompulsif']
+Extracted: ['cgi', 'skala', 'tedavi', 'tsa', 'yan']
+TP: 0 TN: 0 FP: 8 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 74
+Actual: ['klozapin', 'tardiv', 'diskinezi', 'tedavi']
+Extracted: ['td']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 75
+Actual: ['kültür', 'psikiyatri', 'depresyon']
+Extracted: ['ayırdetmek', 'bileşen', 'etiyoloji']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 76
+Actual: ['ilâç', 'gebe', 'tedavi', 'psikotrop']
+Extracted: ['gebe', 'psikotrop']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 77
+Actual: ['süreğen', 'yetersiz', 'antidepresan', 'tedavi', 'major', 'kronik', 'depresyon']
+Extracted: ['depresyon', 'kronik', 'olgu']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 78
+Actual: ['klozapin', 'etkin', 'şizofreni', 'klinik', 'tedavi', 'direnç', 'özellik', 'demografik']
+Extracted: ['demografik', 'değişken', 'şizofreni']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 79
+Actual: ['nöroleptik', 'şizofreni', 'sulpirid', 'tedavi', 'direnç', 'bozuk', 'şizofreniform', 'psikoz', 'atipik']
+Extracted: ['psikoz', 'sulpirid', 'tedavi']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 80
+Actual: ['tianeptin', 'premenstrual', 'metod', 'bozuk', 'disforik']
+Extracted: ['pdb', 'tianeptin']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 81
+Actual: ['manik', 'tedavi', 'epizod', 'elektrokonvulsif']
+Extracted: ['ekt', 'imek']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 82
+Actual: ['belirti', 'şizofreni', 'manik', 'negatif', 'atak', 'sülpirid']
+Extracted: ['antipsikotiklerden', 'sülpirid']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 83
+Actual: ['hız', 'iyi', 'mizaç', 'döngü', 'stabilizatör', 'depresyon']
+Extracted: ['dalga']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 84
+Actual: ['nöroleptik', 'ganglion', 'bazal', 'malign', 'hidrosefali', 'basınç', 'dopamin', 'normal', 'sendrom']
+Extracted: ['malign']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 85
+Actual: ['eksen', 'depresyon']
+Extracted: ['eksen']
+TP: 1 TN: 0 FP: 1 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 86
+Actual: ['etkin', 'emniyet', 'mitrazapin', 'yan', 'etki', 'antidepresan', 'yeni']
+Extracted: ['mirtazapin', 'reseptör']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 87
+Actual: ['diabet', 'psikososyal', 'yön', 'depresyon']
+Extracted: ['diabetes', 'karşılaşmak', 'mellitus']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 88
+Actual: ['antipsikotik', 'atipik', 'olanzapin']
+Extracted: ['olanzapinin']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 89
+Actual: ['sekonder', 'deksametazon', 'testi', 'supresyon', 'bozuk', 'panik', 'major', 'depresyon']
+Extracted: ['dst', 'pb']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 90
+Actual: ['ara', 'davranmak', 'geri', 'tedavi', 'alkol', 'engellemek', 'alım', 'serotonin', 'fuoksetin', 'idame', 'bağımlı']
+Extracted: ['alkol']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 91
+Actual: ['hormon', 'tiroid', 'başlangıç', 'şizofreni', 'seks', 'erken']
+Extracted: ['yetişkin', 'şizofren']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 92
+Actual: ['antipsikotik', 'nöroleptik', 'tedavi', 'ilâç', 'psikoz', 'zuklopentiksol']
+Extracted: ['gün', 'istatistik', 'puan']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 93
+Actual: ['kolesterol', 'şizofreni', 'hdl', 'depresyon']
+Extracted: ['düzey', 'kolesterol']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 94
+Actual: ['antidepresan', 'tedavi', 'venlafaksin', 'gerialım', 'major', 'inhibitör', 'depresyon']
+Extracted: ['etki', 'major', 'puan', 'tedavi', 'yan']
+TP: 2 TN: 0 FP: 5 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 95
+Actual: ['tedavi', 'alzheimer', 'kognisyon']
+Extracted: ['alzheimer', 'inhibitör', 'kolinesteraz']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 96
+Actual: ['karma', 'anksiyodepressif', 'anksiyete', 've', 'sendrom', 'depresyon']
+Extracted: ['bağımlı', 'kategorize', 'mode']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 97
+Actual: ['lityum', 'hematopoietik', 'sistem', 'granülosit']
+Extracted: ['lityum']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 98
+Actual: ['geri', 'inhibitörîeri', 'ilâç', 'trisiklik', 'alım', 'serotonin', 'antidepresif', 'antidepresifler', 'seçmek', 'depresyon']
+Extracted: ['ergen', 'ilâç', 'çocuk']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 99
+Actual: ['testi', 'labirent', 'anksiyete', 'artı', 'serotonin', 'fuoksetin', 'reuptake', 'selektif', 'inhibitör']
+Extracted: ['fare']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['kortizol', 'bozuk', 'bipolar', 'lityum', 'affektif']
+Extracted: ['kortizol', 'lityum']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 101
+Actual: ['kişilik', 'erkek', 'saygı', 'bozuk', 'benlik', 'sosyal', 'fobi', 'erektil']
+Extracted: ['cbse', 'eb', 'erektil', 'lsas', 'oeb']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 102
+Actual: ['melperon', 'nöroleptik', 'etki', 'yan']
+Extracted: ['melperon', 'yan']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 103
+Actual: ['psikiyatri', 'kroskültürel', 'kültür', 'psikopatoloji']
+Extracted: ['kategori', 'kültür', 'kültürel']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 104
+Actual: ['antipsikotik', 'şizofreni', 'tedavi', 'ilâç', 'atipik']
+Extracted: ['antipsikotik', 'reseptör']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 105
+Actual: ['karbamazepin', 'antikonvulzanlar', 'düzenlemek', 'ilâç', 'gabapentin', 'lamotrijin', 'lityum', 'duygudurum', 'valproat']
+Extracted: ['duygudurum', 'düzenlemek', 'önlemek']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 106
+Actual: ['nerzova', 'yem', 'tedavi', 'bulimiya', 'bozuk', 'anoreksiya', 'nervoza']
+Extracted: ['yem']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 107
+Actual: ['ilâç', 'gebe', 'psikotropik', 'teratojenite']
+Extracted: ['hayvan']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 108
+Actual: ['klozapin', 'etkin', 'şizofreni', 'yan', 'etki', 'tedavi', 'direnç']
+Extracted: ['direnç', 'klozapinin', 'tedavi', 'şizofren']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 109
+Actual: ['katatoni', 'belirti', 'şizofreni', 'negatif', 'pozitif']
+Extracted: ['katatoni', 'negatif']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 110
+Actual: ['setralin', 'komorbidite', 'tssb']
+Extracted: ['komorbid', 'tssb']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 111
+Actual: ['östradiol', 'şizofreni', 'psikopatoloji']
+Extracted: ['menstruel', 'östradiol']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 112
+Actual: ['stupor', 'paramedian', 'mezensefalon', 'infarkt', 'talamik', 'bilateral', 'koma']
+Extracted: ['lezyon']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 113
+Actual: ['araştırmak', 'klinik', 'ilâç', 'etik', 'tıbbî']
+Extracted: ['etik', 'ilke', 'tıbbî', 'uygulamak']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 114
+Actual: ['antidepresan', 'tedavi', 'direnç', 'ogmentasyon', 'depresyon']
+Extracted: ['direnç']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 115
+Actual: ['enzim', 'ajan', 'anksiyolitik', 'sitokrom', 'psikofarmakolojik', 'antidepresan', 'ilâç', 'p450', 'etkileşim', 'antipsikotikler']
+Extracted: ['ilâç', 'medikal', 'psikotropların']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 116
+Actual: ['sendrom', 'defisit', 'şizofreni']
+Extracted: ['defisit', 'tarihçe']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 117
+Actual: ['şizofreni', 'nöropatoloji', 'nörogelişim', 'bozuk', 'nörogelişimsel']
+Extracted: ['gelişim', 'şizofreni']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 118
+Actual: ['ölçek', 'olmak', 'güvenilir', 'sağlık', 'has', 'türkçe', 'beden', 'versiyon', 'düzey', 'uyarlamak', 'hastalık']
+Extracted: ['güvenilir', 'kalite', 'katsayı', 'yaşam']
+TP: 1 TN: 0 FP: 10 FN: 3 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 119
+Actual: ['yaşam', 'eritropoietin', 'anksiyete', 'hemodiyaliz', 'kalite', 'depresyon']
+Extracted: ['eritropoietin', 'kalite', 'yaşam']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 120
+Actual: ['karbamazepin', 'haloperidol', 'repolarizasyon', 'ventriküler', 'tiyoridazin', 'parametre', 'antipsikotikler', 'zuklopentiksol', 'risperidon']
+Extracted: ['jtc', 'kardiyak', 'qtc']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['nöroleptik', 'nışsal', 'antidepresan', 'bozuk', 'alzheimer', 'hastalık']
+Extracted: ['ah']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 122
+Actual: ['sertralin', 'tedavi', 'bozuk', 'obsessif', 'kompulsif']
+Extracted: ['klomipramin', 'sertralin']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 123
+Actual: ['bozuk', 'imipramin', 'uyku', 'panik']
+Extracted: ['panik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 124
+Actual: ['kompulsif', 'obsesif', 'fenomenoloji', 'bozuk', 'depresyon']
+Extracted: ['obsesyon', 'okb', 'tema', 'yaygın']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 125
+Actual: ['klozapin', 'şizofreni', 'sulpirid', 'tedavi', 'direnç']
+Extracted: ['direnç', 'kpdö', 'tedavi']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 126
+Actual: ['geçmek', 'diskinezi', 'distoni', 'antipsikotikler']
+Extracted: ['diskinezi', 'distoni', 'geçmek']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 127
+Actual: ['psikotik', 'sle', 'lupus', 'bozuk', 'kısa', 'eritematosus', 'sistemik']
+Extracted: ['sle']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 128
+Actual: ['x', 'dehb', 'sendrom', 'bozuk', 'metilfenidat', 'frajil', 'dikkat']
+Extracted: ['belirti', 'hiperaktivite', 'sendrom']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 129
+Actual: ['istatistik', 'araştırmak', 'psikofarmakoloji']
+Extracted: ['istatistik']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 130
+Actual: ['histopatoloji', 'haloperidol', 'striatum']
+Extracted: ['haloperidol', 'tavşan']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 131
+Actual: ['kolestrol', 'davranmak', 'antisosyal', 'şiddet', 'saldırrganlık', 'homisid', 'serotonin']
+Extracted: ['davranmak', 'homisidal']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 132
+Actual: ['cevap', 'şizofreni', 'nevrotik', 'bozuk', 'antipsikotiğe', 'estradiol', 'testosteron']
+Extracted: ['nevrotik', 'testosteron']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 133
+Actual: ['etkin', 'emniyet', 'intihar', 'ümit', 'venlafaksin', 've', 'anksiyete', 'düşünce', 'major', 'depresyon']
+Extracted: ['başlangıç', 'düşünce', 'hafta', 'intihar', 'ümit']
+TP: 3 TN: 0 FP: 7 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 134
+Actual: ['karbamazepin', 'mani', 'akut', 'sodyum', 'lityum', 'valproat']
+Extracted: ['akut', 'lityum', 'manik', 'sodyum']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 135
+Actual: ['toksisite', 'psikotrop', 'doz', 'ilâç', 'girişim', 'aşırı', 'intihar']
+Extracted: ['girişim', 'intihar']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 136
+Actual: ['antikonvulzanlar', 'düzenlemek', 'antidepresan', 'bipolar', 'lityum', 'duygudurum', 'depresyon']
+Extracted: ['bipolar']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 137
+Actual: ['belirti', 'frontal', 'lob', 'epilepsi', 'psikiyatrik']
+Extracted: ['epilepsi', 'lob', 'seyretmek']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 138
+Actual: ['şizofreni', 'potansiyel', 'olay', 'olanzapin', 'ilişkin']
+Extracted: ['genlik', 'p3']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 139
+Actual: ['epilepsi', 'psikopatoloji', 'çocukluk']
+Extracted: ['epileptik', 'kendilik', 'saygı', 'çocuk']
+TP: 0 TN: 0 FP: 3 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 140
+Actual: ['anksiyete', 'benzodiazepin', 'depresyon']
+Extracted: ['benzodiazepin', 'depresyon', 'sağaltım']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 141
+Actual: ['reata', 'alopesi', 'yaşam', 'bozuk', 'anksiyete', 'psikiyatrik', 'olay', 'depresyon']
+Extracted: ['aa', 'aşama', 'dermatolojik', 'tedavi']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 142
+Actual: ['bozuk', 'depresyon', 'obsesif', 'kompulsif']
+Extracted: ['obsesyon', 'otomatik']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['genetik', 'aile', 'bulimiya', 'anoreksiya', 'ikiz', 'komorbidite', 'nervoza']
+Extracted: ['genetik']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 144
+Actual: ['dioksit', 'karbon', 'laktat', 'kolesistokinin', 'provokasyon', 'test', 'bozuk', 'sodyum', 'plasebo', 'panik']
+Extracted: ['panik', 'provokasyon']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 145
+Actual: ['kayıp', 'manik', 'lityum', 'atak', 'saç']
+Extracted: ['lityum', 'saç']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 146
+Actual: ['ergen', 'erotomani', 'bozuk', 'çocukluk', 'çağ']
+Extracted: ['ergen', 'iken', 'sanrı']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 147
+Actual: ['otistik', 'bozuk', 'asperger', 'sendrom', 'farmakoterapi', 'risperidon']
+Extracted: ['adolesanlarda', 'asperger', 'spesifik']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 148
+Actual: ['şizofreni', 'potansiyel', 'olay', 'olanzapin', 'ilişkin']
+Extracted: ['akı', 'bölge', 'frontal']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 149
+Actual: ['melperon', 'haloperidol', 'nöroleptik', 'kanal', 'mode', 'şizofreni', 'tipik', 'diltiazem', 'kalsiyum', 'blokerleri', 'tiyoridazin', 'atipik', 'feniletilamin', 'zuklopentiksol']
+Extracted: ['davranmak', 'hiperaktivite', 'kanal', 'nöroleptik', 'stereotipik']
+TP: 2 TN: 0 FP: 12 FN: 3 
+Accuracy: %11.76470588235294
+-----------------
+Article Index: 150
+Actual: ['klozapin', 'üç', 'izofreni', 'tedavi', 'direnç', 'izlem', 'yıllık']
+Extracted: ['puan', 'sans', 'saps', 'ölçek']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 151
+Actual: ['belirti', 'şizofreni', 'negatif', 'eksen', 'pozitif']
+Extracted: ['eksen', 'hpt', 'nb']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 152
+Actual: ['serbest', 'malondialdehit', 'glutatyon', 'şizofreni', 'radikal']
+Extracted: ['açı', 'gsh', 'mda', 'radikal', 'savunmak', 'serbest']
+TP: 2 TN: 0 FP: 3 FN: 4 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 153
+Actual: ['cinsel', 'yan', 'etki', 'antidepresan', 'ilâç', 'işlev']
+Extracted: ['cinsel', 'ortalama', 'yan']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 154
+Actual: ['bozuk', 'kişilik', 'psikofarmakoloji']
+Extracted: ['kişilik']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 155
+Actual: ['ölçek', 'derece', 'klinik', 'psikiyatri', 'çalışmak']
+Extracted: ['derece', 'geçer', 'nesnel', 'test', 'ölçek']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 156
+Actual: ['major', 'depressif', 'epizod']
+Extracted: ['depressif', 'plazma', 'seviye']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 157
+Actual: ['yat', 'siklusu', 'acil', 'faz', 'adet', 'psikiyatrik', 'paramenstrel']
+Extracted: ['acil', 'adet', 'al', 'el', 'faz']
+TP: 3 TN: 0 FP: 4 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 158
+Actual: ['potansiyel', 'konversiyon', 'uyarmak', 'bozuk', 'beyinsapı']
+Extracted: ['beyinsapı', 'işitmek', 'konversiyon']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 159
+Actual: ['ergen', 'intihar', 'umut', 'aleksitimi', 'girişim', 'depresyon']
+Extracted: ['intihar']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 160
+Actual: ['hiperaktivite', 'saygı', 'benlik', 'bozuk', 'eksik', 'dikkat', 'metilfenidat']
+Extracted: ['benlik', 'metilfenidat', 'çocuk']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 161
+Actual: ['nöropsikiyatrik', 'otoimmünite', 'streptokoksik', 'antinöronal', 'enfeksiyon', 'antikor', 'pandas']
+Extracted: ['bozuk', 'enfeksiyon', 'çağ', 'çocukluk']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 162
+Actual: ['tourette', 'genetik', 'obsesif', 'tik', 'bozuk', 'bozuluğu', 'kompulsif']
+Extracted: ['okb']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['nükleus', 'hipotalamus', 'arkuat', 'davranmak', 'yem', 'lateral', 'oreksin']
+Extracted: ['oreksin']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 164
+Actual: ['mirtazapin', 'rüya', 'ile', 'yaş', 'ilişki', 'ejekülasyon', 'depresyon']
+Extracted: ['cinsel', 'ejekülasyon', 'rüya']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 165
+Actual: ['şizoafektif', 'lamotrijin', 'bozuk', 'bipolar', 'antiepileptikler', 'dengelemek', 'duygudurum']
+Extracted: ['bipolar', 'lamotrijinin']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 166
+Actual: ['akı', 'kimlik', '99mtc', 'bölgesel', 'disosiyatif', 'bozuk', 'kan', 'serebral', 'spect', 'hmpao']
+Extracted: ['akı', 'bölge', 'bölgesel', 'dkb', 'serebral']
+TP: 3 TN: 0 FP: 7 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 167
+Actual: ['belirti', 'bilmek', 'negatif', 'işlev', 'pozitif', 'risperidon']
+Extracted: ['bellek', 'işlev']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 168
+Actual: ['şizotipal', 'şizofreni', 'aile', 'kişilik', 'şizoid', 'bozuk', 'spektrum', 'paranoid']
+Extracted: ['kişilik', 'yakın']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 169
+Actual: ['malondialdehit', 'antioksidan', 'anksiyete', 'egzersiz', 'depresyon']
+Extracted: ['egzersiz', 'eritrosit', 'plazma', 'program', 'öğrenci']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 170
+Actual: ['şizofreni', 'herpes', 'immunglobulin', 'virüs', 'g']
+Extracted: ['herpes', 'mevsim', 'simpleks', 'süt']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 171
+Actual: ['bağımlı', 'metadon', 'opioid', 'buprenorfin']
+Extracted: ['agonist', 'metadon', 'opioid']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 172
+Actual: ['klâsik', 'şizofreni', 'ögmentasyon', 'ilâç', 'sağaltım', 'atipik', 'antipsikotikler']
+Extracted: ['sağaltım']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 173
+Actual: ['ekt', 'dekonat', 'distoni', 'flufenazine', 'histerikus', 'globus', 'faringeal']
+Extracted: ['boğaz', 'hissî', 'tehdit', 'yumru']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 174
+Actual: ['lipidleri', 'depresyon', 'plazma', 'intihar']
+Extracted: ['intihar', 'seviye', 'solubl']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 175
+Actual: ['etkin', 'yan', 'mirtazapin', 'etkilemek', 'amitriptilin']
+Extracted: ['amitriptilin', 'mirtazapin']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 176
+Actual: ['koloni', 'küre', 'affektif', 'granülosit', 'uyarı', 'hücre', 'bozuk', 'bipolar', 'lityum', 'beyaz', 'faktör']
+Extracted: ['granülosit', 'lityum']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 177
+Actual: ['rabdomiyoliz', 'yan', 'etki', 'klomipramin', 'serotonin', 'sendrom', 'moklobemid']
+Extracted: ['etkileşim', 'moklobemid', 'sendrom', 'serotonin']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 178
+Actual: ['diskinezi', 'süpersensitivite', 'geçmek', 'olanzapin', 'psikoz', 'atipik', 'antipsikotikler']
+Extracted: ['diskinezi', 'geçmek']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 179
+Actual: ['monosemptomatik', 'hipokondriak', 'sanrı', 'bozuk', 'psikoz', 'risperidon']
+Extracted: ['deterjan', 'hipokondriak', 'monosemptomatik']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 180
+Actual: ['ilâç', 'antidepresan', 'tedavi', 'depresyon']
+Extracted: ['bilgi', 'etkileşim', 'ilâç', 'iyi']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 181
+Actual: ['nörobiyoloji', 'ruhsal', 'lateralizasyon', 'hastalık']
+Extracted: ['sağ', 'serebral', 'sol']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 182
+Actual: ['psikoterap', 'bozuk', 'anksiyete', 'yaygın', 'farmakoterapi']
+Extracted: ['yab']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 183
+Actual: ['kullanmak', 'benzodiazepinler', 'bağımlı', 'kötü', 'madde']
+Extracted: ['bağımlı', 'benzodiazepin']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 184
+Actual: ['kanal', 'şizofreni', 'kalsiyum', 'blokörleri', 'feniletilamin']
+Extracted: ['kanal', 'pea']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 185
+Actual: ['karbamazepin', 'etkin', 'mani', 'düzenlemek', 'akut', 'lityum', 'duygudurum', 'valproat']
+Extracted: ['akut', 'mani']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 186
+Actual: ['parathormon', 'kalsiyum', 'bozuk', 'bipolar', 'lityum']
+Extracted: ['kalsiyum', 'lityum']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 187
+Actual: ['haloperidol', 'in', 'vitro', 'glukoz', 'eritrosit', 'dehidrogenaz', 'klorpromazin']
+Extracted: ['dehidrogenaz', 'enzim']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 188
+Actual: ['erektil', 'sildenafil', 'disfonksiyon', 'antidepresan']
+Extracted: ['disfonksiyon', 'erektil', 'sildenafil', 'sitrat']
+TP: 3 TN: 0 FP: 1 FN: 1 
+Accuracy: %60.0
+-----------------
+Article Index: 189
+Actual: ['şizofreni', 'akut', 'ketiapin', 'alev']
+Extracted: ['ketiapin', 'pozitif', 'sunmak']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 190
+Actual: ['nöroleptik', 'malign', 'şizofreni', 'demans', 'frontotemporal', 'sendrom']
+Extracted: ['demans', 'gitmek']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 191
+Actual: ['belirti', 'sülpirid', 'obsesif', 'ekstrapiramidal', 'ilâç', 'bozuk', 'fluoksetin', 'etkileşim', 'kompulsif']
+Extracted: ['mg', 'okb']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 192
+Actual: ['pet', 'fonksiyonel', 'spect', 'görüntülemek', 'bozuk', 'anksiyete', 'beyin']
+Extracted: ['korteks']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 193
+Actual: ['yapışmak', 'koklam', 'kullanım', 'inha', 'uçmak', 'kötü', 'madde']
+Extracted: ['inha', 'kötü']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 194
+Actual: ['uç', 'insipidus', 'bozuk', 'böbrek', 'kreatin', 'klirensi', 'duygudurum', 'lityum', 'yetenek', 'konsantrasyon', 'iki', 'diabetes']
+Extracted: ['böbrek', 'li']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 195
+Actual: ['sistem', 'malondialdehit', 'şizofreni', 'glutatyon', 'antioksidan', 'gelişim', 'bozuk', 'savunmak', 'yaygın']
+Extracted: ['antioksidan', 'savunmak']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 196
+Actual: ['nefazodon', 'bozuk', 'amitriptilin', 'major', 'depresif']
+Extracted: ['amitriptilin', 'nefazodon']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 197
+Actual: ['antipsikotik', 'fizik', 'intihar', 'yetersiz', 'antidepresan', 'tedavi', 'hastalık']
+Extracted: ['fizik', 'intihar']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 198
+Actual: ['serbest', 'antioksidan', 'radikal', 'şizofreni']
+Extracted: ['radikal', 'serbest', 'serum', 'vitamin']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 199
+Actual: ['farmakolojik', 'psikotik', 'antidepresan', 'tedavi', 'antipsikotikler', 'depresyon']
+Extracted: ['psikotik']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 200
+Actual: ['nöroleptik', 'adolesan', 'psikiyatri', 'tedavi', 'ilâç', 'çocuk', 've', 'atipik']
+Extracted: ['çocuk']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Total accuracy of document "Eczacılık" is: %17.96281537090359

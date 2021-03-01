@@ -1,0 +1,1147 @@
+Article Index: 1
+Actual: ['robert', 'sinema', 'yankesici', 'bresson', 'minimalizm']
+Extracted: ['minimalizm', 'stil']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 2
+Actual: ['antisömürgeci', 'postkolonyalizm', 'milliyet', 'bollywood', 'kolonyalizm', 'küresel']
+Extracted: ['bollywood', 'sinema']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 3
+Actual: ['aktör', 'süreç', 'medya', 'politik', 'yazım', 'anayasa', 'lgbt', 'temsil']
+Extracted: ['lgbt', 'medya', 'merkez', 'söylem']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 4
+Actual: ['i̇vedik', 'politik', 'ekonomi', 'sinema', 'reklâm', 'televizyon', 'recep']
+Extracted: ['recep', 'vedik']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 5
+Actual: ['ara', 'eğitim', 'propaganda', 'savaş', 'dönüşüm', 'eğitmek', 'sinema', 'toplum', 'dönem', 'iki', 'dünya', 'ulusal']
+Extracted: ['dönem', 'eğitmek']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 6
+Actual: ['filtre', 'hizmet', 'çerçeve', 'alan', 'kamu', 'basın', 'i̇nternet', 'güven', 'yazılı', 'analiz', 'uygulamak']
+Extracted: ['gi', 'hu']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 7
+Actual: ['aşk', 'evlilik', 'toplum', 'televizyon', 'yeniden', 'üretim', 'cinsiyet', 'piyasa']
+Extracted: ['evlilik', 'program']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 8
+Actual: ['türk', 'ii', 'dışişi', 'bakanlık', 'nsdap', 'savaş', 'almak', 'papen', 'belge', 'ba', 'ribbentrop', 'menemencioğlu', 'dünya', 'saraçoğlu']
+Extracted: ['ba', 'hükümet', 'nsdap', 'türk']
+TP: 3 TN: 0 FP: 11 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 9
+Actual: ['modernite', 'ikonografi', 'üslup', 'tür', 'resmî']
+Extracted: ['imge', 'resim']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 10
+Actual: ['yönetmek', 'temsil', 'kadın', 'sosyal', 'sektör', 'banka']
+Extracted: ['temsil']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 11
+Actual: ['tüketim', 'alışveriş', 'merkez', 'toplum', 'küresel']
+Extracted: ['alışveriş', 'tüketim']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 12
+Actual: ['türk', 'katılım', 'kullanmak', 'cnn', 'gazete', 'üremek', 'içerik', 'haber', 'tarafından', 'yurttaş']
+Extracted: ['cnn', 'haber']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 13
+Actual: ['vatandaş', 'kurum', 'sorumluluk', 'ilişki', 'halk']
+Extracted: ['kurum', 'vatandaş']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 14
+Actual: ['etkin', 'erzurum', 'hizmet', 'performans', 'basın', 'gösterge', 'ba', 'vza', 'yerel']
+Extracted: ['sorun', 'yerel']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 15
+Actual: ['izlemek', 'kuşak', 'katılım', 'ritüel', 'alan', 'kamu', 'program', 'medya', 'etnografisi', 'gündüz']
+Extracted: ['gündüz', 'kamu', 'konuşmak', 'kuşak', 'program']
+TP: 4 TN: 0 FP: 6 FN: 1 
+Accuracy: %36.36363636363637
+-----------------
+Article Index: 16
+Actual: ['marka', 'bağ', 'farkındalık', 'reklâm', 'star', 'televizyon']
+Extracted: ['marka']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 17
+Actual: ['iç', 'siyasal', 'aktör', 'iletişim', 'araç', 'politik', 'parti', 'lider', 've', 'kitle', 'demokrasi']
+Extracted: ['lider', 'parti', 'siyasal']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 18
+Actual: ['ağ', 'yaşam', 'gündelik', 'sosyal', 'paylaşım', 'twitter', 'i̇nternet']
+Extracted: ['gündelik', 'kullanmak', 'twitter', 'yaşam']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 19
+Actual: ['sinema', 'sınıf', 'türk', 'işçi']
+Extracted: ['işçi', 'sinema']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 20
+Actual: ['kocaeli', 'sanayi', 'kurum', 'sosyal', 'sorumluluk', 'kuruluş']
+Extracted: ['kuruluş']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 21
+Actual: ['pazarlamak', 'reklâm', 'ilişki', 'halk', 'doğrudan']
+Extracted: ['doğrudan', 'pazarlamak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 22
+Actual: ['reklâm', 'pazarlamak', 'etnik', 'kimlik']
+Extracted: ['etnik', 'pazarlamak']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 23
+Actual: ['imge', 'simülasyon', 'tüketim', 'teknolojik', 'eleştirel', 'yaklaşım', 've', 'toplum', 'perspektif', 'kültür', 'katil', 'gösteri', 'imaj']
+Extracted: ['ilişki', 'imge', 'katil', 'nitelik', 'temsil']
+TP: 2 TN: 0 FP: 11 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 24
+Actual: ['gerçek', 'mike', 'etmek', 'leigh', 'toplum', 'doğaçlama', 'ideoloji', 'temsil']
+Extracted: ['film', 'karakter', 'leigh']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 25
+Actual: ['endüstri', 'tüketim', 'kadın', 'popüler', 'estetik', 'teknoloji', 'toplum', 'kültür', 'güzel']
+Extracted: ['endüstri', 'güzel', 'kadın']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 26
+Actual: ['ağ', 'med', 'izlemek', 'feminist', 'kadın', 'grub', 'iletişim', 'topluluk', 'medya', 'dolayımlı', 'toplum', 've', 'örgüt', 'cinsiyet', 'bilgisayar']
+Extracted: ['kadın', 'medya', 'söylem', 'örgüt']
+TP: 3 TN: 0 FP: 12 FN: 1 
+Accuracy: %18.75
+-----------------
+Article Index: 27
+Actual: ['kostüm', 'mizansen', 'tür', 'dönem', 'film', 'drama', 'feminizm']
+Extracted: ['drama', 'film', 'kostüm']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 28
+Actual: ['habitus', 'popüler', 'alan', 'neoliberal', 'estetik', 'sınıf', 'toplum', 'kültür', 'kültürel']
+Extracted: ['ayrışmak', 'bourdieu', 'kültürel', 'popüler']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 29
+Actual: ['stereotip', 'önyargı', 'kimlik', 'öte', 'yabancı', 'damat', 'televizyon', 'dizi', 'temsil']
+Extracted: ['aile', 'dizi', 'olgu', 'temsil']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 30
+Actual: ['duygu', 'fotoğraf', 'okuryazar', 'zekâ', 'haber', 'görsel']
+Extracted: ['duygu', 'görsel', 'okuryazar', 'zekâ']
+TP: 4 TN: 0 FP: 2 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 31
+Actual: ['toplum', 'tüketim', 'reklâm', 'göstergebilim']
+Extracted: ['tüketim']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 32
+Actual: ['yeni', 'alışkan', 'medya', 'almak', 'gelenek', 'haber']
+Extracted: ['fakülte', 'öğrenci']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 33
+Actual: ['izlemek', 'türkiye', 'kadın', 'ses', 'sinema', 'alımlamak', 'yeni', 'film']
+Extracted: ['kadın', 'ses']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 34
+Actual: ['liberalizm', 'parti', 'hürriyet', 'demokrasi', 'demokrat', 'forum']
+Extracted: ['dergi', 'forum', 'siyasal']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 35
+Actual: ['kadın', 'medya', 'yabancı', 'toplum', 'cinsiyet', 'fark']
+Extracted: ['antalya', 'fark', 'medya', 'yoğun', 'çelişki']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 36
+Actual: ['i̇ngiliz', 'sinema', 'ulusal', 'kimlik']
+Extracted: ['kritik', 'ların', 'ngiliz']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 37
+Actual: ['sağlık', 'iletişim', 'kamu', 'proje', 'anne', 'güven', 'önlemek']
+Extracted: ['anne', 'sağlık', 'ölüm']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 38
+Actual: ['türkiye', 'belirlemek', 'birlik', 'medya', 'gündem', 'ilişki', 'içerik', 'analiz', 'birleşik', 'krallık', 'nicel', 'avrupa']
+Extracted: ['avrupa', 'gündem']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 39
+Actual: ['kriter', 'özel', 'sistem', 'katılım', 'ikon', 'çalışmak', 'tasarım', 'tasarı']
+Extracted: ['kriter', 'tasarım']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 40
+Actual: ['araştırmak', 'temsiliyet', 'dans', 'hermenötik', 'yöntem', 'etnografi', 'görsel']
+Extracted: ['araştırmak', 'dans', 'deney', 'sosyal', 'video', 'önermek']
+TP: 2 TN: 0 FP: 5 FN: 4 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 41
+Actual: ['stone', 'stephen', 'frears', 'dramatik', 'tarih', 'yetki', 'miras', 'sinema', 'oliver', 'film']
+Extracted: ['queen', 'the']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 42
+Actual: ['boyut', 'etik', 'yönetmek', 'algı']
+Extracted: ['etik', 'yönetmek']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 43
+Actual: ['davranmak', 'marka', 'ödül', 'strateji', 'etik', 'tüketmek', 'kalite']
+Extracted: ['kalite', 'ödül']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 44
+Actual: ['ağ', 'bilgi', 'kişi', 'veri', 'kullanım', 'etik', 'tüketmek', 'bireysel']
+Extracted: ['kimlik', 'kullanmak', 'nternet', 'veri']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 45
+Actual: ['kuşaklararası', 'dinlemek', 'sonra', 'topluluk', 'medya', 'bağ', 'alımlamak', 'sanal', 'dinamik', 'radyo', 'etkileşim', 'pratik']
+Extracted: ['dijital', 'topluluk']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 46
+Actual: ['marka', 'turizm', 'i̇stanbul', 'imaj', 'kültür', 'küresel', 'kent']
+Extracted: ['turizm', 'şehir']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 47
+Actual: ['demokratik', 'katılım', 'politik', 'kimlik', 'politika', 'modern', 'hareket', 'feminist']
+Extracted: ['hareket', 'kadın']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 48
+Actual: ['iletisimi', 'itibar', 'medya', 'kurum', 'sosyal', 'kriz']
+Extracted: ['air', 'kriz', 'onur']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 49
+Actual: ['iletişim', 'yönetim', 'day', 'örgüt', 'reversal', 'karnaval']
+Extracted: ['day', 'reversal', 'tersine']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 50
+Actual: ['değer', 'bağ', 'benlik', 'adalet', 'örgüt']
+Extracted: ['adalet', 'örgüt']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 51
+Actual: ['iletişim', 'tarih', 'yönetim', 'normalizasyon']
+Extracted: ['yönetim']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 52
+Actual: ['yayın', 'katılım', 'çocuk', 'radyo', 'etkileşim', 'i̇nternet']
+Extracted: ['etkileşim', 'katılım']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 53
+Actual: ['animasyon', 'anlatım', 'genel', 'yapı', 'eğilim', 'çocuk', 'analiz', 'film']
+Extracted: ['animasyon', 'anlatım', 'film', 'ghibli', 'yapım']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 54
+Actual: ['yayın', 'nesnel', 'zaman', 'televizyon', 'öznel', 'canlı']
+Extracted: ['nesnel', 'zaman']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 55
+Actual: ['trt', 'yargı', 'anayasa', 'özerklik']
+Extracted: ['madde', 'sayılı', 'trt', 'özerklik']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 56
+Actual: ['izlemek', 'medya', 'duygu', 'okuryazar', 'zekâ', 've', 'televizyon', 'çocuk', 'haber']
+Extracted: ['bülten', 'duygu', 'haber']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 57
+Actual: ['emperyalizm', 'denge', 'akmak', 'özgür', 've', 'küresel', 'enformasyon', 'kültürel']
+Extracted: ['akmak', 'enformasyon']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 58
+Actual: ['kavramak', 'kalmak', 'gazete', 'okumak', 'akıl', 'i̇nternet']
+Extracted: ['nternet', 'okumak', 'yayın']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 59
+Actual: ['sorum', 'kurum', 'sosyal', 'girişim']
+Extracted: ['girişim', 'sosyal', 'şirket']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 60
+Actual: ['web', 'kurum', 'kimlik', 've', 'içerik', 'analiz', 'ilişki', 'halk']
+Extracted: ['kimlik']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 61
+Actual: ['söylem', 'etmek', 'tedavi', 'hastane', 'ortam', 'etkileşim', 'kültürlerarasılık']
+Extracted: ['hast']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['biçim', 'turizm', 'mutena', 'i̇stanbul', 'yeni', 'kent']
+Extracted: ['stanbul', 'ziyaret']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 63
+Actual: ['göç', 'iletişim', 'kamu', 'yönetim', 'ilişki', 'halk']
+Extracted: ['faaliyet', 'halk']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 64
+Actual: ['dijital', 'global', 'pazar', 'görüntü', 'görsel', 'getty', 'image', 'banka']
+Extracted: ['global', 'görüntü', 'pazar']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 65
+Actual: ['sistem', 'türkiye', 'medya', 'politik', 'ekonomik', 'ekonomi', 'eleştirel', 'kriz']
+Extracted: ['medya', 'neo']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 66
+Actual: ['sistem', 'avrupa', 'birlik', 'çalışmak', 'uyum', 'sansür', 'kendi', 'devlet', 'denetlemek', 'film']
+Extracted: ['denetlemek', 'değişik']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 67
+Actual: ['türk', 'popüler', 'sinema', 'kültür', 'müzik']
+Extracted: ['ah', 'beğeni', 'kültürel', 'muhsin']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 68
+Actual: ['lüks', 'tektip', 'zengin', 'deregülasyon', 'villâ', 'yerli', 'yeni', 'dizi', 'kent']
+Extracted: ['lüks', 'sınıf', 'yerli', 'zengin']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 69
+Actual: ['mayıs', 'yassıada', 'hatırlamak', '1960', 'geçmiş', 'medya', 'sevgili', 'duruşma', '27', 'bellek', 'hatır']
+Extracted: ['bellek', 'geçmiş']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 70
+Actual: ['kağıt', 'yayıncılık', 'hurufat', 'kitap', 'matbaa']
+Extracted: ['balzac', 'kağıt', 'matbaa', 'sönmek', 'yazar']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 71
+Actual: ['alternatif', 'blog', 'medya']
+Extracted: ['blog', 'milliyet']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 72
+Actual: ['eğitim', 'gazete', 'çeşit', 'kültürel', 'barış']
+Extracted: ['gazete', 'tutar', 'öğrenci']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 73
+Actual: ['yayın', 'müzik', 'bilgi', 'kullanmak', 'eğitim', 'sanat', 'kamu', 'eğlence', 'işlev', 'kültür', 'katkı', 'radyo', 'haber', 'yarar', 'anadil']
+Extracted: ['dinlemek', 'dinlenmek', 'radyo']
+TP: 1 TN: 0 FP: 14 FN: 2 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 74
+Actual: ['sektör', 'yayıncılık', 'dergi', 'bağımsız', 'haber']
+Extracted: ['dergi', 'haber', 'sektör', 'yayın']
+TP: 3 TN: 0 FP: 2 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 75
+Actual: ['web', 'kurum', 'i̇nternet', 'site']
+Extracted: ['belediye', 'site', 'web']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 76
+Actual: ['kültürel', 'kimlik', 'televizyon', 'dizi', 'yerel']
+Extracted: ['kültürel', 'küresel', 'yerel']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 77
+Actual: ['sorun', 'eskişehir', 'basın', 'dinamik', 'ba', 'yerel', 'kent']
+Extracted: ['eskişehir', 'gazete']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 78
+Actual: ['model', 'iş', 'gazete', 'ekonomi', 'i̇nternet']
+Extracted: ['model', 'nternet']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 79
+Actual: ['yanlı', 'çerçevelemek', 'kura', 'çerçeve', 'basın', 'haber', 'yazılı']
+Extracted: ['abd', 'nükleer', 'ran']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 80
+Actual: ['parti', 'reklâm', 'göstergebilim', 'siyasal']
+Extracted: ['parti']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 81
+Actual: ['çocuk', 'reklâm', 'göstergebilim']
+Extracted: ['imge', 'reklâm', 'çocuk']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 82
+Actual: ['toplum', 'reklâm', 'televizyon', 'çocuk', 'cinsiyet']
+Extracted: ['cinsiyet', 'erkek', 'rol', 'toplum']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 83
+Actual: ['değer', 'marka', 'finansal', 'özsermaye', 'reklâm']
+Extracted: ['finansal', 'halk', 'marka']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 84
+Actual: ['estetik', 'sinema', 'alımlamak', 'çalışmak', 'film']
+Extracted: ['estetik', 'film']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 85
+Actual: ['türk', 'topluluk', 'çokkültürlü', 'göçmen', 'radyo']
+Extracted: ['göçmek', 'radyo', 'topluluk']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 86
+Actual: ['türk', 'propaganda', 'sinema', 'tarih', 'sansür', 'denetim', 'mürebbiye', 'film', 'ilk']
+Extracted: ['sansür']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 87
+Actual: ['paradigma', 'iletişim', 'medya', 'yönetim', 'politika', 'yeni', 'değişim']
+Extracted: ['enformasyon', 'iletişim', 'liberal', 'teknoloji']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 88
+Actual: ['bütünleşik', 'örnek', 'iletişim', 'marka', 'reklâm', 'ilişki', 'halk']
+Extracted: ['bütünleşik', 'marka']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 89
+Actual: ['sektör', 'reklâm', 'türk']
+Extracted: ['ajans', 'reklâm']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 90
+Actual: ['türk', 'ara', 'iletişim', 'alan', 'kamu', 'mahkemesi', 'anayasa', 'devlet', 'yurttaş']
+Extracted: ['devlet', 'kamu']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 91
+Actual: ['film', 'alternatif', 'hollywood', 'sinema', 'festival', 'küresel', 'i̇ran', 'ulusal', 'seyirci']
+Extracted: ['alternatif', 'film', 'ran']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 92
+Actual: ['bosna', 'kurmak', 'savaş', 'tarih', 'sinema', 'müdahale', 'uluslararası']
+Extracted: ['birleşmek', 'film']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 93
+Actual: ['anayasa', '1961', 'ba', 'radyo', '1965', 'yazılı']
+Extracted: ['radyo', 'trt', 'yayın', 'özerklik']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 94
+Actual: ['belgesel', 'sinema', 'kurmak']
+Extracted: ['belgesel']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 95
+Actual: ['süreç', 'iletişim', 'pazar', 'medya', 'ürün', 'ekonomi', 'üretim', 'kitle']
+Extracted: ['medya', 'üretim']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 96
+Actual: ['bant', 'reklâm', 'göstergebilim', 'i̇nternet', 'interaktif']
+Extracted: ['hedef', 'reklâm']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 97
+Actual: ['taşıt', 'üst', 'reklâm', 'işlev', 'gösterge', 'dil', 'görsel']
+Extracted: ['ileti', 'reklâm']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 98
+Actual: ['iç', 'bilgi', 'iletişim', 'kurum', 'yönetim']
+Extracted: ['kurum', 'saye']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 99
+Actual: ['sağlık', 'iletişim', 'risk', 'sarsmak']
+Extracted: ['iletişim', 'risk', 'sağlık']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 100
+Actual: ['tarih', 'sinema', 'gerçek', 'kurmak']
+Extracted: ['sinema', 'tarih']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 101
+Actual: ['cinéma', 'afrika', 'beur', 'sinema', 'arap']
+Extracted: ['sinema']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 102
+Actual: ['yerelleşmek', 'kullanmak', 'kültür', 'uluslararası', 'etkileşim', 'i̇nternet', 'tasarım']
+Extracted: ['kullanmak', 'kültürel', 'kültürlerarası', 'parametre']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 103
+Actual: ['medya', 'alımlamak', 'televizyon', 'haber', 'çalışmak', 'sosyoloji']
+Extracted: ['haber', 'televizyon']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 104
+Actual: ['radyo', 'etkileşim', 'dinlemek', 'ticarî']
+Extracted: ['dinlemek']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 105
+Actual: ['sinema', 'dil', 'söylem', 'anlatı']
+Extracted: ['anlatı', 'emek', 'film', 'metin']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 106
+Actual: ['kimlik', 'göstergebilim', 'halk', 'ilişki', 'i̇nternet', 'görsel']
+Extracted: ['kuruluş', 'site']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 107
+Actual: ['kurmak', 'senaryo', 'yazar', 'uyarlamak', 'karakter']
+Extracted: ['senaryo', 'uyarlamak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 108
+Actual: ['yabancı', 'dil', 'reklâm', 'sözcük']
+Extracted: ['sözcük', 'yabancı']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 109
+Actual: ['model', 'döngü', 'kamu', 'dezenformasyon', 'manipülâsyon', 'spin', 'ilişki', 'halk']
+Extracted: ['halk', 'iletişim', 'kamu', 'mühendis', 'savaş', 'spin']
+TP: 3 TN: 0 FP: 5 FN: 3 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 110
+Actual: ['özdenetim', 'meslek', 'ilke', 'medya', 'basın', 'konsey', 'etik']
+Extracted: ['basın', 'etik', 'konsey']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 111
+Actual: ['kuşaklararası', 'iletişim', 'medya', 'teknoloji', 'kullanım', 'yeni', 'pratik']
+Extracted: ['iletişim', 'yaş', 'yeni']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 112
+Actual: ['hedef', 'iç', 'yönetmek', 'ülke', 'itibar', 'algı', 'kitle']
+Extracted: ['itibar', 'ülke']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 113
+Actual: ['tarkovsky', 'modernite', 'nostalji', 'andrei']
+Extracted: ['film', 'nostalghia', 'tarkovsky']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 114
+Actual: ['medya', 'tüketim', 'estetik']
+Extracted: ['estetik', 'ideoloji']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 115
+Actual: ['paydaş', 'iletişim', 'kurum', 'yönetim']
+Extracted: ['şirket']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 116
+Actual: ['film', 'göç', 'entegrasyon', 'düğün']
+Extracted: ['almanya', 'düğün', 'film', 'kuşak']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 117
+Actual: ['sinema', 'iletişim', 'yabancı']
+Extracted: ['yabancı']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 118
+Actual: ['aralık', '4', '1945', 'sertel', 'olay', 'tan']
+Extracted: ['gazete', 'politika', 'saldırı', 'tan']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 119
+Actual: ['iletişim', 'etkileşim', 'ilişki']
+Extracted: ['hast', 'hekim', 'iletişim']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 120
+Actual: ['özgür', 'parti', 'anayasa', '1961', 'ifade', 'demokrat']
+Extracted: ['anayasa', 'hak', 'iktidar', 'kısıtlamak', 'parti', 'özgür']
+TP: 3 TN: 0 FP: 3 FN: 3 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 121
+Actual: ['endüstri', 'stereotip', 'güzel', 'kozmetik', 'dove']
+Extracted: ['benlik', 'güzel', 'marka']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 122
+Actual: ['stres', 'televizyon', 'örgüt', 'yerel', 'faktör']
+Extracted: ['stres']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 123
+Actual: ['katık', 'dergi', 'toplamak', 'yoksul', 'atık']
+Extracted: ['yoksul']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 124
+Actual: ['terörizm', 'fark', 'semantik', 'gazete']
+Extracted: ['alımlamak', 'kavram', 'seçim', 'terörist', 'terörizm']
+TP: 1 TN: 0 FP: 3 FN: 4 
+Accuracy: %12.5
+-----------------
+Article Index: 125
+Actual: ['eğlence', 'enformasyon', 'sanat']
+Extracted: ['eğlence']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 126
+Actual: ['sağlık', 'iletişim', 'odak', 'alımlamak', 'analiz', 'grup']
+Extracted: ['sağlık', 'sigara', 'spot']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 127
+Actual: ['dergi', 'mart', 'muhtıra', '12', 'dönem', 'ortam']
+Extracted: ['aydın', 'dergi', 'dönem', 'mart', 'ortam']
+TP: 4 TN: 0 FP: 2 FN: 1 
+Accuracy: %57.14285714285714
+-----------------
+Article Index: 128
+Actual: ['kişilik', 'marka', 'reklâm', 'kültür', 'müzik']
+Extracted: ['marka', 'müzik', 'reklâm']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 129
+Actual: ['planlamak', 'gerillâ', 'pazarlamak']
+Extracted: ['ajans', 'gerillâ', 'pazarlamak']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 130
+Actual: ['sinema', 'oryantalizm', 'temsil', 'fransız']
+Extracted: ['batı', 'doğu', 'film', 'temsil']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 131
+Actual: ['model', 'michael', 'sanat', 'haneke', 'film', 'durum']
+Extracted: ['bilmek', 'durum', 'film']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 132
+Actual: ['internet', 'reklâm', 'engellemek']
+Extracted: ['engellemek', 'nternet', 'reklâm', 'çevrimiçi']
+TP: 2 TN: 0 FP: 1 FN: 2 
+Accuracy: %40.0
+-----------------
+Article Index: 133
+Actual: ['radyo', 'haber', 'sorun', 'çevre']
+Extracted: ['haber', 'radyo', 'çevre']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 134
+Actual: ['devir', 'latin', 'gazete', 'alfabe', 'tanıtım', 'harf']
+Extracted: ['alfabe', 'dönem', 'harf', 'latin']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 135
+Actual: ['endüstri', 'söylem', 'reklâm', 'kültür', 'egemen']
+Extracted: ['anlam', 'film', 'imge', 'kuşatmak', 'söylem']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 136
+Actual: ['toplum', 'katılım', 'kültür', 'siyasal']
+Extracted: ['kültür', 'siyasal']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 137
+Actual: ['eisenstein', 'sinema', 'kurgu']
+Extracted: ['kurgu']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 138
+Actual: ['medya', 'gazete', 'spor', 'sosyal', 'i̇nternet']
+Extracted: ['gazete', 'haber', 'nternet', 'spor']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 139
+Actual: ['sürmek', 'ekotopya', 'tüketim']
+Extracted: ['ekolojik', 'pazarlamak', 'tüketim', 'ütopya']
+TP: 1 TN: 0 FP: 2 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 140
+Actual: ['çevrimiçi', 'bası', 'postmodernizm', 'gazete']
+Extracted: ['gazete', 'haber', 'çevrimiçi']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 141
+Actual: ['wikileaks', 'medya', 'radikal', 'demokrasi', 'yeni']
+Extracted: ['demokrasi', 'medya', 'wikileaks', 'yeni']
+TP: 4 TN: 0 FP: 1 FN: 0 
+Accuracy: %80.0
+-----------------
+Article Index: 142
+Actual: ['katılım', 'demokrasi', 'yüküm']
+Extracted: ['eğitim', 'politika']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['altyapı', 'sinema', 'teknik', 'türk']
+Extracted: ['altyapı', 'teknik', 'çekim']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 144
+Actual: ['bilgi', 'doğa', 'eğlence', 'belge', 'televizyon']
+Extracted: ['belgesel', 'doğa', 'earth', 'planet', 'popüler', 'seri']
+TP: 1 TN: 0 FP: 4 FN: 5 
+Accuracy: %10.0
+-----------------
+Article Index: 145
+Actual: ['kim', 'yay', 'göstergebilim']
+Extracted: ['evren', 'inanç', 'kore', 'uzakdoğu']
+TP: 0 TN: 0 FP: 3 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 146
+Actual: ['kişisel', 'statü', 'iletişim', 've', 'toplum', 'ölüm', 'ilân']
+Extracted: ['ilân', 'ölüm']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 147
+Actual: ['davranmak', 'eğilim', 'inşaa', 'ilişki', 'hast']
+Extracted: ['doktor', 'söylem']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 148
+Actual: ['deleuze']
+Extracted: ['deleuze', 'sinematografik']
+TP: 1 TN: 0 FP: 0 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 149
+Actual: ['online', 'i̇nternet', 'gazete', 'sürüm']
+Extracted: ['sürüm']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 150
+Actual: ['gazete', 'geçmek', 'sosyal', 'kültür', 'değişim']
+Extracted: ['değişim', 'geçmek', 'toplum']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 151
+Actual: ['kavram', 'anime', 'olgu', 'beden', 'sibernetik']
+Extracted: ['anime', 'beden', 'dizi', 'görsel', 'tema']
+TP: 2 TN: 0 FP: 3 FN: 3 
+Accuracy: %25.0
+-----------------
+Article Index: 152
+Actual: ['kurum', 'kültür', 'analiz']
+Extracted: ['kurum', 'kültür']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 153
+Actual: ['türkiye', 'mode', 'pazarlamak', 'turizm', 've', 'tanıtım', 'örgüt']
+Extracted: ['turizm', 'örgüt']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 154
+Actual: ['etik', 'yerel', 'basın']
+Extracted: ['basın', 'etik', 'yerel']
+TP: 3 TN: 0 FP: 0 FN: 0 
+Accuracy: %100.0
+-----------------
+Article Index: 155
+Actual: ['belgesel', 'film', 'antropoloji', 'etnografik']
+Extracted: ['etnografik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 156
+Actual: ['haber', 'magazin']
+Extracted: ['basın', 'haber', 'magazin']
+TP: 2 TN: 0 FP: 0 FN: 1 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 157
+Actual: ['tarih', 'dergi', 'basın']
+Extracted: ['dergi']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 158
+Actual: ['organ', 'küresel', 'basın', 'gazete']
+Extracted: ['egemen', 'kültür']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 159
+Actual: ['kuş', 'iletişim', 'medya', 'taktik', 'grip', 'kriz', 'yeni']
+Extracted: ['kriz']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 160
+Actual: ['işlemek', 'reklâm', 'kurum', 'hizmet']
+Extracted: ['hizmet', 'kurum']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 161
+Actual: ['ii', 'mahmud', 'gazete', 'resmî', 'portre', 'vekayi']
+Extracted: ['mahmud', 'obje', 'resmî', 'sultan', 'vekayi', 'yönlenmek']
+TP: 3 TN: 0 FP: 3 FN: 3 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 162
+Actual: ['reklâm', 'bilinçaltı']
+Extracted: ['bilinçaltı', 'reklâm']
+TP: 2 TN: 0 FP: 0 FN: 0 
+Accuracy: %100.0
+-----------------
+Article Index: 163
+Actual: ['bit', 'bilgi', 'iletişim', 'teknoloji', 'örgüt']
+Extracted: ['bilgi', 'teknoloji', 'örgüt']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 164
+Actual: ['olgu', 'medya', 'kadın']
+Extracted: ['kadın']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 165
+Actual: ['şiddet', 'çocuk', 'televizyon']
+Extracted: ['televizyon', 'çocuk']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 166
+Actual: ['hizmetkâr', 'kurum', 'kültür', 'lider']
+Extracted: ['hizmetkâr', 'lider']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 167
+Actual: ['tüketim', 'dergi', 'kadın']
+Extracted: ['dergi']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 168
+Actual: ['iletişim', 'tarih', 'teknoloji']
+Extracted: ['iletişim', 'insan', 'matbaa']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 169
+Actual: ['dizi', 'film', 'müzik']
+Extracted: ['müzik']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 170
+Actual: ['erişim', 'kamu', 'merkez', 'kullanım', 'kafe', 'i̇nternet', 'bilgisayar']
+Extracted: ['kafe', 'nternet']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 171
+Actual: ['spor', 'etkin', 'f1', 'sponsor']
+Extracted: ['sponsor']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 172
+Actual: ['iletişim', 'halk', 'atatürk']
+Extracted: ['halk', 'kamu', 'çözüm']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 173
+Actual: ['meslek', 'ilke', 'basın', 'konsey', 'etik']
+Extracted: ['basın', 'meslek', 'yasa']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 174
+Actual: ['özgür', 'hak', 'kadın']
+Extracted: ['kadın']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 175
+Actual: ['propaganda', 'ilişki', 'reklâm', 'halk']
+Extracted: ['halk', 'propaganda']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 176
+Actual: ['belgesel', 'yönetmen', 'yaratı', 'film']
+Extracted: ['belgesel', 'film', 'yaratı']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 177
+Actual: ['serbest', 'sinema', 'zaman', 'kent']
+Extracted: ['kent', 'serbest', 'zaman']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 178
+Actual: ['iletişim', 'marka', 'yönetim', 'değer']
+Extracted: ['değer', 'faktör', 'marka', 'müşteri', 'tüketmek']
+TP: 2 TN: 0 FP: 2 FN: 3 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 179
+Actual: ['yöntem', 'araştırmak', 'pozitivizm', 'bilgi']
+Extracted: ['bilgi', 'pozitivist']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 180
+Actual: ['popüler', 'reklâm', 'tüketim', 'kültür']
+Extracted: ['gelişim', 'reklâm', 'tüketim']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 181
+Actual: ['ekonomi', 'verim', 'bilgi']
+Extracted: ['artmak', 'bilgi', 'nternet']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 182
+Actual: ['şiddet', 've', 'çocuk', 'tv', 'ilişki']
+Extracted: ['ebeveyn', 'güven', 'çocuk', 'şiddet']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 183
+Actual: ['edimbilim', 'anlambilim', 'göstergebilim', 'dilbilim', 'iletişimbilim']
+Extracted: ['bilim', 'edimbilim', 'göstergebilim']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 184
+Actual: ['suç', 'hukuk', 'basın', 'özgür']
+Extracted: ['basın', 'yasa']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 185
+Actual: ['web', 'kurum', 'sosyal', 'sorumluluk', 'sayfa', 'banka']
+Extracted: ['sorumluluk', 'sosyal']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 186
+Actual: ['ab', 'medya', 'işitsel', 'politika', 've', 'hukuk', 'görsel']
+Extracted: ['ab', 'politika']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 187
+Actual: ['korku', 'sinema', 'edebiyat', 'türk']
+Extracted: ['korku', 'sinema']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 188
+Actual: ['ba', 'türk', 'haber', 'avrasya']
+Extracted: ['bölge', 'sayısal']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 189
+Actual: ['11', 'savaş', 'eylül', 'gazete']
+Extracted: ['eylül', 'gazete', 'irak', 'saddam', 'savaş']
+TP: 3 TN: 0 FP: 1 FN: 2 
+Accuracy: %50.0
+-----------------
+Article Index: 190
+Actual: ['şiddet', 'haber', 'televizyon', 'çocuk']
+Extracted: ['algılamak', 'haber', 'çocuk', 'şiddet']
+TP: 3 TN: 0 FP: 1 FN: 1 
+Accuracy: %60.0
+-----------------
+Article Index: 191
+Actual: ['sinema', 'sigara', 'ürün', 'yerleşmek']
+Extracted: ['sigara']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Total accuracy of document "İletişim" is: %27.722180592907424

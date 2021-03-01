@@ -1,0 +1,1195 @@
+Article Index: 1
+Actual: ['düşey', 'anomali', 'gelişigüzel', 'ters', 'çözüm', 'manyetik', 'fay']
+Extracted: ['manyetik']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 2
+Actual: ['yöntem', 'zemin', 'mikrotremor', 'sismik', 'geniş', 'deprem', 'centroid', 'gürültü', 'band', 'cmg40t', 'moment', 'nakamura', 'kayıt', 'büyütmek', 'tensor']
+Extracted: ['gürültü', 'istasyon']
+TP: 1 TN: 0 FP: 14 FN: 1 
+Accuracy: %6.25
+-----------------
+Article Index: 3
+Actual: ['sınır', 'anomali', 'havza', 'güç', 'gravite', 'yapı', 'burdur', 'spektrum', 'analiz']
+Extracted: ['gravite', 'yapı']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 4
+Actual: ['arkeomağnetizma', 'alan', 'kalıntı', 'mıknatıs', 'yermağnetik']
+Extracted: ['arkeolojik', 'kalıntı', 'yermağnetik', 'örnek']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 5
+Actual: ['malzeme', 'dolgu', 'indeks', 'bağlamak', 'macun', 'reolojik', 'dayanım']
+Extracted: ['dolgu', 'macun']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 6
+Actual: ['arazi', 'taşınmaz', 'gelişmek']
+Extracted: ['mülkiyet', 'taşınmaz']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 7
+Actual: ['sıvı', 'standart', 'penetrasyon', 'granülometrik', 'dağılım', 'vadi', 'çokal']
+Extracted: ['sıvı', 'vadi', 'çokal']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 8
+Actual: ['yeraltı', 'boşluk', 'sülfit', 'asidik', 'içermek', 'dolgu', 'su', 'macun', 'depolamak', 'maden', 'atık']
+Extracted: ['atık', 'depo', 'macun', 'maden', 'sülfit']
+TP: 4 TN: 0 FP: 7 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 9
+Actual: ['myctophidae', 'hatay', 'türkiye']
+Extracted: ['miyosen', 'myctophum']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 10
+Actual: ['riyolit', 'sferülitik', 'yapı', 'doku', 'ötektik', 'polimer', 'kristalizasyon', 'organik']
+Extracted: ['cam', 'kristal', 'mikroskop', 'sferülitler', 'volkanik']
+TP: 0 TN: 0 FP: 8 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['sınır', 'random', 'filtre', 'yarımada', 'ters', 'gelibolu', 'markov', 'çözüm', 'mrf', 'saptamak']
+Extracted: ['mrf']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 12
+Actual: ['model', 'zemin', 'transfer', 'bir', 'boyut', 'büyütmek', 'fonksiyon']
+Extracted: ['büyütmek', 'frekans', 'zemin']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 13
+Actual: ['eşdeğer', 'değer', 'düzenlemek', 'taşınmaz', 'gelişmek', 'arsa', 'planlamak', 'imar', 'eşit']
+Extracted: ['imar', 'proje', 'seçenek']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 14
+Actual: ['malzeme', 'mühendis', 'beton', 'yapı', 'karatepe', 'çorlu', 'bazalt', 'özellik', 'agrega']
+Extracted: ['bazalt', 'karatepe']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 15
+Actual: ['bouguer', 'anomali', 'kalın', 'filtre', 'alçak', 'anadolu', 'rekursiv', 'gravite', 'kabuk', 'batı', 'geçmek', 'boyut', 'iir', 'iki', 'rejyonal']
+Extracted: ['bouguer', 'sahil']
+TP: 1 TN: 0 FP: 14 FN: 1 
+Accuracy: %6.25
+-----------------
+Article Index: 16
+Actual: ['karbon', 'bitüm', 'organik', 'fasiyes', 'kerojen', 'şeyl', 'madde']
+Extracted: ['olgun', 'organik']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 17
+Actual: ['düşey', 'kare', 'ters', 'sondaj', 'elektrik', 'çözüm', 'en', 'sönüm', 'teknik', 'marquardt', 'küçük']
+Extracted: ['elektrik', 'kare', 'marquardt', 'özdirenç']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 18
+Actual: ['pesimum', 'deney', 'reaksiyon', 'alkali', 'silika', 'çubuk', 'harç', 'içerik', 'reaktif', 'agrega']
+Extracted: ['agrega', 'alkali', 'harç', 'jel', 'reaktif']
+TP: 4 TN: 0 FP: 6 FN: 1 
+Accuracy: %36.36363636363637
+-----------------
+Article Index: 19
+Actual: ['sınır', 'kb', 'anadolu', 'yapı', 'veri', 'mağnetik', 'analiz', 'hava']
+Extracted: ['mağnetik', 'plüton', 'spektrum']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 20
+Actual: ['niğde', 'bazalt', 'reaksiyon']
+Extracted: ['agrega', 'bazalt']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 21
+Actual: ['karışım', 'denizsuyu', 'kaynak', 'karst', 'milâs', 'tuz', 'muğla', 'hidrojeoloji']
+Extracted: ['beslemek', 'hidrojeolojik', 'karst', 'tuz']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 22
+Actual: ['sıvı', 'türkiye', 'toros', 'tip', 'misisipi', 'yatak', 'doğu', 'kapmak', 'vadi', 'mvt']
+Extracted: ['ayraklı', 'celaldağı', 'cevher', 'yatak']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 23
+Actual: ['kayaç', 'metro', 'mekanik', 'i̇stanbul', 'tasma', 'özellik', 'tünel', 'konverjans']
+Extracted: ['metro', 'tasma']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 24
+Actual: ['şekil', 'etkin', 'sismik', 'deprem', 'derin', 'bölge', 'ters', 'çözüm', 'batmak', 'dalga']
+Extracted: ['maria', 'şok']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['neojen', 'havza', 'kömür', 'bitüm', 'şeyl', 'himmetoğlu']
+Extracted: ['bitüm', 'kömür', 'om']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 26
+Actual: ['ömerli', 'zemin', 'sınıflamak', 'alüvyon']
+Extracted: ['kil', 'zemin']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 27
+Actual: ['başlangıç', 'mode', 'katsayı', 'ters', 'özdirenç', 'çözüm', 'sönüm']
+Extracted: ['başlangıç', 'sönüm']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 28
+Actual: ['değer', 'deprem', 'istatistik', 've', 'b', 'artçı', 'p', 'analiz']
+Extracted: ['artçı', 'deprem', 'değer', 'fay', 'hesaplamak']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 29
+Actual: ['mağnetizması', 'kayaç', 'histeresiz', 'kaya', 'sedimenter']
+Extracted: ['mıknatıs']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 30
+Actual: ['yöntem', 'anomali', 'düşey', 'alan', 'türev', 'sinyal', 've', 'manyetik', 'analitik', 'yatay']
+Extracted: ['analitik', 'sinyal', 'türev']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 31
+Actual: ['bond', 'metal', 'baz', 'indeks', 'öğütmek']
+Extracted: ['öğütmek']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 32
+Actual: ['vektör', 'deformasyon', 'yönelim', 'yerdeğiştirme']
+Extracted: ['tünel', 'yerdeğiştirme']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 33
+Actual: ['havza', 'ala', 'miyosen', 'orta', 'kahramanmaraş', 'formasyon']
+Extracted: ['ala', 'formasyon', 'kahramanmaraş']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 34
+Actual: ['anomali', 'saat', 'yön', 'duyarlı', 'kalıntı', 'mıknatıs', 'ters', 've', 'manyetik', 'dönme', 'paleotektonik', 'kapadokya']
+Extracted: ['anomali', 'kapadokya', 'manyetik', 'mıknatıs']
+TP: 4 TN: 0 FP: 8 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 35
+Actual: ['modellemek', 'gravite', 'veri', 'derinlik']
+Extracted: ['derinlik', 'gravite', 'rms']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 36
+Actual: ['çamardı', 'sayısal', 'stratigrafi', 'veri', 'biyofabrik', 'foraminifer', 'lütesiyen']
+Extracted: ['loca', 'nummulites', 'tur']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 37
+Actual: ['doku', 'mineroloji', 'mağnetik', 'biomağnetizma', 'epilepsi', 'insan', 'beyin']
+Extracted: ['beyin']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 38
+Actual: ['agrega', 'i̇stanbul', 'cebeciköy', 'kireçtaşı']
+Extracted: ['cebeciköy']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 39
+Actual: ['andırmak', 'kesit', 'eleman', 'sunu', 'özdirenç', 'çözüm', 'son', 'düz', 'yöntem']
+Extracted: ['modellemek', 'özdirenç']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 40
+Actual: ['sarsıntı', 'iç', 'deprem', 'tensörü', 'çözüm', 'levha', 'germek', 'artçı', 'moment', 'tensör']
+Extracted: ['ankara', 'deprem']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 41
+Actual: ['karışmak', 'çok', 'öğütmek', 'değirmen', 'ince']
+Extracted: ['değirmen']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 42
+Actual: ['modül', 'basınç', 'eksen', 'tek', 'dayanım', 'regresyon', 'elastisite']
+Extracted: ['elastisite']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 43
+Actual: ['kireçtaşı', 'kinematik', 'şev', 'stabilite', 'kaya', 'analiz']
+Extracted: ['şev']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 44
+Actual: ['mezra', 'mekanizma', 'sütlü', 'deprem', 'heyelân', 'fay', 'çatlak']
+Extracted: ['deprem', 'hasar', 'mezra', 'sütlü']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 45
+Actual: ['biyomarker', 'havza', 'sivas', 'jeokimya', 'kömür', 'kangal', 'organik']
+Extracted: ['kalburçayırı', 'kangal', 'kömür']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 46
+Actual: ['termal', 'döngel', 'kaplıca', 'gaz', 'su', 'radon', 'hartlap', 'kahramanmaraş', 'ölçü']
+Extracted: ['fay', 'hartlap', 'sıcak']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 47
+Actual: ['adalar', 'prens', 'eşzamanlı', 'kaynak', 'deprem', 'ters', 'tekil', 've', 'çözüm', 'parametre', 'fay']
+Extracted: ['brune', 'deprem', 'hutchings', 'kaydetmek', 'spektrum']
+TP: 1 TN: 0 FP: 10 FN: 4 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 48
+Actual: ['anadolu', 'kuzey', 'özdirenç', 'elektrik', 'çözüm', 'boyut', 'düz', 'manyetotelürik', 'fay', 'yöntem']
+Extracted: ['deniz', 'iletken', 'veri']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['jeokimya', 'jeotermal', 'türkiye', 'potansiyel', 'geven', 'jeoloji', 'kütahya']
+Extracted: ['geven', 'jeotermal']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 50
+Actual: ['model', 'anomali', 'havza', 'üç', 'güç', 'gravite', 'çankırı', 'boyut', 'spektrum', 'analiz', 'analitik', 'sinyal']
+Extracted: ['gravite', 'çankırı']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 51
+Actual: ['kömür', 'linyit', 'aglomerasyon', 'toz', 'yağ']
+Extracted: ['kömür', 'yağ', 'yöntem']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 52
+Actual: ['kaçak', 'su', 'gezmek', 'sülfat', 'baraj']
+Extracted: ['onarım', 'tünel']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['bilim', 'bölüm', 'i̇stanbul', 'üniversitesi', 'doktor', 'jeoloji', 'tez', 'yer', 'katkı']
+Extracted: ['tez']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 54
+Actual: ['balneoloji', 'termal', 'marmara', 'radyoaktivite', 'bölge', 'su', 'mineral', 'hidrokimya']
+Extracted: ['kaynak', 'kimyasal', 'su', 'termal', 'yurt']
+TP: 2 TN: 0 FP: 6 FN: 3 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 55
+Actual: ['sıvı', 'mıknatıs', 'manyetik', 'iletken', 'süper', 'ayırmak']
+Extracted: ['ayırmak', 'manyetik']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 56
+Actual: ['mağnetizması', 'antropojenik', 'etki', 'iklim', 'çevre', 'mağnetik', 'mineral']
+Extracted: ['mağnetik', 'mağnetizması', 'çevre']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 57
+Actual: ['hız', 'ayrışmak', 'sertlik', 'derece', 'ultrasonik', 'schmidt', 'su', 'ağırlık', 'çekici', 'yüzde', 'deney', 'dalga', 'emme']
+Extracted: ['ayrışmak', 'zon']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 58
+Actual: ['mekanizma', 'kaynak', 'deprem', 'şok', 'ana']
+Extracted: ['düğüm', 'van', 'şok']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 59
+Actual: ['ağır', 'bilgi', 'kaynak', 'metal', 'etiket', 'su', 'i̇stanbul']
+Extracted: ['kaynak', 'limit', 'su']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 60
+Actual: ['ürdün', 'akifer', 'nau', 'yeraltısuyu', 'hummer', 'bölge', 've', 'r', 'suf', 'kalite']
+Extracted: ['akifer', 'kaynak', 'su', 'suf']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 61
+Actual: ['zemin', 'stabilite', 'konya', 'dolgu', 'yamaç']
+Extracted: ['doğal', 'yamaç', 'zemin']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 62
+Actual: ['yenmek', 'şev', 'jeolojik', 'geri', 'ölçüt', 'kütle', 'duraylılığı', 'indeks', 'kaya', 'dayanım', 'yığın', 'analiz', 'pas', 'dönük']
+Extracted: ['gsi', 'kaya', 'kütle', 'ölçüt']
+TP: 3 TN: 0 FP: 11 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 63
+Actual: ['andezit', 'mneınatik', 'altındağ', 'risk', 'olasılık', 'ankara', 'analiz', 'harita']
+Extracted: ['eklem', 'şev']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 64
+Actual: ['yapıtaşı', 'sivas', 'yüzey', 'kaplama', 'sıcak', 'traverten', 'çermik', 'taşımak', 'uyuz']
+Extracted: ['dayanım', 'don', 'traverten']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 65
+Actual: ['mühendis', 'sıkışmak', 'tüf', 'indeks', 'eksen', 'dayanım', 'jeoloji', 'tek', 'nokta']
+Extracted: ['nokta', 'yüklem']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 66
+Actual: ['simülasyon', 'maden', 'jeoistatistiksel', 'yatak', 'ayrışım', 'kovaryans', 'yöntem', 'halk']
+Extracted: ['matris', 'simülasyon']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 67
+Actual: ['hidrojeokimya', 'antalya', 'izotop', 'analiz', 'kümelemek', 'faktör']
+Extracted: ['kümelemek', 'plato', 'traverten']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 68
+Actual: ['ağır', 'ziglab', 'kir', 'metal', 'sediman', 'baraj']
+Extracted: ['ayrımlama', 'metal']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 69
+Actual: ['model', 'deney', 'sıvı', 'tüp', 'kalkan', 'masa', 'i̇stanbul', 'sarsmak', 'tünel', 'boğaz']
+Extracted: ['tünel']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 70
+Actual: ['topoğrafik', 'potansiyel', 'algılamak', 'aktif', 'uzak', 'özellik', 'fay', 'helendale']
+Extracted: ['algılamak', 'fay', 'uzak']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 71
+Actual: ['duraysıziığı', 'mantık', 'şev', 'indeks', 'analiz', 'deterministik', 'duraylıhk', 'bulanık']
+Extracted: ['bulanık', 'mantık', 'yaklaşım', 'şev']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 72
+Actual: ['kor', 'alan', 'çevre', 'su', 'fethiye', 'kalite']
+Extracted: ['kalite', 'kıtaiçi', 'su']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 73
+Actual: ['kül', 'termik', 'santral', 'yatağan', 'su', 'cüruf', 'yeraltı']
+Extracted: ['atık', 'depolamak', 'su']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 74
+Actual: ['burnaz', 'kaynak', 'hidrojeokimyasal', 'yorumlamak']
+Extracted: ['bazalt', 'burnaz', 'kaynak', 'ova']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 75
+Actual: ['rezerv', 'kaynak', 'hammadde', 'cevher', 'taşımak', 'süs']
+Extracted: ['rezerv', 'tarif']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 76
+Actual: ['dolomit', 've', 'mermer', 'muğla', 'kalsit']
+Extracted: ['mermer']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 77
+Actual: ['malzeme', 'kireçtaşı', 'andezitik', 'yapı', 'traverten', 'tüf', 'kapilarite', 'granit']
+Extracted: ['emme', 'kapiler']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['olmak', 'izlemek', 'toprak', 'nem', 'akmak', 'yeraltısuyu', 'bölge', 'örtü', 'kaya', 'beslenim', 'doygun', 'deney', 'temel']
+Extracted: ['açık', 'katman', 'kırık', 'temel', 'yeraltısuyu']
+TP: 2 TN: 0 FP: 11 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 79
+Actual: ['geçek', 'sıcak', 'jeotermau', 'hst3d', 'su', 'ömer', 'er', 'afyon', 'akif']
+Extracted: ['afyon', 'kuyu', 'sıcak']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 80
+Actual: ['model', 'afyon', 'yeraltısuyu', 'modflow']
+Extracted: ['ova']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 81
+Actual: ['sistem', 'jeotermal', 'taşınımı', 'modellemek', 'sıcak', 'su', 'ısı']
+Extracted: ['jeotermal', 'sistem']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 82
+Actual: ['izotop', 'tron', 'salamura']
+Extracted: ['akım', 'sektör', 'soda']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 83
+Actual: ['jeoteknik', 'boru', 'ssk', 'basınç', 'meze', 'ecemiş']
+Extracted: ['baraj', 'ecemiş']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 84
+Actual: ['şist', 'linyit', 'asfaltit', 'bitüm', 'enerji', 'taşkömürü']
+Extracted: ['enerji', 'kaynak', 'kwh', 'taşkömürü', 'üretim']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 85
+Actual: ['toros', 'düzlem', 'florit', 'doğu', 'paleokarst', 'diskordans']
+Extracted: ['altın', 'cevher', 'diskordans', 'florit']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 86
+Actual: ['bakır', 'molibden', 'cevher', 'alterasyon', 'kütahya']
+Extracted: ['kayaç', 'porfir']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 87
+Actual: ['hasar', 'deprem', 'mikrobölgeieme', 'analiz', 'tedbir']
+Extracted: ['afet', 'büyük', 'deprem', 'plan']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 88
+Actual: ['kömür', 'yeraltısuyu', 'taş', 'zonguldak', 'izotop']
+Extracted: ['beslemek', 'karbonifer', 'kömür', 'zonguldak']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 89
+Actual: ['graben', 'gözlem', 'dönüşmek', 'risk', 'büyüklükfrekans', 'deprem', 'aşmak', 'akşehir', 'fay', 'zonu', 'harita', 'peryodu', 'ilişki', 'eşşiddet', 'olası', 'makrosismik']
+Extracted: ['afyon', 'büyük', 'deprem']
+TP: 1 TN: 0 FP: 15 FN: 2 
+Accuracy: %5.555555555555555
+-----------------
+Article Index: 90
+Actual: ['potansiyel', 'karst', 'altı', 'beşparmak', 'yer', 'su', 'dağ']
+Extracted: ['beşparmak', 'dağ', 'karst']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 91
+Actual: ['havza', 'türkiye', 'kaynak', 'yönetim', 'su', 'sürmek']
+Extracted: ['verim', 'yönetim']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 92
+Actual: ['fizik', 'karaduvar', 'su', 'petrol', 'redoks', 'parametre', 'kir', 'yeraltı', 'tepkimek']
+Extracted: ['kir', 'oksijen', 'çözünmek']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 93
+Actual: ['akifer', 'mode', 'yeraltısuyu', 'gümüşhacıköy', 'modflow', 'akım', 'hidrojeoloji']
+Extracted: ['akifer', 'gümüşhacıköy', 'yeraltısuyu']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 94
+Actual: ['güney', 'kömür', 'linyit', 'marmara', 'bölge']
+Extracted: ['kömür', 'çökel']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 95
+Actual: ['zeolit', 'amonyak', 'sızıntı', 'gider', 'su', 'klinoptilolit']
+Extracted: ['amonyak']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 96
+Actual: ['jeotermal', 'rezervuar', 'sıcak', 'su', 'jeotermometre']
+Extracted: ['rezervuar', 'termal']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 97
+Actual: ['kaynak', 'yeraltısuyu', 'ulupınar', 'merkez', 'yerleşim', 'kir']
+Extracted: ['kir', 'yerleşim']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 98
+Actual: ['metalümin', 'karışım', 'jeokimya', 'rapakivi', 'magma', 'finlandiya', 'granit']
+Extracted: ['granit', 'rapakivi']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 99
+Actual: ['havza', 'aşağı', 'kimya', 'inorganik', 'su', 'element', 'mineral', 'değirmendere']
+Extracted: ['değirmendere', 'su']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 100
+Actual: ['bitki', 'toprak', 'tekkeköy', 'kir', 'su', 'samsun', 'kbi̇', 'osb', 'tügsaş']
+Extracted: ['kir', 'tesis']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 101
+Actual: ['bakır', 'baskil', 'bilaser', 'sonra', 'porfir', 'granitoyid', 'magmatitleri', 'çarpışmak', 'tepe']
+Extracted: ['bilaser', 'cevher', 'tepe']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 102
+Actual: ['radyoaktivite', 'gümüşhane', 'su', 'iz', 'element', 'mineral']
+Extracted: ['güvercin', 'içmek', 'yeşildere']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 103
+Actual: ['i̇gnimbirit', 'yapı', 'taşımak', 'petrografik', 'özellik', 'jeomekanik']
+Extracted: ['özellik']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 104
+Actual: ['fay', 'zonu', 'paleosismoloji', 'tersiyer']
+Extracted: ['burdur', 'fay', 'kolüviyal', 'oluşuk']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 105
+Actual: ['yapıtaşı', 'kayseri', 'jeokimya', 'erkilet', 'bazalt']
+Extracted: ['bazalt', 'dağılım', 'direnç', 'erkilet']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 106
+Actual: ['çankırı']
+Extracted: ['formasyon', 'yaş']
+TP: 0 TN: 0 FP: 1 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 107
+Actual: ['sistem', 'stuyfzand', 'hidrojeokimya', 'gümüşhacıköyakiferi', 'sınıflamak']
+Extracted: ['hidrojeokimyasal', 'sınıflamak']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 108
+Actual: ['kireçtaşı', 'karst', 'karen', 'çözünmek', 'diyajenez']
+Extracted: ['karen', 'çözünmek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 109
+Actual: ['jeoteknik', 'jeolojik', 'traverten', 've', 'özellik', 'bahçe']
+Extracted: ['bahçe', 'traverten']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 110
+Actual: ['xrd', 'jeotermal', 'kabuk', 'su', 'korozyon']
+Extracted: ['boru', 'kabuk']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 111
+Actual: ['tip', 'delta', 'belemek', 'fasiyes', 'gilbert', 'sedimanter', 'ortam', 'birliktelik']
+Extracted: ['birlik', 'fasiyes']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 112
+Actual: ['kayseri', 'karaçat', 'tip', 'yatak', 'jeoloji', 'yahyalı', 'demir', 'maden']
+Extracted: ['demir', 'formasyon', 'prekambriyen', 'siderit', 'yatak']
+TP: 2 TN: 0 FP: 6 FN: 3 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 113
+Actual: ['farmasötik', 'jeolojik', 'terapötik', 'çevre', 'jeoloji', 'tıbbî']
+Extracted: ['jeoloji', 'jeolojik', 'terapötik', 'tıbbî', 'çevre']
+TP: 5 TN: 0 FP: 1 FN: 0 
+Accuracy: %83.33333333333334
+-----------------
+Article Index: 114
+Actual: ['balıkesir', 'jeokimya', 'kazdağ', 'masif', 'titan', 'toz', 'metaofiyolit', 'formasyon']
+Extracted: ['formasyon', 'kazdağ', 'titan']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 115
+Actual: ['toprak', 'hastalık', 'mineraloji', 'kadın', 'jeofaji', 'anemi', 'yem', 'çocuk', 'jeoloji', 'eksik', 'niğde', 'demir', 'pika', 'tıbbî']
+Extracted: ['yöre']
+TP: 0 TN: 0 FP: 14 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 116
+Actual: ['dolaşım', 'yakatarla', 'fışkırmak', 'döner', 'sondaj', 'bozuk', 'gülşehir', 'nevşehir', 'karbondioksit']
+Extracted: ['boru', 'fışkırmak', 'kuyu', 'm3']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 117
+Actual: ['hidrotermal', 'kuşkayası', 'manganez', 'erzincan', 'otlukbeli', 'yatak']
+Extracted: ['melanjı', 'otlukbeli', 'yatak']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 118
+Actual: ['çanakkale', 'fındıklı', 'sedex', 'jeoloji', 'altınoluk', 'maden', 'formasyon']
+Extracted: ['cevher', 'kayaç', 'ppm']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 119
+Actual: ['bitki', 'ni', 'prospeksiyon', 'akümülatör', 'biyojeokimyasal']
+Extracted: ['bitki']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 120
+Actual: ['düzen', 'yer', 'seçim', 'kırıkkale', 'depolamak', 'katı', 'atık']
+Extracted: ['alan', 'deponi', 'düzen', 'sorun']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 121
+Actual: ['boğaçay', 'mühendis', 'ova', 'çökel', 'antalya', 'jeoloji', 'lagüner', 'kent']
+Extracted: ['kent', 'kıyı', 'mühendis', 'ova']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 122
+Actual: ['mantık', 'heyelân', 'ayvalık', 'analitik', 'regresyon', 'benzer', 'oran', 'hiyerarşi']
+Extracted: ['heyelân']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 123
+Actual: ['sınıflamak', 'eskipazar', 'bozunmak', 'traverten']
+Extracted: ['bozunmak']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 124
+Actual: ['likit', 'tek', 'koni', 'batmak', 'nokta', 'kıvam', 'limit']
+Extracted: ['batmak', 'deney', 'koni', 'likit']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 125
+Actual: ['hacim', 'rmi', 'blok', 'harşit', 'jv', 'rqd', 'granitoyidi']
+Extracted: ['blok', 'hacim']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 126
+Actual: ['geçirgen', 'katsayı', 'eskişehir', 'gözenek', 'granülometri', 'analiz', 'eğri', 'elek']
+Extracted: ['geçirgen', 'katsayı']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 127
+Actual: ['tersiyer', 'jeokimya', 'kömür', 'gölbaşı', 'organik', 'harman', 'adıyaman', 'petrografi']
+Extracted: ['hüminit', 'kömür', 'olgun', 'organik']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 128
+Actual: ['ayrışmak', 'sistem', 'derece', 'kazmak', 'gümüşhane', 'sınıflamak', 'granitoyidi']
+Extracted: ['ayrışmak', 'kaya', 'kütle']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 129
+Actual: ['listrik', 'deformasyon', 'mühendis', 'fay', 'güncel', 'sarıgöl', 'normal', 'jeoloji', 'graben', 'gediz']
+Extracted: ['fay', 'sarıgöl']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 130
+Actual: ['jeomorfoloji', 'gömülü', 'anadolu', 'sismik', 'deprem', 'aktif', 'bindirmek', 'doğu', 'tektonik']
+Extracted: ['aktif', 'deformasyon', 'deprem', 'fay', 'van']
+TP: 2 TN: 0 FP: 7 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 131
+Actual: ['azalım', 'deprem', 'sismotektonik', 'ivme', 'büyük', 'antalya', 'yer', 'en', 'ilişki', 'yatay']
+Extracted: ['antalya', 'deprem']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 132
+Actual: ['orhaneli', 'ayrışmak', 'piroksenit', 'eöt', 'özdirenç', 'elektrik', 'dunit', 'tomografi']
+Extracted: ['ayrışmak', 'eöt']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 133
+Actual: ['sonik', 'kireçtaşı', 'mekanik', 'fizik', 'hız', 'özellik']
+Extracted: ['basit', 'deney', 'elastisite']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 134
+Actual: ['frekans', 'çayeli', 'duyarlı', 'cbs', 'heyelân', 'harita', 'oran']
+Extracted: ['heyelân']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 135
+Actual: ['oturmak', 'presiyometre', 'kapasite', 'mersin', 'taşımak', 'temel']
+Extracted: ['oturmak', 'presiyometre']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 136
+Actual: ['kireçtaşı', 'zayıf', 'aşınmak', 'cerchar', 'dayanım']
+Extracted: ['aşınmak', 'cai']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 137
+Actual: ['devir', 'eksenel', 'anizotrop', 'üç', 'deformasyon', 'sıvı', 'eksen', 'germek', 'deney']
+Extracted: ['eksenel', 'kum', 'sıvı']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 138
+Actual: ['hasar', 'zemin', 'van', 'deprem', 'maksimum', 'ivme', 'dağılım', 'yer', 'büyütmek']
+Extracted: ['hasar', 'ivme', 'van', 'zemin']
+TP: 4 TN: 0 FP: 5 FN: 0 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 139
+Actual: ['sivas', 'jeoloji', 'ofiyolit', 'demir', 'maden', 'yel', 'çetinkaya']
+Extracted: ['kayaç', 'manyetit', 'ppm', 'serpantin', 'ultramafik']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 140
+Actual: ['çay', 'çayeli', 'bakır', 'yatak', 'değişim', 'mevsim']
+Extracted: ['element', 'konsantrasyon', 'toprak']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 141
+Actual: ['drenaj', 'kümelemek', 'kir', 'yeraltısuyu', 'asit', 'sülfür', 'cevher', 've', 'koyulhisar', 'analiz', 'korelâsyon', 'maden', 'faktör']
+Extracted: ['asidik', 'reaksiyon', 'su', 'sülfür']
+TP: 1 TN: 0 FP: 12 FN: 3 
+Accuracy: %6.25
+-----------------
+Article Index: 142
+Actual: ['vollastonit', 'kalsiyum', 'casio3', 'metasilikat']
+Extracted: ['pazar', 'vollastonit', 'vollastonitin']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 143
+Actual: ['oturmak', 'zemin', 'yüklem', 'güç', 'dolgu', 'taşımak', 'deney', 'plaka']
+Extracted: ['plaka', 'yüklem', 'zemin']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 144
+Actual: ['puanlamak', 'sistem', 'kinematik', 'şev', 'sspc', 'kütle', 'duraylılığı', 'sınıf', 'stabilite', 'analiz', 'smr', 'olası']
+Extracted: ['devirmek', 'yenmek', 'şev']
+TP: 1 TN: 0 FP: 11 FN: 2 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 145
+Actual: ['kireçtaşı', 'hacim', 'sürek', 'aralık', 'katsayı', 'blok', 'mesozoyik', 'karaburun', 'kalite']
+Extracted: ['blok', 'hacim']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 146
+Actual: ['iyi', 'en', 'adam', 'meslek', 'standart', 'tanımak', 'raporlamak', 'jorc', 'yönetmelik', 'uygulamak']
+Extracted: ['maden', 'rapor', 'yönetmelik']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 147
+Actual: ['bitki', 'anomali', 'çevre', 'biyojeokimyasal', 'belirtgen', 'ortam']
+Extracted: ['bitki', 'yaprak']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 148
+Actual: ['ampirik', 'nümerik', 'eleman', 'kütle', 'duraylılığı', 'zayıf', 'kaya', 've', 'son', 'tünel', 'yöntem']
+Extracted: ['aşama', 'marn', 'tünel']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 149
+Actual: ['poisson', 'olasılık', 'gama', 'heyelân', 'ters', 'dağılım', 'yoğun', 'tehlike', 'olası', 'fonksiyon']
+Extracted: ['heyelân']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 150
+Actual: ['sıvı', 'yozgat', 'ametist', 'kapmak', 'kuvars', 'kalsedon']
+Extracted: ['ametist', 'kuvars', 'şeffaf']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 151
+Actual: ['olivin', 'refrakter', 'türkiye', 'ultrabazik']
+Extracted: ['olivin']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 152
+Actual: ['fizik', 'modül', 'alkali', 'na', 'pişmek', 've', 'k', 'e', 'özellik', 'aliminyum', 'dayanım', 'müllitleşme']
+Extracted: ['bünye', 'pişmek']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 153
+Actual: ['karadeniz', 'kavak', 'tirebolu', 'doğu', 'izotop', 'bentonit']
+Extracted: ['bentonitlerinin', 'kavak', 'tirebolu']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 154
+Actual: ['piroklastik', 'miyosen', 'yarımada', 'alüviyal', 'oluşum', 'kil', 'karaburun', 'salmak', 'erken', 'formasyon', 'fan']
+Extracted: ['alüviyal', 'yelpaze']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 155
+Actual: ['kireçtaşı', 'oltu', 'hesap', 'bilecik', 'çimento', 'hammadde', 'kiltaşı', 'klinker']
+Extracted: ['hammadde', 'karışım', 'klinker', 'oran']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 156
+Actual: ['süstaşı', 'aydın', 'bölge', 'duman', 'dağ', 'kuvars', 'kristal', 'maden']
+Extracted: ['aydın', 'kristal', 'kuvars']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 157
+Actual: ['endüstri', 'yapı', 'perlit', 'azerbaycan']
+Extracted: ['perlit']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 158
+Actual: ['mavis', 'beton', 'kırmak', 'taş', 'metilen', 'un', 'deney']
+Extracted: ['agrega', 'ince']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 159
+Actual: ['eriyik', 'irak', 'hafif', 'agrega', 'kabarmak', 'formasyon']
+Extracted: ['agrega', 'hafif', 'malzeme', 'yakmak']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 160
+Actual: ['bakacık', 'van', 'çimento', 'kö', 'kiltaşı', 'formasyon']
+Extracted: ['kiltaşlarının', 'modül']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 161
+Actual: ['balıkesir', 'kb', 'türkiye', 'ultramafik', 'karakaya', 'metamorfizma', 'i̇vrindi', 'talk', 'kompleks']
+Extracted: ['oluşum', 'talk', 'şist']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 162
+Actual: ['türkiye', 'kinematik', 'neotektonik', 'güncel', 'bölge', 'batı', 'geometri', 'tektonik', 'fay']
+Extracted: ['büklüm', 'diri', 'ege', 'fay', 'kafs', 'tektonik']
+TP: 2 TN: 0 FP: 7 FN: 4 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 163
+Actual: ['havza', 'kinematik', 'anadolu', 'körfez', 'i̇zmir', 'batı', 'aktif', 'fay', 'üzerlemiş']
+Extracted: ['fay', 'körfez', 'zmir']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 164
+Actual: ['graben', 'etkin', 'havza', 'doğrultu', 'anadolu', 'menderes', 'kazanmak', 'batı', 'büyük', 'oluşum', 'normal', 'atım', 'fay', 'duraksamak', 'söke']
+Extracted: ['atım', 'doğrultu', 'fay', 'havza', 'istif', 'sfk']
+TP: 4 TN: 0 FP: 11 FN: 2 
+Accuracy: %23.52941176470588
+-----------------
+Article Index: 165
+Actual: ['graben', 'sistem', 'türkiye', 'morfotektonik', 'deprem', 'çivril', 'gb', 'dinar', 'fay']
+Extracted: ['fay', 'graben']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 166
+Actual: ['graben', 'deformasyon', 'faz', 'gelişim', 'normal', 'tektonik', 'fay', 'yeni', 'duraksamak', 'rejim']
+Extracted: ['ayna', 'dolgu', 'fay', 'genişlemek', 'graben', 'yaş']
+TP: 2 TN: 0 FP: 8 FN: 4 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 167
+Actual: ['fay', 'zonu', 'havza', 'neotektonik']
+Extracted: ['batı', 'doğrultu', 'fay', 'havza', 'segment', 'sivrihisar']
+TP: 2 TN: 0 FP: 2 FN: 4 
+Accuracy: %25.0
+-----------------
+Article Index: 168
+Actual: ['zonu', 'neotektonik', 'deprem', 'tuzgölü', 'afşar', 'bal', 'fay']
+Extracted: ['deprem', 'fay', 'zonu']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 169
+Actual: ['neojen', 'genişlemek', 'yön', 'çok', 'ankara']
+Extracted: ['deformasyon', 'dönem']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 170
+Actual: ['türkiye', 'gb', 'neotektonik', 'karamık', 'dolgu', 'isparta', 'graben', 'açı']
+Extracted: ['fay', 'graben', 'karamık']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 171
+Actual: ['türkiye', 'kinematik', 'neotektonik', 'güncel', 'bölge', 'batı', 'geometri', 'tektonik', 'fay']
+Extracted: ['geçmek', 'kızılırmak', 'nehir', 'seki']
+TP: 0 TN: 0 FP: 9 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 172
+Actual: ['havza', 'kıvrım', 'deprem', 'bölüt', 'atım', 'fay']
+Extracted: ['bölüt', 'dafs']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 173
+Actual: ['sistem', 'havza', 'türkiye', 'anadolu', 'neotektonik', 'doğu', 'elazığ', 'fay']
+Extracted: ['dafs', 'fay', 'havza']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 174
+Actual: ['sistem', 'havza', 'anadolu', 'kuzey', 'birleşik', 'fay']
+Extracted: ['fay', 'havza']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 175
+Actual: ['sistem', 'havza', 'anadolu', 'kinematik', 'amasya', 'zonu', 'kuzey', 'stratigrafi', 'makaslamak', 'oluºumu', 'analiz', 'fay', 'memeli']
+Extracted: ['amz', 'dönem', 'havza', 'içeri', 'kafs', 'makaslamak']
+TP: 2 TN: 0 FP: 11 FN: 4 
+Accuracy: %11.76470588235294
+-----------------
+Article Index: 176
+Actual: ['doğrultu', 'havza', 'yarımada', 'biçim', 'örgü', 'biga', 'atım', 'fay']
+Extracted: ['biga', 'fay', 'kuşak']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 177
+Actual: ['dalga', 'tomografi', 'anadolu', 'ayrım', 'kabuk', 'pn', 'kuzey', 'almak', 'çevre', 'gürültü', 'manto', 'fay', 'kesmek', 'fonksiyon']
+Extracted: ['anadolu', 'fay', 'kabuk', 'pn']
+TP: 4 TN: 0 FP: 10 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 178
+Actual: ['sistem', 'anadolu', 'morfometri', 'fay', 'kuzey', 'morfotektonik']
+Extracted: ['fay', 'havza', 'kamz', 'köprübaşı', 'tosya']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 179
+Actual: ['izlemek', 'yeraltısuyu', 'süre', 'gaz', 'karst', 'geçmek', 'çözünmek']
+Extracted: ['gaz', 'yeraltısuyu']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 180
+Actual: ['gözlem', 'anomali', 'eskişehir', 'etki', 'gaz', 'meteorolojik', 'çok', 'istasyon', 'parametre', 'boşalım', 'hidrokimyasal']
+Extracted: ['aktivite', 'istasyon', 'meteorolojik']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 181
+Actual: ['karbon', 'salınım', 'jeotermal', 'anadolu', 'akışkan', 'batı', 'gaz', 'helyum', 'izotop', 'oran']
+Extracted: ['akışkan', 'izotop', 'karbon', 'manto']
+TP: 3 TN: 0 FP: 7 FN: 1 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 182
+Actual: ['karbon', 'köken', 'inorganik', 'gaz', 'izotop', 'karbondioksit', 'bileşim']
+Extracted: ['gaz', 'izotop', 'karbondioksit']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 183
+Actual: ['endojenik', 'cevher', 'oluşum', 'azerbaycan', 'altın']
+Extracted: ['akışkan', 'maden', 'rol', 'seri']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 184
+Actual: ['kıvılcım', 'likit', 'yeraltısuyu', 'radyum', 'kuyu', 'radon', 'sayım']
+Extracted: ['konsantrasyon', 'nineveh', 'radon', 'radyum']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 185
+Actual: ['mantık', 'duyarlı', 'heyelân', 'envanter', 'zaman', 'çok', 'doğru', 'regresyon']
+Extracted: ['duyarlı', 'heyelân']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 186
+Actual: ['sistem', 'belirlemek', 'bilgi', 'değer', 'risk', 'global', 'heyelân', 'duyarlı', 'çıkmak', 'konum', 'analiz', 'mekân', 'bulanık']
+Extracted: ['heyelân']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 187
+Actual: ['gözlem', 'uydu', 'algılamak', 'landsat', 'jeolojik', 'fotojeoloji', 'görüntü', '1', 'fotoğraf', 'uzay', 'uzak', 'yer', 'sputnik', 'tarihçe', 'hava']
+Extracted: ['algılamak', 'uzak', 'uzay']
+TP: 3 TN: 0 FP: 12 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 188
+Actual: ['3b', 'sistem', 'yerbilimleri', 'bilişim', 'bilgi', 'servis', 'modellemek', 'yer', 'analiz', 'mekân']
+Extracted: ['bilgi', 'mekân', 'sistem', 'tasarı', 'ulusal', 'yaklaşım', 'ölçek']
+TP: 3 TN: 0 FP: 7 FN: 4 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 189
+Actual: ['bant', 'bileşen', 'oksit', 'landsat', 'cevher', 'oranlamak', 'analiz', 'quickbird', 'demir', 'ana']
+Extracted: ['anomali', 'demir', 'görüntü', 'landsat', 'oksit']
+TP: 3 TN: 0 FP: 7 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 190
+Actual: ['interferometre', 'oturmak', 'gözlemek', 'rezervuar', 'çıkar', 'interferogram', 'istiflemek', 'seviye', 'altı', 'yer', 'arazi', 'hidrokarbon', 'sarmak']
+Extracted: ['algılamak', 'değişim', 'endüstriyel', 'oturmak', 'sergilemek']
+TP: 1 TN: 0 FP: 12 FN: 4 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 191
+Actual: ['cbs', 'karst', 'mersin', 'mağara', 'subatan']
+Extracted: ['bölge', 'doğrultu', 'karst']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 192
+Actual: ['çizgi', 'filtre', 'kırşehir', 'angelier', 'sobel', 'traverten', 'sırt', 'çatlak']
+Extracted: ['yönelim', 'çizgi']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 193
+Actual: ['türkiye', 'algılamak', 'jeolojik', 'gb', 'cbs', 'burdur', 'uzak', 'haritalamak', 'google', 'earth']
+Extracted: ['cbs', 'ge', 'görüntü']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 194
+Actual: ['anadolu', 'c14', 'sismik', 'risk', 'zonu', 'batı', 'aktif', 'paleosismoloji', 'yaş', 'tektonik', 'fay', 'manisa']
+Extracted: ['fay', 'manisa', 'mfz']
+TP: 2 TN: 0 FP: 10 FN: 1 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 195
+Actual: ['ölüdeniz', 'amik', 'ova', 'zonu', 'deprem', 'tarih', 'paleosismoloji', 'fay', 'antakya']
+Extracted: ['deprem', 'fay', 'hacıpaşa', 'hendek']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 196
+Actual: ['hız', 'gpr', 'segment', 'kaymak', 'deprem', 'kaf', 'paleosismoloji']
+Extracted: ['deprem', 'kenar', 'segment', 'teras']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 197
+Actual: ['sistem', 'yüzey', 'anadolu', 'deprem', 'kuzey', 'hendek', 'paleosismoloji', 'fay']
+Extracted: ['deprem', 'fay', 'hendek', 'kırık']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 198
+Actual: ['yüzey', 'anadolu', 'kuzey', 'kırık', 'geometri', 'fay', 'durmak', 'ilerlemek']
+Extracted: ['delta', 'deprem', 'hersek', 'kırık']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 199
+Actual: ['lüminesan', 'uyarım', 'ışık', 'jeoarkeoloji', 'tayin', 'yaş', 'kuvars', 'osl']
+Extracted: ['değişim', 'kristal', 'malzeme', 'radyasyon']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Total accuracy of document "jeoloji" is: %18.834197669181414

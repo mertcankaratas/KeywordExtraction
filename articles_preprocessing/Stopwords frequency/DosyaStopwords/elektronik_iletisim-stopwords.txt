@@ -1,0 +1,9 @@
+Stop Word sayisi:7
+------------
+bu
+yapmak
+için
+ayrıca
+ve
+etmek
+ile

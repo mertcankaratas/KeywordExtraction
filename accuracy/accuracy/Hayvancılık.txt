@@ -1,0 +1,1165 @@
+Article Index: 1
+Actual: ['derece', 'güç', 'yetişmek', 'yaşam', 'at', 'akraba', 'dölverimi', 'arap']
+Extracted: ['akraba', 'işlemek', 'karacabey', 'sultansuyu']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 2
+Actual: ['tohumlamak', 'süt', 'aralık', 'verim', 'servis', 'laktasyon', 'siyah', 'periyot', 'alaca', 'sayı', 'pik', 'buzağılamak']
+Extracted: ['ba', 'psv']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 3
+Actual: ['koyun', 'algı', 'hayvan', 'afyonkarahisar', 'işlemek', 'refah']
+Extracted: ['afyonkarahisar', 'algı', 'işlemek', 'refah']
+TP: 4 TN: 0 FP: 2 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 4
+Actual: ['sıvı', 'genetik', 'kryopreservasyon', 'kontaminasyon', 'azot', 'materyal', 'mikrobiyal']
+Extracted: ['kontaminasyon', 'risk', 'saklamak']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 5
+Actual: ['davranmak', 'tay', 'at']
+Extracted: ['davranmak']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 6
+Actual: ['tavuk', 'yumurta', 'performans', 'kalsiyum', 'sepiyolit', 'damızlık', 'kalite']
+Extracted: ['kalsiyum', 'sepiyolit', 'yumurta']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 7
+Actual: ['diare', 'antibiyotik', 'probiyotik', 'buzağı', 'besleme']
+Extracted: ['probiyotik']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 8
+Actual: ['organik', 'yetişmek', 'kanat', 'besleme']
+Extracted: ['organik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 9
+Actual: ['bitki', 'pestisid', 'domuz', 'metal', 'ilâç', 'vitamin', 'zehirlemek']
+Extracted: ['zehirlemek']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 10
+Actual: ['güç', 'büyümek', 'yaşam', 'güvercin', 'kuluçka', 'takla', 'özellik']
+Extracted: ['kuluçka', 'mevsim', 'yaş', 'yumurta']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 11
+Actual: ['meme', 'süt', 'renk', 'anadolu', 'koymak', 'tip', 'elektrik', 'iletken', 'merinos']
+Extracted: ['elektrik']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 12
+Actual: ['manda', 'mastitis', 'süt']
+Extracted: ['manda']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 13
+Actual: ['bitki', 'yem', 'korunga', 'enerji', 'fiğ', 'besin', 'içerik', 'madde']
+Extracted: ['fiğ', 'hp', 'korunga', 'me']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 14
+Actual: ['güç', 'kesim', 'büyümek', 'yaşam', 'özellik', 'pekin', 'ördek']
+Extracted: ['grup']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['don', 'derece', 'kalıtım', 'nişane', 'at', 'servi', 'arap']
+Extracted: ['al', 'don', 'seki']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 16
+Actual: ['sağlık', 'ghrelin', 'hastalık', 'fonksiyon']
+Extracted: ['ghrelin']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 17
+Actual: ['premiks', 'şelat', 'ruminant', 'iz', 'organik', 'mineral']
+Extracted: ['iz', 'mineral']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 18
+Actual: ['iç', 'kısıtlamak', 'et', 'kompozisyon', 'organ', 'kimyasal', 'etlik', 'piliç', 'protein']
+Extracted: ['grup', 'kesim', 'protein']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 19
+Actual: ['yumurtlamak', 'tavuk', 'yumurta', 'kabuk', 'zaman', 'ağırlık', 'yaş', 'kahverengi', 'kalite']
+Extracted: ['yumurta']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 20
+Actual: ['kuzu', 'süt', 'verim', 'güç', 'büyümek', 'yaşam', 'acıpayam', 'genotipi']
+Extracted: ['acıpayam', 'tip']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 21
+Actual: ['at', 'enerji', 'besleme', 'yağ']
+Extracted: ['enerji']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 22
+Actual: ['sığır', 'genomik', 'snp', 'süt', 'değer', 'ıslah']
+Extracted: ['genetik', 'yöntem']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 23
+Actual: ['nord', 'vücut', 'renk', 'kilis', 'kıl', 'keçi', 'ağırlık', 'honamlı', 'canlı', 'ölçü']
+Extracted: ['honamlı', 'keçi', 'nord']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 24
+Actual: ['koymak', '15', 'çok', 'bmp', 'doğum']
+Extracted: ['fecx']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['vücut', 'derece', 'arap', 'kalıtım', 'çevre', 'at', 'faktör', 'ölçü']
+Extracted: ['cm', 'kalıtım', 'vücut']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 26
+Actual: ['sperma', 'yumurta', 'embriyo', 'balık', 'kriyoprezervasyon', 'deniz']
+Extracted: ['balık', 'sperma']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 27
+Actual: ['kitosan', 'antimikrobiyal', 'antioksidan', 'oligosakkarit']
+Extracted: ['kitosan', 'kos']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 28
+Actual: ['barred', 'rock', 'yumurta', 'colombia', '1', 'island', '2', 'kahverengi', 'red', 'rhode', 'kalite']
+Extracted: ['yumurta']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 29
+Actual: ['sperma', 'aygır', 'spermatolojik', 'haflinger', 'parametre']
+Extracted: ['aygır', 'spermatozoa']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 30
+Actual: ['kuzu', 'performans', 'metabolitleri', 'besi', 'rumen', 'sinmek', 'karnitin']
+Extracted: ['karnitin']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 31
+Actual: ['vücut', 'koymak', 'doğru', 'çok', 'ağırlık', 'regresyon', 'canlı', 'ölçü']
+Extracted: ['bafra', 'göğüs', 'karayaka']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 32
+Actual: ['tavuk', 'regülasyon', 'hormonal', 'reprodüksiyon']
+Extracted: ['ovulasyon', 'progesteron', 'testosteron']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 33
+Actual: ['yarış', 'performans', 'çevre', 'at', 'faktör']
+Extracted: ['at', 'yarış']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 34
+Actual: ['sperma', 'sarı', 'teke', 'yumurta', 'donmak', 'keçi', 'ankara', 'spermatolojik', 'parametre']
+Extracted: ['sarı', 'su']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 35
+Actual: ['yapağı', 'koymak', 'acıpayam', 'ağırlık', 'özellik', 'canlı']
+Extracted: ['acıpayam', 'yapağı']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 36
+Actual: ['faktör', 'süt', 'verim', 'çevre', 'dönem', 'kuru', 'jersey']
+Extracted: ['süt', 'verim']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 37
+Actual: ['sığır', 'konvansiyonel', 'verim', 'koymak', 'sağlık', 'organik']
+Extracted: ['konvansiyonel', 'organik', 'sürü']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 38
+Actual: ['sığır', 'alternatif', 'sistem', 'sperma', 'ayrım', 'yetişmek', 'cinsiyet', 'yapmak']
+Extracted: ['et', 'sperma', 'sığır', 'yetişmek']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 39
+Actual: ['tüketim', 'yem', 'kefir', 'probiyotik', 'ağırlık', 'artmak', 'broiler', 'canlı']
+Extracted: ['grup', 'içmek', 'kefir', 'su']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 40
+Actual: ['karkas', 'kesim', 'özellik', 'kaz', 'cinsiyet']
+Extracted: ['ağırlık', 'karkas']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 41
+Actual: ['sistematik', 'esmer', 'persistensi', 'inek', 'çevre', 'faktör']
+Extracted: ['buzağılamak', 'persistensi', 'yöntem']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 42
+Actual: ['esmer', 'laktasyon', 'inek', 'çevre', 'eğri', 'parametre', 'faktör']
+Extracted: ['buzağılamak', 'laktasyon']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 43
+Actual: ['sığır', 'sınır', 'holştayn', 'karkas', 'performans', 'puberta', 'besi', 'maliyet', 'yemlemek']
+Extracted: ['besi', 'grup', 'kg', 'sıra']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 44
+Actual: ['sistem', 'performans', 'oligosakkarit', 'bağışık', 'kitosan']
+Extracted: ['kitosan', 'kos', 'prebiyotik']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 45
+Actual: ['kanola', 'ot', 'silaj', 'kaba', 'yem', 'ruminant', 'kuru']
+Extracted: ['kaba', 'kanola']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 46
+Actual: ['zearalenon', 'türkiye', 'okratoksin', 'kaba', 'yem', 'a', 'aflatoksin']
+Extracted: ['kir', 'yoğun']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['kuzu', 'ot', 'konsantre', 'performans', 'yem', 'saplementasyon', 'besi', 'rumen', 'parametre', 'kuru']
+Extracted: ['konsantre', 'ot', 'yem']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 48
+Actual: ['endometrial', 'intrauterin', 'asinkroni', 'breeder', 'repeat', 'sağaltım', 'subklinik', 'endometritis']
+Extracted: ['grup', 'inek', 'izlemek', 'tohumlamak']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['randıman', 'dişi', 'erkek', 'kuluçka', 'döl', 'oran', 'keklik']
+Extracted: ['döl', 'embiryonik', 'kuluçka', 'çıkmak']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 50
+Actual: ['gebe', 'süre', 'östrüs', 'keçi', 'ağırlık', 'ankara', 'doğum', 'canlı', 'oran']
+Extracted: ['doğum', 'katım', 'teke', 'östrüs']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 51
+Actual: ['verim', 'tiftik', 'keçi', 'kırkım', 'son', 'ankara', 'ağırlık', 'özellik', 'canlı']
+Extracted: ['kırkım', 'tiftik']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 52
+Actual: ['esmer', 'siyah', 'verim', 'alaca', 'döl']
+Extracted: ['buzağılamak']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['sığır', 'in', 'ultrason', 'vitro', 'toplamak', 'embriyo', 'oosit', 'üretim']
+Extracted: ['oosit', 'opu']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 54
+Actual: ['alan', 'kullanım', 'esansiyel', 'hayvan', 'yağ']
+Extracted: ['esansiyel', 'yağ']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 55
+Actual: ['ruminant', 'selüloz', 'mikrobiyal', 'yıkım', 'sindirim']
+Extracted: ['selüloz']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 56
+Actual: ['yumurta', 'süre', 'streç', 'kalite', 'depolamak', 'yaş', 'sofra', 'film', 'ana']
+Extracted: ['kabuk', 'yumurta']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 57
+Actual: ['japon', 'yumurta', 'yem', 'bıldırcın', 'sayı', 've', 'ağırlık', 'yarar', 'canlı']
+Extracted: ['ağırlık', 'canlı', 'yumurta']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 58
+Actual: ['sperma', 'teke', 'su', 'spermatolojik', 'parametre', 'dondurma']
+Extracted: ['andromed', 'su']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 59
+Actual: ['simental', 'esmer', 'holştayn', 'verim', 'güç', 'yaşam', 'ağırlık', 'özellik', 'doğum']
+Extracted: ['esmer', 'holştayn']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 60
+Actual: ['keçi', 'davranmak', 'oğlak']
+Extracted: ['davranmak']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 61
+Actual: ['hormon', 'karma', 'yem', 'antibiyotik', 'ilâç', 'antikoksidiyaller', 'büyütmek', 'faktör']
+Extracted: ['kanun', 'sayılı', 'yasaklamak']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 62
+Actual: ['tavuk', 'yumurta', 'derece', 'katsayı', 'ağırlık', 'gerze', 'korelâsyon', 'tekrarlamak', 'deniz']
+Extracted: ['deniz', 'gerze', 'ırk']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 63
+Actual: ['laktasyon', 'somatik', 'sayı', 'inek', 'hücre', 'dönem', 'ırk', 'sıra', 'mevsim']
+Extracted: ['shs']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 64
+Actual: ['süt', 'holştayn', 'verim', 'çevre', 'döl', 'faktör']
+Extracted: ['buzağılamak', 'laktasyon', 'mevsim']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 65
+Actual: ['etki', 'antioksidan', 'hipokolesterolemik', 'yucca', 'schidigera', 'aktivite']
+Extracted: ['schidigera', 'yucca']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 66
+Actual: ['sığır', 'süt', 'sürü', 'moet', 'teknik', 'çekirdek', 'ıslah']
+Extracted: ['teknik', 'çekirdek']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 67
+Actual: ['koç', 'sperma', 'antioksidan', 'saklamak']
+Extracted: ['kısa', 'mm', 'saklamak']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 68
+Actual: ['akkaraman', 'olmak', 'koymak', 'laktasyon', 'doğru', 'melezlemek', 'analiz', 'eğri', 'regresyon']
+Extracted: ['akkaraman', 'model', 'wilmink']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 69
+Actual: ['sığır', 'kriyoprotektan', 'vitrifikasyon', 'embriyo']
+Extracted: ['embriyo', 'glikol', 'sakkaroz', 'solüsyon', 'vitrifikasyon']
+TP: 2 TN: 0 FP: 2 FN: 3 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 70
+Actual: ['gebe', 'sıfat', 'koymak', 'süre', 'östrüs', 'dönem', 'doğum', 'oran']
+Extracted: ['akkaraman', 'bafra', 'kag1', 'östrüs']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 71
+Actual: ['tavuk', 'yumurta', 'verim', 'maliyet', 'kar']
+Extracted: ['işlemek', 'tl', 'ölçek']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['bağlantı', 'öklit', 'tiftik', 'keçi', 'uzak', 'tek', 'ankara', 'özellik', 'analiz', 'yöntem', 'kümelemek']
+Extracted: ['ayrı', 'kümelemek', 'tiftik']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 73
+Actual: ['koymak', 'tip', 'oran', 'tahmin', 'beden', 'ağırlık', 'merinos', 'canlı', 'ölçü']
+Extracted: ['tahmin']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 74
+Actual: ['sığır', 'güney', 'kırmızı', 'mode', 'anadolu', 'büyümek', 'simmental', 'ağırlık', 'canlı']
+Extracted: ['doğru', 'gompertz', 'lojistik']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 75
+Actual: ['tavuk', 'bakır', 'yumurta', 'verim', 'kan', 'parametre']
+Extracted: ['bakır', 'kolesterol']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 76
+Actual: ['serum', 'yumurta', 'istiridye', 'kabuk', 'dış', 'ca', 'düzey', 'hibrit', 'kalite']
+Extracted: ['kabuk', 'yumurta']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 77
+Actual: ['verim', 'güç', 'büyümek', 'yaşam', 'tiftik', 'keçi', 'ankara', 'özellik', 'döl']
+Extracted: ['eskişehir', 'lalahan', 'oğlak']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['tüketim', 'ni̇rs', 'weende', 'yem', 'analiz', 'sinmek']
+Extracted: ['analiz', 'ni', 'rs', 'weende', 'yöntem']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 79
+Actual: ['tüketim', 'yem', 'yarar', 'kaz', 'ham', 'protein', 'oran']
+Extracted: ['grup', 'nem', 'protein']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 80
+Actual: ['baş', 'vücut', 'köpek', 'kangal', 'ağırlık', 'canlı', 'ölçü']
+Extracted: ['göğüs', 'köpek', 'mesafe', 'uzunluk']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 81
+Actual: ['kuzu', 'verim', 'sık', 'kuzulamak', 'gelişim', 'ivesi', 'döl']
+Extracted: ['eylül', 'kuzulamak', 'yük']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 82
+Actual: ['süt', 'holştayn', 'verim', 'güç', 'çevre', 'ya', 'döl', 'faktör', 'ama']
+Extracted: ['buzağılamak', 'gün', 'istatistiki', 'laktasyon', 'mevsim']
+TP: 0 TN: 0 FP: 9 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 83
+Actual: ['sperma', 'evcil', 'biyokimya', 'seminal', 'hayvan', 'üremek', 'parametre', 'plazma']
+Extracted: ['seminal']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 84
+Actual: ['arı', 'üretim', 'pazarlamak', 'bal']
+Extracted: ['arı', 'bal', 'satmak']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 85
+Actual: ['kuzu', 'al', 'yem', 'bağ', 'istek', 'ekonomik', 'besi', 'analiz']
+Extracted: ['gıcık', 'kuzu']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 86
+Actual: ['verim', 'güç', 'koymak', 'büyümek', 'yaşam', 'kuzulamak', 'yıl', 'merinos', 'iki', 'döl']
+Extracted: ['deneme', 'grub', 'kuzu', 'kuzulamak']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 87
+Actual: ['simental', 'süt', 'verim', 'güç', 'kilis', 'büyümek', 'yaşam', 'melezlemek', 'döl', 'insidansı', 'hastalık']
+Extracted: ['f1', 'g1', 'genotip']
+TP: 0 TN: 0 FP: 11 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 88
+Actual: ['sperma', 'motilite', '488', 'boğa', 'andromed', 'laiciphose']
+Extracted: ['and', 'day', 'motility', 'sperm', 'was', 'were']
+TP: 0 TN: 0 FP: 6 FN: 6 
+Accuracy: %0.0
+-----------------
+Article Index: 89
+Actual: ['kolesterol', 'yumurta', 'rasyon']
+Extracted: ['kolesterol', 'yumurta']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 90
+Actual: ['mera', 'kuzu', 'büyümek', 'yemlemek', 'rumen', 'ilâve', 'parametre']
+Extracted: ['mera', 'otlamak']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 91
+Actual: ['tüketim', 'yalamak', 'blok', 'melâs', 'bloğu', 'üre', 'sert', 'oran', 'madde']
+Extracted: ['blok']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 92
+Actual: ['esmer', 'süt', 'emzikli', 'yem', 'büyümek', 'buzağı', 'kov', 'yarar', 'besleme']
+Extracted: ['emzikli', 'kov', 'süt']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 93
+Actual: ['simental', 'kesim', 'karkas', 'son', 'besi', 'optimum', 'ağırlık', 'özellik']
+Extracted: ['besi', 'kg', 'optimum']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 94
+Actual: ['embriyo', 'süperovulasyon', 'transfer', 'taze', 'pmsg']
+Extracted: ['embriyo', 'transfer']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 95
+Actual: ['enzim', 'yem', 'asit', 'probiyotik', 'organik', 'katkı', 'madde']
+Extracted: ['asit', 'enzim', 'probiyotik']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 96
+Actual: ['tau', 'gebe', 'interferon']
+Extracted: ['ifn']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 97
+Actual: ['yumurta', 'embriyonik', 'devekuşu', 'malpozisyon', 'kuluçka', 'depolamak', 'ölüm']
+Extracted: ['inci', 'yıl']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 98
+Actual: ['koç', 'akkaraman', 'sperma', 'öze']
+Extracted: ['koç', 'spermatozoa']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 99
+Actual: ['koç', 'ölçü', 'özellik', 'spermatolojik', 'sezon', 'afyon', 'aşım', 'testis']
+Extracted: ['aşım', 'koç', 'sezon', 'testis']
+TP: 4 TN: 0 FP: 4 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 100
+Actual: ['koç', 'tohumlamak', 'sperma', 'donmak', 'intrauterin', 'laparoskopik', 'teknik']
+Extracted: ['hepes', 'nativ']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 101
+Actual: ['tohumlamak', 'sperma', 'sunmak', 'üremek', 'i', 'balarısı']
+Extracted: ['tohumlamak']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 102
+Actual: ['kuluçka', 'yumurta', 'verim', 'keklik']
+Extracted: ['keklik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 103
+Actual: ['koç', 'koymak', 'etki', 'anöstrus', 'feromen']
+Extracted: ['koç']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 104
+Actual: ['tohumlamak', 'sperma', 'gökkuşağıalabalığı', 'sunmak', 'kryopreservasyon', 'fertilizasyon', 'i']
+Extracted: ['sperma', 'spermatozoa', 'su']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 105
+Actual: ['indeks', 'esmer', 'adaptasyon']
+Extracted: ['ai', 'sıcaklık']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 106
+Actual: ['sığır', 'verim', 'maliyet', 'besi', 'kar']
+Extracted: ['besi', 'gider', 'tl', 'ölçek']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 107
+Actual: ['özellik', 'devekuşu', 'et']
+Extracted: ['deri', 'devekuşu', 'et']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 108
+Actual: ['değer', 'hayvan', 'besin', 'besleme', 'hastalık']
+Extracted: ['ham', 'madde', 'otlamak', 'yöre']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 109
+Actual: ['kalın', 'iç', 'cinsel', 'yumurta', 'olgun', 'kabuk', 'bıldırcın', 'kalite', 'ağırlık', 'mevsim']
+Extracted: ['yumurta', 'yumurtlamak']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 110
+Actual: ['kısıtlamak', 'güç', 'yem', 'dönüşüm', 'yaşam', 'yemlemek', 'ağırlık', 'yarar', 'canlı']
+Extracted: ['g2', 'g3']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 111
+Actual: ['gebe', 'transabdominal', 'koymak', 'transrektal', 'ultrasonografi', 've', 'teşhis', 'erken']
+Extracted: ['gebe', 'gün', 'transrektal']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 112
+Actual: ['kabiliyet', 'verim', 'koymak', 'uyum', 'melezlemek', 'sakız', 'karayaka', 'özellik', 'bafra']
+Extracted: ['bafra', 'karayaka']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 113
+Actual: ['kapasitasyonu', 'glukoz', 'boğa', 'spermatozoonu', 'spermatozoon', 'heparin']
+Extracted: ['reaksiyon']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 114
+Actual: ['x', 'sperma', 've', 'seçim', 'kromozom', 'cinsiyet', 'y']
+Extracted: ['kromozom']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 115
+Actual: ['üremek', 'manda', 'özellik']
+Extracted: ['gün', 'malaklamak', 'manda', 'östrus']
+TP: 1 TN: 0 FP: 2 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 116
+Actual: ['japon', 'derece', 'bıldırcın', 'kalıtım', 'seleksiyon', 'fitnes']
+Extracted: ['fitnes', 'yön']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 117
+Actual: ['iç', 'yumurta', 'kabuk', 'kaz', 'kalite']
+Extracted: ['yumurta']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 118
+Actual: ['akkaraman', 'verim', 'güç', 'dağlıç', 'yaşam', 'ivesi', 'sakız', 'döl']
+Extracted: ['dağlıç', 'ivesi']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 119
+Actual: ['kuzu', 'karkas', 'kesim', 'besi', 'özellik']
+Extracted: ['besi', 'karkas', 'kg']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 120
+Actual: ['in', 'sperma', 'değer', 'vitro', 'donmak', 'boğa', 'su', 'çözmek']
+Extracted: ['laiciphos', 'spermatozoa']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['hormon', 'süperovulasyon', 'transfer', 'embriyo']
+Extracted: ['embriyo', 'transfer']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 122
+Actual: ['yumurta', 'selenyum', 'e', 'vitamin', 'kan', 'parametre', 'aflatoksikozis']
+Extracted: ['vitamin']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 123
+Actual: ['broyler', 'konsantre', 'mazıdağı', 'yem', 'ağırlık', 'yarar', 'fosfat', 'canlı']
+Extracted: ['fosfat', 'mazıdağı']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 124
+Actual: ['akkaraman', 'karkas', 'performans', 'morkaraman', 'besi', 'sakız', 'melez']
+Extracted: ['besi', 'morkaraman', 'sakız']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 125
+Actual: ['kuzu', 'kıvırcık', 'karkas', 'performans', 'melezlemek', 'besi', 'sakız', 'özellik']
+Extracted: ['besi', 'karkas', 'kg']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 126
+Actual: ['yapağı', 'verim', 'güç', 'koymak', 'büyümek', 'yaşam', 'merinos', 'döl']
+Extracted: ['doğum', 'kuzu', 'merinos', 'verim']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 127
+Actual: ['üç', 'kuzulamak', 'ivesi', 'kere', 'fertilite', 'parametre', 'koy']
+Extracted: ['aşım', 'kontrol', 'koyun']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['vücut', 'yapağı', 'verim', 'koymak', 'melezlemek', 've', 'ağırlık', 'özellik', 'canlı', 'ölçü']
+Extracted: ['cm', 'kaf1', 'saf1']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 129
+Actual: ['hormone', 'gonadotropin', 'inek', 'gnrh', 'breeder', 'repeat', 'releasing']
+Extracted: ['gnrh', 'inek']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 130
+Actual: ['sığır', 'süt', 'verim', 'maliyet', 'kar']
+Extracted: ['gider', 'rantabilite', 'tl']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 131
+Actual: ['kuş', 'besleme', 'av', 'keklik']
+Extracted: ['keklik']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 132
+Actual: ['tavuk', 'yumurta', 'özellik', 'ticarî', 'deniz', 'kalite']
+Extracted: ['deniz', 'indeks', 'yumurta']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 133
+Actual: ['parçalamak', 'korumak', 'fındık', 'küspe', 'rumen', 'kan', 'özellik', 'protein', 'formaldehit']
+Extracted: ['küspe', 'rumen', 'yıkmak']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 134
+Actual: ['akkaraman', 'meme', 'süt', 'verim', 'koymak', 'melezlemek', 'sakız', 'özellik']
+Extracted: ['akkaraman', 'fı', 'grup', 'meme']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 135
+Actual: ['kuzu', 'karkas', 'morkaraman', 'karagül', 'melez']
+Extracted: ['karagül', 'karkas']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 136
+Actual: ['genetik', 'derece', 'koymak', 'kalıtım', 'indeks', 'korrelasyon', 'merinos', 'seleksiyon', 'fenotipik']
+Extracted: ['ağırlık', 'genetik', 'korrelasyon', 'tok', 'verim', 'yapağı']
+TP: 2 TN: 0 FP: 7 FN: 4 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 137
+Actual: ['türkiye', 'süt', 'pazarlamak', 'ürün', 've']
+Extracted: ['bakkal', 'elazığ', 'yer']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 138
+Actual: ['sığır', 'kars', 'yetersiz', 'anket', 'mineral']
+Extracted: ['kış', 'yaz']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 139
+Actual: ['esmer', 'genetik', 'siyah', 'alaca', 'derece', 'kalıtım', 've', 'ağırlık', 'parametre', 'doğum', 'fenotipik']
+Extracted: ['alaca', 'buzağı', 'doğum', 'esmer']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 140
+Actual: ['sperma', 'aygır', 'çözmek', 'sulanmak', 'dondurma']
+Extracted: ['laktoz', 'su']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 141
+Actual: ['broyler', 'kullanmak', 'tekrar', 'alt', 'damızlık']
+Extracted: ['alt', 'malzeme']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 142
+Actual: ['tay', 'besleme']
+Extracted: ['tay']
+TP: 1 TN: 0 FP: 1 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 143
+Actual: ['tavuk', 'yumurta', 'üretim', 'c', 'vitamin', 'kolesterol', 'kalite']
+Extracted: ['hafta', 'yumurta']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 144
+Actual: ['verim', 'yetişmek', 'bıldırcın', 'özellik', 'akraba']
+Extracted: ['deneme', 'grup']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 145
+Actual: ['kayıp', 'infertilite', 'inek', 'malî']
+Extracted: ['ba', 'iby']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 146
+Actual: ['esmer', 'meme', 'özellik', 'i̇sviçre', 'cmt']
+Extracted: ['cmt', 'meme']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 147
+Actual: ['sığır', 'süt', 'holştayn', 'güç', 'direnmek']
+Extracted: ['direnmek', 'verim']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 148
+Actual: ['tane', 'baklagil', 'ruminant', 'rasyon']
+Extracted: ['baklagil', 'tane', 'yem']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 149
+Actual: ['darı', 'tüketim', 'yem', 'tiftik', 'tanen', 'keçi', 'yaprak', 'sorgu', 'ankara', 'ağırlık', 'meşe', 'canlı']
+Extracted: ['darı', 'meşe', 'süpürge', 'yulaf']
+TP: 2 TN: 0 FP: 10 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 150
+Actual: ['tavşan', 'etkin', 'üre', 'değer', 'yem', 'ekonomik', 'rasyon', 'ağırlık', 'biyolojik', 'canlı']
+Extracted: ['tavşan']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 151
+Actual: ['işlemek', 'broyler', 'genotip', 'ekonomi']
+Extracted: ['broyler', 'bursa', 'işlemek', 'sıra']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 152
+Actual: ['hindi', 'yumurta', 'kayıp', 'kabuk', 'ağırlık', 'embryo', 'zar']
+Extracted: ['kabuk', 'yumurta']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 153
+Actual: ['japon', 'renk', 'tüy', 'bıldırcın', 'kahverengi']
+Extracted: ['kahverengi', 'tüy']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 154
+Actual: ['akkaraman', 'süt', 'siyah', 'başlı', 'et', 'koymak', 'verim', 'almak', 'melezlemek']
+Extracted: ['akkaraman', 'fı']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 155
+Actual: ['sığır', 'genetik', 'katsayı', 'yetişmek', 'heterozigotluk', 'uzak', 'analiz', 'akraba', 'yerli', 'kümelemek']
+Extracted: ['gak', 'jersey', 'yerli', 'ırk']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 156
+Actual: ['süt', 'siyah', 'verim', 'alaca', 'laktasyon', 'aralık', 'ömür', 'süre', 'buzağılamak']
+Extracted: ['buzağılamak']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 157
+Actual: ['korpus', 'üremek', 'luteum', 'ovaryum', 'karoten']
+Extracted: ['reprodüktif']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 158
+Actual: ['karkas', 'ultrason', 'canlı', 'değer']
+Extracted: ['alan', 'ultrason', 'ultrasonik']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 159
+Actual: ['broyler', 'performans', 'antibiyotik', 'probiyotik', 'rasyon']
+Extracted: ['bacitracin', 'zinc']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 160
+Actual: ['kuzu', 'akkaraman', 'siyah', 'başlı', 'et', 'büyümek', 'almak', 'melezlemek']
+Extracted: ['akkaraman', 'doğum', 'emmek', 'gı']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 161
+Actual: ['serum', 'progesteron', 'embriyonik', 'a', 'pgf2', 'ölüm', 'düve']
+Extracted: ['düve', 'gebe', 'gözlemek', 'gün', 'izlemek', 'progesteron', 'tohumlamak']
+TP: 2 TN: 0 FP: 5 FN: 5 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 162
+Actual: ['situ', 'in', 'tohum', 'kalıntı', 'şeker', 'yıkmak', 'keçi', 'temizlemek', 'ankara', 'pancar']
+Extracted: ['parçalamak', 'rumen']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['sığır', 'esmer', 'süt', 'verim', 'laktasyon', 'süre', 'dönem', 'i̇sviçre', 'kuru']
+Extracted: ['laktasyon', 'süt', 'verim']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 164
+Actual: ['holştayn', 'polonya', 'karkas', 'performans', 'besi', 'özellik']
+Extracted: ['holştayn', 'polonya']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 165
+Actual: ['derece', 'kelime', 'program', 'kalıtım', 'akraba', 'anahtar', 'bilgisayar']
+Extracted: ['akraba', 'derece', 'kalıtım', 'proğram']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 166
+Actual: ['horoz', 'kuş', 'leghorn', 'beyaz', 'tavus', 'melez']
+Extracted: ['kuş', 'tavus']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 167
+Actual: ['gebe', 'baş', 'tohumlamak', 'servis', 'sonra', 'periyot', 'sayı', 'dönem', 'doğum', 'mastitis']
+Extracted: ['doğum', 'ilk', 'mastitis', 'tohumlamak']
+TP: 3 TN: 0 FP: 7 FN: 1 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 168
+Actual: ['güç', 'büyümek', 'yaşam', 'artmak', 'ağırlık', 'eğri', 'oğlak', 'canlı', 'melez']
+Extracted: ['kıl']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 169
+Actual: ['konjuge', 'linoleik', 'karkas', 'asit', 'bölge', 'malya', 'yağ', 'asiti']
+Extracted: ['bölge', 'cla', 'kuzu']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 170
+Actual: ['patates', 'yaprak', 'hayvan', 'tatlı', 'sarmaşık', 'besleme']
+Extracted: ['tpy', 'yem']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 171
+Actual: ['piliç', 'değer', 'yem', 'çeşit', 'etlik', 'protein', 'lüpen']
+Extracted: ['lüpen']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 172
+Actual: ['kırmızı', 'et', 'ekstansif', 'sürmek', 'damızlık']
+Extracted: ['et', 'kırmızı', 'ülke']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 173
+Actual: ['tavuk', 'yumurta', 'performans', 'kabuk', 'enerji', 'humat', 'kalite']
+Extracted: ['humat', 'seviye']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 174
+Actual: ['vücut', 'renk', 'morfolojik', 'eşek', 'ölçü']
+Extracted: ['cm']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 175
+Actual: ['kırmızı', 'tüketim', 'et', 'türkiye', 'etki', 'ithal', 'fiyat']
+Extracted: ['et', 'fiyat']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 176
+Actual: ['ot', 'i̇talyan', 'ruminant', 'çim', 'karamba', 'besleme']
+Extracted: ['bitki', 'karamba', 'ruminant']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 177
+Actual: ['stres', 'ölçmek', 'etmen', 'hayvan', 'çiftlik', 'fizyoloji']
+Extracted: ['stres', 'tehdit']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 178
+Actual: ['saha', 'skor', 'performans', 'civciv', 'kuluçka', 'uzunluk', 'koşul', 'ton', 'kalite']
+Extracted: ['civciv', 'kuluçka']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 179
+Actual: ['bakım', 'yavru', 'güvercin', 'besi', 'barınak']
+Extracted: ['güvercin']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 180
+Actual: ['proteomik', 'nutrigenomik', 'biyoinformatik', 'metabolomik', 'transkriptomik']
+Extracted: ['besin', 'besleme', 'hayvan']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 181
+Actual: ['tavuk', 'sarı', 'yumurta', 'likopen', 'asit', 'komposizyonu', 'yağ', 'kolesterol']
+Extracted: ['asit', 'likopen', 'yumurta']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 182
+Actual: ['tibia', 'karkas', 'bıldırcın', 'fitaz', 'özellik', 'betaglukanaz']
+Extracted: ['fitaz', 'tibia']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 183
+Actual: ['doğum', 'süt', 'davranmak', 'kesim', 'süre', 'ağırlık', 'ayak', 'mortalite', 'kalkmak', 'emme']
+Extracted: ['gökçeada', 'oğlak']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 184
+Actual: ['koymak', 'karya', 'izolâsyon', 'parametre', 'fizyolojik']
+Extracted: ['kortizol', 'nabız', 'sürü']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 185
+Actual: ['tavuk', 'zeolit', 'yumurta', 'et', 'performans']
+Extracted: ['kalite', 'yem', 'yumurta', 'zeolitler']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 186
+Actual: ['sığır', 'sistem', 'türkiye', 'zor', 'sürü', 'gelişmek', 'ıslah', 'döl', 'çekirdek', 'doğum', 'kontrol']
+Extracted: ['aday', 'boğa']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 187
+Actual: ['süt', 'anadolu', 'verim', 'kompozisyon', 'i̇talyan', 'shs', 'manda']
+Extracted: ['shs']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 188
+Actual: ['sığır', 'süt', 'legendre', 'laktasyon', 'polinomiyal', 'splayn', 'eğri', 'fonksiyon']
+Extracted: ['eğri', 'model', 'süt']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 189
+Actual: ['zeolit', 'performans', 'etlik', 'besi', 'piliç']
+Extracted: ['etlik', 'yem']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 190
+Actual: ['güç', 'kıl', 'yaşam', 'keçi', 'beden', 'ağı', 'kazanç', 'saanen', 'canlı', 'ölçü']
+Extracted: ['oğlak', 'saanen']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 191
+Actual: ['genetik', 'varyasyon', 'keçi', 'direnç', 'ölüm', 'bireysel', 'labial', 'form']
+Extracted: ['genotip', 'hastalık', 'malta', 'türk']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 192
+Actual: ['eldiven', 'ağır', 'toksikoloji', 'metal', 'çevre', 'deri']
+Extracted: ['ağır', 'deri', 'metal']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 193
+Actual: ['yumuşak', 'solgun', 'görünmek', 'pse', 'sulu', 'kanat']
+Extracted: ['et', 'kanat', 'solgun']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 194
+Actual: ['sığır', 'doku', 'büyük', 'polimorfizm', 'uygun', 'kompleks', 'alleleri']
+Extracted: ['class', 'mhc', 'polimorfizm']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Total accuracy of document "Hayvancılık" is: %17.532044129982264

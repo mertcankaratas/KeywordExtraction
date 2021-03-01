@@ -1,0 +1,1489 @@
+Article Index: 1
+Actual: ['iyi', 'erek', 'meşruiyet', 'gelişmek', 'ortak', 'düşünce', 'teknik', 'ilerlemek']
+Extracted: ['ilerlemek', 'iyi']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 2
+Actual: ['arnold', 'sanat', 'yasak', 'i̇konoklazm', 'resim', 'oryantalizm', 'creswell', 'thomas', 'grabar', 'oleg', 'i̇slam']
+Extracted: ['sanat']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 3
+Actual: ['ler', 'nimetullah', 'milliyet', 'din', 'alil', 'laik', 'sekülarizm', 'öztürk', '1950']
+Extracted: ['laik']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 4
+Actual: ['sistem', 'yazar', 'parti', 'basın', 'çok', 'köşe', 'geçmek', 'dönem', 'polemik']
+Extracted: ['polemik']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 5
+Actual: ['yüzyıl', 'türk', 'peyami', 'safa', '20', 'tarih', 'sosyoloji']
+Extracted: ['li']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 6
+Actual: ['türkiye', 'alan', 'bölge', 'akdeniz', 'kıyı', 'nüfus', 'yerleşmek']
+Extracted: ['doğal', 'kıyı', 'potansiyel']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 7
+Actual: ['sosyoloji', 'rumelihisarı', 'kimlik', 'toplum', 'kültür', 'değişmek', 'mahalle', 'kent']
+Extracted: ['kent', 'kimlik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 8
+Actual: ['çin', 'tutku', 'hint', 'batı', 'aydınlanmak', 'doğu', 'şarkiyat', 'i̇slam']
+Extracted: ['avrupa', 'doğu']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 9
+Actual: ['roman', 'hamdi', 'türk', 'ahmet', 'tanpınar', 'huzur', 'edebiyat']
+Extracted: ['roman']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 10
+Actual: ['değişim', 'türk', 'sonra', 'paradigma', 'modernite', '1980', 'sosyoloji', 'postmodernite']
+Extracted: ['açıklama', 'sosyoloji']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 11
+Actual: ['değişim', 'iç', 'sonra', 'savaş', 'i̇spanya', 'franco', 'francisco', 'toplum', 'i̇spanyol', 'suç']
+Extracted: ['savaş', 'suç']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 12
+Actual: ['orta', 'ii', 'berque', 'abd', 'savaş', 'gibb', 'massignon', 'grunebaum', 'oryantalizm', 'sscb', 'doğu', 'çalışmak', 'lewis']
+Extracted: ['oryantalizm', 'şark']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 13
+Actual: ['roma', 'eğitim', 'eski', 'hümanizm', 'latince', 'i̇stanbul', 'yunan', 'yunanca', 'filoloji', 'üniversite']
+Extracted: ['filoloji', 'klâsik', 'öğrenim']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 14
+Actual: ['esasi', 'birinci', 'meşrutiyet', 'ikinci', 'seçim', 'seçmen', 'mebusan']
+Extracted: ['kararname', 'monarşi', 'seçim']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 15
+Actual: ['olmak', 'antikçağ', 'ilke', 'bilim', 'dönüşüm', 'gelişmek', 'ideal', 'anlayış', 've', 'iktisadî', 'ilişki', 'ilerlemek']
+Extracted: ['kavram']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 16
+Actual: ['iyi', 'erek', 'meşruiyet', 'gelişmek', 'ortak', 'düşünce', 'teknik', 'ilerlemek']
+Extracted: ['ilerlemek', 'iyi']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 17
+Actual: ['edimbilim', 'öğretmen', 'kültürlerarası', 'yetkin', 'materyal', 'özgün', 'aday', 'edebiyat']
+Extracted: ['öğretmen']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 18
+Actual: ['konuşmak', 'türkiye', 'sosyoloji', 'dernek', 'de', 'sosyolog', 'gurvitch', 'bölüm', 'üniversitesi', 'i̇stanbul', 'fransızca', 'georges', 'galatasaray']
+Extracted: ['dernek', 'sosyolojik']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 19
+Actual: ['roma', 'takvim', 'ovidius', 'dönem', 'cumhuriyet', 'yıl', 'dinî', 'fasti']
+Extracted: ['roma', 'takvim']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 20
+Actual: ['türkiye', 'hizmet', 'i̇slamofobi', 'kültürlerarası', 'yetkin', 'gönül', 'genç', 'avrupa', 'i̇slam']
+Extracted: ['agh', 'algılamak', 'din']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 21
+Actual: ['roman', 'hamdi', 'türk', 'ahmet', 'tanpınar', 'huzur', 'edebiyat']
+Extracted: ['roman']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 22
+Actual: ['türkiye', 'alan', 'bölge', 'akdeniz', 'kıyı', 'nüfus', 'yerleşmek']
+Extracted: ['doğal', 'kıyı', 'potansiyel']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 23
+Actual: ['ler', 'nimetullah', 'milliyet', 'din', 'alil', 'laik', 'sekülarizm', 'öztürk', '1950']
+Extracted: ['laik']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 24
+Actual: ['bienal', 'batı', 'i̇stanbul', 'doğu', 'oryantalizm', 'modern', 'yerel']
+Extracted: ['imge', 'stanbul']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['nato', 'türk', 'abd', 'san', 'dış', 'konferans', 'politika', 'sscb', 'fransisco']
+Extracted: ['dünya', 'savaş']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['bernard', 'halliday', 'ters', 'edward', 'ahmad', 'aijaz', 'oryantalizm', 'sadik', 'richardson', 'jalal', 'michael', 'fred', 'binder', 'said', 'james', 'lewis', 'leonard', 'spivak', 'clifford']
+Extracted: ['orientalism', 'said']
+TP: 1 TN: 0 FP: 18 FN: 1 
+Accuracy: %5.0
+-----------------
+Article Index: 27
+Actual: ['söylem', 'türk', 'türkiye', 'britanya', 'kimlik', 'eleştirel', 'inşa', 've', 'şarkiyat', 'analiz', 'ba']
+Extracted: ['söylem', 'the']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 28
+Actual: ['türk', 'jön', 'osmanlı', 'bilim', 'pozitivizm', 'yeni', 'ilerlemek']
+Extracted: ['avrupaî', 'bürokrasi', 'hukukî', 'osmanlı', 'yavaş']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 29
+Actual: ['comte', 'türk', 'jön', 'prens', 'gökalp', 'durkheim', 'sabahattin', 'le', 'play', 'ziya']
+Extracted: ['prens', 'sabahattin']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 30
+Actual: ['türkiye', 'hizmet', 'van', '2011', 'deprem', 'modern', 'sosyal', 'kültür']
+Extracted: ['hizmet', 'kültürel', 'sosyal']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 31
+Actual: ['özne', 'modernite', 'anarşizm', 'ilerlemek']
+Extracted: ['anarşizm', 'doğa']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 32
+Actual: ['monarşi', 'dönüşüm', 'erişirgil', 'dönem', 'cumhuriyet', 'mehmet', 'emmek']
+Extracted: ['bürokrat', 'dönem', 'erişirgil', 'milletvekili', 'yakın']
+TP: 2 TN: 0 FP: 5 FN: 3 
+Accuracy: %20.0
+-----------------
+Article Index: 33
+Actual: ['ii', 'savaş', 'san', 'bm', 'konferans', 'dünya', 'fransisco']
+Extracted: ['bm', 'dünya', 'savaş']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 34
+Actual: ['uydu', 'güç', 'abd', 'sputnik', 'sscb', 'süper']
+Extracted: ['sputnik']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 35
+Actual: ['konu', 'soğuk', 'sosyoloji', 'savaş', 'ikinci', 'literatür', 'vietnam', 'avrupa', 'dünya', 'da', 'asker']
+Extracted: ['asker', 'savaş']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 36
+Actual: ['bilgi', 'osmanlı', 'bilim', 'tanzimat', 'modern', 'okul', 'teknik', 'sosyoloji', 'medrese']
+Extracted: ['bilgi', 'modern', 'osmanlı']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 37
+Actual: ['özgür', 'metafizik', 'köken', 'anlam', 'tarih', 'zorunlu', 'akıl', 'ilerlemek']
+Extracted: ['metafizik']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 38
+Actual: ['göreli', 'zaman', 'aydınlanmak', 'mekân', 'ilerlemek']
+Extracted: ['objektif', 'tarih']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['dönüşmek', 'kutsal', 'toplum', 'değişmek', 'fark', 'ilerlemek']
+Extracted: ['ilerlemek', 'toplum']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 40
+Actual: ['chronographia', 'krum', 'bulgar', 'tarih', 'bizans', 'hazar', 'han', 'theophanes', 'imparator']
+Extracted: ['imparator', 'kronik', 'theophanes']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 41
+Actual: ['türk', 'toplum', 've', 'sosyal', 'hayat', 'sosyolog', 'edebiyat']
+Extracted: ['edebiyat']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 42
+Actual: ['fransız', 'türkiye', 'mühendis', 'osmanlı', 'mühendishane', 'darülfünun', 'modern', 'imparator']
+Extracted: ['kurum', 'modern', 'mühendishane', 'teknik', 'uzman']
+TP: 2 TN: 0 FP: 6 FN: 3 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 43
+Actual: ['türkiye', 'de', 'yeniden', 'keşif', 'çalışmak', 'yoksul']
+Extracted: ['yoksul']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 44
+Actual: ['türk', 'ülke', '15', 'hilmi', 'i̇stanbul', 'tarih', 'kongre', 'üniversitesi', 'uluslararası', 'ziya', 'sosyoloji']
+Extracted: ['kongre']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 45
+Actual: ['luis', 'bashevis', 'hipermetin', 'metinlerarasılık', 'melih', 'cevdet', 'anday', 'singer', 'huxley', 've', 'ütopya', 'jorge', 'borges', 'isaac', 'edebiyat', 'aldous']
+Extracted: ['ütopya']
+TP: 1 TN: 0 FP: 15 FN: 0 
+Accuracy: %6.25
+-----------------
+Article Index: 46
+Actual: ['mardin', 'türkiye', 'şerif', 'entelektüel', 'paris', 'hürriyet', 'forum']
+Extracted: ['ideoloji', 'jön', 'tarih']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['vergi', 'kayıtdışı', 'ahlak', 'kaçak', 'ekonomi', 'malî', 'sosyoloji']
+Extracted: ['vergi']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 48
+Actual: ['sistem', 'türk', 'parti', 'san', 'çok', 'konferans', 'seçim', 'demokrasi', 'demokrat', 'fransisco']
+Extracted: ['konferans', 'parti']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 49
+Actual: ['postkolonyalizm', 'edward', 'iş', 'yönetim', 'oryantalizm', 'örgüt', 'said']
+Extracted: ['yazın', 'örgüt']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 50
+Actual: ['kuşak', 'aidiyet', 'değer', 'özal', 'sonra', '78', 'siyasî', 'yaş', 'bireysel', '68']
+Extracted: ['hipotez', 'kuşak']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 51
+Actual: ['tatar', 'yusuf', 'rusya', 'türk', 'akçura', 'kazan', 'cedit']
+Extracted: ['rusya', 'türk']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 52
+Actual: ['ağ', 'ekşi', 'sözlük', 'sosyal', 'klon', 'i̇nternet']
+Extracted: ['nternet', 'sözlük']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 53
+Actual: ['araştırmak', 'alan', 'etnografya', 'polis', 'çalışmak', 'etnografik']
+Extracted: ['polis']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 54
+Actual: ['ilköğretim', 'arkadaş', 'toplum', 'ilişki', 'ergenlik', 'i̇nternet']
+Extracted: ['araştırmak', 'arkadaş', 'ergen', 'nicel', 'nitel']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 55
+Actual: ['sorun', 'kürt', 'siyasal', 'bdp', 'hareket', 'değişim', 'paradigmal']
+Extracted: ['bdp', 'kürt']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 56
+Actual: ['panoptikon', 'ahlak', 'bilgi', 'özgür', 'iktidar', 'modernite', 'agora', 'postmodernite', 'piyasa']
+Extracted: ['bauman', 'iktidar']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 57
+Actual: ['işgücü', 'eleştirel', 'gerontoloji', 'yaş', 'köy', 'tarım']
+Extracted: ['yaş']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 58
+Actual: ['sağlık', 'normal', 'patolojik', 'akıl', 'hastalık']
+Extracted: ['akıl', 'kavram']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 59
+Actual: ['beden', 'engel', 'öte']
+Extracted: ['beden', 'engel', 'norm']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 60
+Actual: ['sembolik', 'meşru', 'güç', 'gerçek', 'kurum', 'nesnel', 'inşa', 'sosyal', 'öznel', 'ilişki', 'evren']
+Extracted: ['peter']
+TP: 0 TN: 0 FP: 11 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 61
+Actual: ['tüketim', 'kadın', 'sağlık', 'bireysel', 'yaşam', 'haber', 'tıbbî']
+Extracted: ['haber', 'sağlık']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 62
+Actual: ['doğa', 'ekofeminizm', 'feminizm', 'kadın']
+Extracted: ['doğa']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 63
+Actual: ['moreno', 'bilgi', 'bilim', 'sosyometri', 'paradigma', 'değişmek', 'sosyoloji']
+Extracted: ['bilim', 'bilimsel', 'değişmek']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 64
+Actual: ['öğrenci', 'kent', 'demirel', 'anadolu', 'üniversitesi', 'isparta', 'süleyman', 'ilişki', 'üniversite']
+Extracted: ['kent', 'üniversite']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 65
+Actual: ['topluluk', 'oyun', 'sanal', 'warcraft', 'of', 'world', 'dünya', 'mmorpgs']
+Extracted: ['oyun']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 66
+Actual: ['habermas', 'iletişim', 'eylem', 'pozitivizm', 'marksizm', 'metodoloji']
+Extracted: ['habermas']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 67
+Actual: ['iç', 'i̇zmir', 'alan', 'çöküntü', 'kadifekale', 'gecekondu', 'sosyoloji', 'mekân', 'kent']
+Extracted: ['mekân']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 68
+Actual: ['dönüşüm', 'toplum', 'değişmek', 'fark', 'köy']
+Extracted: ['köy']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 69
+Actual: ['endüstri', 'tarih', 'toplum', 'televizyon', 'kültür', 'bellek']
+Extracted: ['bellek', 'televizyon']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 70
+Actual: ['velâyet', 'heterodoksi', 'tin', 'kutsal', 'dinî', 'halk']
+Extracted: ['tin']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 71
+Actual: ['yapı', 'kura', 'fail', 'yaş']
+Extracted: ['fail', 'yaş']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 72
+Actual: ['öte', 'deneyim', 'modern', 'yorum', 'avrupa']
+Extracted: ['modern']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 73
+Actual: ['statü', 'göç', 'vatandaş', 'kullanım', 'tercih', 'dalga', 'göçü', '1989']
+Extracted: ['bulgaristan', 'vatandaş']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 74
+Actual: ['çokkültürcülük', 'siyasal', 'monizm', 'radikal', 'kültür', 'demokrasi']
+Extracted: ['tek']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 75
+Actual: ['serbest', 'iş', 'özgür', 'zaman', 'modern', 'seçim', 'boş', 'ücret']
+Extracted: ['serbest']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 76
+Actual: ['politika', 'küresel', 'çokkültürcülük', 'postmodernizm']
+Extracted: ['küresel', 'politika', 'çokkültürcü']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 77
+Actual: ['sorun', 'kadın', 'iletişim', 'program', 'gündelik', 'televizyon', 'kitle', 'hayat']
+Extracted: ['kadın', 'sorun', 'televizyon']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 78
+Actual: ['din', 'bab', 'aile', 'iktidar', 'egemen', 'değişmek', 'ana']
+Extracted: ['aile', 'kadın', 'tanrı', 'toprak']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 79
+Actual: ['tüketim', 'alan', 'alışveriş', 'kamu', 'merkez', 'yaşam', 'kent']
+Extracted: ['mekân']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 80
+Actual: ['siyasal', 'siyaset', 'kamuoyu', 'medya', 'inşa', 'sosyoloji']
+Extracted: ['pozitivist', 'siyaset']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 81
+Actual: ['cinsiyet', 'göçmen', 'kimlik', 'toplum', 'ermenistan', 'ulusal']
+Extracted: ['ermenistan', 'göç', 'göçmen', 'ülke']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 82
+Actual: ['in', 'özal', 'siyaset', 'ekonomi', 'politika', 'sağ', 'modern', 'küresel', 'yeni']
+Extracted: ['politika', 'siyaset', 'özal']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 83
+Actual: ['yaşam', 'sınıf', 'tarz', 'modern', 'televizyon', 'sosyal', 'kültür', 'gelenek', 'dizi']
+Extracted: ['dizi', 'tarz', 'yaşam']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 84
+Actual: ['teori', 'voegelin', 'gnosis', 'aşk', 'politika', 'tarih', 'tecrübe']
+Extracted: ['teori', 'voegelin']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 85
+Actual: ['nitelik', 'kadın', 'sağlık', 'davranmak', 'etnonursing']
+Extracted: ['davranmak', 'kadın']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 86
+Actual: ['tahayyül', 'modern', 'toplum', 'gösterge', 'göstergebilim', 'küresel', 'dünya']
+Extracted: ['dünya', 'evre', 'gösterge', 'küresel', 'modern', 'sanal']
+TP: 4 TN: 0 FP: 3 FN: 2 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 87
+Actual: ['habitus', 'alan', 'sınıf', 'toplum', 'bourdieu', 'ilişki']
+Extracted: ['bourdieu', 'hiyerarşi']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 88
+Actual: ['ekonomi', 'politika', 'üretim', 'muğla', 'küresel', 'değişim', 'tarım']
+Extracted: ['köy', 'tarım']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 89
+Actual: ['meta', 'zaman', 'toplum', 'yaş', 'boş', 'demografik']
+Extracted: ['boş', 'imkân', 'nüfus', 'tüketim', 'ömür']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 90
+Actual: ['ahlak', 'iktidar', 'siyaset', 'pozitivist', 'ideoloji']
+Extracted: ['iktidar', 'pozitivist', 'siyaset']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 91
+Actual: ['muhafazakâr', 'ahlak', 'modernizm', 'top', 'yabancı', 'nurettin']
+Extracted: ['modernizm', 'top']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 92
+Actual: ['sermaye', 'eğitim', 'sınıf', 'toplum', 'üretim', 'yeniden', 'bourdieu', 'eşit', 'kültürel']
+Extracted: ['bourdieu', 'sermaye']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 93
+Actual: ['savaş', 'sömürge', 'pierre', 'cezayir', 'bourdieu', 'sosyoloji']
+Extracted: ['bourdieu', 'habitus', 'koşul', 'çözmek']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 94
+Actual: ['bilim', 'tahlil', 'siyaset', 'erk', 'bourdieu', 'devlet', 'sosyogenetik', 'simgesel']
+Extracted: ['bourdieu', 'erkin', 'katmak', 'simgesel']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 95
+Actual: ['teori', 'yapı', 'alan', 'ekonomik', 'ekonomi', 'toplum', 'eleştiri', 'bourdieu', 'sosyoloji']
+Extracted: ['bourdieu', 'teori']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 96
+Actual: ['tahakküm', 'habitus', 'düşünüm', 'pierre', 'bourdieu', 'sosyoloji']
+Extracted: ['bourdieu', 'sosyoloji']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 97
+Actual: ['çin', 'tutku', 'hint', 'batı', 'aydınlanmak', 'doğu', 'şarkiyat', 'i̇slam']
+Extracted: ['avrupa', 'doğu']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 98
+Actual: ['ab', 'söylem', 'türk', 'türkiye', 'britanya', 'kimlik', 'eleştirel', 'şarkiyat', 'analiz', 'ba', 'üye']
+Extracted: ['gazete', 'haber', 'inşa', 'kimlik', 'söylem', 'şarkiyat']
+TP: 3 TN: 0 FP: 8 FN: 3 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 99
+Actual: ['göç', 'sorun', 'ayvalık', 'nüfus', 'değişim']
+Extracted: ['ayvalık', 'nüfus']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 100
+Actual: ['şehir', 'ayvalık', 'coğrafya', 'fonksiyon']
+Extracted: ['ayvalık', 'şehir']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 101
+Actual: ['romantizm', 'sanat', 'marksizm', 'william', 'ütopya', 'morris']
+Extracted: ['ütopya']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 102
+Actual: ['yüzyıl', 'komünizm', 'modernite', 'william', 'ütopya', '19', 'sosyalist', 'morris', 'hiçbiryerden', 'haber', 'romantik']
+Extracted: ['morris', 'ütopya']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 103
+Actual: ['ideal', 'ütopya', 'mekân', 'tasarım', 'kent']
+Extracted: ['kent', 'ütopya']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 104
+Actual: ['erillik', 'biyopolitika', 'normal', 'le', 'corbusier', 'modulor']
+Extracted: ['beden', 'modulor']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 105
+Actual: ['1960', 'yapı', 'proje', 'lar', 'ütopya', 'toplum', 'hayalî']
+Extracted: ['canlı', 'ideal', 'yoğun']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 106
+Actual: ['müşahede', 'nazar', 'burhan', 'riyazet', 'yöntem']
+Extracted: ['hayy', 'yakzan']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 107
+Actual: ['türk', 'hatıra', 'darülfünun', 'i̇stanbul', 'üniversitesi', 'demografi', 'üniversite']
+Extracted: ['fakülte']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 108
+Actual: ['ekonomik', 'ticarî', 'üretim', 'küresellesme', 'malî', 'küresellesmesi']
+Extracted: ['kavram', 'küresellesme']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 109
+Actual: ['tabaka', 'kollektif', 'davranmak', 'materyalizm', 'yapı', 'sınıf', 'sosyal', 'hareket', 'sosyoloji', 'işçi']
+Extracted: ['karşı']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 110
+Actual: ['türkiye', 'akademik', 'de', 'pozitivizm', 'kurum', 'yorumsamacılık', 'modern', 'e', 'karşı', 'ilişki', 'sosyoloji']
+Extracted: ['ardından', 'genel', 'sosyoloji']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 111
+Actual: ['berkes', 'prens', 'gökalp', 'ergun', 'doğa', 'sezer', 'baykan', 'sabahaddin', 'behice', 'boran', 'niyazi', 'ziya']
+Extracted: ['sosyolog']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['comte', 'gökalp', 'laffitte', 'batı', 'pozitivizm', 'ahmed', 'ziya', 'rıza', 'pierre', 'auguste']
+Extracted: ['pozitivizm']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 113
+Actual: ['çatışmak', 'intibak', 'modern', 'i̇slam', 'seküler']
+Extracted: ['literatür', 'seküler', 'vermek']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 114
+Actual: ['feodalizm', 'osmanlı', 'tip', 'tarz', 'patrimonyalizm', 'tarih', 'üretim', 'sosyoloji', 'asya']
+Extracted: ['osmanlı']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 115
+Actual: ['naturalistik', 'türk', 'humanistik', 'paradigma', 'metodoloji', 'sosyoloji']
+Extracted: ['boyut']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 116
+Actual: ['türk', 'din', 'laik', 'modern', 'sosyoloji', 'seküler']
+Extracted: ['din']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 117
+Actual: ['köymen', 'gökalp', 'sosyoloji', 'sabahattin', 'bey', 'modern', 'ziya', 'nusret', 'köy']
+Extracted: ['köy', 'takip']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 118
+Actual: ['sistem', 'bilgi', 'gerilemek', 'toplum', 'zihniyet', 'fikir', 'bireysel', 'sosyoloji']
+Extracted: ['bilgi', 'sistem']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 119
+Actual: ['endüstri', 'türkiye', 'emek', 'ekonomi', 'politika', 've', 'sosyal', 'ilişki', 'devlet', 'çalışmak', 'refah']
+Extracted: ['bölüm', 'politika', 'sosyal']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 120
+Actual: ['şazi', 'türk', 'moreno', 'sosyometri', 'sosyodrama', 'nurettin', 'kösemihal', 'psikodrama', 'sosyoloji', 'lévy', 'john']
+Extracted: ['sosyometrinin']
+TP: 0 TN: 0 FP: 11 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['girişmek', 'gökalp', 'ders', 'sezer', 'baykan', 'kitap', 'ziya', 'sosyoloji']
+Extracted: ['eser']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 122
+Actual: ['şazi', 'sosyoloji', 'ülke', 'bottomore', 'tom', 'hilmi', 'tarih', 'raymond', 'nurettin', 'aron', 'kösemihal', 'ziya', 'sorokin']
+Extracted: ['eser', 'sosyoloji', 'yazmak']
+TP: 1 TN: 0 FP: 12 FN: 2 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 123
+Actual: ['türk', 'gökalp', 'durkheim', 'toplum', 've', 'dayanışma', 'kültür', 'uygar', 'ziya', 'sosyoloji', 'emmek']
+Extracted: ['eser', 'gökalp']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 124
+Actual: ['türk', 'jön', 'sabahattin', 'bey', 'science', 'le', 'play', 'sosyoloji', 'sociale']
+Extracted: ['bey', 'sabahattin']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 125
+Actual: ['türk', 'türkiye', 'gökalp', 'ülke', 'de', 'çağdaş', 'hilmi', 'düşünce', 'modern', 'ziya', 'sosyoloji']
+Extracted: ['eser', 'hilmi', 'ziya']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 126
+Actual: ['karl', 'durkheim', 'kıvılcım', 'metafizik', 'hikmet', 'marx', 'sosyoloji', 'emmek']
+Extracted: ['kıvılcım']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 127
+Actual: ['türk', 'aydın', 'entelektüel', 'inkılâp', 'batı', 'sağ', 'doğu', 'marx', 'sosyoloji', 'harf', 'ideoloji', 'sol']
+Extracted: ['bölüm', 'cemil', 'düşünce', 'meriç']
+TP: 0 TN: 0 FP: 12 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['dergi', 'sosyoloji', 'ahlak', 'pozitivizm', 'top', 'hareket', 'isyan', 'nurettin']
+Extracted: ['sosyoloji', 'top']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 129
+Actual: ['kalkınmak', 'yapı', 'gelişmek', 'behice', 'boran', 'toplum', 'modern', 'değişmek', 'ereğli']
+Extracted: ['kıray']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 130
+Actual: ['türk', 'tahir', 'sezer', 'batı', 'baykan', 'kemal', 'doğu', 'sosyoloji']
+Extracted: ['baykan', 'sezer']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 131
+Actual: ['mardin', 'türkiye', 'anlamak', 'bilim', 'şerif', 'alan', 'eleştirel', 'kapasite', 'sosyal', 'sosyoloji']
+Extracted: ['mardin', 'öncü']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 132
+Actual: ['claude', 'henri', 'bachelard', 'de', 'gurvitch', 'gaston', 'kadir', 'georges', 'sosyoloji', 'cangızbay']
+Extracted: ['cangızbay']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 133
+Actual: ['yöntem', 'murat', 'model', 'dönüşüm', 'realizm', 'eleştirel', 'güvenç', 'sosyal', 'ilişki', 'yeni', 'sosyoloji', 'kent']
+Extracted: ['bağlam', 'güvenç']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 134
+Actual: ['türkiye', 'dernek', 'de', 'bölüm', 'tarih', 'sosyoloji']
+Extracted: ['art', 'dernek', 'sosyoloji']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 135
+Actual: ['türkiye', 'dernek', 'ülke', 'de', 'hilmi', 'kongre', 'ziya', 'sosyoloji']
+Extracted: ['bildiri', 'kongre']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 136
+Actual: ['türk', 'dergi', 'gökalp', 'ülke', 'sezer', 'baykan', 'hilmi', 'i̇stanbul', 'ziya', 'sosyoloji']
+Extracted: ['sosyoloji', 'stanbul']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 137
+Actual: ['türk', 'eğitim', 'osmanlı', 'kurum', 'modern', 'sentez']
+Extracted: ['ii', 'sentez']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 138
+Actual: ['mektep', 'araştırmak', 'osmanlı', 'öğretim', 'bilimsel', 'sıbyan', 'ilk', 'bibliyografya']
+Extracted: ['mektep', 'sıbyan']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 139
+Actual: ['tasavvuf', 'derviş', 'tekke', 'tarikat']
+Extracted: ['tekke']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 140
+Actual: ['enderun', 'darüşşifa', 'eğitim', 'kütüphane', 'mühendishane', 'ıslahhane', 'tıp', 'mehterhane', 'meslekî', 'teknik', 'saray', 'medrese']
+Extracted: ['eğitim', 'literatür']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 141
+Actual: ['gayrimüslim', 'yahudi', 'eğitim', 'osmanlı', 'azınlık', 'rum', 'ermeni', 'okul', 'imparator']
+Extracted: ['gayrimüslim', 'gerekmek']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 142
+Actual: ['sistem', 'millet', 'eğitim', 'misyoner', 'hak', 'yabancı', 'açmak', 'okul']
+Extracted: ['okul', 'yabancı']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 143
+Actual: ['türk', 'ii', 'milliyet', 'osmanlı', 'eğitim', 'tanzimat', 'kimlik', 'abdülhamid', 'tarih', 'modern', 'dönem', 'ideoloji']
+Extracted: ['abdülhamid', 'araştırmak', 'dönem', 'yeni']
+TP: 2 TN: 0 FP: 10 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 144
+Actual: ['araştırmak', 'eğitim', 'aydınlar', 'osmanlı', 'tesir', 'avrasya', 'türki', 'cedit', 'ilişki']
+Extracted: ['aydınlar', 'rusya', 'türk']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 145
+Actual: ['mektep', 'eğitim', 'darülfünun', 'tarih', 'medrese', 'darülmuallimin']
+Extracted: ['eğitim', 'tarih']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 146
+Actual: ['eğitim', 'özerklik', 'darülfünun', 'cumhuriyet', 'mil', 'reform', 'üniversite']
+Extracted: ['darülfünun', 'yüksek', 'özerk', 'üniversite']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 147
+Actual: ['mektep', 'millet', 'kadın', 'eğitim', 'halkevleri', 'gerilim', 'enstitü', 'köy']
+Extracted: ['eksik', 'eğitim', 'halk', 'köy']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 148
+Actual: ['din', 'eğitim', 'fakülte', 'ahlak', 'bilgi', 'ilâhiyat', 'an', 've', 'kurs', 'kültür', 'lise', 'kur', 'i̇slam']
+Extracted: ['din', 'eğitim']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 149
+Actual: ['de', 'tarih', 'türkiye', 'eğitim']
+Extracted: ['eğitim', 'çalışmak']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 150
+Actual: ['türk', 'eğitim', 'öğretmen', 'kurum', 'yetişmek', 'tarih']
+Extracted: ['yetişmek', 'öğretmen']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 151
+Actual: ['eğitim', 'öğretmen', 'yetişmek', 'ortaokul', 'ilkokul', 'fakülte', 'enstitü', 'yüksek', 'okul']
+Extracted: ['öğretmen']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 152
+Actual: ['türk', 'dergi', 'eğitim', 'tarih', 'cumhuriyet', 'dönem']
+Extracted: ['dergi']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 153
+Actual: ['öğrenci', 'eğitim', 'hatıra', 'açıklamak', 'tarihçe', 'okul', 'bibliyografya', 'yıllık']
+Extracted: ['eğitim', 'hatıra']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 154
+Actual: ['arşiv', 'osmanlı', 'kaynak', 'tarih', 'yazma']
+Extracted: ['arşiv', 'kaynak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 155
+Actual: ['osmanlı', 'ders', 'program', 'müfredat', 'medrese']
+Extracted: ['medeniyet', 'müfredat']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 156
+Actual: ['eğitim', 'osmanlı', 'fatih', 'süleymaniye', 'medrese']
+Extracted: ['medrese']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 157
+Actual: ['türk', 'eğitim', 'u', 'i̇lm', 'paşa', 'tarih', 'osmaniye', 'marifet', 'münif', 'sıbyan']
+Extracted: ['eğitim']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 158
+Actual: ['gökalp', 'emrullah', 'ağaç', 'nazariye', 'tuba', 'darülfünun', 'ıslahat', 'maarif', 'ziya', 'efendi']
+Extracted: ['efendi', 'emrullah', 'maarif']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 159
+Actual: ['klâsik', 'eğitim', 'eser', 'konservatuar', 'neşir', 'enstitü', 'mil', 'köy', 'tercüme']
+Extracted: ['bakan', 'mil']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 160
+Actual: ['nuri', 'türkiye', 'osman', 'tarih', 'cumhuriyet', 'maarif', 'ergin']
+Extracted: ['ergin', 'saha']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 161
+Actual: ['türkiye', 'eğitim', 'aziz', 'ilköğretim', 'de', 'berker', 'tarih']
+Extracted: ['beraber', 'öğretim']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 162
+Actual: ['mektep', 'pedagoji', 'ilke', 'eğitim', 'içtimaî', 'şahsiyet', 'baltacıoğlu', 'üretim']
+Extracted: ['baltacıoğlu', 'eğitim']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 163
+Actual: ['eğitim', 'osmanlı', 'meşrutiyet', 'mahmud', 'cevad', 'tarih', 'nezaret', 'maarif']
+Extracted: ['eser', 'maarif', 'nezaret']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 164
+Actual: ['dışlamak', 'dönüşüm', 'sosyal', 'gecekondu', 'yoksul', 'kent']
+Extracted: ['kent', 'yenilemek']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 165
+Actual: ['türkiye', 'rol', 'öğrenim', 'kimlik', 'kitap', 'oluşum', 'çocuk', 'toplum', 've', 'cinsiyet', 'resim']
+Extracted: ['aşırı', 'iyi', 'çocuk']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 166
+Actual: ['cinsiyet', 'meslek', 'işgücü', 'kadın', 'toplum', 've', 'hukuk', 'profesyonel', 'feminist', 'çalışmak']
+Extracted: ['meslek']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 167
+Actual: ['iflâs', 'ekonomik', 'ticarî', 'girişim', 'kriz', 'başarı', 'intihar']
+Extracted: ['intihar']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 168
+Actual: ['türkiye', 'sığınmacı', 'sorun', 'gelmek', 'kamp', 'algı', 'suriye', 'memnuniyet']
+Extracted: ['kamp', 'sığınmacı']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 169
+Actual: ['satmak', 'tekrar', 'marka', 'almak', 'tercih', 'değişmek']
+Extracted: ['marka']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 170
+Actual: ['simülasyon', 'popüler', 'turizm', 'ikon', 'modern', 'kültür']
+Extracted: ['dizi', 'izlemek']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 171
+Actual: ['tüketim', 'türkiye', 'davranmak', 'de', 'yaşam', 'tarz', 've', 'tarih', 'tüketmek', 'kültür', 'alafranga', 'değişim', 'alaturka']
+Extracted: ['tarz']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 172
+Actual: ['yatılı', 'reis', 'kadın', 'aile', 'tip', 'hane', 'misafir']
+Extracted: ['hane', 'misafir']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 173
+Actual: ['araştırmak', 'aile', 'tip', 'geniş', 'hanehalkı', 've', 'nüfus', 'çekirdek']
+Extracted: ['aile', 'hanehalkı', 'tip']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 174
+Actual: ['pazar', 'bölüm', 'tüketmek', 'mobilya', 'tercih', 'tasarı']
+Extracted: ['özellik']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 175
+Actual: ['eğitim', 'kimlik', 'sözlü', 'tarih', 'feminist']
+Extracted: ['kadın', 'sözlü', 'sıradan', 'tarih']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 176
+Actual: ['kredi', 'aile', 'ekonomi', 've', 'tüketmek']
+Extracted: ['kredi']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 177
+Actual: ['kaza', 'sorun', 'iş', 'sağlık', 'kadın', 'bel', 'ağrı', 'ev']
+Extracted: ['karşılaşmak']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 178
+Actual: ['antropometri', 'ergonomi', 'genç']
+Extracted: ['adet']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 179
+Actual: ['satmak', 'kaygı', 'davranmak', 'yönetim', 'inanç', 'almak', 'finansal']
+Extracted: ['duymak', 'finansal', 'ihtiyaç']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 180
+Actual: ['emperyalizm', 'okul', 'bağımlı', 'çatışmak']
+Extracted: ['baykan']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 181
+Actual: ['tüketim', 'korumak', 'değer', 'davranmak', 'çevre', 'tüketmek', 'sürmek']
+Extracted: ['davranmak', 'kadın']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 182
+Actual: ['uyum', 'arkadaş', 'evlilik', 'ilişki', 'kalite']
+Extracted: ['evli', 'eşinmek', 'uyum']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 183
+Actual: ['kaza', 'liste', 'güvenlik', 'yaş', 'mekân', 'tasarı', 'ev']
+Extracted: ['kaza', 'yaş']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 184
+Actual: ['kaza', 'sorun', 'iş', 'sağlık', 'kadın', 'bel', 'ağrı', 'ev']
+Extracted: ['karşılaşmak']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 185
+Actual: ['öğrenci', 'satmak', 'davranmak', 'almak', 'tüketmek', 'moda', 'giysi', 'üniversite']
+Extracted: ['giyim', 'giymek', 'giysi', 'moda', 'öğrenci', 'üniversite']
+TP: 4 TN: 0 FP: 4 FN: 2 
+Accuracy: %40.0
+-----------------
+Article Index: 186
+Actual: ['davranmak', 'marka', 'pazarlamak', 'tüketmek', 'mobilya']
+Extracted: ['marka', 'mobilya', 'semt']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 187
+Actual: ['sarmal', 'üç', 'işbirliği', 'inovasyon']
+Extracted: ['işbirliği']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 188
+Actual: ['okul', 'giysi', 'fizyoloji', 'konfor']
+Extracted: ['forma', 'memnun']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 189
+Actual: ['meslekî', 'rol', 'toplum', 'modern', 'subay', 've', 'cinsiyet', 'gelenek', 'etkileşim']
+Extracted: ['aile', 'meslekî', 'rol']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 190
+Actual: ['aile', 'ekonomik', 'ankara', 'sosyal', 'kaleiçi', 'durum', 'demografik']
+Extracted: ['aile', 'çocuk']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 191
+Actual: ['göçmek', 'sığınmak', 'sığınmacı', 'etmek', 'asimilasyon', 'yasadışı', 'aramak', 'ikamet']
+Extracted: ['ngiltere', 'sığınmacı', 'sığınmak', 'ülke']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 192
+Actual: ['antlaşma', 'lozan', 'göç', 'hatıra', 'kimlik', 'muhacir', 'çingene']
+Extracted: ['çingene']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 193
+Actual: ['aile', 'almak', 'dağılım', 'çocuk', 'işbölümü', 'yer', 'sorumluluk', 'ev']
+Extracted: ['anne', 'çocuk']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 194
+Actual: ['kuşak', 'ara', 'çatışmak', 'genç', 'ilişki']
+Extracted: ['çatışmak', 'çocuk']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 195
+Actual: ['11', 'terör', 'basın', 'eylül', 'içerik', 'analiz', 'ulusal']
+Extracted: ['saldırı']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 196
+Actual: ['iç', 'aile', 'şiddet', 'yaş', 'istismar']
+Extracted: ['şiddet']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 197
+Actual: ['küresel', 'modernite', 'postmodernite']
+Extracted: ['bilim', 'ilişkin', 'modernite']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 198
+Actual: ['açık', 'ulaşmak', 'akı', 'köken', 'görece', 'sınıf', 'doğru', 'yer', 'toplum', 'sosyal', 'hareket', 'yukarı', 'eşit']
+Extracted: ['hareket', 'sosyal', 'sınıf']
+TP: 3 TN: 0 FP: 10 FN: 0 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 199
+Actual: ['sermaye', 'biçim', 'etki', 'sosyal', 'olumsuz', 'ticarî', 'örgüt']
+Extracted: ['güven', 'sermaye']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 200
+Actual: ['gelmek', 'kaygı', 'duyarlı', 'toplum', 'dönem', 'genç', 'refah']
+Extracted: ['genç', 'refah']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 201
+Actual: ['türk', 'modern', 'sosyoloji', 'kimlik']
+Extracted: ['sosyoloji']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 202
+Actual: ['cemaat', 'dönüşüm', 'oluşum', 'sosyal', 'yeni']
+Extracted: ['cemaat']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 203
+Actual: ['söylem', 'milliyet', 'din', 'modernite', 'kimlik', 'tire', 've']
+Extracted: ['kimlik', 'tire']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 204
+Actual: ['türk', 'etki', 'amerikan', 'yöntem', 'sosyoloji']
+Extracted: ['amerikan', 'sosyoloji']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 205
+Actual: ['anti', 'modern', 'eleştiri', 'bilim']
+Extracted: ['bilim', 'eleştiri']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 206
+Actual: ['teori', 'çatışmak', 'çok', 'tarih', 'modern', 'son', 'medeniyet']
+Extracted: ['modern']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 207
+Actual: ['demokratik', 'siyasal', 'toplum', 'ilişki', 'sivil', 'aşırı']
+Extracted: ['sivil']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 208
+Actual: ['ataerkil', 've', 'kapitalizm', 'kriminoloji', 'radikal', 'cinsiyet', 'suç']
+Extracted: ['suç']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 209
+Actual: ['davranmak', 'sapan', 'tıp', 've', 'sosyal', 'kontrol', 'hastalık']
+Extracted: ['hastalık', 'sapan']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 210
+Actual: ['gasp', 'profil', 'suç']
+Extracted: ['gasp']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 211
+Actual: ['iç', 'eşzamanlı', 'siberuzay', 'bağlantı', 'iletişim', 'varlık', 'aracılığıyla', 'sohbet', 'etkileşim', 'çoğul', 'siberkültür', 'bilgisayar']
+Extracted: ['nternet']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 212
+Actual: ['hükümet', 'spor', 'politika', 'toplum', 'cumhuriyet']
+Extracted: ['spor']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 213
+Actual: ['hermeneutik', 'bilim', 'pozitivizm', 'sosyal', 'eleştiri', 'diyalektik', 'yöntem']
+Extracted: ['frankfurt', 'okul']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 214
+Actual: ['endüstri', 'kimlik', 'zaman', 'ekonomi', 'deneyim', 'boş']
+Extracted: ['boş', 'zaman']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 215
+Actual: ['holigan', 'taraftar', 'şiddet', 'fanatizm', 'futbol']
+Extracted: ['futbol']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 216
+Actual: ['toplum', 'edebiyat', 'sosyoloji', 'hayat']
+Extracted: ['edebiyat']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 217
+Actual: ['roman', 'modern', 'gerçek', 'estetik']
+Extracted: ['estetik', 'kurgulamak', 'toplum']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 218
+Actual: ['modernite', 'beden', 'modern', 'ölüm', 'postmodernite', 'önce']
+Extracted: ['ölüm']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 219
+Actual: ['kapitalist', 'tüketim', 'özgür', 'liberalizm', 'toplum', 'kültür']
+Extracted: ['tüketim']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 220
+Actual: ['tortu', 'eğitim', 'tütengil', 'azgelişmiş', 'yapı', 'iki']
+Extracted: ['tütengil']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 221
+Actual: ['eşzamanlı', 'yapı', 'dilbilim', 'tarih', 'gösterge', 'analiz', 'bilinçdışı']
+Extracted: ['dilbilim']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 222
+Actual: ['söylem', 'din', 'pozitivizm', 'kitap', 'sentez', 'okul', 'ideoloji', 'seküler']
+Extracted: ['ders', 'din', 'iktidar', 'kitap']
+TP: 2 TN: 0 FP: 6 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 223
+Actual: ['roman', 'sosyoloji', 'yazar', 'gerçek', 'estetik', 'toplum', 'edebiyat', 'yansımak']
+Extracted: ['estetik', 'roman']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 224
+Actual: ['sosyolojik', 'bakış', 'açı', 'öğretmek', 'sosyoloji']
+Extracted: ['eylem', 'insan']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 225
+Actual: ['nesnel', 'pozitivist', 'tasavvur', 'metodoloji', 'sosyoloji']
+Extracted: ['bilgi', 'empirik', 'sosyoloji', 'yöntem']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 226
+Actual: ['oikos', 'güç', 'şiddet', 'socius', 'müzakere', 'polis', 'rıza']
+Extracted: ['socius']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 227
+Actual: ['pozitivizm', 'ulus', 'inşa', 'seçkin', 'devlet']
+Extracted: ['burjuva', 'seçkin', 'toplum']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 228
+Actual: ['teori', 'yapı', 'sosyal', 'kültür', 'devlet', 'kuruluş']
+Extracted: ['kuruluş', 'teori']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 229
+Actual: ['dışlamak', 'merkez', 'dönüşüm', 'gönül', 'çözmek', 'getto', 'elit', 'kent']
+Extracted: ['kent']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 230
+Actual: ['göç', 'aile', 'merkez', 'toplum', 'gecekondu']
+Extracted: ['antalya', 'kent', 'merkez']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 231
+Actual: ['iş', 'aile', 'yaşam', 'hayat', 'cinsiyet']
+Extracted: ['kadın']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 232
+Actual: ['söylem', 'kadın', 'iktidar', 'siyasal', 'program', 'hükümet', 'modern']
+Extracted: ['proje', 'siyasal']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 233
+Actual: ['yahudi', 'i̇zmir', 'cemaat', 'kimlik', 'dönüşüm', 'işadamı']
+Extracted: ['işadamı', 'yahudi']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 234
+Actual: ['katılım', 'bilgi', 'iletişim', 'ict', 'yaşam', 'teknoloji', 'gündelik', 'toplum', 've', 'kültür', 'genç', 'üniversite']
+Extracted: ['teknoloji', 'öğrenci']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 235
+Actual: ['ideoloji', 'modern', 'din', 'i̇slam']
+Extracted: ['düşünce', 'islamcı']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 236
+Actual: ['stolar', 'toplum', 'demokrasi', 'küresel', 'sivil']
+Extracted: ['sivil', 'örgüt']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 237
+Actual: ['taraftar', 'şiddet', 'hak', 'ihlâl', 'spor', 'futbol']
+Extracted: ['futbol', 'oyun', 'spor', 'taraftar']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 238
+Actual: ['sapmak', 'gelir', 'eğitim', 'aile', 'genç', 'suç']
+Extracted: ['aile', 'eşit']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 239
+Actual: ['ulus', 'öte', 'modern', 'homojen', 'devlet', 'nötr']
+Extracted: ['kent', 'tasarım']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 240
+Actual: ['öğrenci', 'demokratik', 'değer', 'çevre', 'sosyal', 'demokrasi', 'lise']
+Extracted: ['demokratik', 'öğrenci']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 241
+Actual: ['blok', 'devlet', 'hegemonya', 'tarih', 'toplum', 'kapitalizm', 'sivil']
+Extracted: ['blok', 'gramsci', 'sivil']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 242
+Actual: ['yaşam', 'sınıf', 'şans', 'üretim', 'sömürü', 'egemen', 'ilişki', 'piyasa']
+Extracted: ['marx', 'weber']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 243
+Actual: ['değişim', 'kalkınmak', 'düzen', 'yenidünya', 'ekonomi', 'politika', 'küresel', 'kır', 'köy', 'tarım']
+Extracted: ['tarım']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 244
+Actual: ['tüketim', 'postmodernizm', 'yaşam', 'gündelik', 'reklâm', 'televizyon', 'kültür']
+Extracted: ['reklâm', 'televizyon']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 245
+Actual: ['bakış', 'anlatı', 'inşa', 'beden', 'sosyal', 'hastalık']
+Extracted: ['hastalık']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 246
+Actual: ['kadın', 'girişim', 'van', 'intihar']
+Extracted: ['intihar']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 247
+Actual: ['parçalamak', 'bağımlı', 'aile', 'çocuk', 've', 'sokak', 'yoksul', 'madde']
+Extracted: ['sokak', 'çocuk']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 248
+Actual: ['din', 'bilim', 'mit', 'hakikat', 'küresel', 'enformasyon']
+Extracted: ['enformasyon', 'küresel', 'yakalamak']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Total accuracy of document "sosyoloji" is: %17.148935853572958

@@ -1,0 +1,1147 @@
+Article Index: 1
+Actual: ['oksit', 'azot', 'ozon', 'şehir', 'yarı', 'kır']
+Extracted: ['istasyon', 'ozon']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 2
+Actual: ['pm', 'antakya', 'metal', 'partikül', 'madde', '10', 'kir', 'hava']
+Extracted: ['antakya', 'derişim', 'element', 'partikül', 'pm']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 3
+Actual: ['i̇stanbul', 'envanter', 'emisyon']
+Extracted: ['emisyon', 'envanter', 'trafik']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 4
+Actual: ['hız', 'flash', 'tohum', 'piroliz', 'biyokütle', 'yakıt', 'sentetik', 'keten']
+Extracted: ['piroliz']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 5
+Actual: ['voc', 'emisyon', 'organik', 'bileşik', 'analiz', 'uçmak', 'kalite', 'hava']
+Extracted: ['anlık', 'benzen', 'bileşen', 'depolamak', 'düzenlemek']
+TP: 0 TN: 0 FP: 8 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 6
+Actual: ['pm', 'erzurum', '10']
+Extracted: ['pm']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 7
+Actual: ['regresyon', 'spss', 'meteorolojik', 'kırıkkale', 'parametre', 'kir', 'hava']
+Extracted: ['kir', 'şart']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 8
+Actual: ['tenax', 'emisyon', 'terpenler', 'biyojenik', 'çözünmek', 'ısıl']
+Extracted: ['camphene', 'no', 'ppbv', 'terpenler']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 9
+Actual: ['ağır', 'model', 'kimya', 'yağmur', 'kaynak', 'metal', 'örneklem', 'kir']
+Extracted: ['ağır', 'istatistik', 'metal', 'yağmur']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 10
+Actual: ['baca', 'gaz', 'su', 'desülfürizasyon', 'yaş', 'yıkamak', 'magnezyum', 'deniz']
+Extracted: ['magnezyum', 'çözelti']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 11
+Actual: ['ozon', 'i̇stanbul', 'gece', 'pik', 'kir', 'hava']
+Extracted: ['gece', 'ozon']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 12
+Actual: ['ox', 'oksit', 'kaynak', 'azot', 'nox', 'ozon', 'bölgesel', 'i̇stanbul', 've', 'oksidantlar', 'lokal']
+Extracted: ['no', 'nox']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 13
+Actual: ['i̇skenderun', 'kor', 'farkındalık', 'çevre', 'anket', 'bilinç', 'payas', 'kir', 'hava']
+Extracted: ['anket', 'farkındalık', 'payas', 'skenderun']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 14
+Actual: ['regresyon', 'su', 'tpm', 'istatistik', 'meteoroloji', 'muhteva', 'korelâsyon', 'lineer']
+Extracted: ['nem', 'tpm']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 15
+Actual: ['model', 'ozon', 'fotokimya', 'i̇stanbul', 'mm5', 'camx']
+Extracted: ['mezoölçek']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 16
+Actual: ['azotoksit', 'kükürtdioksit', 'kalite', 'toz', 'kir', 'isclt3', 'hava']
+Extracted: ['hava', 'kampüs', 'yakıt']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 17
+Actual: ['kir', 'kaynak', 'taşıt', 'emisyon', 'btx', 'hidrokarbon', 'hava']
+Extracted: ['durak', 'kampüs', 'otobüs']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 18
+Actual: ['nem', 'kömür', 'sıcak', 'emisyon', 'porozite', 'su', 'kazan', 'toz']
+Extracted: ['kömür', 'nem', 'yanmak']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 19
+Actual: ['kalmak', 'metil', 'merkaptan', 'ortam', 'maruz', 'hava']
+Extracted: ['merkaptan', 'metil']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 20
+Actual: ['oksit', 'proses', 'sülfür', 'yakıt', 'hidrojen', 'pil', 'katı', 'claus']
+Extracted: ['claus', 'hemen', 'kükürt', 'sofc']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 21
+Actual: ['ler', 'hız', 'taşınımı', 'ocp', 'pestisit', 'çökelmek', 'dış', 'arakesitinde', 'organoklorlu', 'konsantrasyon', 'kuru', 'hava']
+Extracted: ['ocp', 'toprak']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 22
+Actual: ['ab', 'pm', 'ışık', '1', 'sayı', 'partikül', 'saçınımı', 'aerosol', 'wras', '2ı5', 'direktif', '10']
+Extracted: ['partikül', 'pm']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 23
+Actual: ['ab', 'spektrometre', 'pm', 'aeresol', 'nafion', 'kurumak', 'svc', 'grimm', 'direktif']
+Extracted: ['pm', 'svc', 'yerel']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 24
+Actual: ['araç', 'emisyon', 'motor', 'troposferik', 'ozon', 'organik', 'bileşik', 'uçmak']
+Extracted: ['dış', 'kent', 'voc']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['x', 'i̇skenderun', 'no', 'pm', 'envanter', 'bölge', 'emisyon', 'so', 'co', '2', 'kir', 'hava']
+Extracted: ['bölge', 'emisyon']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 26
+Actual: ['bozüyük', 'kükürt', 'pinus', 'nigra']
+Extracted: ['ibre']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 27
+Actual: ['ağır', 'cedrus', 'eskişehir', 'metal', 'a', 'pseudoacacia', 'lı', 'robinia', 'libani', 'kir', 'rich', 'hava']
+Extracted: ['ağaç', 'yapraklı']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 28
+Actual: ['ler', 'pasif', 'gc', 'voc', 'kirletmek', 'inorganik', 'örneklem', 'organik', 'bileşik', 'uçmak']
+Extracted: ['bölge', 'nokta', 'voc']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 29
+Actual: ['kir', 'jeotermal', 'enerji', 'hava']
+Extracted: ['deniz', 'enerji', 'jeotermal', 'ısıtmak']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 30
+Actual: ['ağır', 'ekotoksisite', 'toksik', 'metal', 'kirletmek', 'çökelmek', 'lumistox', 'kuru', 'hava']
+Extracted: ['atmosfer', 'ağır', 'metal']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 31
+Actual: ['malzeme', 'yağmur', 'yapı', 'asit', 'çevre', 'sürmek', 'kir', 'hava']
+Extracted: ['mimarî', 'yapı']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 32
+Actual: ['taksi', 'sürücü', 'trafik', 'polis', 'genotoksisite', 'kir', 'kent', 'hava']
+Extracted: ['genotoksisitenin', 'gösterge', 'kanser', 'kent', 'maruziyetin', 'risk']
+TP: 1 TN: 0 FP: 7 FN: 5 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 33
+Actual: ['kişisel', 'pasif', 'örneklemek', 'btex', 'maruziyet', 'kalite', 'hava']
+Extracted: ['plan', 'uob']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['tüketim', 'ısınmak', 'gaz', 'yakıt', 'doğal', 'küresel', 'karbondioksit']
+Extracted: ['doğalgaz', 'otobüs', 'yakıt']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 35
+Actual: ['mode', 'yörünge', 'hava', 'analiz', 'kalite', 'hysplit']
+Extracted: ['kent', 'kirletmek']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 36
+Actual: ['olfaktometri', 'endüstri', 'koku', 'konsantrasyon', 'organik', 'bileşik', 've', 'petrol', 'petrokimya', 'uçmak']
+Extracted: ['koku']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 37
+Actual: ['aliağa', 'bölge', 'gaz', 'kromatografi', 'endüstriyel', 'organik', 'bileşik', 'uçmak']
+Extracted: ['aliağa', 'horozgediği', 'voc']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 38
+Actual: ['iscst3', 'modellemek', 'envanter', 'emisyon', 'hava', 'kir', 'kalite', 'aermod']
+Extracted: ['aermod', 'iscst3', 'model']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 39
+Actual: ['endüstri', 'aliağa', 'rafineri', 'organik', 'halojen', 'bileşik', 'petrol', 'petrokimya', 'uçmak']
+Extracted: ['halojen', 'kanser', 'petrokimya', 'tesis']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 40
+Actual: ['pirina', 'yanmak', 'emisyon', 'co', 'uçmak', 'madde']
+Extracted: ['pirina', 'yanmak']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 41
+Actual: ['x', 'no', 'linyit', 'yanmak', 'uçmak', 'madde']
+Extracted: ['no', 'yakmak', 'yakıt']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 42
+Actual: ['bağlantı', 'ölçüt', 'ağırlık', 'bisiklet', 'yöntem']
+Extracted: ['güzergâh']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['ağır', 'metal', 'glikojen', 'pimpla', 'kadmiyum', 'turionellae', 'protein']
+Extracted: ['kadmiyum']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 44
+Actual: ['toprak', 'sincan', 'eşit', 'kayıp', 'cbs', 'afyonkarahisar', 'evrensel', 'erozyon', 'usle']
+Extracted: ['erozyon', 'havza']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 45
+Actual: ['asfalt', 'beton', 'çevre', 'kullanım', 'yeniden', 'sürmek']
+Extracted: ['atık', 'beton', 'numune', 'rc']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 46
+Actual: ['klor', 'liçi', 'mg', 'manyezit', 'hidroksit', '2', 'brusit', 'toz', 'oh', 'magnezyum', 'atık']
+Extracted: ['ince', 'malzeme', 'manyezit', 'toz']
+TP: 2 TN: 0 FP: 9 FN: 2 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 47
+Actual: ['karbon', 'piroliz', 'yonga', 'aktif', 'levha', 'kap', 'melamin']
+Extracted: ['karbon']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 48
+Actual: ['koliform', 'fekal', 'su', 'streptokok', 'kir']
+Extracted: ['aymak', 'deniz', 'fekal', 'istasyon', 'koliform', 'marmara']
+TP: 2 TN: 0 FP: 3 FN: 4 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 49
+Actual: ['karadeniz', 'sediment', 'metal', 'midye', 'kir']
+Extracted: ['cd', 'cr', 'içerik', 'pb']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 50
+Actual: ['vejetasyon', 'tuberosum', 'iklim', 'aspir', 'carthamus', 'hirsutum', 'pamuk', 'patates', 'solanum', 'uzunluk', 'gossypium', 'tinctorius']
+Extracted: ['ssum', 'tarla', 'tsum']
+TP: 0 TN: 0 FP: 12 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 51
+Actual: ['ağır', 'çay', 'sediment', 'berdan', 'metal']
+Extracted: ['al', 'berdan', 'mn', 'çay']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 52
+Actual: ['ağır', 'makrofitler', 'verticillatum', 'metal', 'hidroponik', 'kapasite', 'system', 'su', 'myriophyllum', 'altın']
+Extracted: ['ağır', 'metal', 'verticillatum']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 53
+Actual: ['tohum', 'çimlenmek', 'etki', 'bisfenol', 'a', 'biyokimya', 'tetrabromobisfenol', 'buğday']
+Extracted: ['bpa', 'buğday', 'tbbpa']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 54
+Actual: ['tara', 'kebrako', 'boyamak', 'deri', 'kitosan', 'formiyat']
+Extracted: ['deri', 'kitosan']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 55
+Actual: ['arsenik', 'tabaka', 'feht', 'adsorpsiyon', 'bor', 'hidroksit', 'su', 'uzak', 'çift', 'hidrotalsit']
+Extracted: ['arsenik', 'bor']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 56
+Actual: ['aspergillus', 'klorofenol', 'biyosorpsiyon', 'izoterm', 'niger', 'kinetik']
+Extracted: ['biyosorpsiyon', 'ph']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 57
+Actual: ['ağır', 'birikim', 'metal', 'capoeta', 'mineral', 'göl', 'hazar', 'umbla']
+Extracted: ['doku', 'karaciğer', 'kas']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 58
+Actual: ['türkiye', 'sıcak', 'cbs', 'ysa', 'su', 'eğirdir', 'göl']
+Extracted: ['göl', 'ysa']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 59
+Actual: ['bitki', 'antioksidan', 'vı', 'deri', 'yaş', 'krom', 'ekstrakti']
+Extracted: ['deri', 'vı']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 60
+Actual: ['şekil', 'toprak', 'ekolojik', 'yapı', 'humped', 'trend', 'dağılım', 'üçgen', 'çalı', 'chihuahua', 'faktör', 'çöl']
+Extracted: ['cedrosanum', 'eğim', 'rakım', 'yoğun']
+TP: 0 TN: 0 FP: 12 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 61
+Actual: ['aktivite', 'drosophila', 'puf', 'politen', 'kromozom', 'diazinon']
+Extracted: ['diazinon', 'kromozom', 'politen', 'puf']
+TP: 4 TN: 0 FP: 2 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 62
+Actual: ['abiyotik', 'çamur', 'adsorbsiyon', 'gitmek', 'aktif', 'ilâç', 'izoterm', 'tıbbî']
+Extracted: ['diklofenak', 'ilâç', 'parasetamol']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 63
+Actual: ['karbon', 'quercus', 'azedarach', 'coccifera', 'tanen', 'melia', 'azadirachtin', 'mineralizasyonu']
+Extracted: ['karbon', 'tanen', 'yaprak']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 64
+Actual: ['ağır', 'toprak', 'metal', 'patates', 'özellik', 'atık']
+Extracted: ['domates', 'yumru']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 65
+Actual: ['rezorsinol', 'tabaklamak', 'reçine', 'titanyum', 'deri', 'esas', 'krom', 'melamin', 'formaldehit', 'madde']
+Extracted: ['tabaklamak']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 66
+Actual: ['elektrolit', 'elektrokoagülasyon', 'yoğun', 'destek', 'kadmiyum', 'akım', 'ph']
+Extracted: ['akım', 'yoğun']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 67
+Actual: ['uv', 'atıksu', 'proses', 'oksidasyon', 'ultraviyole', 'ileri', 'ev']
+Extracted: ['arıtım', 'atıksu']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 68
+Actual: ['azot', 'nitrifikasyon', 'dağ', 'mineral', 'genya']
+Extracted: ['ladin', 'mineral', 'toprak', 'çağ', 'örtü']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 69
+Actual: ['ağ', 'fenol', 'sulakalan', 'ileri', 'yapay', 'akım', 'sinir', 'karasu']
+Extracted: ['akmak', 'bitki', 'dikey']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 70
+Actual: ['sintaksonomi', 'subasar', 'alan', 'samsun', 'gölardı']
+Extracted: ['ass', 'et', 'nova']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 71
+Actual: ['fitososyoloji', 'fitoekoloji', 'gölcük', 'kocaeli']
+Extracted: ['birlik']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['bitki', 'boşluk', 'biyokütle', 'kireçlemek', 'rekabet', 'gölge', 'etkileşim']
+Extracted: ['boşluk', 'gölge']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 73
+Actual: ['bolluk', 'güney', 'a', 'batı', 'fitoplankton', 'hazar', 'klorofil', 'deniz']
+Extracted: ['fitoplankton', 'tür']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 74
+Actual: ['sediment', 'metal', 'zengin', 'indeks', 'analiz', 'kir', 'jeoakümülasyon', 'faktör']
+Extracted: ['antropojenik', 'ağır', 'güney', 'indeks', 'jeoakümülasyon', 'kirlenmek', 'metal']
+TP: 3 TN: 0 FP: 5 FN: 4 
+Accuracy: %25.0
+-----------------
+Article Index: 75
+Actual: ['parçalamak', 'kayıp', 'karabid', 'şehir', 'böcek', 'habitat']
+Extracted: ['böcek', 'habitat', 'karabid', 'kent']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 76
+Actual: ['banyo', 'kaolinit', 'adsorpsion', '137cs', 'yöntem']
+Extracted: ['adsorpsiyon']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 77
+Actual: ['ağır', 'cyprinus', 'ii', 'carpio', 'sediment', 'kir', 'metal', 'su', 'karacaören', 'göl', 'baraj']
+Extracted: ['doku', 'mevsim']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['fenol', 'fiber', 'hollow', 'reaktör', 'membran', 'denitrifikasyon']
+Extracted: ['fenol']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 79
+Actual: ['toprak', 'ajan', 'şelat', 'gitmek', 'kurşun', 'kirlenmek', 'yıkamak', 'edta']
+Extracted: ['na2edta', 'toprak']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 80
+Actual: ['nehri', 'su', 'özellik', 'tatlısu', 'köprüçay', 'kalite']
+Extracted: ['azot', 'köprüçay', 'nehri', 'oksijen']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 81
+Actual: ['debi', 'toprak', 'traşlama', 'kor', 'sediment', 'zonu', 'alan', 'su', 'kullanım', 'kenar']
+Extracted: ['sediment']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 82
+Actual: ['adsorpsiyon', 'zearalenon', 'klinoptilolit', 'önderiştirme']
+Extracted: ['adsorpsiyon', 'klinoptilolit', 'zearalenon', 'zen']
+TP: 3 TN: 0 FP: 1 FN: 1 
+Accuracy: %60.0
+-----------------
+Article Index: 83
+Actual: ['ağır', 'jeokimya', 'jeobirikim', 'metal', 'biyobirikim', 'indeks', 'kir', 'faktör', 'robinia']
+Extracted: ['derece', 'toprak', 'zengin']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 84
+Actual: ['hız', 'hacim', 'mavis', 'yüzey', 'adsorpsiyon', 'mm', 'boyamak', 'modifiye', 'gider', 'metilen', 'mça', 'çim', 'atık', 'madde']
+Extracted: ['mça']
+TP: 1 TN: 0 FP: 13 FN: 0 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 85
+Actual: ['stres', 'oksidatif', 'dermatocarpon', 'periferik', 'kadmiyum', 'kan', 'kültür', 'genotoksisite', 'insan', 'intestiniforme']
+Extracted: ['antioksidan', 'hasar', 'liken', 'oksidatif']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 86
+Actual: ['ünye', 'termal', 'adsorpsiyon', 'analiz', 'ftir', 'bentoniti', 'amonyum']
+Extracted: ['adsorpsiyon']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 87
+Actual: ['adalar', 'uhi', 'istanbul', 'algılamak', 'landsat', 'uzak', 'şehir', 'tm', '5', 'ısı']
+Extracted: ['görüntü', 'şehir']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 88
+Actual: ['ağır', 'bitki', 'toprak', 'volkanik', 'metal', 'isparta', 'kültür']
+Extracted: ['bitki', 'oleracea', 'toprak']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 89
+Actual: ['jeoistatistik', 'cbs', 'trend', 'su', 'analiz', 'yeraltı']
+Extracted: ['trend', 'tuz']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 90
+Actual: ['pm', 'yağmur', 'asit', 'so', 'trabzon', 'su', 've', '2', '10', 'kir', 'ph', 'kent', 'hava']
+Extracted: ['mg']
+TP: 0 TN: 0 FP: 13 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 91
+Actual: ['hymenoptera', 'sıcaklık', 'oran', 'çıkmak', 'gelişim', 'tedricî', 'pimpla', 'ağırlık', 'turionellae', 'azalmak', 'önce', 'ergin']
+Extracted: ['birey', 'dişi', 'ergin']
+TP: 1 TN: 0 FP: 11 FN: 2 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 92
+Actual: ['ağır', 'şanlıurfa', 'malondialdehit', 'metal', 'gaz', 'prolin', 'eksoz', 'klorofil']
+Extracted: ['ağır', 'bitki', 'metal']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 93
+Actual: ['ağır', 'sebze', 'metal', 'i̇stanbul', 'kir']
+Extracted: ['ağırlık', 'kuru']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 94
+Actual: ['fotokatalitik', 'tio', 'su', 'temizlemek', 'yöntem', 'kir', 'film', 'ince', 'aktivite']
+Extracted: ['film', 'fotokatalitik', 'tio']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 95
+Actual: ['rezervuar', 'metal', 'bey', 'su', 'parametre', 'kalite']
+Extracted: ['baraj', 'cr', 'fizikokimya', 'metal']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 96
+Actual: ['nehri', 'para', 'alan', 'ekoloji', 'sulak', 'nycticorax', 'besleme']
+Extracted: ['beslemek', 'trofik']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 97
+Actual: ['lipid', 'süpürmek', 'etki', 'silybum', 'peroksidasyonu', 'fenton', 'marianum', 'siliqua', 'radikal', 'reaktif', 'ceratonia']
+Extracted: ['grup', 'marianum']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 98
+Actual: ['yuva', 'etki', 'saksağan', 'üremek', 'özellik', 'pica', 'başarı', 'yol']
+Extracted: ['saksağan', 'yol', 'yuva']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 99
+Actual: ['toprak', 'iklim', 'yükselti', 'anakaya', 'doğu', 'özellik', 'bonitet', 'ladinî', 'basamak']
+Extracted: ['anakaya', 'bonitet', 'kuşak', 'yükselti']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 100
+Actual: ['in', 'serbica', 'kor', 'vitro', 'risk', 'fenoloji', 'ramon', 'değer', 'morfoloji']
+Extracted: ['serbica', 'vitro']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 101
+Actual: ['proses', 'su', 'peyniraltı', 'mikrofiltrasyon', 'çitosan', 'deney', 'tasarı']
+Extracted: ['bar', 'basınç', 'çitosan']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 102
+Actual: ['havza', 'mode', 'yük', 'maksimum', 'abdal', 'günlük', 'ırmak', 'warmf', 'toplam']
+Extracted: ['havza', 'tmdl', 'warmf']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 103
+Actual: ['cyprinus', 'carpio', 'niloticus', 'kan', 'oreochromis', 'iyon']
+Extracted: ['derişim', 'kurşun', 'serum']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 104
+Actual: ['nikel', 'transgenik', 'fitoektraksiyon', 'tütün', 'metallotiyonin']
+Extracted: ['ni', 'transgenik', 'tütün']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 105
+Actual: ['bitkisel', 'arıtmak', 'biyokütle', 'nasturtium', 'officinale', 'krom', 'edta']
+Extracted: ['cr', 'edta']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 106
+Actual: ['ağır', 'nikel', 'bakır', 'adsorpsiyon', 'metal', 'kapasite', 'ferrit', 'nanopartiküller']
+Extracted: ['cufe', 'ii', 'nife']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 107
+Actual: ['ağır', 'ulva', 'sediment', 'alg', 'makro', 'metal', 'mersin', 'enteromorpha', 'kıyı', 'ne', 'akdeniz']
+Extracted: ['al', 'cd', 'mn', 'zn']
+TP: 0 TN: 0 FP: 11 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 108
+Actual: ['spirometri', 'hava', 'solunum', 'kir', 'fonksiyon']
+Extracted: ['fonksiyon', 'solunum']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 109
+Actual: ['sistem', 'kirletmek', 'kardiyovasküler', 'solunum', 'nörolojik', 'kir', 'hava']
+Extracted: ['hava', 'insan', 'madde', 'zarar']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 110
+Actual: ['modellemek', 'lagrange', 'euler', 'meteoroloji', 'kalite', 'hava']
+Extracted: ['modellemek']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 111
+Actual: ['bursa', 'faz', 'atmosferik', 'kıyı', 'trafik', 'konsantrasyon', 'kent']
+Extracted: ['mudanya', 'ocp', 'örneklem']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['kahire', 'beijing', 'istanbul', 'jakarta', 'megasehir', 'delhi', 'kalite', 'hava']
+Extracted: ['bakım']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 113
+Actual: ['iç', 'türkiye', 'partikül', 'uob', 'madde', 'ortam', 'biyoaerosol', 'kalite', 'hava']
+Extracted: ['ortam', 'radon']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 114
+Actual: ['balıkesir', 'iç', 'pm', 'kalite', 'oran', 'hava']
+Extracted: ['ortam']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 115
+Actual: ['çanakkale', 'iç', 'kaynak', 'bakteri', 'küf', 'hast', 'sendrom', 'bina', 'kalite', 'hava']
+Extracted: ['anket', 'bakteri', 'hava', 'kişi', 'ortam']
+TP: 2 TN: 0 FP: 8 FN: 3 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 116
+Actual: ['iç', 'meslek', 'laboratuvar', 'risk', 'etmen', 'üniversite', 'kalite', 'hava']
+Extracted: ['hava', 'laboratuvar', 'meslek', 'risk', 'uluslararası']
+TP: 4 TN: 0 FP: 4 FN: 1 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 117
+Actual: ['iç', 'partikül', 'dağılım', 'boyut', 'madde', 'ortam', 'hava']
+Extracted: ['mum', 'ortam', 'partikül', 'sigara']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 118
+Actual: ['iscst3', 'i̇zmir', 'envanter', 'kalitesimodellemesi', 'emisyon', 'trafik', 'hava']
+Extracted: ['nmvoc', 'sayım', 'yerleşke', 'µgm']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 119
+Actual: ['erzurum', 'pyrene', 'a', 'benzo', 'pah', 'kir', 'hava']
+Extracted: ['bap', 'faz', 'kar', 'kuru', 'çökelmek']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 120
+Actual: ['dioksit', 'pasif', 'no2', 'azot', 'örneklem', 'i̇zmi', 'ozon']
+Extracted: ['ozon']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 121
+Actual: ['gemi', 'kalitesimodellemesi', 'envanter', 'emisyon', 'i̇stanbul', 'boğaz', 'hava']
+Extracted: ['boğaz', 'emisyon', 'kanal']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 122
+Actual: ['balıkesir', 'risk', 'pm10', 'analiz', 'kir', 'solunumhastalıkları', 'hava']
+Extracted: ['başvuru', 'hastane', 'hava', 'kir', 'yetişkin', 'µgm', 'çocuk']
+TP: 2 TN: 0 FP: 5 FN: 5 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 123
+Actual: ['ölçek', 'iç', 'karbondioksit', 'yaşamkalitesi', 'hast', 'sendrom', 'bina', 'kalite', 'hava']
+Extracted: ['bina', 'erişkin', 'yakınmak']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 124
+Actual: ['i̇zmir', 'kalitesimodellemesi', 'ağı', 'trafik', 'yapay', 'sinir', 'hava']
+Extracted: ['cadde', 'hata', 'model', 'taşıt', 'ysa']
+TP: 0 TN: 0 FP: 7 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 125
+Actual: ['pasif', 'derişim', 'örneklem', 'istasyon', 'organik', 'bileşik', 'petrol', 'uçmak']
+Extracted: ['derişim', 'istasyon', 'nokta', 'µgm', 'örneklem']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 126
+Actual: ['envanter', 'emisyon', 'biyojenik', 'maki', 'faktör', 'bvoc']
+Extracted: ['bvoc', 'emisyon', 'maki']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 127
+Actual: ['pasif', 'toluen', 'yarımada', 'örneklem', 'i̇stanbul', 'tarih', 'btek', 'ksilen', 'benzen', 'etilbenzen']
+Extracted: ['µgm']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['so2', 'çanakkale', 'tüketim', 'pm10', 'trafik', 'doğalgaz', 'meteoroloji', 'ısınmak', 'kalite', 'hava']
+Extracted: ['hava', 'rüzgâr', 'yıl', 'çanakkale']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 129
+Actual: ['brutia', 'köken', 'pinus', 'emisyon', 'organik', 'biyojenik', 'bileşik', 'uçmak', 'kızılçam', 'faktör']
+Extracted: ['bvoc', 'kızılçam', 'yükselti']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 130
+Actual: ['iscst3', 'modellemek', 'gemi', 'envanter', 'i̇zmi', 'emisyon', 'kalite', 'hava']
+Extracted: ['denizyolu', 'hava', 'ton', 'zmir', 'µgm']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 131
+Actual: ['akı', 'bursa', 'çökelmek', 'organik', 'bileşik', 'yarı', 'uçmak']
+Extracted: ['akı', 'çökelmek']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 132
+Actual: ['santral', 'emisyon', 'elektrik', 'üretim', 'yakıt', 'co2', 'fosil']
+Extracted: ['co2', 'elektrik']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 133
+Actual: ['yağmur', 'ocp', 'örneklem', 'fraksiyonel', 'pah']
+Extracted: ['akı', 'ng', 'ortalama', 'pah']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 134
+Actual: ['uyum', 'ab', 'süreç', 'türkiye']
+Extracted: ['ab', 'müzakere']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 135
+Actual: ['konu', 'gerekmek', 'su', 'tm', 'kir', 'için', 'bir', 'önlemek', 'safha', 'ülke', 'önem', 'yönetim', 'özellikle', 'tehlike', 'öz', 'madde', 'bileşen', 'olmak', 'sanayi', 'irdelemek', 'bu', 've', 'yaklaşım', 'yenilik', 'çalışmak', 'uygulamak', 'uymak', 'direktif']
+Extracted: ['bileşen']
+TP: 1 TN: 0 FP: 27 FN: 0 
+Accuracy: %3.571428571428571
+-----------------
+Article Index: 136
+Actual: ['saha', 'sistem', 'toprak', 'kaynak', 'yönetim', 'çevre', 'kirlenmek', 'nokta', 'kir']
+Extracted: ['kirlenmek', 'saha', 'tkky']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 137
+Actual: ['sistem', 'toprak', 'bilgi', 'kimyasal', 'tehlike', 'kir', 'atık']
+Extracted: ['bilgi', 'temizlemek', 'yasal']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 138
+Actual: ['sektör', 'iyi', 'ippc', 'tekstil', 'yönetim', 'en', 'teknik', 'kir', 'mevcut', 'entegre', 'direktif']
+Extracted: ['direktif', 'sanayi', 'tekstil', 'önlem']
+TP: 2 TN: 0 FP: 9 FN: 2 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 139
+Actual: ['lca', 'simapro7', 'çimento', 'cml', '2', 'basel', '2000']
+Extracted: ['hammadde', 'çimento', 'üretim']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 140
+Actual: ['nitelik', 'toprak', 'arıtmak', 'çamur', 'yönetim', 'ev']
+Extracted: ['enaç', 'tkky', 'toprak']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 141
+Actual: ['hız', 'arıtmak', 'düzen', 'çamur', 'nem', 'atıksu', 'kurum', 'depolamak', 'eğri', 'içerik']
+Extracted: ['kurum', 'çamur']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 142
+Actual: ['çamur', 'endüstriyel', 'stabilizasyon', 'tehlike', 'aerobik', 'atık', 'ev']
+Extracted: ['atık', 'çamur']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 143
+Actual: ['nikel', 'adsorpsiyon', 'sabit', 'kolon', 'gider', 'yatak', 'yüksek']
+Extracted: ['ii', 'kolon', 'ni', 'yatak']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 144
+Actual: ['ağır', 'adsorpsiyon', 'çinko', 'metal', 'aljinat', 'kalsiyum', 'izoterm', 'bilye', 'jel']
+Extracted: ['aljinat', 'bilye', 'çinko']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 145
+Actual: ['süperkritik', 'karbon', 'arıtmak', 'reaksiyon', 'kelime', 'atıksu', 'tekstil', 'basic', 'oksidasyon', 'su', 'blue', 'organik', 'toplam', 'kinetik', 'anahtar', '41']
+Extracted: ['oksitlemek', 'reaksiyon']
+TP: 1 TN: 0 FP: 15 FN: 1 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 146
+Actual: ['ağır', 'zeolit', 'bakır', 'atıksu', 'metal', 'endüstriyel', 'klinoptilolit']
+Extracted: ['cu', 'klinoptilolit', 'tank', 'çözelti']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 147
+Actual: ['renk', 'boya', 'atıksu', 'elektrokoagülasyon', 'tekstil', 'gider', 'reaktif']
+Extracted: ['elektrokoagülasyon', 'gidermek', 'renk']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 148
+Actual: ['endüstri', 'et', 'arıtım', 'atıksu', 'elektrokoagülasyon', 've', 'alüminyum', 'elektrot', 'demir', 'entegre']
+Extracted: ['elektrokoagülasyon', 'gidermek', 'türbitide']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 149
+Actual: ['banyo', 'çelik', 'elektrokoagülasyon', 'tekstil', 'alüminyum', 'miktaır', 'boya', 'asit', 'gider', 'paslanmak', 'dispers', 'endüstri', 'atıksu', 'koi̇', 'reaktif', 'çamur', 'renk', 've', 'elektrodlar']
+Extracted: ['banyo', 'boya', 'elektrod']
+TP: 2 TN: 0 FP: 17 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 150
+Actual: ['nikel', 'olmak', 'endüstri', 'çelik', 'çinko', 'atıksu', 'elektrokoagülasyon', 'bağ', 'metal', 'işlem', 'içermek', 'gider', 've', 'son', 'organik', 'kompleks', 'elektrodlar', 'madde']
+Extracted: ['atıksu', 'elektrokoagülasyon', 'kompleks', 'numune']
+TP: 3 TN: 0 FP: 15 FN: 1 
+Accuracy: %15.789473684210526
+-----------------
+Article Index: 151
+Actual: ['değişken', 'elektrokoagülasyon', 'gider', 'alüminyum', 'analiz', 'elektrot', 'fosfat', 'anova']
+Extracted: ['destek', 'elektrolit', 'fosfat']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 152
+Actual: ['çamur', 'glukoz', 'tesktil', 'atıksu', 'proses', 'asit', 'aktif', 'boyamak', 'oksidasyon', 'inhibisyon', 've', 'fenton', 'ileri', 'reaktif', 'yıkı', 'aerobik', 'madde']
+Extracted: ['arıtmak', 'fenton', 'kog', 'proses']
+TP: 2 TN: 0 FP: 15 FN: 2 
+Accuracy: %10.526315789473683
+-----------------
+Article Index: 153
+Actual: ['karbon', 'fenol', 'türev', 'peroksidaz', 'polipirol', 'nanotüp', 'amperometrik', 'horseradish', 'biyosensör', 'immobilize']
+Extracted: ['fenol']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 154
+Actual: ['atıksu', 'test', 'bölge', 'proses', 'jar', 'alum', 'deri', 'koagülant', 'kostikleme', 'organize']
+Extracted: ['kostikleme', 'proses', 'yüzey']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 155
+Actual: ['endüstri', 'atıksu', 'tekstil', 'boyamak', 'filtrasyon', 'membran', 'koagülasyon', 'yıkamak', 'i̇ndigo']
+Extracted: ['kog', 'mf', 'önarıtım']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 156
+Actual: ['endüstri', 'atıksu', 'uygulamak', 'kimyasal', 'gider', 'fosfor', 'işlemek', 'mısır']
+Extracted: ['arıtmak', 'fecl', 'laboratuar']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 157
+Actual: ['gübre', 'toprak', 'kimyasal', 'antibiyotik', 'oksidasyon', 'ozon', 'fenton', 'persülfat']
+Extracted: ['antibiyotik', 'gübre']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 158
+Actual: ['arsenik', 'arıtım', 'elektrokoagülasyon', 'içmek', 'gider', 'su', 'maliyet', 'işlemek']
+Extracted: ['arsenik', 'elektrot']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 159
+Actual: ['atıksu', 'elektrokoagülasyon', 'gitmek', 'bor', 'endüstriyel']
+Extracted: ['bor', 'ph']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 160
+Actual: ['tüketim', 'arıtmak', 'dimetil', 'bozmak', 'enerji', 'endokrin', 'peroksimonosülfat', 'okson', 'fotokimya', 'elektrik', 'ftalat', 'madde']
+Extracted: ['dmf', 'okson']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 161
+Actual: ['atıksu', 'geri', 'endüstriyel', 'şehir', 'sürmek', 'kazanım', 'ev']
+Extracted: ['dönüşmek', 'dünya', 'ev', 'geri', 'su', 'sürmek']
+TP: 3 TN: 0 FP: 4 FN: 3 
+Accuracy: %30.0
+-----------------
+Article Index: 162
+Actual: ['ağır', 'iyi', 'en', 'metal', 'çelikhane', 'toz', 'mevcut', 'teknik', 'dioksin', 'furan']
+Extracted: ['demir', 'mevcut', 'tesis', 'çelik']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 163
+Actual: ['arıtmak', 'kor', 'atıksu', 'çevre', 'endüstriyel', 'denetim']
+Extracted: ['kontrol', 'ski']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 164
+Actual: ['formülasyon', 'yönetim', 'sanayii', 'ilâç', 'atık', 'minimizasyonu']
+Extracted: ['atık', 'üretim']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 165
+Actual: ['iş', 'sağlık', '18001', 'risk', '14001', 'yönetim', 'çevre', 'güvenlik', 've', 'analiz', 'iso', 'ohsas']
+Extracted: ['iso', 'ohsas']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 166
+Actual: ['anaerobik', 'kemostat', 'floresan', 'kısmî', 'anammox', 'fish', 'sharon', 'nitrifikasyondenitrifikasyon', 'oksidasyon', 'yerinde', 'hibrit', 'amonyum']
+Extracted: ['amonyum', 'anammox', 'reaktör']
+TP: 2 TN: 0 FP: 10 FN: 1 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 167
+Actual: ['atıksu', 'ototrofik', 'proses', 'gaz', 'endüstriyel', 'h', '2', 'nitrat', 'denitrifikasyon', 's']
+Extracted: ['no', 'sülfür', 'yüklem']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 168
+Actual: ['amonyak', 'koku', 'biyofiltre', 'besi', 'hayvan']
+Extracted: ['amonyak', 'hayvan', 'yüklem']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 169
+Actual: ['arıtmak', 'denitrifikasyon', 'modellemek', 'atıksu', 'gider', 'besi', 'biyolojik', 'modifikasyon', 'madde']
+Extracted: ['azot', 'modifikasyon']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 170
+Actual: ['birikim', 'kesik', 'nitrit', 'dgge', 'ardışık', 'reaktör', 'anoksik', 'aerobik', 'amonyum']
+Extracted: ['eklemek', 'sülfür']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 171
+Actual: ['izin', 'lisans', 've', 'çevre']
+Extracted: ['izin', 'lisans', 'çevrimiçi']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 172
+Actual: ['santral', 'termik', 'büyük', 'yakmak', 'tesis']
+Extracted: ['direktif']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 173
+Actual: ['kaza', 'iş', 'risk', 'sağlık', 'etki', 'çevre', 'güvenlik', 'boyut', 'analiz']
+Extracted: ['altyapı', 'risk']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 174
+Actual: ['ab', 'türkiye', 'fasıl', 'uyum', 'süreç', 'müzakere', 'çevre']
+Extracted: ['ab', 'fasıl', 'müzakere', 'uyum']
+TP: 4 TN: 0 FP: 3 FN: 0 
+Accuracy: %57.14285714285714
+-----------------
+Article Index: 175
+Actual: ['bileşen', 'endüstri', 'inhibisyonu', 'modellemek', 'proses', 'kimyasal', 'koi̇', 'respirometri', 'kinetik', 'substrat']
+Extracted: ['bileşen', 'koi', 'parçalamak']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 176
+Actual: ['filament', 'hacim', 'çamur', 'yapı', 'köpük', 'aktif', 'flok', 'indeks', 've', 'ayırım', 'problem', 'mikroorganizma', 'kabarmak']
+Extracted: ['problem', 'tesis']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 177
+Actual: ['biyoreaktör', 'atıksu', 'membran', 've', 'üretim', 'doğalgaz', 'petrol', 'toplam', 'hidrokarbon']
+Extracted: ['biyoreaktör', 'membran']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 178
+Actual: ['biyoreaktör', 'daldırmak', 'smbr', 'atıksu', 'azot', 'nitrifikasyon', 'membran', 'koi̇', 'sentetik', 'fosfor', 'toplam']
+Extracted: ['azot', 'mbr', 'membran']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 179
+Actual: ['oksijen', 'arıtmak', 'enerji', 'transfer', 'reaktör', 'anoksik', 'biyolojik', 'tasarruf', 'havalanmak', 'aerobik']
+Extracted: ['havalanmak', 'reaktör', 'transfer']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 180
+Actual: ['deac', 'metalik', 'bertaraf', 'klörür', 'bileşik', 'organo', 'dietilalüminyum']
+Extracted: ['deac', 'fabrika']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 181
+Actual: ['beton', 'seramik', 'yer', 'agrega', 'karo', 'atık']
+Extracted: ['atık', 'beton', 'seramik']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 182
+Actual: ['levrek', 'osmoz', 'deşarj', 'ters', 'su', 'üretim', 'çipura', 've', 'balık', 'çiftlik', 'soğutmak']
+Extracted: ['soğutmak', 'su']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 183
+Actual: ['okaliptüs', 'arıtmak', 'çamur', 'gelişim', 'fidan', 'kızılçam', 'atık', 'ev']
+Extracted: ['fidan', 'çamur']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 184
+Actual: ['anaerobik', 'sera', 'kompost', 'arıtım', 'kumluca', 'atık']
+Extracted: ['atık', 'sera']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 185
+Actual: ['renk', 'atıksu', 'geri', 'denim', 'filtrasyon', 'kullanım', 'yıkamak', 'granüler', 'bulanık']
+Extracted: ['filtrasyon']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 186
+Actual: ['gliserin', 'biyoplastik', 'propanediol', 'klebsiella', 'sp', 'biyodizel', 'atık']
+Extracted: ['biyodizel', 'gliserin', 'pdo']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 187
+Actual: ['anaerobik', 'çamur', 'akmak', 'biyoteknoloji', 'zeytin', 'reaktör', 'biyogaz', 'yukarı', 'karasu']
+Extracted: ['anaerobik', 'hrt', 'koi', 'olr']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 188
+Actual: ['serbest', 'kül', 'arıtmak', 'çamur', 'basınç', 'dayanım', 'klinoptilolit', 'uçmak']
+Extracted: ['beklemek', 'kpa', 'ucs', 'örnek']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 189
+Actual: ['anaerobik', 'arıtmak', 'çamur', 'yağ', 'parça', 'ultrasonik', 'flok', 'dezentegrasyonu', 'ön']
+Extracted: ['arıtmak', 'ultrasonik', 'çamur']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 190
+Actual: ['bakım', 'araç', 'yönetim', 'motor', 'tehlike', 'atık']
+Extracted: ['atık']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 191
+Actual: ['arıtmak', 'çamur', 'alan', 'ac', 'elektrik', 'biyokatı', 'inaktivasyon', 'patojen']
+Extracted: ['arıtmak', 'çamur']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Total accuracy of document "Çevre_Mühendisliği" is: %15.654078652595496

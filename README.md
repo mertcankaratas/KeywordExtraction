@@ -1,0 +1,1 @@
+Text analysis using natural language processing (NLP) to break down human language so that it can be understood and analyzed by machines. Keyword analysis can find keywords from all manner of text: regular documents and business reports, social media comments, online forums and reviews, news reports, and more.

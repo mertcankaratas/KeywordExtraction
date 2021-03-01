@@ -1,0 +1,1171 @@
+Article Index: 1
+Actual: ['başdenetçi', 'emekli', 'asgari', 'kamu', 'zorunlu', 'yaş', 'azami', 'ombudsman', 'denet']
+Extracted: ['denet']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 2
+Actual: ['karşılık', 'sistem', 'hapis', 'sorun', 'çek', 'için', 'çekmek', 'hayat', 'ekonomik', 'yasak', 'borç', 'yer', 've', 'kânun', 'yaptırım', 'tarihçe']
+Extracted: ['yaptırım', 'çek']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 3
+Actual: ['sistem', 'başkan', 'karşılaştırmak', 'hükümet', 'azerbaycan', 've', 'amerika', 'birleşik', 'devlet']
+Extracted: ['hükümet', 'sistem']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 4
+Actual: ['yatırım', 'tahkim', 'uyuşmak', 'uluslararası', 'küresel']
+Extracted: ['küresel', 'yatırım']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 5
+Actual: ['kullanmak', 'çatışmak', 'silâh', 'hak', 'yaşam', 'ceza', 've', 'yüküm', 'ötenazi', 'ölüm', 'devlet', 'düşmek']
+Extracted: ['hak', 'yaşam']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 6
+Actual: ['londra', 'statü', 'ilke', 'mahkemesi', 'ceza', 'uluslararası', 'şart', 'karşı', 'insan', 'suç', 'kanunî']
+Extracted: ['suç']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 7
+Actual: ['vergi', 'mecburî', 'sebep', 'zamanaşımı', 'mücbir', 'ceza', 'hak', 'mükellef', 'gaygubet']
+Extracted: ['mücbir', 'sebep']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 8
+Actual: ['encümen', 'bilgi', 'organ', 'meclis', 'yönetim', 'almak', 've', 'demokrasi', 'danıştay', 'denetim', 'yerel', 'yol']
+Extracted: ['yerel', 'yönetim']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 9
+Actual: ['transseksüalite', 'cinsiyet', 'sicil', 'değişik', 'nüfus']
+Extracted: ['cinsiyet', 'değişik']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 10
+Actual: ['olmak', 'idarî', 'işlem', 'i̇crai', 'yargı', 'iptal', 'zincir', 'dava', 'ayırmak']
+Extracted: ['crai', 'işlem']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 11
+Actual: ['toplantı', 'vermek', 'ara', 'veya', 'olağanüstü', 'tbmm', 'tatil']
+Extracted: ['olağanüstü']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 12
+Actual: ['usulu', 'daire', 'itiraz', 'temyiz', 'ara', 'idarî', 'idare', 'mahkemesi', 'bölge', 'karar', 'kurulu', 'savcı', 'kânun', 'danıştay', 'ön', 'yargılamak', 'dava', 'büro']
+Extracted: ['değişik', 'idarî']
+TP: 1 TN: 0 FP: 17 FN: 1 
+Accuracy: %5.263157894736842
+-----------------
+Article Index: 13
+Actual: ['hornsby', 'corporation', 'kalkınmak', 'principle', 'council', 'gabcikovonagymaros', 'sürmek', 'insan', 'shire', 'ilke', 'telstra', 'hak', 'karar', 'limited', 'ihtiyat', 'olmak', 'çevre', 'precautionary', 'v', 'dava']
+Extracted: ['adalet', 'divan']
+TP: 0 TN: 0 FP: 20 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 14
+Actual: ['birlik', 'ayrım', 'dolay', 'özgür', 'hak', 've', 'hukuk', 'temel', 'avrupa', 'doğrudan']
+Extracted: ['ayırım', 'girmek', 'suç']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['gayrimenkul', 'kira', 'sebep', '6098', 'tahliye', 'hukuk', '6570', 'sayılı', 'kanun']
+Extracted: ['sayılı', 'tekrar']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 16
+Actual: ['şirket', 'sahip', 'yasak', 'borç', 'pay']
+Extracted: ['şirket']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 17
+Actual: ['sistem', 'anayasal', 'ülke', 'azınlık', 'çok', 'bölgesel', 'resmî', 'dil']
+Extracted: ['dil']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 18
+Actual: ['türk', 'vatandaş', 'kazanmak', 'kânun', 'şart', 'olağan', 'telsik', 'ikamet']
+Extracted: ['ikamet', 'tvk', 'yönetmelik']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 19
+Actual: ['sınır', 'ilke', 'temerrüt', 'almak', 'üst', 'ipotek', 'faiz', 'kapsam', 'anapara', 'teminat', 'ayni', 'belirli']
+Extracted: ['ipotek']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 20
+Actual: ['kişisel', 'ağ', 'online', 'gizli', 'medya', 'veri', 'hak', 'sosyal', 'unutmak', 'hayat', 'özel']
+Extracted: ['birey', 'ihlâl', 'zaman']
+TP: 0 TN: 0 FP: 11 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 21
+Actual: ['mahkeme', 'dosya', 'avukat', 'hukuk', 'memnuniyet', 'dava', 'müvekkil']
+Extracted: ['anket', 'avukat', 'müvekkil', 'soru']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 22
+Actual: ['kaynak', 'enerji', 'politika', 'yakıt', 'hukuk', 'petrol', 'yenilemek', 'fosil']
+Extracted: ['enerji']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 23
+Actual: ['karşılık', 'yapı', 'inşaat', 'sahip', 'müteahhit', 'kişi', 'üçüncü', 'sözleşme', 'kat']
+Extracted: ['hassasiyet', 'inşaat', 'yaygın']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 24
+Actual: ['rüşvet', 'anlaşma', 'kamu', 'görev']
+Extracted: ['rüşvet']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 25
+Actual: ['devir', 'bakanlık', 'idarî', 'kamu', 'görev', 'yetki', 'yardımcı', 'bakan', 'hiyerarşi', 'müşavir']
+Extracted: ['bakan', 'yardımcı']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 26
+Actual: ['adli', 'muhakeme', 'özgür', 'kor', 'tedbir', 'kişi', 'hak', 'ceza', 'tutuklamak', 've', 'güvenlik', 'insan', 'kontrol']
+Extracted: ['kontrol', 'tedbir', 'tutuklamak']
+TP: 3 TN: 0 FP: 10 FN: 0 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 27
+Actual: ['gözaltı', 'yakalamak', 'aihs', 'özgür', 'kişi', 'süre', 'hak', 'almak', 'güvenlik', 've', 'tutuklamak', 'makul', '5']
+Extracted: ['ai', 'güvenlik', 'hm']
+TP: 1 TN: 0 FP: 12 FN: 2 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 28
+Actual: ['vergi', 'intikal', 'değer', 'şu', 'veraset', 've', 'katmak', 'dava']
+Extracted: ['ortak']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 29
+Actual: ['vergi', 'ilke', 'güç', 'genel', 'hukukî', 'güvenlik', 'yetki', 've', 'hukuk', 'malî', 'devlet', 'eşit', 'kanunî']
+Extracted: ['hukuk', 'ilke', 'vergi']
+TP: 3 TN: 0 FP: 10 FN: 0 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 30
+Actual: ['istisna', 'gerçek', 'gitmek', 'gider', 'götürü', 'konut', 'usul', 'inmek']
+Extracted: ['gelir', 'gitmek', 'vergi']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 31
+Actual: ['iş', 'emek', 'kriz', 'ekonomik', 'hak', 'esnek', 'güvence', 'sosyal', 'koşul', 'küresel', 'çalışmak', 'piyasa']
+Extracted: ['kriz']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 32
+Actual: ['korumak', 'yasak', 've', 'çocuk', 'genç', 'ilişkin', 'çalışmak', 'işçi']
+Extracted: ['genç', 'yaş']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 33
+Actual: ['türk', 'idarî', 'kurum', 'ihlâl', 'rekabet', 'yaptırım', 'usul']
+Extracted: ['rekabet']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 34
+Actual: ['hak', 'yaklaşım', 'planlamak', 'adalet', 'kent']
+Extracted: ['adalet', 'kent']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 35
+Actual: ['mücadele', 'ilke', 'denetim', 'yolsuz', 'ceza', 'greko', 've', 'etik', 'sözleşme', 'örgüt', 'uluslararası']
+Extracted: ['yolsuz']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 36
+Actual: ['rıza', 'meşru', 'hüküm', 'getirmek', 'kullanmak', 'hak', 'ilgili', 'beraat', 'yerine', 'taksir', 'savunmak', 'kast', 'kanun']
+Extracted: ['beraat', 'hüküm']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 37
+Actual: ['dayalı', 'menkul', 'sermaye', 'bilgi', 'manipülâsyon', 'kıymet', 'manipülâtör', 'işlemek', 'piyasa']
+Extracted: ['fiyat', 'piyasa', 'yatırım']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 38
+Actual: ['onam', 'aydınlatmak', 'kişilik', 'hak', 'tıp', 'hasta', 'hukuk', 'yüküm']
+Extracted: ['aydınlatmak']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 39
+Actual: ['yayın', 'türk', 'halef', 'telif', 'sanat', '818', 'eser', 'sahip', 'edebî', 'borç', 'hak', '6098', 'kânun', 'sözleşme', 'yayımlamak', 'sayılı']
+Extracted: ['eser']
+TP: 1 TN: 0 FP: 15 FN: 0 
+Accuracy: %6.25
+-----------------
+Article Index: 40
+Actual: ['takip', 'işlem', 'hal', 'taraf', 'icra']
+Extracted: ['icra']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 41
+Actual: ['aykırı', 'değer', 'delil', 'hukuk', 'devlet']
+Extracted: ['öneri']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 42
+Actual: ['türkiye', 'din', 'insan', 'özgür', 'mahkemesi', 'hak', 've', 'komisyon', 'sözleşme', 'vicdan', 'avrupa']
+Extracted: ['din']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 43
+Actual: ['muhakeme', 'kor', 'silâh', 'adil', 'hak', 'ceza', 'tanık', 'yargı', 'delil', 'kânun', 'örgüt', 'eşit', 'suç']
+Extracted: ['tanık']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 44
+Actual: ['nitelik', 'iş', 'eser', 'görmek', 'hukukî', 'amaç', 'akit', 'rızai', 'taşımak', 'sözleşme']
+Extracted: ['sözleşme', 'taşımak']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 45
+Actual: ['mahkemesi', 'anayasa', 'cumhurbaşkanı', 'hukuk', 'halkoylaması']
+Extracted: ['halkoylaması']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 46
+Actual: ['alacak', 'kavram', 'tahsil', 'amme', 'almak', 'tmsf', '6183', 'fon', 'hukuk', '4389', 'sayılı', 'kanun', 'usul']
+Extracted: ['tahsil', 'tmsf']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 47
+Actual: ['medenî', 'tebligat', 'adil', 'hak', 'hukukî', 'yargı', 'dinlenmek', 'ekonomi', 'hukuk', 'usul']
+Extracted: ['tebligat']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 48
+Actual: ['neden', 'kusur', 'kaldırmak', 'etkilemek', 'ceza', 'hal', 'sorumluluk', 'veya', 'azalmak']
+Extracted: ['kusur']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 49
+Actual: ['karine', 'gizli', 'özgür', 'adliye', 'hak', 'adil', 'basın', 'yargı', 'soruşturmak', 'etik', 'masumiyet', 'haber', 'sözcü']
+Extracted: ['haber']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 50
+Actual: ['serbest', 'vergi', 'daire', 'tevkifatı', 'makbuz', 'gelir', 'meslek', 'kazanç', 'vekâlet', 'icra', 'ücret', 'kdv']
+Extracted: ['ücret']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 51
+Actual: ['hapis', 'korumak', 'hizmet', 'zorlamak', 'şiddet', 've', 'destek', 'mağdur', 'önlemek', 'tedbir', 'uygulamak']
+Extracted: ['aile', 'derhâl', 'şiddet']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 52
+Actual: ['bakanlık', 'yapı', 'kamu', 'kurum', 'içmek', 'yönetim', 'yeniden', 'adalet', 'reform']
+Extracted: ['yapılandırmak', 'yeniden']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 53
+Actual: ['model', 'öğrenci', 'ödev', 'eğitim', 'yılsonu', 'arasınav', 'hukuk', 'fakülte', 'sınav', 'uygulamak', 'banka']
+Extracted: ['gelenek', 'model', 'öğretim']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 54
+Actual: ['medenî', 'yasa', 'kabahat', 'parlâmento', 'milletvekili', 'anayasa', 'ceza', 'cumhurbaşkanı', 'sorum', 'hukuk', 'dokunmak', 'üye', 'bakan', 'disiplin']
+Extracted: ['ceza', 'dokunmak', 'parlâmento', 'yasa']
+TP: 4 TN: 0 FP: 10 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 55
+Actual: ['aydınlatmak', 'zarar', 'müdahale', 've', 'manevî', 'yüküm', 'maddî', 'rıza', 'tazminat', 'tıbbî']
+Extracted: ['aydınlatmak']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 56
+Actual: ['yürümek', 'değişik', 'bağımsız', 'işlem', 'anayasa', 'yargı', 'hukuk', 'teminat', 'hakim', 'devlet']
+Extracted: ['anayasa', 'devlet', 'eksik']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 57
+Actual: ['mücadele', 'neden', 'kadın', 'ceza', 've', 'çocuk', 'yeniden', 'kriminoloji', 'hukuk', 'işlemek', 'önlemek', 'suç']
+Extracted: ['kktc', 'suç']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 58
+Actual: ['genel', 'yarar', 'sigorta', 'sağlık']
+Extracted: ['sigorta']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 59
+Actual: ['muhakeme', 'genel', 'haciz', 'hak', 'milletlerarası', 've', 'yetki', 'derdest', 'kânun', 'hukuk', 'sözleşme', 'ihtiyatî', 'tedbir', 'kanun', 'usul', 'özel']
+Extracted: ['milletlerarası', 'yetki']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 60
+Actual: ['yemin', 'ilke', 'kazanmak', 'hak', 'güvenlik', 'hukuk', 'malî', 'beklenti', 'müşavir']
+Extracted: ['dolmak', 'yıllık']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 61
+Actual: ['vergi', 'yoklamak', 'toplu', 'yoğun', 'denetim', 'yaygın', 'fiş']
+Extracted: ['vergi']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 62
+Actual: ['adli', 'bilirkişi', 'tespit', 'delil', 'taraf']
+Extracted: ['bilirkişi']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 63
+Actual: ['konu', 'bilgi', 'kavram', 'avukat', 'sağlamak', 'beyan', 'usul', 'sınır', 'ile', 'yetki', 'delil', 'kapmak', 'belgesel', 'nitelik', 'artırmak', 'taraflararası', 'gidermek', 'toplamak', 'silâh', 've', 'yargılamak', 'eşit', 'katkı']
+Extracted: ['avukat', 'delil', 'toplamak', 'yargılamak']
+TP: 4 TN: 0 FP: 19 FN: 0 
+Accuracy: %17.391304347826086
+-----------------
+Article Index: 64
+Actual: ['serbest', 'sistem', 'ceza', 'infaz', 'adalet', 'hukuk', 'yaptırım', 'denetim']
+Extracted: ['ceza']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 65
+Actual: ['sebep', 'hal', 'şart', 'işlemek', 'olumsuz', 'kaza', 'arıza', 'araç', 'kişi', 'beklemek', 'sorumluluk', 'kusur', 'üçüncü', 'ağır', 'zarar', 'mücbir', 'görmek', 'kurtulmak', 'trafik', 'tazminat']
+Extracted: ['kaza', 'sorumluluk']
+TP: 2 TN: 0 FP: 18 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 66
+Actual: ['etkin', 'dolandırıcı', 'kısmî', 'pişman', 'zarar', 'gidermek', 'yağma', 'iade', 'mağdur', 'hırsız', 'veya', 'tazmin']
+Extracted: ['uygulamak', 'yargıtay']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 67
+Actual: ['ölüm', 'eş', 'aile', 'sağ', 'miras', 'hukuk', 'konut', 'kalan']
+Extracted: ['eş', 'kavram', 'miras']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 68
+Actual: ['vermek', 'hukuk', 'şart', 'vekâlet', 'muhakeme', 'işlem', 'yetki', 'taraf', 'kanun', 'ilke', 'görev', 'son', 'kânun', 'tabiî', 'yol', 'revizyon', 'yargılamak', 'dava', 'hâkim']
+Extracted: ['kanun', 'revizyon']
+TP: 2 TN: 0 FP: 17 FN: 0 
+Accuracy: %10.526315789473683
+-----------------
+Article Index: 69
+Actual: ['göç', 'idarî', 'etki', 'süre', 'yasadışı', 'alıkoymak', 'yönerge', 'doğrudan']
+Extracted: ['']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 70
+Actual: ['vatandaş', 'kazanmak', 'evlât', 'edinmek', 'ile', 've', 'usul', 'kaybetmek']
+Extracted: ['evlât']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 71
+Actual: ['ticaret', 'uçö', 'anlaşma', 'hüküm', 'standart', 'hak', 'norm', 'sosyal', 'sözleşme', 'uluslararası', 'temel', 'çalışmak']
+Extracted: ['ticaret']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 72
+Actual: ['dolay', 'el', 'kamu', 'atmak', 'müdahale', 'i', 'dokunmak', 'bedel', 'men', 'dava', 'tazminat', 'mal']
+Extracted: ['düzenlemek', 'kamu', 'yasal', 'çözüm']
+TP: 1 TN: 0 FP: 11 FN: 3 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 73
+Actual: ['bilgi', 'değer', 'gizli', 'hak', 'kurulu', 'edinmek', 'hayat', 'özel']
+Extracted: ['talep']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 74
+Actual: ['kura', 'kavram', 'avrupa', 'birlik', 'anayasa', 'hukukî', 'anlam', 'hukuk', 'ulusüstü', 'tan']
+Extracted: ['anayasa', 'bilim', 'örnek']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 75
+Actual: ['göç', 'iklim', 'sözleşme', 'uluslararası', 'mülteci', '1951']
+Extracted: ['göç', 'mülteci']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 76
+Actual: ['soyadı', 'medenî', 'ad', 'kadın', 'aile', 'kişilik', 'hak', 'ortak', 'evlilik', 'kânun', 'kanun']
+Extracted: ['soyadı']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 77
+Actual: ['istismar', 'türk', 'cinsel', 'olmak', 'kişi', 'ceza', 'taciz', 'saldırı', 'çocuk', 've', 'kânun', 'dokunmak', 'reşit', 'karşı', 'ilişki', 'suç']
+Extracted: ['cinsel']
+TP: 1 TN: 0 FP: 15 FN: 0 
+Accuracy: %6.25
+-----------------
+Article Index: 78
+Actual: ['iç', 'kadın', 'aile', 'şiddet', 'hareket', 'feminizm']
+Extracted: ['kadın']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 79
+Actual: ['medenî', 'kadın', 'bmkkhtaös', 'boşanma', 'yargılamak', 'cedaw']
+Extracted: ['kadın']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 80
+Actual: ['feragat', 'anlaşma', 'temyiz', 'silâh', 'boşanma', 'anlaşmak', 'dava', 'eşit']
+Extracted: ['anlaşma']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 81
+Actual: ['iş', 'eşit', 'kadın', 'düzenlemek', 'erkek', 'yaşam', 've', 'kânun', 'sözleşme', 'uluslararası', 'çalışmak', 'yasal']
+Extracted: ['kadın']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 82
+Actual: ['evlenmek', 'cinsel', 'yasak', 'çocuk', 'ensest', 'altsoy', 'ilişki']
+Extracted: ['cinsel']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 83
+Actual: ['adli', 'kadın', 'şiddet', 'tıp', 'i̇stanbul', 'sözleşme']
+Extracted: ['kadın', 'şiddet']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 84
+Actual: ['özel', 'aykırı', 'gizli', 'kaymak', 'görüntü', 'ses', 've', 'delil', 'hukuk', 'hayat', 'ispat']
+Extracted: ['caiz', 'sadakat']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 85
+Actual: ['iç', 'kadın', 'aile', 'şiddet', 'yönelik']
+Extracted: ['kadın', 'şiddet']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 86
+Actual: ['6216', 'mahkemesi', 'hak', 'anayasa', 'şikayet', 'yargı', 've', 'kuruluş', 'yargılamak', 'sayılı', 'kanun', 'usul']
+Extracted: ['anayasa']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 87
+Actual: ['etkin', 'özgür', 'ayrım', 'nin', 'seçenek', 'yerine', 'hukuk', 'sürmek', 'neden', 'yolunmak', 'değer', 'kişi', 'süre', 'tutuklamak', 'ile', 'tutuklu', 'türk', 'uzun', 'istem', 'yer', 'makul', 'geçen', 'aihs', 'itiraz', 'sözleşme', 'yargılamak', 'gerekçe', 'tazminat']
+Extracted: ['aihs', 'sözleşme']
+TP: 2 TN: 0 FP: 26 FN: 0 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 88
+Actual: ['devir', 'türk', 'kira', 'borç', 'sözleşme', 'kânun', 'ilişki', 'yeni']
+Extracted: ['devir', 'kira']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 89
+Actual: ['talep', 'doğa', 'zarar', 'süre', 'hak', 'zamanaşımı', 'fiil', 'sorumluluk', 'rücu', 'müteselsil']
+Extracted: ['rücu']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 90
+Actual: ['medenî', 'yasa', 'dava', 'topluluk', 'hukukî', 'hukuk', 'i̇sviçre', 'yargılamak', 'himaye', 'usul']
+Extracted: ['ihlâl', 'menfaat', 'yahut']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 91
+Actual: ['kusur', 'yargıtay', 'hizmet', 'idarî', 'yargı', 'danıştay']
+Extracted: ['uyuşmak']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 92
+Actual: ['doğa', 'gidermek', 'zarar', 'görmek', 'hak', 'ceza', 'mağduriyet', 'mağdur', 'hukuk', 'yardım', 'kanun', 'suç', 'tasarı']
+Extracted: ['mağduriyet', 'suç']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 93
+Actual: ['bağımsız', 'bakanlık', 'hak', 'adil', 'anayasa', 'yargı', 'erk', 've', 'kurulu', 'savcı', 'hukuk', 'adalet', 'ayrılık', 'devlet', 'yüksek', 'hâkim']
+Extracted: ['bağımsız']
+TP: 1 TN: 0 FP: 15 FN: 0 
+Accuracy: %6.25
+-----------------
+Article Index: 94
+Actual: ['dil', 'anayasa', 'etimoloji']
+Extracted: ['kelime']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 95
+Actual: ['ya', 'kariyer', 'eğitim', 'da', 'kor', 'gizli', 'ceza', 'kriminal', 'düşünce', 'çocuk', 'episode', 'hukuk', 'yok', 'mi', 'suç']
+Extracted: ['çocuk']
+TP: 1 TN: 0 FP: 14 FN: 0 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 96
+Actual: ['ticaret', 'irade', 'sözleşme', 'beyan', 'elektronik']
+Extracted: ['beyan', 'elektronik']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 97
+Actual: ['alternatif', 'hukukî', 'çözüm', 'uyuşmak', 'kamusay', 'denetim', 'yerinde', 'ombudsman']
+Extracted: ['ombudsman']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 98
+Actual: ['etmek', 'tevkil', 'sözleşme', 'vekâlet', 'alt', 'vekil']
+Extracted: ['vekil']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 99
+Actual: ['catch', 'sistem', 'tipoloji', 'parti', 'kucaklamak', 'all', 'herkes', 'siyasî', 'kirchheimer']
+Extracted: ['kirchheimer', 'parti']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 100
+Actual: ['karşılık', 'antlaşma', 'lozan', 'ilke', 'azınlık', 'cemaat', 'taşınmaz', 'hak', 'vakıf', 'edinmek', 'mülkiyet', 'mal']
+Extracted: ['azınlık', 'vakıf']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 101
+Actual: ['sözleşme', 'engel', 'hak', 'ayrım']
+Extracted: ['ayrım']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 102
+Actual: ['istinaf', 'idarî', 'yargı', 'yargılamak', 'kanun', 'usul', 'yol']
+Extracted: ['derece', 'istinaf', 'sistem']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 103
+Actual: ['anlaşma', 'hüküm', 'itiraz', 'genel', 'kaldırmak', 'haciz', 'takip', 'tahkim', 'inkâr', 'iptal', 'tazminat', 'icra', 'yol']
+Extracted: ['anlaşma', 'tahkim', 'takip']
+TP: 3 TN: 0 FP: 10 FN: 0 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 104
+Actual: ['humanitas', 'peregrini', 'sürgün', 'köle', 'maiestas', 'ceza', 'yabancılamak', 'ölüm']
+Extracted: ['roma']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 105
+Actual: ['özgür', 'ses', 'almak', 'yargı', 'haberleşmek', 'alet', 'muhakeme', 'görüntü', 'evre', 'duruşma', 'kapmak', 'kovuşturmak', 'açık', 'kullanmak', 'hak', 'aleniyet', 'adil', 'yasak', 'ceza', 've']
+Extracted: ['haberleşmek', 'özgür']
+TP: 2 TN: 0 FP: 18 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 106
+Actual: ['idarî', 'göstermek', 'süre', 'anayasa', 'işlem', 'kural', 'başvuru', 'açmak', 'dava', 'uygulamak', 'yol', 'doğrudan']
+Extracted: ['kural', 'nitelik']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 107
+Actual: ['ölçek', 'geçmek', 've', 'ödemek', 'sözleşme', 'işlemek', 'tedarik', 'orta', 'küçük']
+Extracted: ['tedarik', 'ödemek']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 108
+Actual: ['medenî', 'muhakeme', 'kural', 'kânun', 'hukuk', 'yeni', 'usul']
+Extracted: ['kânun']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 109
+Actual: ['mahkeme', 'değişik', 'yetkili', 'yetki', 'sözleşme', 'ilişkin', 'usul']
+Extracted: ['yetki']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 110
+Actual: ['avrupa', 'birlik', 'divan', 'mahkemesi', 'hak', 'sözleşme', 'adalet', 'temel', 'insan']
+Extracted: ['avrupa']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 111
+Actual: ['romantizm', 'siyasal', 'iktidar', 'hak', 'ulufe', 'hukuk', 'adalet', 'devlet', 'eşit', 'halk', 'yurttaş']
+Extracted: ['perdelemek', 'romantik']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['tespit', 'hizmet', 'güvenlik', 'sosyal', 'dava']
+Extracted: ['sosyal']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 113
+Actual: ['medenî', 'türk', 'eş', 'aile', 'sağ', 'kânun', 'konut', 'kalan']
+Extracted: ['aile', 'konut']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 114
+Actual: ['kefalet', 'borç', 'sözleşme', 'sorumluluk', 'azami', 'kefil', 'asıl']
+Extracted: ['kefil']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 115
+Actual: ['mahkeme', 'değişik', '2010', 'yapı', 'mahkemesi', 'anayasa', 'seçim', 'üye']
+Extracted: ['anayasa']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 116
+Actual: ['mode', 'düzenlemek', 'karşılaştırmak', 'hukukî', 'finansman', 'ipotek', 'amerika', 'tüketmek', 'konut', 'avrupa']
+Extracted: ['sistem', 'yapı']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 117
+Actual: ['ceza', 'soruşturmak', 'delil', 'telefon', 'örgüt', 'kovuşturmak', 'tutuklu']
+Extracted: ['gerekmek', 'tedbir', 'uygulamak']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 118
+Actual: ['kaza', 'trafik', 'sorumluluk', 'işlemek', 'azalmak', 'tazminat']
+Extracted: ['azalmak', 'sorumluluk']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 119
+Actual: ['terörizm', 'eğitim', 'eleman', 'teşvik', 'konsey', 'mağdur', 'avrupa', 'alenî', 'tem']
+Extracted: ['terörizm']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 120
+Actual: ['tüp', 'redd', 'soybağı', 'yapay', 'bebek', 'döl', 'soybağının']
+Extracted: ['koca']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['tespit', 'meşru', 'iletişim', 'hürriyet', 'mağdur', 'kaydetmek', 'savunmak', 'haberleşmek']
+Extracted: ['iletişim']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 122
+Actual: ['sistem', 'yasa', 'bilişim', 'zarar', 'veri', 'etmek', 'engellemek', 'sözleşme', 'yok', 'suç']
+Extracted: ['bilişim']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 123
+Actual: ['gaip', 'kor', 'kaçak', 'güvence', 'tutuklamak', 'belge', 'tedbir']
+Extracted: ['gaip', 'kaçak']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 124
+Actual: ['menfaat', 'şantaj', 'yağma', 'ile', 'tehdit', 'şart', 'sağlamak']
+Extracted: ['suç', 'tehdit']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 125
+Actual: ['adli', 'aramak', 'ara', 'kor', 'önlem', 'avukat', 'tedbir', 'büro']
+Extracted: ['kor', 'tedbir', 'yan']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 126
+Actual: ['irdelemek', 'yaklaşım', 'bilimsel', 'hukuk', 'eleştiri', 'düşünce', 'analitik']
+Extracted: ['analitik', 'varmak']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 127
+Actual: ['idarî', 'yargı', 'tam', 'dava', 'ıslah', 'tazminat']
+Extracted: ['miktar']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['iyi', 'birlik', 'kıta', 'hizmet', 'kamu', 'tıp', 'uyarı', 'kolluk', 'yargı', 'atamak', 'savcı', 'hukuk', 'kriminoloji', 'dürüst', 'muhakeme', 'mahkeme', 'için', 'ile', 'delil', 'amerika', 'miranda', 'savunmak', 'avrupa', 'dünya', 'law', 'common', 'krimalistik', 'iddia', 'türkiye', 'araştırmak', 'adli', 'hak', 'en', 'birleşik', 'baro', 'iki', 'devlet', 'yoksul', 'tbb', 'aba', 'yüksek', 'angloamerican', 'anayasal', 'değişik', 'abd', 'müdafi', 'silâh', 'adil', 'ceza', 'amerikan', 'yaklaşım', 'scottsboro', 'jüri', 'dava', 'eşit', 'hâkim', 'melez']
+Extracted: ['savunmak']
+TP: 1 TN: 0 FP: 56 FN: 0 
+Accuracy: %1.7543859649122806
+-----------------
+Article Index: 129
+Actual: ['bildirge', 'bağımsız', 'sorun', 'divan', 'kıbrıs', 'hak', 'nin', 'tayin', 'konsey', 'güvenlik', 'ile', 'ilgili', 'karar', 'adalet', 'kader', 'uluslararası', 'kendi', 'kosova']
+Extracted: ['karar', 'kosova']
+TP: 2 TN: 0 FP: 16 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 130
+Actual: ['bosque', 'cas', 'delmek', 'süre', 'aş', 'hak', 'beşiktaş', 'sözleşme', 'şart', 'fesih', 'cezai', 'tazminat']
+Extracted: ['uyuşmak']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 131
+Actual: ['bilirkişi', 'öğretim', 'mahkeme', 'sorun', 'zorlamak', 'hukukî', 'yasak', 'görev', 'üye', 'hukuk', 'fakülte', 'kabul', 'başvurmak']
+Extracted: ['bilirkişi', 'görev', 'zorlamak', 'öğretim']
+TP: 4 TN: 0 FP: 9 FN: 0 
+Accuracy: %30.76923076923077
+-----------------
+Article Index: 132
+Actual: ['kavram', 'cumhurbaşkanı', 'sorum', 'ihanet', 'vatan']
+Extracted: ['sorum']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 133
+Actual: ['referandum', 'sendika', 'yetkili', 'hak', 'yasak', 'grev', 'sayılı', 'kanun', '5982']
+Extracted: ['grev', 'sendika']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 134
+Actual: ['sağlık', 'kişilik', 'uygulamak', 'hak', 'doktor', 'güven', 'sorumluluk', 'tıbsal', 'ilişki', 'hast', 'kötü', 'sigorta']
+Extracted: ['sağlık']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 135
+Actual: ['joint', 'lider', 'adi', 'ortaklık', 'sorumluluk', 'konsorsiyum', 'müteselsil', 'venture']
+Extracted: ['yatırım']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 136
+Actual: ['sınır', 'ilke', 've', 'irade', 'hukuk', 'egemen', 'devlet', 'ulusal']
+Extracted: ['egemen']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 137
+Actual: ['sapık', 'cinsel', 'cezaevi', 'hadim', 'kimyasal', 'rıza', 'suç', 'rejim']
+Extracted: ['hadim', 'kimyasal']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 138
+Actual: ['personel', 'kamu', 'görev', 'kit', 'memur']
+Extracted: ['tck']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 139
+Actual: ['türk', 'ceza', 'yargı', 'yetki', 'hukuk', 'uluslararası']
+Extracted: ['devlet']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 140
+Actual: ['mezar', 'türk', 'vermek', 'zarar', 'ceza', 've', 'kânun', 'ibadethane', 'mal']
+Extracted: ['mezar', 'suç']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 141
+Actual: ['dağıtım', 'ilke', 'emsal', 'kişi', 'transfer', 'örtü', 'kazanç', 'uygun', 'ilişki', 'fiyat']
+Extracted: ['fiyat', 'kurum', 'transfer', 'vergi']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 142
+Actual: ['sınır', 'parti', 'devlet', 'anayasa', 'finansman', 've', 'harcamak', 'seçim', 'siyasî', 'malî', 'denetim', 'yardım', 'yeni']
+Extracted: ['anayasa', 'hazırlamak']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 143
+Actual: ['özgür', 'iktidar', 'basın', 'ifade', 'karikatür', 'hukuk', 'siyasî', 'düşünce', 'mizah']
+Extracted: ['aracı', 'iktidar', 'özgür']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 144
+Actual: ['yasa', '1982', 'anayasa', 'cumhurbaşkanı', 'sorum', 'seçim', 'dokunmak']
+Extracted: ['cumhurbaşkanı', 'yasa']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 145
+Actual: ['yle', 'etkin', 'kamu', 'ilişki', 'tbmm', 'denet']
+Extracted: ['denet']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 146
+Actual: ['sistem', 'yasa', 'organ', 'meclis', 'yapım', 'çift', 'temsil']
+Extracted: ['meclis', 'yasa']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 147
+Actual: ['izlemek', 'metodları', 'gizli', 'iletişim', 'denet', 'soruşturmak', 'organize', 'suç', 'özel']
+Extracted: ['delil', 'organize', 'soruşturmak', 'suç']
+TP: 3 TN: 0 FP: 6 FN: 1 
+Accuracy: %30.0
+-----------------
+Article Index: 148
+Actual: ['tasfiye', 'temerrüd', 'zamanaşımı', 'borç', 'iade', 'dönme', 'sözleşme']
+Extracted: ['sözleşme', 'talep']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 149
+Actual: ['al', 'mülakat', 'bağımsız', 'süreç', 'yargı', 've', 'savcı', 'şeffaf', 'sınav', 'hâkim']
+Extracted: ['danıştay', 'mülakat', 'sınav']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 150
+Actual: ['avusturya', 'eğitim', 'staj', 'de', 've', 'seçenek', 'hukuk', 'i̇sviçre', 'fakülte', 'meslekî', 'da']
+Extracted: ['eğitim', 'hukuk', 'sistem']
+TP: 2 TN: 0 FP: 9 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 151
+Actual: ['cinsel', 'davranmak', 'çocuk', 'saldırı', 'istismar']
+Extracted: ['suç']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 152
+Actual: ['adli', 'mahkeme', 'hak', 'yetkili', 'gider', 'koşul', 'vekâlet', 'yargılamak', 'yardım', 'ücret', 'yoksul']
+Extracted: ['yardım']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 153
+Actual: ['hapis', 'korumak', 'alacak', 'haciz', 'borç', 'ceza', 'ile', 'ihtiyatî', 'munzam', 'rehin', 'rehn', 'yüküm', 'işlemek', 'sigorta', 'tazminat']
+Extracted: ['rehn']
+TP: 1 TN: 0 FP: 14 FN: 0 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 154
+Actual: ['sermaye', 'başvuru', 'yazılı', 'suç', 'piyasa']
+Extracted: ['şart']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 155
+Actual: ['plan', 'sonuç', 'idare', 'hukukî', 'yargı', 'karar', 'planlamak', 'yetki', 'iptal', 'imar', 'denetim', 'dava']
+Extracted: ['imar']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 156
+Actual: ['yasa', 'tbmm', 'meclis', 'organ', 'siyaset', 'demokrasi', 'reform']
+Extracted: ['reform', 'yasa']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 157
+Actual: ['alternatif', 'yol', 'birlik', 'arabulmak', 'yargı', 'çözüm', 'avukat', 'kânun', 'yargılamak', 'avrupa', 'reform', 'strateji']
+Extracted: ['avukat', 'baro', 'strateji', 'çağdaş']
+TP: 2 TN: 0 FP: 10 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 158
+Actual: ['kaza', 'hastalık', 'öldürmek', 'hüküm', 'kurum', 'mahpus', 'ceza', 'zehirlemek', 'infaz', 'insan', 'tutuklu', 'intihar']
+Extracted: ['infaz']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 159
+Actual: ['etkin', 'hak', 'yaşam', 've', 'soruşturmak', 'yüküm', 'olumsuz', 'olumlu', 'devlet']
+Extracted: ['hâdise', 'insanoğlu', 'kanıtlamak', 'negatif', 'sözleşmek', 'tecrübe', 'özet']
+TP: 0 TN: 0 FP: 9 FN: 7 
+Accuracy: %0.0
+-----------------
+Article Index: 160
+Actual: ['stres', 'fuhuş', 'bozuk', 'posttravmatik', 'sömürü', 'sosyal', 'fahişe', 'insan']
+Extracted: ['fuhuş']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 161
+Actual: ['pasif', 'direnmek', 'mohandas', 'gandhi', 'itaat', 'sivil']
+Extracted: ['gandhi', 'itaat', 'sivil', 'şiddet']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 162
+Actual: ['cinsel', 'zorlamak', 'şiddet', 'geçmek', 'hamile', 'uluslararası', 'suç', 'ırz']
+Extracted: ['eylem', 'kadın', 'şiddet']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 163
+Actual: ['kusur', 'endikasyonu', 'ilâç', 'üretim', 'ecza', 'hekim', 'hukuk', 'sorumluluk', 've', 'hast', 'tazminat']
+Extracted: ['ilâç', 'sorumluluk']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 164
+Actual: ['iş', 'toplu', 'görüşme', 'sözleşme', 'hukuk', 'grup']
+Extracted: ['işyeri', 'toplu']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 165
+Actual: ['vergi', 'teori', 'idarî', 'idare', 'işlem', 'yargı', 'uyuşmak', 'hukuk', 'denetim', 'devlet', 'ayırmak']
+Extracted: ['işlem', 'teori']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 166
+Actual: ['alternatif', 'ilâm', 'arabulmak', 'uzlaşmak', 'çözüm', 'uyuşmak', 'avukat']
+Extracted: ['tutanak', 'uzlaşmak']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 167
+Actual: ['takdir', 'insan', 'ayrım', 'mahkemesi', 'hak', 'yaşam', 'soyisim', 'isim', 've', 'yetki', 'yüküm', 'avrupa', 'pozitif', 'özel']
+Extracted: ['isim', 'soyisim']
+TP: 2 TN: 0 FP: 12 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 168
+Actual: ['sınır', 'ara', 'sebep', 'gizli', 'bilgisayar', 'abd', 'elkoymak', 'ek', 'rutin', 'hak', 'hukuk', 'makul', 'aramak', 'şüphe', 'madde']
+Extracted: ['aramak']
+TP: 1 TN: 0 FP: 14 FN: 0 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 169
+Actual: ['holokost', 'modernite', 'almanya', 'nazi', 'film']
+Extracted: ['holokost', 'yıkı']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 170
+Actual: ['ergen', 'davranmak', 'anti', 'sosyal', 'psikoloji']
+Extracted: ['davranmak', 'ergen', 'psikoloji', 'sosyal']
+TP: 4 TN: 0 FP: 1 FN: 0 
+Accuracy: %80.0
+-----------------
+Article Index: 171
+Actual: ['espoo', 'ab', 'türk', 'protokol', 'değer', 'çevre', 'at', 'yönerge', 'hukuk', 'stratejik']
+Extracted: ['çevre']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 172
+Actual: ['özgür', 'hakaret', 'basın', 'kânun', 'suç']
+Extracted: ['basın', 'hakaret']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 173
+Actual: ['bilgi', 'idarî', 'hak', 'edinmek', 'kânun', 'demokrasi', 'hukuk', 'devlet', 'usul']
+Extracted: ['birey', 'idare', 'katılım']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 174
+Actual: ['hak', 'adil', 'ceza', 'yargı', 'susmak', 'hukuk', 'savunmak', 'insan']
+Extracted: ['hak', 'susmak']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 175
+Actual: ['sınır', 'aihs', 'korumak', 'ai̇hm', 'hak', 'mülkiyet']
+Extracted: ['hak', 'mülkiyet']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 176
+Actual: ['roma', 'baros', 'eski', 'i̇zmir', 'behlül', 'bey', 'tarih', 'yunan', 'hukuk', 'bekir']
+Extracted: ['']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 177
+Actual: ['fakülte', 'avukat', 'hukuk', 'öğretim']
+Extracted: ['fakülte', 'öğrenci', 'öğretim']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 178
+Actual: ['adli', 'davranmak', 'adil', 'hak', 'yargı', 'etik', 'makul', 'kontrol', 'tutuklu']
+Extracted: ['facto', 'pencere']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 179
+Actual: ['hüküm', 'ilke', 'genel', 'idare', 'düzenlemek', 'işlem', 'ceza', 've', 'şahsi', 'hukuk', 'sorumluluk', 'devlet', 'suç', 'kanunî', 'belirli']
+Extracted: ['ceza', 'yasa']
+TP: 1 TN: 0 FP: 14 FN: 1 
+Accuracy: %6.25
+-----------------
+Article Index: 180
+Actual: ['menfaat', 'hak', 'açılım', 'ekonomik', 'boyut', 'hukuk', 'sosyoloji']
+Extracted: ['menfaat']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 181
+Actual: ['irdelemek', 'yaklaşım', 'bilimsel', 'hukuk', 'eleştiri', 'düşünce', 'analitik']
+Extracted: ['bilim', 'bilimsel', 'hukuk']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 182
+Actual: ['cezai', 'güvenlik', 'çocuk', 'yaş', 'sorumluluk', 'yetenek', 'tedbir', 'isnat', 'küçük']
+Extracted: ['cezai', 'isnat', 'yetenek']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 183
+Actual: ['para', 'incelemek', 'bilgi', 'idarî', 'ceza', 'istem', 'kurulu', 'yerinde', 'rekabet', 'geçici', 'tedbir']
+Extracted: ['rekabet']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 184
+Actual: ['new', 'hakem', 'york', 'düzen', 'bağımsız', 'tanımak', 'kamu', 'karar', 'yabancı', 'iptal', 've', 'sözleşme', 'taraf', 'tenfiz', 'hâkim']
+Extracted: ['hakem', 'tenfiz']
+TP: 2 TN: 0 FP: 13 FN: 0 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 185
+Actual: ['ruanda', 'soykırım', 'mahiyet', 'birleşmek', 'ad', 'mahkeme', 'hoc', 'unsur', 'adalet', 'suç', 'türk', 'mahkemesi', 'kânun', '5237', 'sayılı', 'bosna', 'yugoslavya', 'millet', 'divan', 'eski', 'ceza', 'sözleşme', 'uluslararası']
+Extracted: ['suç', 'uluslararası']
+TP: 2 TN: 0 FP: 21 FN: 0 
+Accuracy: %8.695652173913043
+-----------------
+Article Index: 186
+Actual: ['sistem', 'muhakeme', 'müdafi', 'sanık', 'adil', 'ceza', 'yargı', 'hak', 'politika', 'adalet', 'baro', 'usul']
+Extracted: ['müdafi']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 187
+Actual: ['hizmet', 'gerek', 'ceza', 'hukuk', 'sırf', 'kânun', 'suç', 'asker']
+Extracted: ['asker']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 188
+Actual: ['gizli', 'tck', 'hayat', 'karşı', '132', 'haberleşmek', 'suç', 'özel']
+Extracted: ['gizli', 'suç', 'tck']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 189
+Actual: ['adam', 'türk', 'öldürmek', '83', 'garantör', 'ceza', 'hekim', 'kânun', 'taksir', 'ihmal', 'kast']
+Extracted: ['ihmal', 'kasten']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 190
+Actual: ['uyum', 'yolsuz', 'yargı', 'karar', 'kural', 'etik', 'ihale', 'özel']
+Extracted: ['yolsuz', 'özel']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 191
+Actual: ['çoğulcu', 'eğitim', 'hak', 'yüküm', 'tercih', 'devlet', 'pozitif', 'ebeveyn']
+Extracted: ['hak']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 192
+Actual: ['lisans', 'hizmet', 'idarî', 'düzenlemek', 'kamu', 'kurum', 'kazanmak', 'hak', 'yetki', 've', 'ruhsat', 'yöntem', 'denetlemek', 'izin']
+Extracted: ['lisans']
+TP: 1 TN: 0 FP: 13 FN: 0 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 193
+Actual: ['teselsül', 'karine', 'iş', 'alacak', 'borç', 'ticarî', 'müteselsil']
+Extracted: ['teselsül']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 194
+Actual: ['özel', 'şirket', 'işbirliği', 'hizmet', 'belediye', 'bertaraf', 'kamu', 'sözleşme', 'imtiyaz', 'hukuk', 'kânun', 'devlet', 'ihale', 'katı', 'atık']
+Extracted: ['atık', 'belediye']
+TP: 2 TN: 0 FP: 13 FN: 0 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 195
+Actual: ['takip', 'i̇ik', 'nafaka', 'borç', 'hukuk', '344']
+Extracted: ['nafaka', 'ödemek']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Total accuracy of document "Hukuk" is: %14.144303003482717

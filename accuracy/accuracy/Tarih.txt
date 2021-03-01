@@ -1,0 +1,1207 @@
+Article Index: 1
+Actual: ['osmanlı', 'kaynak', 'yaz', 'seyahatname', 'şehir', 'tarih']
+Extracted: ['seyahatname']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 2
+Actual: ['ziraat', 'gayrimüslim', 'mektep', 'nazır', 'ermeni', 'abstract', 'ağaton', 'osmanlıcılık', 'bürokrasi', 'efendi']
+Extracted: ['ağaton', 'bürokrasi', 'gayrimüslim']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 3
+Actual: ['maleus', 'criminalis', 'av', 'cautio', 'maleficarum', 'işkence', 'cadı']
+Extracted: ['cadı', 'kadın']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 4
+Actual: ['ii', 'türkiye', 'tahir', 'meşrutiyet', 'mahmud', 'gazete', 'basın', 'şirvanizade', 'demokrasi', 'muhalefet']
+Extracted: ['gazete']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 5
+Actual: ['türk', 'çin', 'türkistan', 'türkçe', 'bizans']
+Extracted: ['dil', 'türk']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 6
+Actual: ['ii', 'terakki', 'eğitim', 'meşrutiyet', 'osmanlı', 'nazır', 've', 'modern', 'maarif', 'ittihat']
+Extracted: ['maarif', 'nazır']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 7
+Actual: ['françois', 'iii', 'mühendis', 'kauffer', 'osmanlı', 'inşaat', 'tabya', 'kale', 'gabriel', 've', 'selim', 'dönem', 'monnier', 'devlet', 'joseph', 'fransız']
+Extracted: ['inşaat', 'kale']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 8
+Actual: ['türk', 'terakki', 'salih', 'jön', 've', 'seçim', 'ittihat', 'gürci', 'mebusan']
+Extracted: ['aday', 'ittihat', 'mebus', 'seçim']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 9
+Actual: ['osmanlı', 'kaynak', 'yaz', 'seyahatname', 'şehir', 'tarih']
+Extracted: ['seyahatname']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 10
+Actual: ['balkan', 'göç', 'osmanlı', 'tâbiiyet', 'savaş', 'muhacir', 'devlet']
+Extracted: ['tâbiiyet']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 11
+Actual: ['stefano', 'şövalye', 'osmanlı', 'malta', 'paşa', 'donanmak', 'akdeniz', 'manfredonya', 'santo', 'halil', 'toskana']
+Extracted: ['akdeniz', 'halil', 'korsan', 'mücadele', 'önlemek']
+TP: 2 TN: 0 FP: 9 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 12
+Actual: ['çin', 'ii', 'osmanlı', 'pekin', 'abdülhamid', 'üniversitesi', 'hamidiyye', 'devlet', 'dar']
+Extracted: ['hamidiyye', 'çin']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 13
+Actual: ['ticaret', 'endüstri', 'köle', 'tarım', 'i̇slam']
+Extracted: ['köle']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 14
+Actual: ['bergama', 'osmanlı', 'eğitim', 'ahval', 'hal', 'defter', 'devlet', 'memur']
+Extracted: ['doğum', 'memur']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 15
+Actual: ['i̇zmir', 'tarih', 'iktisat', 'finans', 'bağcılar', 'mil', 'manisa', 'banka']
+Extracted: ['banka']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 16
+Actual: ['orgeneral', 'britanya', 'allenby', 'kuvvet', 'sefer', 'ordu', 'gönül', 'cephe', 'edmund', 'anavatan', 'mısır']
+Extracted: ['asker', 'cephe']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 17
+Actual: ['sasani', 'anadolu', 'ortaçağ', 'coğrafya', 'tarih', 'bizans', 'erken', 'güneydoğu']
+Extracted: ['mücadele']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 18
+Actual: ['emir', 'bey', 'atabeg', 'selçuklu', 'servet']
+Extracted: ['selçuklu']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 19
+Actual: ['türk', 'ergenekon', 'bozkır', 'kutsal', 'taş', 'kaya', 'evlilik', 'kültür', 'saymak', 'resim']
+Extracted: ['kaya', 'resim', 'ritüel']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 20
+Actual: ['roma', 'türk', 'hun', 'doğu', 'gepidler', 'attila', 'devlet', 'avrupa', 'ogur']
+Extracted: ['attila', 'dengizik', 'hun']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 21
+Actual: ['tarih', 'herodotos', 'mısır', 'yazı']
+Extracted: ['herodotos', 'mısır', 'yunan']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 22
+Actual: ['türk', 'ii', 'eğitim', 'meşrutiyet', 'osmanlı', 'tarih', 'sultanî']
+Extracted: ['idadî', 'ortaöğretim', 'sultanî']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 23
+Actual: ['devir', 'takvim', 'mezopotamya', 'isim', 'asur', 'yıl', 'yeni', 'ay']
+Extracted: ['asur', 'ay']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 24
+Actual: ['osmanlı', 'eğitim', 'saruhan', 'manisa', 'medrese']
+Extracted: ['manisa', 'medrese', 'nüfus']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 25
+Actual: ['tatar', 'moğol', 'i̇ngiltere', 'paris', 'macaristan', 'matthew']
+Extracted: ['moğol']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 26
+Actual: ['anadolu', 'urartu', 'coğrafya', 'doğu', 'tarih', 'asur', 'kral', 'çağ', 'demir', 'imparator']
+Extracted: ['kral', 'urartu', 'van']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 27
+Actual: ['birlik', 'hafif', 'hint', 'savaş', 'singapur', 'piyade', 'dünya', 'asker']
+Extracted: ['hint', 'isyan', 'ngiliz']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 28
+Actual: ['cezire', 'meyyâfârikîn', 'silvan', 'coğrafya', 'diyarbekir']
+Extracted: ['meyyâfârikîn']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 29
+Actual: ['i̇bn', 'salur', 'yazıcızade', 'bibi', 'avşar', 'bayındır', 'oğuz', 'karamanoğulları']
+Extracted: ['karamanoğulları']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 30
+Actual: ['saltanat', 'ertuğrul', 'osmanlı', 'osman', 'rüya', 'bey', 'edebali', 'şeyh']
+Extracted: ['motif', 'rüya']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 31
+Actual: ['osmanlı', 'ganimet', 'ordu', 'evliya', 'çelebi', 'gaza']
+Extracted: ['evliya', 'gaza', 'savaş']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 32
+Actual: ['türk', 'sımak', 'aleksios', 'komnenos', 'bizans', 'avrupa', 'norman']
+Extracted: ['bizans', 'norman']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 33
+Actual: ['moğol', 'cüçi', 'moğolca', 'cengiz', 'onomastik', 'kağan']
+Extracted: ['cengiz', 'cüçi']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 34
+Actual: ['tanin', 'vakit', 'i̇stanbul', 'ankara', 'ba', 'ileri', 'vatan']
+Extracted: ['ankara', 'basın', 'organ']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 35
+Actual: ['yunanistan', 'rusofil', 'cemiyet', 'osmanlı', 'filortodoks', 'imparator']
+Extracted: ['güç', 'komplo', 'yunanistan']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 36
+Actual: ['aryen', 'tung', 'saka', 'turan', 'alper', 'i̇ran']
+Extracted: ['ran', 'turan']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 37
+Actual: ['çanakkale', 'temettuât', 'osmanlı', 'bozcaada', 'defter', 'devlet']
+Extracted: ['bozcaada', 'hane']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 38
+Actual: ['horasan', 'i̇ran', 'sipehsâlâr', 'gazne']
+Extracted: ['gazne', 'görev', 'sultan']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 39
+Actual: ['balıkesir', 'danişmendoğulları', 'sikke', 'i̇smail', 'melik', 'şemseddin', 'bizans', 'müze', 'milliye']
+Extracted: ['sikke']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 40
+Actual: ['kervan', 'aydın', 'i̇zmir', 'menderes', 'kuşadası', 'yol']
+Extracted: ['liman', 'menderes', 'yol']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 41
+Actual: ['istihbarat', 'konsolos', 'anadolu', 'i̇ngiliz', 'i̇zmir', 'batı', 'asker']
+Extracted: ['konsolos', 'rapor']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 42
+Actual: ['helle', 'göç', 'anadolu', 'i̇onia', 'i̇on']
+Extracted: ['kabile', 'on', 'onialıların']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['gyula', 'osmanlı', 'andrássy', 'çar', 'rus', 'devlet', 'imparator']
+Extracted: ['andrássy', 'gyula', 'macar']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 44
+Actual: ['macar', 'karamanlı', 'toros', 'bulgar', 'bizans', 'selçuklu']
+Extracted: ['bulgar']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 45
+Actual: ['bayan', 'avar', 'kağan', 'bizans', 'slav', 'kafkasya']
+Extracted: ['not']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 46
+Actual: ['milletvekili', 'savaş', 'antalya', 'dünya', 'chp', 'ikinci']
+Extracted: ['antalya', 'ihtiyaç']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 47
+Actual: ['samanî', 'horasan', 'gazne', 'i̇ran', 'sipehsâlâr']
+Extracted: ['horasan', 'imek', 'samanî']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 48
+Actual: ['çanakkale', 'osmanlı', 'savaş', 'devlet', 'dünya']
+Extracted: ['boyut', 'savaş', 'tanık']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 49
+Actual: ['din', 'anadolu', 'yapı', 'tepe', 'çanak', 'neolitik', 'çömlek', 'sosyal', 'göbek', 'güneydoğu']
+Extracted: ['neolitik', 'sınıf', 'yapı', 'çağ']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 50
+Actual: ['çanakkale', 'batık', 'türkiye', 'hurd', 'iş', 'bakanlık', 'savaş', 'savunmak', 'mil', 'banka']
+Extracted: ['bakanlık', 'batık', 'çanakkale', 'çıkarmak']
+TP: 3 TN: 0 FP: 7 FN: 1 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 51
+Actual: ['nehir', 'çivi', 'tanrı', 'ceza', 'su', 'atmak', 'hukuk', 'yazılı', 'suç', 'ordali']
+Extracted: ['suç', 'yöntem']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 52
+Actual: ['teçhizat', 'savaş', 'teşkilât', 'ordu', 'asur', 'strateji']
+Extracted: ['asur', 'ordu']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 53
+Actual: ['bizans', 'malazgirt', 'müslüman', 'savaş']
+Extracted: ['alparslan', 'faktör', 'zafer']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 54
+Actual: ['gh', 'demek', 'mikenlerin', 'tıp', 'taşımak', 'i̇asos', 'kadar', 'oda', 'sahil', 'alet', 'batı', 'egzotik', 'milâs', 'kapmak', 'değişmek', 'yeni', 'erken', 'form', 'iiia2', 'takı', 'anadolu', 'körfez', 'prestij', 'daki', 'gösterge', 'pilavtepe', 'altın', 'mühür', 'mezar', 'amber', 'karya', 'mike', 'iiic', 'ağırlık', 'şerit', 'gül', 'varlık']
+Extracted: ['mezar', 'mike', 'pilavtepe']
+TP: 3 TN: 0 FP: 34 FN: 0 
+Accuracy: %8.108108108108109
+-----------------
+Article Index: 55
+Actual: ['osmanlı', 'kudüs', 'karabeynikov', 'kutsal', 'kabir', 'devlet', 'kilise']
+Extracted: ['karabeynikov', 'kilise']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 56
+Actual: ['sultan', 'mezar', 'türk', 'balkan', 'mankalya', 'osmanlı', 'esma', 'camii', 'taşımak', 'kitabe', 'dobruca', 'romanya']
+Extracted: ['hazire', 'mezar']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 57
+Actual: ['bosna', 'boşnak', 'karadağ', 'hersek', 'osmanlı', 'sırbistan', 'devlet', 'imparator']
+Extracted: ['boşnak', 'kargaşa', 'yüzyıl']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 58
+Actual: ['narh', 'yüzyıl', 'sicil', 'osmanlı', 'iye', 'şer', 'gıda', 'tokat', 'devlet', 'kadı', 'madde']
+Extracted: ['fiyat']
+TP: 0 TN: 0 FP: 11 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 59
+Actual: ['mühendis', 'matematik', 'osmanlı', 'bilim', 'mühendishane', 'tâmâni', 'tarih']
+Extracted: ['el', 'matematik', 'mühendis', 'seçim']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 60
+Actual: ['türkiye', 'osmanlı', 'fuat', 'rum', 'nin', 'dündar', 'modern', 'şifre', 'belge', 'göçü']
+Extracted: ['dündar', 'fuat', 'göç', 'kitap']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 61
+Actual: ['arşiv', 'eskişehir', 'komite', 'kıtal', 'ile', 'ermeni', 'ilgili', 'tehcir', 'belge', 'ahmed', 'iki', 'refik']
+Extracted: ['ermeni', 'refik', 'tehcir']
+TP: 3 TN: 0 FP: 9 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 62
+Actual: ['haydar', 'vaner', 'osmanlı', 'anadolu', 'i̇ngiltere', 'doğu', 'aşiret', 'musul', 'devlet', 'güneydoğu']
+Extracted: ['aşiret', 'irak', 'ran', 'van']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 63
+Actual: ['bağdat', 'barzani', 'terakki', 'paşa', 've', 'hareket', 'nazım', 'ittihat', 'eşkıya']
+Extracted: ['bağdat', 'nazım', 'vali']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 64
+Actual: ['trakya', 'osmanlı', 'batı', 'tokadcıklı', 'âyan', 'gümülcine', 'süleyman', 'devlet']
+Extracted: ['devlet', 'idare']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 65
+Actual: ['türk', 'etki', 'lefkoşa', 'mevlevilik', 'mevlevîhane', 'toplum', 'siyasî', 'kültürel', 'kıbrıs']
+Extracted: ['kıbrıs']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 66
+Actual: ['türk', 'etki', 'lefkoşa', 'mevlevilik', 'mevlevîhane', 'toplum', 'siyasî', 'kültürel', 'kıbrıs']
+Extracted: ['kıbrıs']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 67
+Actual: ['demeter', 'terrakotta', 'kilis', 'bothros', 'hydria', 'kandil', 'kaunos', 'thesmophoria']
+Extracted: ['alan', 'atık', 'buluntu', 'dönem', 'geçmek', 'hellenistik', 'teras']
+TP: 0 TN: 0 FP: 8 FN: 7 
+Accuracy: %0.0
+-----------------
+Article Index: 68
+Actual: ['anıt', 'müstahkem', 'hilâl', 'apsidli', 'fibula', 'taşımak', 'çağ', 'kılıç', 'minos', 'şişkin', 'taş', 'kapak', 'duvar', 'yerleşim', 'erken', 'form', 'kısım', 'kademe', 'tonoz', 'tugla', 'alan', 'hydas', 'ağırşak', 'büyük', 'demir', 'mezar', 'karya', 'iiic', 've', 'kar', 'kyklopik', 'ev']
+Extracted: ['bozburun', 'hydas', 'yarımada', 'yerleşim']
+TP: 2 TN: 0 FP: 30 FN: 2 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 69
+Actual: ['koleksiyon', 'türk', 'arşiv', 'osmanlı', 'ülke', 'defter', 'fon', 'belge', 'arap']
+Extracted: ['arap']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 70
+Actual: ['ak', 'burut', 'burutlar', 'kaymak', 'kırk', 'kırgız', 'cüz', 'hakas', 'alatay']
+Extracted: ['etnik', 'kırgız', 'lmi']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 71
+Actual: ['van', 'paleopatoloji', 'çağ', 'kalecik', 'demir']
+Extracted: ['lezyon']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['tunç', 'oylum', 'yapı', 'adak', 'höyük', 'çağ', 'eşya', 'orta']
+Extracted: ['adak', 'heykel', 'yapı']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 73
+Actual: ['yem', 'akıncı', 'abdal', 'bektaşî']
+Extracted: ['yem']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 74
+Actual: ['gedos', 'şap', 'iltizam', 'gediz', 'maden']
+Extracted: ['maden', 'şap']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 75
+Actual: ['van', 'paleopatoloji', 'çağ', 'kalecik', 'demir']
+Extracted: ['lezyon']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 76
+Actual: ['ahmet', 'nâdir', 'paşa', 'mirza', 'sam', 'şah', 'i̇ran', 'kesriyeli']
+Extracted: ['elçi', 'ran']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 77
+Actual: ['tunç', 'afyonkarahisar', 'çağ', 'orta', 'yerleşmek']
+Extracted: ['tunç', 'çağ']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 78
+Actual: ['türk', 'eski', 'uygur', 'ceza', 'türkçe', 'turfan', 'belge', 'hukuk', 'sivil']
+Extracted: ['ceza', 'hukuk', 'uygur']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 79
+Actual: ['sultan', 'lorichs', 'sinan', 'i̇stanbul', 'konstantiniye', 'melchior', 'süleyman', 'mimar']
+Extracted: ['figür', 'kişi', 'mimar', 'panorama', 'ressam']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 80
+Actual: ['ticaret', 'yüzyıl', 'osmanlı', 'cornelis', 'de', 'hollânda', '17', 'akdeniz', 'brujin', 'imparator']
+Extracted: ['hollânda']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 81
+Actual: ['derviş', 'numan', 'osmanlı', 'bey', 'tersane', 'ayan', 'gemlik', 'paşazade']
+Extracted: ['bey', 'numan', 'tersane']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 82
+Actual: ['osmanlı', 'tavaslızâdeler', 'ayan', 'sancak', 'menteşe', 'devlet']
+Extracted: ['aile', 'tavas', 'tavaslızâdeler']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 83
+Actual: ['kalkınmak', 'temettuat', 'plan', 'meclis', 'tekfurdağı', 'defter', 'imar']
+Extracted: ['açı', 'ekonomik', 'veri']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 84
+Actual: ['yüzyıl', 'karadağ', 'osmanlı', '19', 'imparator']
+Extracted: ['antlaşma', 'karadağ']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 85
+Actual: ['mücadele', 'federasyon', 'pontus', 'ermeni', 'mil']
+Extracted: ['trabzon']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 86
+Actual: ['yahudi', 'kudüs', 'i̇slami', 've', 'e', 'siyonizm', 'dönem', 'aliya', 'göçü', 'filistin']
+Extracted: ['yahudi']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 87
+Actual: ['sefer', 'ihtida', 'haçlı', 'mürted', 'ortadoğu']
+Extracted: ['sefer']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 88
+Actual: ['ticaret', 'rusya', 'kervan', 'ülke', 'kuzey', 'i̇ngiltere', 'doğu']
+Extracted: ['doğu', 'ticaret']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 89
+Actual: ['i̇sa', 'in', 'köken', 'evrenos', 'pranko', 'bey', 'prankı', 'lazarat']
+Extracted: ['bey', 'evrenos']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 90
+Actual: ['kocaeli', 'osmanlı', 'seyyah', 'kaçak', 'orman', 'devlet']
+Extracted: ['orman']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 91
+Actual: ['osmanlı', 'mucit', 'mükâfat', 'imtiyaz', 'patent']
+Extracted: ['mucit', 'sanayi']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 92
+Actual: ['1899', 'musattaha', 'ali', 'efendi', 'tavaslızade', 'deprem', 'kız', 'deniz', 'rüşdiyesi']
+Extracted: ['deniz']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 93
+Actual: ['antropometri', 'daktiloskopi', 'kimlik', 'alphonse', 'kriminal', 'bertillon', 'sosyal', 'kontrol']
+Extracted: ['çare']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 94
+Actual: ['tatar', 'rusya', 'açlık', 'kırım', 'sovyet']
+Extracted: ['kırım']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 95
+Actual: ['hurri', 'tigun', 'tahıl', 'hapiru', 'hisse', 'prizma', 'şâhıs', 'isim', 'nu']
+Extracted: ['tablet']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 96
+Actual: ['moğol', 'sufizm', 'ilhan', 'i̇ran', 'i̇slam']
+Extracted: ['ilhan', 'sufi', 'şeyh']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 97
+Actual: ['hisar', 'yy', 'leskovçe', 'osmanlı', 'alaca', 'vakıf', 'defter', 'sancak', 'xvi', 'imparator']
+Extracted: ['vakıf']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 98
+Actual: ['sultan', 'mehmed', 'inşaat', 'yangın', 'iv', 'hesap', 'defter', 'harem', 'turhan', 'saray', 'topkapı']
+Extracted: ['harem', 'proje', 'yenilemek']
+TP: 1 TN: 0 FP: 10 FN: 2 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 99
+Actual: ['iii', 'ordu', 'cedid', 'âyan', 'yeniçeri', 'selim', 'layiha']
+Extracted: ['layiha', 'lâyiha']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 100
+Actual: ['ad', 'değişik', 'köy', 'şehir', 'sokak', 'mahalle']
+Extracted: ['değişik', 'değişmek', 'isim']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 101
+Actual: ['heybeliada', 'türk', 'bahriye', 'mektep', 'eğitim', 'osmanlı', 'batı', 'tarih', 'asker', 'imparator']
+Extracted: ['heybeliada', 'mektep']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 102
+Actual: ['yunanistan', 'musurus', 'kos', 'kriz', 'diplomasi']
+Extracted: ['diplomatik', 'elçi', 'osmanlı', 'talep', 'yunan']
+TP: 0 TN: 0 FP: 5 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 103
+Actual: ['yüzyıl', 'baytar', 'tarih', 'veteriner', 'karantina', 'müfettiş', 'okul']
+Extracted: ['avrupa', 'veteriner']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 104
+Actual: ['türkiye', 'atlas', 'coğrafya', 'tarih', 'görsel']
+Extracted: ['atlas', 'harita']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 105
+Actual: ['çavuştepe', 'karagündüz', 'van', 'kale', 'höyük']
+Extracted: ['kale', 'urartu', 'çavuştepe']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 106
+Actual: ['kappadokia', 'caesarea']
+Extracted: ['anıt', 'blok', 'mezar']
+TP: 0 TN: 0 FP: 2 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 107
+Actual: ['anadolu', 'alan', 'kuman', 'bizans', 'imparator']
+Extracted: ['anadolu', 'bizans', 'yaymak']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 108
+Actual: ['roma', 'smyrna', 'i̇zmir', 'kült', 've', 'neokoros', 'tiberius', 'zeus', 'senato', 'livia', 'imparator']
+Extracted: ['kült', 'roma', 'smyrna']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 109
+Actual: ['fütüvvet', 'konevi', 'mecdüddin', 'gıyaseddin', 'i̇shak', 'arabi', 'keyhüsrev', 'sadreddin', 'i̇bnu']
+Extracted: ['danışman', 'mecdüddin', 'shak']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 110
+Actual: ['beylik', 'osmanlı', 'gaza', 'fetih', 'dönem', 'ilişki', 'devlet', 'kuruluş']
+Extracted: ['beylik', 'cevap']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 111
+Actual: ['sultan', 'yüzyıl', 'emre', 'türbe', 'zaviye', 'afyonkarahisar']
+Extracted: ['emre', 'zaviye']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 112
+Actual: ['diyarbakır', 'mimarî', 'köprü', 'hamam', 'çeşme']
+Extracted: ['su', 'yapı']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 113
+Actual: ['don', 'sir', 'anthony', 'safevi', 'osmanlı', 'juan', 'sherley', 'abbas', 'şah', 'i̇ran']
+Extracted: ['beg', 'heyet']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 114
+Actual: ['türk', 'anadolu', 'toros', 'batı', 'mimarlık', 'kültür', 'orta', 'mekân', 'asya']
+Extracted: ['konut', 'mimarî']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 115
+Actual: ['i̇htisab', 'osmanlı', 'cendere', 'vakıf', 'mevlevîhane', 'ankara', 'damga', 'kirpas', 'devlet', 'mukataa']
+Extracted: ['mevlevi', 'mevlevîhane', 'tekke']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 116
+Actual: ['vergi', 'rüsum', 'i̇htisâb', 'esnaf', 'kıbrıs']
+Extracted: ['htisâb', 'kıbrıs', 'rüsum']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 117
+Actual: ['tekke', 'dergâh', 'mevlevi', 'konya', 'mevlevîhane', 'samsun', 'canik']
+Extracted: ['samsun']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 118
+Actual: ['birinci', 'savaş', 'kimlik', 'diaspora', 'toplum', 'soykırım', 'dünya', 'süryanî']
+Extracted: ['süryani', 'toplum']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 119
+Actual: ['türk', 'i̇stanbul', 'donanmak', 'tahliye', 'devlet', 'boğaz', 'itilâf']
+Extracted: ['ekim', 'stanbul', 'te', 'teslim']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 120
+Actual: ['türk', 'türkiye', 'de', 'kurum', 'tarih', 'restorasyon', 'edirne']
+Extracted: ['anıt', 'edirne', 'görsel', 'kor', 'ulusal']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 121
+Actual: ['araştırmak', 'kastamonu', 'yüzey', 'arkeoloji', 'cide', 'tarih', 'şenpazar']
+Extracted: ['arkeoloji', 'cide', 'sezon', 'üniversitesi']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 122
+Actual: ['i̇bn', 'haldun', 'mukaddime', 'tarih', 'hukuk', 'i̇slam']
+Extracted: ['bn', 'fıkıh', 'haldun']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 123
+Actual: ['hokand', 'araştırmak', 'temsilci', 'yazar', 'işgal', 'eser', 'rus', 'tarih', 'yazı', 'kırgız', 'han', 'tarafından']
+Extracted: ['kırgız']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 124
+Actual: ['yüzyıl', 'bursa', 'müsadere']
+Extracted: ['müsadere']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 125
+Actual: ['kayseri', 'seyahatname', 'evliya', 'mimarlık', 'şehir', 'tarih', 'çelebi']
+Extracted: ['evliya', 'kayseri', 'çelebi']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 126
+Actual: ['bosna', 'ferma', 'adliye', 'mehmed', 'tanzimat', 'vecihi', 'paşa', 'ceza', 'kanunname']
+Extracted: ['memur', 'tanzimat']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 127
+Actual: ['osmanlı', 'i̇stanbul', 'mekân', 'çokkültürlü', 'müzik']
+Extracted: ['müzik']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 128
+Actual: ['osmanlı', 'idare', 'ipekböceği', 'vilâyet', 'hudavendigar', 'umûmiyye']
+Extracted: ['ipekböceği', 'pek', 'sektör']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 129
+Actual: ['osmanlı', 'tarih', 've', 'ermeni', 'adana', 'dedikodu', 'imparator']
+Extracted: ['söylenti']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 130
+Actual: ['mücadele', 'millet', 'dert', 'mil', 'türkoğlu', 'bolu']
+Extracted: ['bolu', 'gazete', 'mil']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 131
+Actual: ['fırın', 'tunç', 'anadolu', 'seramik', 'höyük', 'şaraga', 'çağ', 'orta', 'güneydoğu']
+Extracted: ['fır', 'fırın', 'seramik']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 132
+Actual: ['frit', 'cam', 'anadolu', 'ege', 'fayans', 'mezopotamya', '2', 'mısır', 'bin']
+Extracted: ['cam', 'fayans', 'frit']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 133
+Actual: ['ocak', 'assos', 'birlik', 'tiyatro', 'usta', 'taş', 'deri', 'meslekî', 'demir', 'işçi']
+Extracted: ['kent', 'yazıt']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 134
+Actual: ['türk', 'ad', 'eski', 'yazıt', 'uygur', 'yenisey', 'kağan']
+Extracted: ['sözcük', 'türk', 'yazıt']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 135
+Actual: ['hindistan', 'kalkınmak', 'mahmud', 'sen', 'amartya', 'gazne', 'babür']
+Extracted: ['amartya', 'hindistan']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 136
+Actual: ['avusturya', 'arşiv', 'osmanlı', 'kaynak', 've', 'tarih', 'devlet', 'saray']
+Extracted: ['fon']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 137
+Actual: ['sultan', 'hümayun', 'atiyye', 'nişan', 'paşa', 'tanzimat', 'nikâh', 'gelin', 'alay', 'çeyiz', 'ahmed', 'fetih']
+Extracted: ['sultan']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 138
+Actual: ['emir', 'reform', 'kaçmak', 'kebir', 'hareket', 'hanedan', 'i̇ran']
+Extracted: ['görev', 'mirza', 'ran', 'sadrazam']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 139
+Actual: ['çorum', 'çerkez', 'şrarisi', 'rum', 'çete', 'dede', 'kör', 'asker', 'eşkıya', 'alevi']
+Extracted: ['dede', 'eşkıya', 'kör', 'çorum']
+TP: 4 TN: 0 FP: 6 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 140
+Actual: ['fransa', 'osmanlı', 'arvad', 'savaş', 'casus', 'devlet', 'dünya', 'ada']
+Extracted: ['ada', 'arvad']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 141
+Actual: ['ticaret', 'karadeniz', 'osmanlı', 'tebriz', 'transit', 'kafkasya', 'i̇ran', 'yol']
+Extracted: ['karadeniz', 'ran', 'rusya', 'ticaret', 'yol']
+TP: 3 TN: 0 FP: 5 FN: 2 
+Accuracy: %30.0
+-----------------
+Article Index: 142
+Actual: ['kayseri', 'yapı', 'pazarören', 'köy', 'enstitü', 'dönem', 'cumhuriyet', 'okul', 'erken']
+Extracted: ['derslik', 'ilkokul', 'okul']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 143
+Actual: ['algı', 'ortak', 'tarih', 'sosyal', 'bilinç', 'gelenek']
+Extracted: ['bilinç', 'ortak']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 144
+Actual: ['sapkın', 'hıristiyan', 'kadıköy', 'konsili', 'haçlı', 'yerli', 'ortadoğu']
+Extracted: ['haçlı', 'hıristiyan']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 145
+Actual: ['memlük', 'osmanlı', 'şahsuvar', 'bey', 'tarih', 'isyan', 'dulkadıroğulları']
+Extracted: ['memlük', 'türkmen']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 146
+Actual: ['osmanlı', 'çini', 'mimarî', 'usta', 'külliye', 'yeşil', 'tebriz']
+Extracted: ['tebriz', 'usta', 'çini']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 147
+Actual: ['para', 'emir', 'vali', 'hazine', 'şam', 'mübaşir', 'hac', 'müsadere']
+Extracted: ['süleyman', 'şam']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 148
+Actual: ['yol', 'yüzyıl', 'i̇pek', 'safevi', 'erzurum', 'osmanlı', 'iltizam', 'xvii', 'gümrük', 'mukataa']
+Extracted: ['erzurum', 'gümrük', 'ticaret']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 149
+Actual: ['osmanlı', 'anatomi', 'tıp', 'miratü', 'tarih', 'terim', 'şanizade']
+Extracted: ['terim']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 150
+Actual: ['midhat', 'tuna', 'mektep', 'niş', 'sanayi', 'ıslahhane', 'paşa', 'vilâyet', 'rus', 'köstence', 'sofya']
+Extracted: ['kurum', 'kız', 'çocuk', 'ıslahhane']
+TP: 1 TN: 0 FP: 10 FN: 3 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 151
+Actual: ['mardin', 'cinayet', 'sicil', 'şiddet', 'şer', 'i̇y']
+Extracted: ['cinayet', 'insan']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 152
+Actual: ['misyoner', 'mil', 'rüşdiyye', 'hanedan', 'okul']
+Extracted: ['verda']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 153
+Actual: ['müslim', 'osmanlı', 'diş', 'devlet', 'tarih', 'hekim', 'gayr', 'okul', 'halk']
+Extracted: ['diş']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 154
+Actual: ['bilim', 'batı', 'transfer', 'teknoloji', 'faik', 'sabri', 'modern', 'elektrik', 'edebiyat']
+Extracted: ['elektrik', 'hikâye', 'kitap', 'mösyö']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 155
+Actual: ['ii', 'türkiye', 'tahir', 'meşrutiyet', 'mahmud', 'gazete', 'basın', 'şirvanizade', 'demokrasi', 'muhalefet']
+Extracted: ['gazete']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 156
+Actual: ['türk', 'çin', 'türkistan', 'türkçe', 'bizans']
+Extracted: ['dil', 'türk']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 157
+Actual: ['ii', 'terakki', 'eğitim', 'meşrutiyet', 'osmanlı', 'nazır', 've', 'modern', 'maarif', 'ittihat']
+Extracted: ['maarif', 'nazır']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 158
+Actual: ['françois', 'iii', 'mühendis', 'kauffer', 'osmanlı', 'inşaat', 'tabya', 'kale', 'gabriel', 've', 'selim', 'dönem', 'monnier', 'devlet', 'joseph', 'fransız']
+Extracted: ['inşaat', 'kale']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 159
+Actual: ['türk', 'terakki', 'salih', 'jön', 've', 'seçim', 'ittihat', 'gürci', 'mebusan']
+Extracted: ['aday', 'ittihat', 'mebus', 'seçim']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 160
+Actual: ['osmanlı', 'kaynak', 'yaz', 'seyahatname', 'şehir', 'tarih']
+Extracted: ['seyahatname']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 161
+Actual: ['osmanlı', 'kaynak', 'yaz', 'seyahatname', 'şehir', 'tarih']
+Extracted: ['seyahatname']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 162
+Actual: ['ziraat', 'gayrimüslim', 'mektep', 'nazır', 'ermeni', 'abstract', 'ağaton', 'osmanlıcılık', 'bürokrasi', 'efendi']
+Extracted: ['ağaton', 'bürokrasi', 'gayrimüslim']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 163
+Actual: ['maleus', 'criminalis', 'av', 'cautio', 'maleficarum', 'işkence', 'cadı']
+Extracted: ['cadı', 'kadın']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 164
+Actual: ['ii', 'türkiye', 'tahir', 'meşrutiyet', 'mahmud', 'gazete', 'basın', 'şirvanizade', 'demokrasi', 'muhalefet']
+Extracted: ['gazete']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 165
+Actual: ['türk', 'çin', 'türkistan', 'türkçe', 'bizans']
+Extracted: ['dil', 'türk']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 166
+Actual: ['ii', 'terakki', 'eğitim', 'meşrutiyet', 'osmanlı', 'nazır', 've', 'modern', 'maarif', 'ittihat']
+Extracted: ['maarif', 'nazır']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 167
+Actual: ['françois', 'iii', 'mühendis', 'kauffer', 'osmanlı', 'inşaat', 'tabya', 'kale', 'gabriel', 've', 'selim', 'dönem', 'monnier', 'devlet', 'joseph', 'fransız']
+Extracted: ['inşaat', 'kale']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 168
+Actual: ['türk', 'terakki', 'salih', 'jön', 've', 'seçim', 'ittihat', 'gürci', 'mebusan']
+Extracted: ['aday', 'ittihat', 'mebus', 'seçim']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 169
+Actual: ['osmanlı', 'kaynak', 'yaz', 'seyahatname', 'şehir', 'tarih']
+Extracted: ['seyahatname']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 170
+Actual: ['balkan', 'göç', 'osmanlı', 'tâbiiyet', 'savaş', 'muhacir', 'devlet']
+Extracted: ['tâbiiyet']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 171
+Actual: ['stefano', 'şövalye', 'osmanlı', 'malta', 'paşa', 'donanmak', 'akdeniz', 'manfredonya', 'santo', 'halil', 'toskana']
+Extracted: ['akdeniz', 'halil', 'korsan', 'mücadele', 'önlemek']
+TP: 2 TN: 0 FP: 9 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 172
+Actual: ['çin', 'ii', 'osmanlı', 'pekin', 'abdülhamid', 'üniversitesi', 'hamidiyye', 'devlet', 'dar']
+Extracted: ['hamidiyye', 'çin']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 173
+Actual: ['ticaret', 'endüstri', 'köle', 'tarım', 'i̇slam']
+Extracted: ['köle']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 174
+Actual: ['bergama', 'osmanlı', 'eğitim', 'ahval', 'hal', 'defter', 'devlet', 'memur']
+Extracted: ['doğum', 'memur']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 175
+Actual: ['i̇zmir', 'tarih', 'iktisat', 'finans', 'bağcılar', 'mil', 'manisa', 'banka']
+Extracted: ['banka']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 176
+Actual: ['orgeneral', 'britanya', 'allenby', 'kuvvet', 'sefer', 'ordu', 'gönül', 'cephe', 'edmund', 'anavatan', 'mısır']
+Extracted: ['asker', 'cephe']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 177
+Actual: ['sasani', 'anadolu', 'ortaçağ', 'coğrafya', 'tarih', 'bizans', 'erken', 'güneydoğu']
+Extracted: ['mücadele']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 178
+Actual: ['emir', 'bey', 'atabeg', 'selçuklu', 'servet']
+Extracted: ['selçuklu']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 179
+Actual: ['türk', 'ergenekon', 'bozkır', 'kutsal', 'taş', 'kaya', 'evlilik', 'kültür', 'saymak', 'resim']
+Extracted: ['kaya', 'resim', 'ritüel']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 180
+Actual: ['roma', 'türk', 'hun', 'doğu', 'gepidler', 'attila', 'devlet', 'avrupa', 'ogur']
+Extracted: ['attila', 'dengizik', 'hun']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 181
+Actual: ['tarih', 'herodotos', 'mısır', 'yazı']
+Extracted: ['herodotos', 'mısır', 'yunan']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 182
+Actual: ['türk', 'ii', 'eğitim', 'meşrutiyet', 'osmanlı', 'tarih', 'sultanî']
+Extracted: ['idadî', 'ortaöğretim', 'sultanî']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 183
+Actual: ['devir', 'takvim', 'mezopotamya', 'isim', 'asur', 'yıl', 'yeni', 'ay']
+Extracted: ['asur', 'ay']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 184
+Actual: ['osmanlı', 'eğitim', 'saruhan', 'manisa', 'medrese']
+Extracted: ['manisa', 'medrese', 'nüfus']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 185
+Actual: ['tatar', 'moğol', 'i̇ngiltere', 'paris', 'macaristan', 'matthew']
+Extracted: ['moğol']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 186
+Actual: ['anadolu', 'urartu', 'coğrafya', 'doğu', 'tarih', 'asur', 'kral', 'çağ', 'demir', 'imparator']
+Extracted: ['kral', 'urartu', 'van']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 187
+Actual: ['birlik', 'hafif', 'hint', 'savaş', 'singapur', 'piyade', 'dünya', 'asker']
+Extracted: ['hint', 'isyan', 'ngiliz']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 188
+Actual: ['cezire', 'meyyâfârikîn', 'silvan', 'coğrafya', 'diyarbekir']
+Extracted: ['meyyâfârikîn']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 189
+Actual: ['i̇bn', 'salur', 'yazıcızade', 'bibi', 'avşar', 'bayındır', 'oğuz', 'karamanoğulları']
+Extracted: ['karamanoğulları']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 190
+Actual: ['saltanat', 'ertuğrul', 'osmanlı', 'osman', 'rüya', 'bey', 'edebali', 'şeyh']
+Extracted: ['motif', 'rüya']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 191
+Actual: ['osmanlı', 'ganimet', 'ordu', 'evliya', 'çelebi', 'gaza']
+Extracted: ['evliya', 'gaza', 'savaş']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 192
+Actual: ['türk', 'sımak', 'aleksios', 'komnenos', 'bizans', 'avrupa', 'norman']
+Extracted: ['bizans', 'norman']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 193
+Actual: ['moğol', 'cüçi', 'moğolca', 'cengiz', 'onomastik', 'kağan']
+Extracted: ['cengiz', 'cüçi']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 194
+Actual: ['tanin', 'vakit', 'i̇stanbul', 'ankara', 'ba', 'ileri', 'vatan']
+Extracted: ['ankara', 'basın', 'organ']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 195
+Actual: ['yunanistan', 'rusofil', 'cemiyet', 'osmanlı', 'filortodoks', 'imparator']
+Extracted: ['güç', 'komplo', 'yunanistan']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 196
+Actual: ['aryen', 'tung', 'saka', 'turan', 'alper', 'i̇ran']
+Extracted: ['ran', 'turan']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 197
+Actual: ['çanakkale', 'temettuât', 'osmanlı', 'bozcaada', 'defter', 'devlet']
+Extracted: ['bozcaada', 'hane']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 198
+Actual: ['horasan', 'i̇ran', 'sipehsâlâr', 'gazne']
+Extracted: ['gazne', 'görev', 'sultan']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 199
+Actual: ['balıkesir', 'danişmendoğulları', 'sikke', 'i̇smail', 'melik', 'şemseddin', 'bizans', 'müze', 'milliye']
+Extracted: ['sikke']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 200
+Actual: ['kervan', 'aydın', 'i̇zmir', 'menderes', 'kuşadası', 'yol']
+Extracted: ['liman', 'menderes', 'yol']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 201
+Actual: ['istihbarat', 'konsolos', 'anadolu', 'i̇ngiliz', 'i̇zmir', 'batı', 'asker']
+Extracted: ['konsolos', 'rapor']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Total accuracy of document "Tarih" is: %16.27389888364426

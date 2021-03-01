@@ -1,0 +1,1201 @@
+Article Index: 1
+Actual: ['kare', 'kabuk', 'medya', 'algoritma', 'mathematica', 'şerit', 'en', 'konveks', 'küçük']
+Extracted: ['doğru', 'ekmk']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 2
+Actual: ['ticaret', 'oecd', 'parçalamak', 'türkiye', 'ara', 'kaynak', 'ekonometri', 'panel', 'dış', 'kullanım', 'nihaî', 'mal']
+Extracted: ['mal', 'ticaret']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 3
+Actual: ['öğrenci', 'öğretim', 'değer', 'bakış', 'üye', 'analiz', 'açı', 'faktör']
+Extracted: ['öğrenci', 'öğretim']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 4
+Actual: ['bileşen', 'aralık', 'asal', 'mathematica', 'güven', 'analiz', 'kantiller', 'bootstrap']
+Extracted: ['bootstrap']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 5
+Actual: ['jackknife', 'tahmin', 'etmek', 'dağılım', 'sağ', 'istatistik', 'tür', 'sansürlemek', 'sıra', 'düzgün', 'ilerlemek']
+Extracted: ['jackknife']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 6
+Actual: ['birim', 'neden', 'testi', 'denge', 'yapı', 'kırmak', 'perron', 'kök', 'şart', 'ticarî', 'reel', 'kuru', 'döviz']
+Extracted: ['dönem', 'kuru', 'mal', 'reel']
+TP: 2 TN: 0 FP: 11 FN: 2 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 7
+Actual: ['model', 'sistem', 'baskı', 'türkiye', 'probit', 'kuru', 'ekonomik', 'ekonomi', 'uyarı', 'indeks', 'logit', 'bilanço', 'kriz', 'erken', 'döviz']
+Extracted: ['faiz', 'sunî']
+TP: 0 TN: 0 FP: 15 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 8
+Actual: ['jackknife', 'tahmin', 'etmek', 'dağılım', 'sağ', 'istatistik', 'tür', 'sansürlemek', 'sıra', 'düzgün', 'ilerlemek']
+Extracted: ['büyümek', 'tartışmak', 'yüksek']
+TP: 0 TN: 0 FP: 11 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 9
+Actual: ['vergi', 'yanlı', 'teori', 'gelir', 'seviye', 'esnek', 'ekonomi', 'arz', 'fiyat', 'oran']
+Extracted: ['vade', 'vergi']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 10
+Actual: ['birim', 'neden', 'var', 'egarch', 'belirsiz', 'granger', 'kök', 'enflasyon']
+Extracted: ['enflasyon']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 11
+Actual: ['testi', 'etkin', 'piyasa', 'bds', 'doğru', 'hipotez']
+Extracted: ['bds', 'set']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 12
+Actual: ['mercuri', 'yöntem', 'oy', 'sistem', 'vermek', 'yerel', 'güvenlik', 'pusula', 'sahtekâr', 'yaygın', 'mükerrer', 'elektronik']
+Extracted: ['oy']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 13
+Actual: ['vektör', 'testi', 'ayrışmak', 'neden', 'var', 'mode', 'büyümek', 'cusum', 'istikrar', 'granger', 'faiz', 'otoregresif', 'durağan', 'etkitepki', 'varyans', 'oran']
+Extracted: ['büyümek', 'durağan', 'istikrar']
+TP: 3 TN: 0 FP: 13 FN: 0 
+Accuracy: %18.75
+-----------------
+Article Index: 14
+Actual: ['heteroskedasite', 'eviews', 'robus', 'white', 'değişken', 'tutar', 'tahmin', 'kovaryans', 'varyans']
+Extracted: ['heteroskedasite']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 15
+Actual: ['birim', 'neden', 'baskılamak', 'testi', 'türkiye', 'büyümek', 'ekonomik', 'gelişmek', 'finansal', 'zaman', 'seri', 'ekonomi', 'granger', 'kök']
+Extracted: ['büyümek', 'hipotez', 'öncül']
+TP: 1 TN: 0 FP: 13 FN: 2 
+Accuracy: %6.25
+-----------------
+Article Index: 16
+Actual: ['model', 'bakım', 'kadın', 'çocuk', 'logit', 'tercih', 'çalışmak', 'multinomial']
+Extracted: ['çocuk']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 17
+Actual: ['sorun', 'ekonomi', 'döviz', 'enflasyon', 'para', 'borsa', 'aktarım', 'akım', 'reel', 'fiyat', 'mekanizma', 'türkiye', 'gelir', 'büyümek', 'faiz', 'oran', 'endeks', 'sermaye', 'kuru']
+Extracted: ['aktarım', 'para', 'politika', 'reel']
+TP: 3 TN: 0 FP: 16 FN: 1 
+Accuracy: %15.0
+-----------------
+Article Index: 18
+Actual: ['açık', 'birim', 'neden', 'türkiye', 'mode', 'büyümek', 'ekonomik', 'ekonomi', 'finansal', 'dış', 'zaman', 'seri', 'granger', 'kök', 'vec', 'ticarî']
+Extracted: ['açık', 'ticarî']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 19
+Actual: ['derneşik', 'türkiye', 'talep', 'ara', 'yapı', 'kırmak', 'eşbütünleşim', 'ekonomi', 'dış', 'politika', 'iktisat', 'tanımlamak', 'süper']
+Extracted: ['eşbütünleşim', 'tahmin', 'uzay']
+TP: 1 TN: 0 FP: 12 FN: 2 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 20
+Actual: ['ölçek', 'olmak', 'kanonik', 'i̇tö', 'doğru', 'tutum', 'istatistik', 'analiz', 'korelâsyon']
+Extracted: ['ders', 'istatistik', 'tutum']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 21
+Actual: ['test', 'kural', 'döviz', 'enflasyon', 'bounds', 'taylor', 'açık', 'nominal', 'faiz', 'kısa', 'hedeflemek', 'oran', 'vade', 'mode', 'merkez', 'üretim', 'uecm', 'kuru', 'banka']
+Extracted: ['faiz', 'oran', 'taylor']
+TP: 3 TN: 0 FP: 16 FN: 0 
+Accuracy: %15.789473684210526
+-----------------
+Article Index: 22
+Actual: ['araştırmak', 'matematik', 'eğitim', 'yetişkin', 'sayısal', 'teknoloji', 'istatistik', 'okuryazar', 'resmî']
+Extracted: ['istatistik', 'okuryazar', 'özet', 'ürün']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 23
+Actual: ['puan', 'değer', 'performans', 'yönetim', 'yaklaşım', 'bağıl', 'ölçü']
+Extracted: ['performans']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 24
+Actual: ['yürümek', 'para', 'türkiye', 'mode', 'rassal', 'esnek', 'ekonomi', 'histeresis', 'iktisadî', 'temel', 'kur', 'fiyat', 'katı', 'döviz']
+Extracted: ['döviz', 'kuru']
+TP: 1 TN: 0 FP: 13 FN: 1 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 25
+Actual: ['kalkınmak', 'değişken', 'çok', 'politika', 'iktisat', 'beşerî', 'sosyal', 'demografi', 'istatistik']
+Extracted: ['beklenti', 'yaşam']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['birim', 'neden', 'türkiye', 'mode', 'eş', 'kredi', 'ekonomi', 'zaman', 'seri', 'bütün', 'zayıf', 'dış', 'kök', 'granger', 'vec', 'banka', 'enflasyon']
+Extracted: ['kredi']
+TP: 1 TN: 0 FP: 16 FN: 0 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 27
+Actual: ['gelmek', 'bilim', 'ekonometri', 'toplum', 'öğretmek']
+Extracted: ['ekonometri', 'metot']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 28
+Actual: ['bileşen', 'özfonksiyon', 'pürüz', 'fonksiyonel', 'veri', 'kübik', 'ceza', 'splayn', 'boyut', 'indirgemek', 'özdeğer', 'analiz', 'ayrışım', 'yöntem', 'düzgün', 'ana']
+Extracted: ['düzgün', 'fonksiyon', 'fonksiyonel', 'veri']
+TP: 3 TN: 0 FP: 13 FN: 1 
+Accuracy: %17.647058823529413
+-----------------
+Article Index: 29
+Actual: ['heteroskedastisite', 'testi', 'model', 'sapmak', 'klâsik', 'simülasyon', 'carlo', 'güç', 'asimptotik', 'test', 'örneklem', 'kalıntı', 'büyük', 'monte', 'özellik', 'analiz', 'regresyon', 'varsayım']
+Extracted: ['test']
+TP: 1 TN: 0 FP: 17 FN: 0 
+Accuracy: %5.555555555555555
+-----------------
+Article Index: 30
+Actual: ['testi', 'birim', 'dols', 'kırmak', 'açıgı', 'çok', 'bütçe', 'kök', 'shin', 'koentegrasyon', 'sürmek']
+Extracted: ['bütçe', 'dönem']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 31
+Actual: ['öngörü', 'volatilite', 'garch', 'kuru', 'döviz']
+Extracted: ['model', 'varyans', 'öngörü']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 32
+Actual: ['ağ', 'ar', 'arch', 'öngörü', 'kaotik', 'kuru', 'seri', 'zaman', 'yapay', 'aktivasyon', 'döviz', 'sinir', 'fonksiyon']
+Extracted: ['ysa']
+TP: 0 TN: 0 FP: 13 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 33
+Actual: ['olmak', 'para', 'birlik', 'kura', 'veri', 'panel', 'ricardo', 'politika', 've', 'fiyat', 'analiz', 'malî', 'düzey', 'avrupa']
+Extracted: ['fiyat', 'malî']
+TP: 2 TN: 0 FP: 12 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 34
+Actual: ['vektör', 'birim', 'neden', 'para', 'türkiye', 'genel', 'otoregresyon', 'ekonomi', 'şok', 'kök', 'durağan', 'arz', 'enflasyon']
+Extracted: ['enflasyonist']
+TP: 0 TN: 0 FP: 13 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 35
+Actual: ['nonparametrik', 'regresyon', 'kernel', 'arima']
+Extracted: ['seri', 'yöntem']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 36
+Actual: ['bileşen', 'stokastik', 'ayrışmak', 'airline', 'sarı', 'mode', 'regarima', 'etki', 'seri', 'zaman', 'dinî', 'deterministik', 'tatil']
+Extracted: ['seri', 'tatil']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 37
+Actual: ['uzun', 'performans', 'i̇mkb', 'doğru', 'yapay', 'ağı', 'dönem', 'arz', 'regresyon', 'halk', 'sinir']
+Extracted: ['sinir', 'yapay']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 38
+Actual: ['i̇mkb', 'manipülâsyon', 'diskriminant', 'finansal', 'lojistik', 'analiz', 'sınıflamak', 'yöntem', 'regresyon', 'oran']
+Extracted: ['manipülâsyon']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 39
+Actual: ['model', 'olmak', 'arch', 'türkiye', 'oynak', 'risk', 'swarch', 'ithalat', 'belirsiz', 'dönüşüm', 'zaman', 'seri', 'doğru', 'ekonomi', 'markov', 'kur', 'kuru', 'döviz']
+Extracted: ['döviz', 'ithalat']
+TP: 2 TN: 0 FP: 16 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 40
+Actual: ['sermaye', 'firma', 'yapı', 'veri', 'panel', 'büyük', 'optimal', 'kaldıraç', 'analiz', 'oran']
+Extracted: ['firma', 'karakteristik']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 41
+Actual: ['etkin', 'makine', 'performans', 'i̇mkb', 'metal', 'eşya', 'finansal', 've', 'vza', 'işlemek', 'kriz', 'topsis']
+Extracted: ['işlemek', 'kriz', 'performans']
+TP: 3 TN: 0 FP: 9 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 42
+Actual: ['model', 'hall', 'testi', 'dışlamak', 'tüketim', 'gelir', 'sürekli', 'fonksiyon', 's']
+Extracted: ['harcamak']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['aşama', 'iş', 'risk', 'finansal', 'analiz', 'iki', 'fiyat', 'kümelemek', 'varlık']
+Extracted: ['finansal', 'risk']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 44
+Actual: ['alan', 'veri', 'yönetim', 'panel', 'regresyon', 'fonksiyon']
+Extracted: ['şirket']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 45
+Actual: ['ticaret', 'türkiye', 'avrupa', 'birlik', 'herfindahl', 'ekonomik', 'entegrasyon', 'dış', 'indeks', 'yoğun', 'analiz', 'gümrük', 'oran']
+Extracted: ['baz', 'grub', 'ihracat', 'ithalat']
+TP: 0 TN: 0 FP: 13 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 46
+Actual: ['matematik', 'sıralamak', 'kaygı', 'analiz', 'versiyon', 'faktör']
+Extracted: ['kaygı', 'öğrenci']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 47
+Actual: ['ticaret', 'sınır', 'testi', 'denge', 'türkiye', 'ekonomi', 'ardl', 'yaklaşım']
+Extracted: ['denge', 'ticaret']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 48
+Actual: ['çözümlemek', 'denge', 'düzen', 'eş', 'avrupa', 'birlik', 'cari', 'hesap', 'koşul', 'lojistik', 'regresyon']
+Extracted: ['ab', 'üye']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['kaymak', 'altı', 'kart', 'sigma', 'kontrol']
+Extracted: ['sigma']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 50
+Actual: ['mortgage', 'genel', 'finansal', 'moment', 'kriz', 'teknik']
+Extracted: ['finansal', 'piyasa']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 51
+Actual: ['vermek', 'sıralamak', 'vikor', 'çok', 'karar', 'çimento', 'sektör', 'kriter']
+Extracted: ['kriter', 'vikor', 'çimento', 'şirket']
+TP: 3 TN: 0 FP: 5 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 52
+Actual: ['sınıflamak', 'eğitim', 'analiz', 'faktör']
+Extracted: ['lise']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['sebze', 'sera', 'sorun', 'pazarlamak', 'örtü', 'altı', 'üretim', 'tarım']
+Extracted: ['pazarlamak', 'üremek', 'ürün']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 54
+Actual: ['öğrenci', 'eğitim', 'akademik', 'algılamak', 'kültür', 'örgüt']
+Extracted: ['algılamak', 'örgüt']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 55
+Actual: ['soruşturmak', 'son', 'dönem', 'analiz', 'faktör']
+Extracted: ['soruşturmak', 'yargılamak']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 56
+Actual: ['yazılım', 'analitik', 'kıyaslamak', 'expert', 'yönetim', 'pazarlamak', 'choi', 'üretim', 'toplam', 'yöntem', 'kalite', 'hiyerarşi']
+Extracted: ['analitik', 'hiyerarşi']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 57
+Actual: ['kamu', 'büyümek', 'ekonomik', 'ekonomi', 'harcamak']
+Extracted: ['kamu', 'kesim']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 58
+Actual: ['birlik', 'düzen', 'at', 'yemek', 'aet', 'topluluk', 'helsinki', 'ekonomik', 'ilişkin', 'avrupa', 'türkiye', 'lüksemburg', 'gümrük', 'ab', 'protokol', 'anlaşma', 'zirve', 'komisyon', 'ankara', 'rapor', 'katmak']
+Extracted: ['aday', 'aralık', 'katılım', 'türkiye', 'zirve']
+TP: 2 TN: 0 FP: 19 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 59
+Actual: ['bölgesel', 'politika', 'proje', 'gelişmek']
+Extracted: ['dünya', 'ekonomi', 'gelişmek']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 60
+Actual: ['sistem', 'etki', 'gıda', 'akdeniz', 'küresel', 'üzeri']
+Extracted: ['değişim', 'toplum']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 61
+Actual: ['yönetmek', 'gelişmek', 'düzey', 'bireysel', 'orta', 'kariyer']
+Extracted: ['kariyer']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 62
+Actual: ['ticaret', 'sorun', 'elektronik']
+Extracted: ['nternet', 'sorun', 'yaşamak']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 63
+Actual: ['serbest', 'batı', 'çevre', 'yaklaşım', 'marksist', 'düşünce', 'piyasa']
+Extracted: ['kaynak', 'yaklaşım', 'çevre']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 64
+Actual: ['girişim', 'risk', 'belirsiz', 'eğilim', 'yaklaşım', 'toplum', 'kültür', 'tolerans', 'kültürel']
+Extracted: ['belirsiz', 'girişim']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 65
+Actual: ['dağıtım', 'kanal', 'çatışmak', 'güç', 'iletişim', 've', 'güven', 'ilişki', 'bağımlı']
+Extracted: ['kanal', 'makale']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 66
+Actual: ['sistem', 'öğretim', 'eğitim', 'web', 'uzak', 'taban', 'tasarı']
+Extracted: ['ders', 'öğretim']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 67
+Actual: ['360º', 'performans', 'geri', 'yönetim', 'takım', 'ölçmek', 'değerlemek', 've', 'temel', 'çalışmak', 'besleme']
+Extracted: ['takım']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 68
+Actual: ['birlik', 'konferans', 've', 'not', 'tanıtım', 'uluslararası', 'ilişki', 'avrupa']
+Extracted: ['üniversitesi']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 69
+Actual: ['ağ', 'japon', 'şirket', 'mantık', 'aile', 'için', 'yönetim', 'kurum', 'bir']
+Extracted: ['japon']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 70
+Actual: ['ab', 'nato', 'agsk', 'birlik', 'odgp', 'kimlik', 'ortak', 'dış', 'güvenlik', 've', 'politika', 'agsp', 'savunmak', 'avrupa']
+Extracted: ['avrupa', 'birlik']
+TP: 2 TN: 0 FP: 12 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 71
+Actual: ['etkin', 'kamu', 'veri', 'devlet', 'zarflamak', 'müdahale', 'analiz', 'sektör']
+Extracted: ['müdahale']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 72
+Actual: ['kuşak', 'uyum', 'kişilik', 'envanter', 'çocuk', 'sosyal', 'analiz', 'hacettepe', 'varyans', 'ikinci']
+Extracted: ['güçlük', 'uyum', 'çocuk']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 73
+Actual: ['parch', 'imkb', 'modellemek', 'endeks']
+Extracted: ['parch']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 74
+Actual: ['yönetmek', 'davranmak', 'değişken', 'lider', 'yaş', 'sektör', 'banka']
+Extracted: ['lider', 'yaş']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 75
+Actual: ['konaklamak', 'iş', 'i̇şgören', 'turizm', 'tatmin', 'işlemek', 'sektör']
+Extracted: ['tatmin', 'şgören']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 76
+Actual: ['yönetmek', 'performans', 'duygu', 'zekâ', 'yetenek']
+Extracted: ['duygu', 'müşteri', 'yönetmek']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 77
+Actual: ['süt', 'ürün', 've', 'üretim', 'analiz', 'sektör', 'stratejik']
+Extracted: ['süt']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 78
+Actual: ['yakın', 'türk', 'birlik', 'millet', 'sorun', 'kuzey', 'cumhuriyet', 'avrupa', 'birleşmek', 'kıbrıs']
+Extracted: ['kıbrıs', 'çözüm']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 79
+Actual: ['güvenlik', 'mevzuat', 'kalite', 'gıda']
+Extracted: ['gıda']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 80
+Actual: ['kriz', 'banka', 'finansal']
+Extracted: ['banka', 'kriz']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 81
+Actual: ['birikim', 'klâsik', 'sermaye', 'bölüşüm', 'teknoloji', 'üretim', 'kar', 'okul', 'fiyat', 'tekdüze', 'oran']
+Extracted: ['bölüşüm', 'sorun']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 82
+Actual: ['vergi', 'incelemek', 'kaçak', 'tahakkuk', 've', 'denetim', 'kayıt', 'mevzuat']
+Extracted: ['vergi']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 83
+Actual: ['imparator', 'osmanlı', 'iflâs', 'borç', 'dış', 'finansal', 'kapitülâsyon']
+Extracted: ['borç', 'imparator', 'yüzyıl']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 84
+Actual: ['sistem', 'siyasal', 'kutup', 'parti', 'kent']
+Extracted: ['batı', 'parti', 'siyasal']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 85
+Actual: ['araştırmak', 'değişken', 'pazarlamak', 'çok', 'analiz']
+Extracted: ['analiz', 'değişken']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 86
+Actual: ['ödenek', 'sermaye', 'dernek', 'döner', 'vakıf', 'bütçe', 'tamamlamak', 'işlemek', 'konsolit', 'kaydetmek']
+Extracted: ['bütçe', 'ödenek']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 87
+Actual: ['yönetsel', 'sinerji', 'değer', 'yönetim', 'kültür', 'uluslararası', 'fark', 'kültürel']
+Extracted: ['kültür']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 88
+Actual: ['sermaye', 'büyümek', 'ekonomik', 'beşerî', 'üretim', 'fizikî', 'faktör']
+Extracted: ['fizikî', 'sermaye']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 89
+Actual: ['rant', 'değer', 'pazar', 'kamu', 'biçmek', 'kapitalizasyon', 'faiz', 'arazi', 'fiyat', 'oran']
+Extracted: ['komisyon', 'takdir']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 90
+Actual: ['kesim', 'kktc', 'kamu', 'finansman']
+Extracted: ['karşılaştırmak', 'kktc', 'vergi']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 91
+Actual: ['rant', 'kamu', 'yolsuz', 'harcamak', 'kollamak', 'hakimiyet', 'kanun']
+Extracted: ['yolsuz']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 92
+Actual: ['araştırmak', 'işbirliği', 'akademik', 'uyum', 'süreç', 'almanya', 'gezi', 'olanak']
+Extracted: ['gezi', 'üniversitesi']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 93
+Actual: ['türkiye', 'de', 'turizm', 'ekonomi', 'sektör']
+Extracted: ['turizm']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 94
+Actual: ['türk', 'yapım', 'sendika', 'dış', 'politika', 'disk', 'ilişki']
+Extracted: ['tutum']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 95
+Actual: ['sürüklemek', 'iş', 'ilişkin', 'tutum', 've', 'bireysel', 'çalışmak', 'ev']
+Extracted: ['ev']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 96
+Actual: ['biçim', 'okul', 'yönetim', 'stratejik']
+Extracted: ['okul', 'stratejik']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 97
+Actual: ['ölçek', 'araştırmak', 'pazarlamak', 'ölçmek', 'teknik']
+Extracted: ['pazarlamak', 'ölçek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 98
+Actual: ['yönetmek', 'iş', 'iletişim', 'arkadaş', 'tatmin', 'ücret', 'çalışmak']
+Extracted: ['tatmin']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 99
+Actual: ['avcıoğlu', 'kalkınmak', 'bürokrat', 'dergi', 'doğa', 'aydın', 'yön']
+Extracted: ['osmanlı', 'siyasal', 'türk']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['ticaret', 'serbest', 'teori', 'dış', 'politika', 'yeni']
+Extracted: ['politika', 'ticaret']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 101
+Actual: ['birim', 'terörizm', 'sınamak', 'belirlemek', 'etki', 'ekonomik', 'turizm', 'kök', 'ilişki']
+Extracted: ['terör', 'turizm']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 102
+Actual: ['üretim', 'sistem']
+Extracted: ['faaliyet']
+TP: 0 TN: 0 FP: 2 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 103
+Actual: ['serbest', 'yatırım', 'sermaye', 'bölge', 'yabancı', 'işbölümü', 'uluslararası', 'yeni']
+Extracted: ['teori', 'yabancı', 'yatırım']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 104
+Actual: ['ilişki', 'yönetim', 'müşteri']
+Extracted: ['etkileşim', 'müşteri', 'yönetim']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 105
+Actual: ['kura', 'doğa', 'kurum', 'ekonomik', 'yaklaşım', 've', 'organizasyon', 'üzeri', 'insan']
+Extracted: ['kitap', 'organizasyon', 'organization']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 106
+Actual: ['türkiye', 'yapı', 'kurum', 'nin', 'toplum']
+Extracted: ['birsen', 'gök', 'spesifik', 'toplum', 'toplumbilim']
+TP: 1 TN: 0 FP: 4 FN: 4 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 107
+Actual: ['yöntem', 'bireysel', 'pazarlamak', 'kitle']
+Extracted: ['bireysel', 'kitle']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 108
+Actual: ['belediye', 'yapı', 'mevzuat', 'borç']
+Extracted: ['borç']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 109
+Actual: ['sermaye', 'liberalizasyon', 'finansal', 'akım', 'kriz', 'sektör', 'banka']
+Extracted: ['kriz']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 110
+Actual: ['beslemek', 'logit', 'analiz', 'kalori', 'faktör']
+Extracted: ['gıda', 'hane', 'kalori']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 111
+Actual: ['yatırım', 'gelir', 'ekonometrik', 'turizm', 'sayı', 'tahmin', 'turist']
+Extracted: ['sektör', 'ülke']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['etnik', 'risk', 'lider', 'su', 'doğu', 've', 'petrol', 'dinî', 'çeşit', 'siyasî', 'kültür', 'orta', 'faktör']
+Extracted: ['bölge', 'devlet', 'doğu', 'güvenlik']
+TP: 1 TN: 0 FP: 12 FN: 3 
+Accuracy: %6.25
+-----------------
+Article Index: 113
+Actual: ['analitik', 'kredibilite', 'yöntem', 'reyting', 'hiyerarşi']
+Extracted: ['kredibilite', 'şirket']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 114
+Actual: ['türkiye', 'siyasal', 'davranmak', 'parti', 'nin', 'lider', 'i̇craatları', 'aday', 'seçmen']
+Extracted: ['gerekçe', 'olay', 'parti']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 115
+Actual: ['al', 'girişmek', 'menkul', 'risk', 'davranmak', 'finansal', 'kıymet', 'finans', 'psikoloji']
+Extracted: ['dr', 'elvin', 'portföy', 'psikoloji', 'university', 'yönetmek']
+TP: 1 TN: 0 FP: 8 FN: 5 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 116
+Actual: ['araştırmak', 'pazarlamak', 'istatistiki', 'analiz', 'ilişki', 'yöntem', 'görsel']
+Extracted: ['pazarlamak']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 117
+Actual: ['hizmet', 'sağlık', '9000', 'performans', 'yönetim', 'hastane', 'güvence', 'toplam', 'iso', 'kalite']
+Extracted: ['hastane', 'iso', 'tky']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 118
+Actual: ['mode', 'gelir', 'destek', 'arz', 'tepki', 'buğday', 'doğrudan']
+Extracted: ['sektör', 'tarım']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 119
+Actual: ['ab', 'sekizinci', 'ülke', 'genel', 'abd', 'standart', 'görmek', 'uluslararası', 'yönerge', 'denetim', 'kabul']
+Extracted: ['denetim', 'standart']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 120
+Actual: ['bolluk', 'süreç', 'yapı', 'algı', 'unsur', 'yeni']
+Extracted: ['unsur']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 121
+Actual: ['vergi', 'küresel', 'zarar', 'rekabet']
+Extracted: ['rekabet', 'vergi']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 122
+Actual: ['ekososyoloji', 'sosyoloji', 'ekolojik', 'çevre']
+Extracted: ['ekolojik', 'ekososyoloji']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 123
+Actual: ['yeni', 'mühendis', 'tekno', 'toplum', 'kapitalizm', 'sosyal', 'demokrasi', 'sivil', 'sol']
+Extracted: ['sol', 'sosyalist', 'sosyalizm']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 124
+Actual: ['küresel', 'yönetim', 'malî', 'kriz', 'yerel']
+Extracted: ['kriz', 'malî']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 125
+Actual: ['dağıtım', 'kanal', 'bilgi', 'pazarlamak', 'teknoloji', 'bölgesel']
+Extracted: ['bölge', 'turizm']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 126
+Actual: ['demokratik', 'demokrasi', 'paradoks']
+Extracted: ['demokrasi']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 127
+Actual: ['bilgi', 'ikilem', 'walras', 'girişim', 'iktisadî', 'epistemolojik', 'schumpeter']
+Extracted: ['schumpeter']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 128
+Actual: ['vergi', 'ticaret', 'türkiye', 'avrupa', 'eş', 'birlik', 'etki', 'dış', 've', 'yüküm', 'gümrük']
+Extracted: ['birlik', 'gümrük']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 129
+Actual: ['genetik', 'evrim', 'algoritma', 'finansal', 'uygulamak']
+Extracted: ['algoritma', 'genetik']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 130
+Actual: ['denge', 'gelir', 'endeks', 'bölgesel', 'dağılım', 'i̇bbs', 'eşit']
+Extracted: ['eşit']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 131
+Actual: ['genişlemek', 'girişmek', 'çokuluslu', 'biçim', 'otel', 'büyümek', 'zincir', 'uluslararası', 'tercih', 'küresel', 'strateji']
+Extracted: ['otel']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 132
+Actual: ['katılım', 'siyasal', 'liberal', 'meşruiyet', 'müzakere', 'demokrasi']
+Extracted: ['demokrasi']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 133
+Actual: ['kamu', 'borç', 'politika', 'malî', 'maliye', 'disiplin']
+Extracted: ['maliye', 'sıkı']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 134
+Actual: ['ticaret', 'sistem', 'dâhil', 'önlem', 'geri', 'politika', 'ödemek', 'işlemek', 'gümrük', 'rejim']
+Extracted: ['gümrük', 'rejim', 'yardım']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 135
+Actual: ['marka', 'televizyon', 'yerleşmek', 'strateji', 'sponsor']
+Extracted: ['marka', 'yerleşmek']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 136
+Actual: ['yönetmek', 'siyasal', 'iktidar', 'dönüşüm', 'üst', 'zihniyet', 'kurul']
+Extracted: ['iktidar', 'zihniyet']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 137
+Actual: ['teori', 'sosyalizm', 'anayasal', 'liberal', 'kişilik', 'kuram', 'hak', 'iktisat', 'çu', 'marxist', 'freud', 'doğal', 'devlet', 'insan', 'rasyonel', 'refah']
+Extracted: ['insan', 'kuram', 'teori', 'yan']
+TP: 3 TN: 0 FP: 13 FN: 1 
+Accuracy: %17.647058823529413
+-----------------
+Article Index: 138
+Actual: ['yeni', 'evrim', 'icat', 'teknoloji']
+Extracted: ['evrim']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 139
+Actual: ['serbest', 'in', 'para', 'adam', 'smith', 'düzenlemek', 'rekabet', 'analiz', 'banka']
+Extracted: ['banka', 'smith']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 140
+Actual: ['hanehalkı', 'diskriminant', 'anket', 'bütçe', 'analiz']
+Extracted: ['ayırım', 'hanehalkı']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 141
+Actual: ['türk', 'güç', 'karşılaştırmak', 'sanayii', 'üstün', 'rekabet', 'eşya', 'sektör', 'imalât', 'beyaz']
+Extracted: ['güç', 'rekabet', 'sektör']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 142
+Actual: ['işletme', 'yönetmek', 'otel', 'yönetim', 'uluslararası']
+Extracted: ['otel']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 143
+Actual: ['özdeş', 'lider', 'ruh', 'şema', 'hal', 'örgüt', 'bireysel']
+Extracted: ['lider', 'özdeş']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 144
+Actual: ['maliyetlemek', 'sistem', 'kavram', 'süreç', 'muhasebe', 'yönetim', 'çağdaş', 'gelişim', 've', 'gelenek']
+Extracted: ['kitap', 'muhasebe']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 145
+Actual: ['market', 'marka', 'gıda']
+Extracted: ['marka', 'market', 'ürün']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 146
+Actual: ['bölümlemek', 'niş', 'pazar', 'pazarlamak', 'ürün', 'ortopedik', 'destek', 'ilişki', 'veritabanı']
+Extracted: ['niş', 'pazarlamak']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 147
+Actual: ['millet', 'güç', 'kor', 'kullanmak', 'sağlamak', 'birleşmek', 'unprofor', 'barış']
+Extracted: ['operasyon']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 148
+Actual: ['türk', 'nato', 'bilgi', 'program', 'mart', 'akademisyen', 'brüksel', 'yönelik', '2006']
+Extracted: ['nato']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 149
+Actual: ['boşluk', 'sermaye', 'kura', 'yapı', 'sosyal', 'ağdüzeneği']
+Extracted: ['sosyal']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 150
+Actual: ['ağ', 'kalkınmak', 'sermaye', 'norm', 'iktisat', 'toplum', 'sosyal', 'güven', 'sivil']
+Extracted: ['sermaye', 'sosyal']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 151
+Actual: ['kalkınmak', 'sermaye', 'gelir', 'korelâsyon', 'dağılım', 'beşerî', 'sosyal', 'adalet', 'rekabet', 'regresyon']
+Extracted: ['sosyal']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 152
+Actual: ['güvenilir', 'sermaye', 'tutar', 'kurum', 'güven', 'sosyal', 'dinamik']
+Extracted: ['dolay', 'optimal', 'politika']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 153
+Actual: ['ab', 'türkiye', 'sermaye', 'büyümek', 'panel', 'logit', 'sosyal', 'iktisadî']
+Extracted: ['sosyal']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 154
+Actual: ['iç', 'sermaye', 'dış', 'güven', 'sosyal', 'yerleşik']
+Extracted: ['sermaye', 'sosyal']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 155
+Actual: ['sermaye', 'katılım', 'siyasal', 'güven', 'sosyal', 'kültür']
+Extracted: ['hâkim', 'lksel', 'sosyal']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 156
+Actual: ['sermaye', 'kamu', 'politika', 'sosyal', 'yoksul']
+Extracted: ['emek', 'sermaye', 'toplum']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 157
+Actual: ['derrida', 'söylem', 'postmodern', 'postmodernizm', 'epistemoloji', 'ontoloji', 'lyotard', 'foucault']
+Extracted: ['postmodernizm']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 158
+Actual: ['model', 'ahlaki', 'kohlberg', 'vermek', 'kura', 'iş', 'bilmek', 'gelişim', 'karar', 'etik']
+Extracted: ['kohlberg', 'model']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 159
+Actual: ['teori', 'hegemonik', 'kamu', 'politik', 'ekonomi', 'hegemonya', 'istikrar', 'küresel', 'mal']
+Extracted: ['kamu', 'küresel', 'mal']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 160
+Actual: ['devalüasyon', 'türkiye', 'parti', 'ekonomi', 'cumhuriyet', 'halk', 'chp']
+Extracted: ['devalüasyon', 'eylül', 'siyasî', 'taşımak', 'ticaret']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 161
+Actual: ['yönetsel', 'girişmek', 'çoğunluk', 'kültürel', 'ülke', 'yapı', 'ortak', 'dünya', 'mesafe', 'girişim', 'uluslararası', 'düzey', 'mülkiyet', 'kontrol', 'strateji']
+Extracted: ['kültürel', 'mülkiyet', 'ortak', 'uog']
+TP: 3 TN: 0 FP: 12 FN: 1 
+Accuracy: %18.75
+-----------------
+Article Index: 162
+Actual: ['çıkarmak', 'iş', 'güvenlik', 'sosyal', 'sigorta']
+Extracted: ['sigorta']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 163
+Actual: ['olmak', 'ülke', 'gelişmek', 'uluslararası', 'bis', 'banka']
+Extracted: ['düzenlemek']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 164
+Actual: ['ülke', 'gelişmek', 'politika', 'müdahale', 'yeni', 'sterilizasyon', 'döviz', 'piyasa']
+Extracted: ['döviz', 'kur', 'müdahale']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 165
+Actual: ['etkin', 'anomali', 'gün', 'menkul', 'borsa', 'pazar', 'etki', 'takvim', 'zayıf', 'i̇stanbul', 'kıymet', 'form', 'hafta', 'mevsim']
+Extracted: ['dönem', 'günlük', 'hafta', 'mkb']
+TP: 1 TN: 0 FP: 13 FN: 3 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 166
+Actual: ['birim', 'sınamak', 'satmak', 'güç', 'almak', 'panel', 'parite', 'kök', 'fiyat', 'yakınsamak']
+Extracted: ['yakınsamak']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 167
+Actual: ['yöntem', 'fuzzy', 'deri', 'yer', 'seçim', 'sektör', 'kuruluş', 'topsis']
+Extracted: ['fuzzy', 'rakip', 'sektör', 'topsis', 'yöntem']
+TP: 4 TN: 0 FP: 4 FN: 1 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 168
+Actual: ['türkiye', 'dönüm', 'iş', 'çevri', 'sanayi', 'ekonomi', 'üretim', 'nokta']
+Extracted: ['çevrim']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 169
+Actual: ['ayrışmak', 'endeks', 'gini', 'gelir', 'theil', 'teşvik', 'politika', 've', 'eşit']
+Extracted: ['eşit', 'teşvik']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 170
+Actual: ['tüketim', 'uzun', 'parça', 'durağan', 'eşbütünleşme', 'hafıza', 'fonksiyon']
+Extracted: ['fonksiyon', 'tüketim']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 171
+Actual: ['emekli', 'performans', 'fon', 'zamanlamak', 'piyasa', 'ölçü']
+Extracted: ['fon']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 172
+Actual: ['kaçınmak', 'fayda', 'zamanlararası', 'risk', 'esnek', 'beklemek', 'tercih', 'ikame']
+Extracted: ['fayda']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 173
+Actual: ['süreç', 'müşteri', 'şikayet', 'analitik', 'hiyerarşi']
+Extracted: ['otomobil']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 174
+Actual: ['davranmak', 'boyut', 'politik']
+Extracted: ['davranmak']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 175
+Actual: ['ekolojik', 'üretken', 'alan', 'iz', 'yıkım', 'ayak', 'bilinç', 'biyolojik']
+Extracted: ['ayak', 'ekolojik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 176
+Actual: ['prens', 'siyasal', 'parti', 'liberal', 'hegemonya', 'toplum', 'modern', 'demokrasi', 'yeni']
+Extracted: ['gramsci', 'parti']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 177
+Actual: ['merkez', 'müdahale', 'hedeflemek', 'dalga', 'kur', 'banka', 'kuru', 'döviz', 'enflasyon']
+Extracted: ['döviz', 'enflasyon']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 178
+Actual: ['ticaret', 'etkin', 'sistem', 'transfer', 'ödemek', 'örgüt', 'fark', 'dünya']
+Extracted: ['senaryo', 'tarım', 'transfer']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 179
+Actual: ['konaklamak', 'cam', 'tavan', 'işlemek', 'engel', 'kariyer']
+Extracted: ['cam', 'kadın', 'tavan']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 180
+Actual: ['araştırmak', 'marka', 'pazarlamak', 'algı', 'ölçeklemek', 'çok', 'haritalamak', 'boyut', 'analiz', 'teknik']
+Extracted: ['boşluk', 'çbö']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 181
+Actual: ['rusya', 'nato', 'birlik', 'abd', 'enerji', 'güvenlik', 'avrupa']
+Extracted: ['güvenlik', 'rol']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 182
+Actual: ['genişlemek', 'birlik', 'ara', 'süreç', 'derin', 'nin', 'gelişim', 'diyalektik', 'ilişki', 'avrupa']
+Extracted: ['hemen', 'savaş']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 183
+Actual: ['ahlaki', 'vermek', 'ahlak', 'eğilim', 'karar']
+Extracted: ['ahlaki']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 184
+Actual: ['güdü', 'romantizm', 'değişik', 'algılamak', 'davranmak', 'işyeri']
+Extracted: ['işyeri']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 185
+Actual: ['birey', 'işletme', 'değer', 'kamu', 'merkez', 'devlet', 'dönüşüm', 'toplum', 'demokrasi', 'yeni', 'refah']
+Extracted: ['işletme', 'kamu']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 186
+Actual: ['orta', 'birlik', 'güvenlik', 'strateji', 'tacis', 'avrupa', 'pca', 'asya']
+Extracted: ['birlik', 'bölge']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 187
+Actual: ['haccp', 'standart', 'sanayi', 'gıda', 'güvenlik', 'iz', 'maliyet', 'yoğun', 'uymak']
+Extracted: ['gıda']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 188
+Actual: ['karşılık', 'testi', 'yatırım', 'büyümek', 'ardl', 'zorunlu']
+Extracted: ['karşılık', 'zorunlu']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 189
+Actual: ['serbest', 'türkiye', 'de', 'emek', 'yapı', 'dönüşüm', 'finansal', 'piyasa']
+Extracted: ['emek', 'iktisat']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 190
+Actual: ['kamu', 'finansal', 'istikrar', 'küresel', 'kötülemek', 'mal']
+Extracted: ['finansal', 'istikrar']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 191
+Actual: ['çarpık', 'değer', 'risk', 'kayıp', 'geri', 'apgarch', 'test', 'beklemek', 'dağılım', 'dönük', 'maruz']
+Extracted: ['apgarch', 'dağılım', 'es', 'normal']
+TP: 2 TN: 0 FP: 9 FN: 2 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 192
+Actual: ['eşbütünleşme', 'i̇mkb', 'entegrasyon', 'finansal']
+Extracted: ['piyasa']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 193
+Actual: ['matematik', 'programlamak', 'performans', 'ölçüt', 'veri', 'zarflamak', 'sentetik', 'analiz']
+Extracted: ['performans', 'sektör']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 194
+Actual: ['program', 'refah', 'güvenlik', 'ödemek', 'sosyal', 'reform', 'rejim']
+Extracted: ['refah', 'reform']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 195
+Actual: ['kobi', 'maliyet', 'kalite']
+Extracted: ['kalite', 'maliyet']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 196
+Actual: ['türkiye', 'vali', 'web', 'kamu', 'yönetim', 'site', 'işlev']
+Extracted: ['vali']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 197
+Actual: ['perakende', 'güç', 'gıda', 'yoğun', 'tekel', 'sektör']
+Extracted: ['market', 'perakende', 'zincir']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 198
+Actual: ['algılamak', 'özdeş', 'prestij', 'bağ', 'örgüt']
+Extracted: ['prestij', 'örgüt']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 199
+Actual: ['açık', 'yöntem', 'uzun', 'parça', 'cari', 'eşbütünleşme', 've', 'sürmek', 'gelenek', 'hafıza']
+Extracted: ['cari', 'denge']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 200
+Actual: ['gelir', 'dağılım', 'ardl', 'kuznets', 'hipotez']
+Extracted: ['dağılım', 'gelir', 'hipotez', 'kuznets']
+TP: 4 TN: 0 FP: 1 FN: 0 
+Accuracy: %80.0
+-----------------
+Total accuracy of document "Ekonometri-iibf" is: %17.04279903962566

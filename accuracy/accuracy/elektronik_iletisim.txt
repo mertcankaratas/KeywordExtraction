@@ -1,0 +1,7 @@
+Article Index: 1
+Actual: ['bileşen', 'dönmek', 've', 'çgçç', 'dfbç', 'uzbk', 'serpiştirmek']
+Extracted: ['açı', 'incelemek', 'işaret', 'optimum', 'sistem', 'çeşitlemek']
+TP: 0 TN: 0 FP: 7 FN: 6 
+Accuracy: %0.0
+-----------------
+Total accuracy of document "elektronik_iletisim" is: %0.0

@@ -1,0 +1,1093 @@
+Article Index: 1
+Actual: ['yaratmak', 'sudur', 'nazariye', 'fetk', 'retk', 'evvel', 'küll', 'kâmil', 'aza', 'arş', 'heba', 'evren']
+Extracted: ['mevcudat']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 2
+Actual: ['ahiret', 'mazeret', 'inkâr', 'i̇lahî', 'teklif']
+Extracted: ['bahane', 'teklif']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 3
+Actual: ['haşiye', 'mutezile', 'tefsir', 'zemahşerî', 'keşşaf']
+Extracted: ['eser', 'takım', 'tefsir']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 4
+Actual: ['fideizm', 'kanıt', 'akıl', 'temel', 'tanrı']
+Extracted: ['kanıt', 'varlık']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 5
+Actual: ['ker', 'i̇bn', 'metafizik', 'şatahat', 'tefsir', 'arabi', 'sünnet', 'tasavvuf', 'tahkik', 'nas', 'işaret', 'kuşeyr']
+Extracted: ['işaret', 'tabir']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 6
+Actual: ['şair', 'i̇ran', 'erzurum', 'alvar']
+Extracted: ['alvar']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 7
+Actual: ['mertebe', 'nefis', 'gerçek', 'anlam', 'kendi', 'gaye']
+Extracted: ['aşama', 'işlev', 'mertebe']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 8
+Actual: ['sünnet', 'tekfir', 'fırka']
+Extracted: ['tekfir']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 9
+Actual: ['i̇bn', 'müteşabih', 'tefsîru', 'tefsir', 'metot', 'ayet', 'fûrek']
+Extracted: ['fürek', 'sufi', 'tefsir']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 10
+Actual: ['din', 'eğitim', 'ahlak', 'ders', 'değer', 'alan', 've', 'seçmek']
+Extracted: ['ders', 'öğrenci']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 11
+Actual: ['ahlak', 'din', 'bilgi', 'ders', 'öğretmen', 'öğretim', 'stil', 've', 'kültür', 'öğretmek']
+Extracted: ['stil', 'öğretmek']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 12
+Actual: ['ahlaki', 'din', 'ahlak', 'eğitim', 'bilgi', 'sorun', 've', 'kültür', 'dönem', 'genç']
+Extracted: ['ahlaki', 'bireysel', 'sorun']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 13
+Actual: ['i̇bn', 'endülüs', 'tefsir', 'zemenîn', 'ebî']
+Extracted: ['tefsir']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 14
+Actual: ['i̇bn', 'konu', 'haldun', 'mukaddime', 'umran', 'i', 'yontemi']
+Extracted: ['calışaları', 'ceştli', 'umran', 'zaman']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 15
+Actual: ['ahlak', 'hürriyet', 'vicdan', 'insan', 'ödev']
+Extracted: ['ahlak']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 16
+Actual: ['fetva', 'nevazil', 'endülüs', 'fıkıh', 'olay']
+Extracted: ['fıkıh']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 17
+Actual: ['mutezile', 'nefs', 'ruh', 'etik', 'insan', 'insanbilim']
+Extracted: ['antropoloji', 'insan', 'mutezile']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 18
+Actual: ['tilâvet', 'kitap', 'mukaddes', 'musiki', 'dinî', 'muzik']
+Extracted: ['bulmak', 'musiki', 'muziğin', 'ontolojik']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 19
+Actual: ['statik', 'yaratmak', 'bang', 'ezel', 'crunche', 'big', 'yer', 'gök']
+Extracted: ['evren']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 20
+Actual: ['istitaat', 'kadın', 'güç', 'değer', 'sefer', 'iddet', 'mezhep', 'illet', 'mahrem', 'himaye', 'yetirmek', 'hac']
+Extracted: ['bölüm', 'hac', 'sefer']
+TP: 2 TN: 0 FP: 10 FN: 1 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 21
+Actual: ['zihin', 'düalizm', 'beden', 'bilinç', 'tanrı']
+Extracted: ['bilinç', 'düalizm']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 22
+Actual: ['din', 'kadın', 'zulüm', 'kader', 'cin', 'envâru']
+Extracted: ['anlayış', 'hâdis', 'müslüman']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 23
+Actual: ['mana', 'tilâvet', 'tecvîd', 'şive', 'imale', 'isbât', 'kıraat', 'iskat', 'usul', 'tefhim']
+Extracted: ['kurra', 'kıraat', 'tecvîd']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 24
+Actual: ['abdullah', 'übeyy', 'cenaze', 'namaz', 'nifak']
+Extracted: ['hâdis', 'namaz']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 25
+Actual: ['din', 'eğitim', 'başaçıkma', 'dinî', 'yaş']
+Extracted: ['dönem', 'eğitim', 'yaş']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 26
+Actual: ['beyt', 'osman', 'ebû', 'ömer', 'sevgi', 'bekir']
+Extracted: ['halife']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 27
+Actual: ['fetva', 'nukul']
+Extracted: ['fetva', 'hukuk']
+TP: 1 TN: 0 FP: 1 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 28
+Actual: ['bolşevik', 'türkistan', 'aydınlar', '1917', 'i̇htilalı', 'çokayoğlu', 'yaş', 'yeni', 'mustafa']
+Extracted: ['türkistan']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 29
+Actual: ['vahiy', 'yaltkaya', 'tarih', 'ayet', 'sure']
+Extracted: ['eser']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 30
+Actual: ['alim', 'işaret', 'mushaf', 'bölüm']
+Extracted: ['bölme', 'bölümlemek', 'sembol']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 31
+Actual: ['teori', 'din', 'tevhit', 'inanç', 'bütün', 'formülize']
+Extracted: ['sosyoloji']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 32
+Actual: ['kayıp', 'azınlık', 'umut', 'grub', 'motivasyon', 'dindar', 've']
+Extracted: ['dindar', 'umut']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 33
+Actual: ['kaza', 'hayız', 'oruç', 'adet', 'etmek', 'dönem', 'hâdis', 'tutmak']
+Extracted: ['oruç']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 34
+Actual: ['zengi', 'yönetmek', 'müslüman', 'musul', 'haçlı', 'i̇madeddin']
+Extracted: ['adam', 'devlet', 'haçlı']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 35
+Actual: ['israf', 'denge', 'din', 'fesâd', 'emanet', 'çevre', 'i̇lahî', 'ekoloji', 'aydınlanmak', 'varlık']
+Extracted: ['kitap', 'yaratmak']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 36
+Actual: ['dil', 'rağıb', 'mufessir']
+Extracted: ['cok']
+TP: 0 TN: 0 FP: 3 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 37
+Actual: ['i̇lahî', 'insan', 'ayna', 'tecelli']
+Extracted: ['divan', 'düşünce']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 38
+Actual: ['din', 'hizmet', 'cami', 'görev', 'manevî', 'sosyal', 'yaş', 'beklenti']
+Extracted: ['cami', 'hizmet', 'yaş']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 39
+Actual: ['din', 'ahlak', 'bilgi', 'ilköğretim', 'ders', 'alan', 'kitap', 've', 'kültür', 'içerik', 'analiz', 'öğrenmek']
+Extracted: ['ders', 'öğrenmek']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 40
+Actual: ['rafız', 'rafızi', 'şia', 'maturidi']
+Extracted: ['bid', 'ebu', 'kol', 'rafız']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 41
+Actual: ['astronomi', 'burç', 'astroloji']
+Extracted: ['burç']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 42
+Actual: ['evren', 'şeria', 'ümmî', 'felsefe']
+Extracted: ['hakikat', 'şeria']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 43
+Actual: ['muhtar', 'beyt', 'intikam', 'savaş', 'kerbela', 'tevvâbun']
+Extracted: ['hz']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 44
+Actual: ['değer', 'ilköğretim', '100', 'eser', 'küresel', 'temel']
+Extracted: ['değer', 'eser']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 45
+Actual: ['müslüman', 'hollânda', 'sütun', 'okul', 'i̇slam']
+Extracted: ['eğitim', 'hollânda', 'okul']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 46
+Actual: ['ütopya', 'din', 'eleştiri']
+Extracted: ['anlayış', 'özgü']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['iletişim', 'nesir', 'şiir', 'dil', 'edebiyat']
+Extracted: ['dil']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 48
+Actual: ['görev', 'fetva', 'em']
+Extracted: ['fetva']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 49
+Actual: ['toplum', 'batı', 'belâgat', 'doğu']
+Extracted: ['belâgat', 'sanat', 'toplum']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 50
+Actual: ['mücadele', 'zemin', 'meşruiyet', 'sözlü', 'siyasî', 'kültür', 'bağlam']
+Extracted: ['ayet', 'bağlam', 'parça']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 51
+Actual: ['moğol', 'ölüm', 'meyyafarikîn', 'ahlat', 'hârizmşah', 'celaleddin']
+Extracted: ['göz', 'ittifak', 'kahraman', 'kaybetmek', 'savaş']
+TP: 0 TN: 0 FP: 6 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 52
+Actual: ['behlûl', 'reşid', 'deli', 'akıl', 'harun', 'meczub']
+Extracted: ['fars', 'hikâye']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['i̇bn', 'osmanlı', 'kemal', 'müftü', 'fukaha', 'tasnif', 'devlet']
+Extracted: ['tasnif']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 54
+Actual: ['alauddin', 'manzume', 'ohin', 'hâdis', 'şeyh', 'medrese', 'usul']
+Extracted: ['manzume']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 55
+Actual: ['türk', 'kültür', 'dil', 'değişim', 'arap']
+Extracted: ['osmanlı']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 56
+Actual: ['tiyatro', 'folklor', 'vennûs']
+Extracted: ['tiyatro']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 57
+Actual: ['fonetik', 'müzik']
+Extracted: ['ahenk', 'fasıla', 'fonetik']
+TP: 1 TN: 0 FP: 1 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 58
+Actual: ['makamat', 'tenuhi', 'edebiyat', 'hariri', 'makame']
+Extracted: ['cazibe']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 59
+Actual: ['mucize', 'determinizm', 'kuantum', 'bilim']
+Extracted: ['konferans', 'savunmak', 'özet']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 60
+Actual: ['nefs', 'i̇rfânî', 'yorum', 'modern', 'özne']
+Extracted: ['modern', 'özne']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 61
+Actual: ['yapı', 'edebî', 'üslup', 'eleştiri', 'felsefe']
+Extracted: ['değişim', 'eleştiri', 'gelişmek']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 62
+Actual: ['edebiyat', 'kültürel', 'osmanlı', 'yaşam', 'mısır', 'arap']
+Extracted: ['alınmak']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 63
+Actual: ['vali', 'siyaset', 'emevi', 'halife', 'ömer', 'sosyal', 'abdülaziz', 'medine']
+Extracted: ['halife', 'ömer']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 64
+Actual: ['hitit', 'sümer', 'babil', 'mısır', 'suç', 'hastalık']
+Extracted: ['haram', 'hastalık', 'rasyonel']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 65
+Actual: ['beddua', 'tevlîd', 'peygamber', 'hz', 'an', 'kur']
+Extracted: ['beddua', 'peygamber']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 66
+Actual: ['tevbe', 'af', 'in', 'şefaat', 'musibet', 'hasenat', 'allah']
+Extracted: ['günah', 'işlemek']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 67
+Actual: ['fazıl', 'in', 'imge', 'necip', 'şiir', 'ayna']
+Extracted: ['ayna', 'eşya', 'imge', 'şiir']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 68
+Actual: ['ülker', 'arap', 'yıldız', 'şiir', 'tasvir']
+Extracted: ['tasvir']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 69
+Actual: ['kelâmihâ', 'i̇bn', 'abbad', 'faris', 'bed', 'u', 'kitâbü', 'fi', 'arab', 'süne', 'mekayîsi', 've', 'b', 'fıkhi']
+Extracted: ['bn', 'faris']
+TP: 1 TN: 0 FP: 13 FN: 1 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 70
+Actual: ['başkan', 'vali', 'i̇bnü', 'edep', 'siyaset', 'devlet']
+Extracted: ['bahsetmek', 'başkan', 'edep', 'yazar', 'yönetmek']
+TP: 2 TN: 0 FP: 4 FN: 3 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 71
+Actual: ['edebiyat', 'osmanlı', 'kural', 'kültür', 'mısır', 'arap']
+Extracted: ['şahsiyet']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['kalp', 'batı', 'ruh', 'düşünce', 'akıl', 'bâbertî', 'i̇slam']
+Extracted: ['bâbertî', 'insan']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 73
+Actual: ['din', 'eş', 'eğitim', 'aile', 'dindar', 'evlilik', 'seçim']
+Extracted: ['fıtrî', 'tatmin']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 74
+Actual: ['engels', 'din', 'friedrich', 'materyalizm', 'idealizm', 'tarih', 'diyalektik']
+Extracted: ['düşünce', 'materyalizm']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 75
+Actual: ['zekât', 'kamu', 'gelir', 'oran']
+Extracted: ['zekât']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 76
+Actual: ['bilgi', 'nesnel', 'dinî', 'tecrübe', 'mistik', 'tanrı']
+Extracted: ['tecrübe']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 77
+Actual: ['adli', 'nesep', 'bilim', 'tıp', 'iz', 'delil', 'hukuk']
+Extracted: ['adli', 'muhakeme', 'tıp']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 78
+Actual: ['tefsir', 'an', 'kur', 'harf', 'tercüme']
+Extracted: ['tercüme']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 79
+Actual: ['biyografi', 'türkiye', 'din', 'psikolog', 'literatür']
+Extracted: ['din', 'psikolog']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 80
+Actual: ['mu', 'kabile', 'şeddâd', 'sîretü', 'dâhis', 'savaş', 'allaka', 've', 'anter', 'able', 'abs']
+Extracted: ['abs', 'anter']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 81
+Actual: ['yahudi', 'koro', 'çokkültürlü', 'hıristiyan', 'i̇slamiyet', 'çeşit', 'dinî', 'hatay', 'medeniyet', 'hoşgörü']
+Extracted: ['hatay', 'yöre']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 82
+Actual: ['an', 'ırk', 'mehmet', 'kur', 'akif', 'i̇slam']
+Extracted: ['akif']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 83
+Actual: ['din', 'ayin', 'mevlâ', 'sanat', 'sembol', 'sema']
+Extracted: ['ayin', 'mevlevi', 'sema']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 84
+Actual: ['olmak', 'kalmak', 'mutedil', 'sabit', 'tefsir', 'bakmak', 'gözetmek', 'an', 'karar', 'ayak', 'dil', 'kur', 'durmak', 'arap']
+Extracted: ['an', 'kur', 'kâme', 'türev']
+TP: 2 TN: 0 FP: 12 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 85
+Actual: ['derviş', 'yapı', 'cenevre', 'ekol', 'mahmud', 'dil']
+Extracted: ['ekol', 'metot']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 86
+Actual: ['kabile', 'peygamber', 'hassa', 'yesrib', 'hz', 'sabit', 'hazrec', 'attıl', 'medine', 'safvân']
+Extracted: ['hassa', 'şair', 'şiir']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 87
+Actual: ['farabi', 'yuhanna', 'düşünür', 'asya', 'seyfüddevle', 'felsefe', 'orta', 'i̇slam', 'haylamak']
+Extracted: ['farabi', 'mantık', 'tıp', 'yıl']
+TP: 1 TN: 0 FP: 8 FN: 3 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 88
+Actual: ['eğitim', 'atasözü', 'yönetim', 'eğitmek', 'yöntem']
+Extracted: ['atasözü', 'eğitim']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 89
+Actual: ['peygamber', 'an', 'çocuk', 'hâdis', 'kur']
+Extracted: ['çocuk', 'öldürmek']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 90
+Actual: ['fıkıh', 'mana', 'şafii', 'metin']
+Extracted: ['alim', 'ekol']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 91
+Actual: ['hak', 'bağış', 'himaye', 'ihtiyaç', 'yeti']
+Extracted: ['bulûğ', 'yeti', 'çocuk']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 92
+Actual: ['ümmî', 'endülüs', 'mezhep', 'ihtilâf', 'polemik']
+Extracted: ['bilmek', 'eser']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 93
+Actual: ['cinayet', 'delil', 'levs', 'hukuk', 'kasame']
+Extracted: ['delil', 'suç']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 94
+Actual: ['gazal', 'eş', 'atom', 'vesile', 'ariyye']
+Extracted: ['ari', 'eş', 'gazal']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 95
+Actual: ['hevze', 'kays', 'ali', 'menfûha', 'allakat', 'cihinnâm', 'leb', 'dürnâ', 'b', 'şa', 'hîre', 'sa']
+Extracted: ['güney', 'kabile', 'kays']
+TP: 1 TN: 0 FP: 11 FN: 2 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 96
+Actual: ['erotizm', 'kabbânî', 'belkîs', 'nizar', 'arap', 'suriye', 'siiri', 'çagdas', 'milliyetçiligi', 'feminizm']
+Extracted: ['kabbânî']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 97
+Actual: ['kavram', 'semantik', 'an', 'zekât', 'kur', 'sadaka']
+Extracted: ['an', 'kur']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 98
+Actual: ['terör', 'sünnet', 'fundamantalist', 'aşırı', 'orta', 'yol']
+Extracted: ['başlamak', 'müslüman', 'olay', 'örgüt']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 99
+Actual: ['vergi', 'muaviye', 'ali', 'hz', 'malik', 'denetim', 'ester', 'mısır']
+Extracted: ['ali', 'hz', 'vali']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 100
+Actual: ['kırmızı', 'sarı', 'renk', 'siyah', 'boya', 'yesil', 'an', 'mavi', 'kur', 'beyaz']
+Extracted: ['renk']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 101
+Actual: ['kelemcılar', 'kelâm', 'sünnî', 'varlık']
+Extracted: ['kelâm', 'varlık']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 102
+Actual: ['yaratmak', 'gelişim', 'an', 'kur', 'değişim', 'evren']
+Extracted: ['sistem', 'ulaşmak']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 103
+Actual: ['yaratmak', 'semantik', 'kuran', 'yaratı', 'uluhiyet', 'evren']
+Extracted: ['yaratmak']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 104
+Actual: ['olus', 'in', 'hz', 'kelime', 'ezel', 'metin', 'kutsal', 'diyalog', 'kuran', 've', 'okumak', 'kelâm', 'öte', 'sa', 'allah', 'ebed', 'tevil']
+Extracted: ['medeniyet', 'ümit']
+TP: 0 TN: 0 FP: 17 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 105
+Actual: ['i̇mâmiyye', 'ahmet', 'a', 'nikâh', 'şia', 'mut', 'feyzi']
+Extracted: ['mut']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 106
+Actual: ['organ', 'kadavra', 'nakil', 'bagısı']
+Extracted: ['kurtarmak', 'organ']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 107
+Actual: ['peygamber', 'hz', 'cahiliyye', 'okuryazar', 'yazı', 'kâtip']
+Extracted: ['faaliyet', 'yazı']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 108
+Actual: ['ekol', 'a', 'sünnet', 'yorum', 'şi', 'yaklaşmak']
+Extracted: ['mezhep', 'soru', 'su', 'şi']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 109
+Actual: ['mescid', 'hicret', 'sohbet', 'suffa', 'medine']
+Extracted: ['sohbet']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 110
+Actual: ['mektep', 'sıbyan', 'başlamak', 'disiplin']
+Extracted: ['kurum', 'okul']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 111
+Actual: ['anlamak', 'tilâvet', 'sünnet', 'an', 'kural', 'âdâb', 'kur']
+Extracted: ['adap', 'kural']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 112
+Actual: ['dil', 'azab', 'musibet', 'ceza', 'kültür', 'fitne', 'belâ']
+Extracted: ['anlam', 'kelime']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 113
+Actual: ['mana', 'cem', 'ile', 'ihtilâf', 'tercih', 'lafız', 'rivayet']
+Extracted: ['hâdis', 'rivayet']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 114
+Actual: ['konu', 'tefsir', 'an', 'tali', 'kur', 'insan', 'allah', 'ana']
+Extracted: ['muhteva', 'sıralamak', 'tasnif']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 115
+Actual: ['egitim', 'degisim', 'kalkınmak', 'an', 'gelisim', 'kur', 'ögretim']
+Extracted: ['amaç', 'egitim', 'toplum']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 116
+Actual: ['haris', 'abdullah', 'a', 'abdulmuttalib', 'kur', 'zemzem']
+Extracted: ['abdullah', 'oğul']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 117
+Actual: ['sistem', 'tabya', 'mimarî', 'savunmak', 'tahkimat', 'asker']
+Extracted: ['tabya']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 118
+Actual: ['i̇sa', 'teslis', 'ruh', 'kutsal', 'meryem', 'âlihe', 'ana', 'tanrı']
+Extracted: ['ilâhe', 'sa']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 119
+Actual: ['masal', 'binbir', 'hikâye', 'galland', 'gece', 'edebiyat', 'arap']
+Extracted: ['gece', 'masal']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 120
+Actual: ['çokluk', 'yardımlaşmak', 'an', 'diyalog', 'kardesçe', 'ahenk', 'ontolojik', 'medeniyet', 'kur']
+Extracted: ['fark', 'ırk']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['tashif', 'tahrif', 'tevrat', 'i̇ncil']
+Extracted: ['metin', 'tahrifat']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 122
+Actual: ['nübüvvet', 'abduh', 'çagdaşlaşma', 'dinî', 'tekâmül']
+Extracted: ['abduh', 'tekâmül']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 123
+Actual: ['tutar', 'tehâfüt', 'gazzali', 'elestiri']
+Extracted: ['gelenek', 'slam', 'tehâfüt', 'tehâfütler']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 124
+Actual: ['eğitim', 'peygamber', 'yetişkin', 'hz', 'kadın', 'sünnet', 'hâdis']
+Extracted: ['egitim', 'yetişkin']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 125
+Actual: ['devlet', 'vatan', 'mam', 'müdafaa']
+Extracted: ['silâh', 'vatan']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 126
+Actual: ['şii', 'hâdis', 'tedvin', 'sunni']
+Extracted: ['halife', 'hâdis']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 127
+Actual: ['beyhaki', 'a', 'sünnet', 'horasan', 'du']
+Extracted: ['coğrafya', 'eser']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 128
+Actual: ['mu', 'ali', 'sıffîn', 'osman', 'omar', 'adiyy', 'emîru', 'cemel', 'mi', 'avi', 'irak', 'tayy']
+Extracted: ['kabile']
+TP: 0 TN: 0 FP: 12 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 129
+Actual: ['konu', 'araç', 'tefsir', 'amaç', 'an', 'bilimsel', 'kur']
+Extracted: ['konu', 'kur']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 130
+Actual: ['kaza', 'cebir', 'hürriyet', 'irade', 'kader']
+Extracted: ['güç', 'yetki']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 131
+Actual: ['dergi', 'ilim', 'i̇slami', 'atatürk', 'ilâhiyat', 'üniversitesi', 'fakülte']
+Extracted: ['dergi', 'fakülte']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 132
+Actual: ['deri', 'kültür', 'hitan', 'sünnet']
+Extracted: ['kast', 'sünnet', 'uygulamak']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 133
+Actual: ['amel', 'cebir', 'saki', 'tefsir', 'kelâm', 'faaliyet', 'kader', 'said']
+Extracted: ['kader']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 134
+Actual: ['ruhban', 'bilgin', 'din', 'ahbar']
+Extracted: ['din', 'kurum']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 135
+Actual: ['nisyan', 'stihza', 'a', 'keyd', 'mekr', 'suhriyye', 'hud', 'müsâkele']
+Extracted: ['keyd', 'mekr']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 136
+Actual: ['müseylime', 'intihal', 'tahaddî', 'behaiyye', 'okumak', 'nübüvvet', 'meydan']
+Extracted: ['intihal']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 137
+Actual: ['mesel', 'atasözü', 'gizli', 'ayet', 'kâmin', 'temsil']
+Extracted: ['mesel']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 138
+Actual: ['mizaç', 'din', 'tarz', 'kisilik', 'davranıs', 'hayat', 'karakter']
+Extracted: ['kelime']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 139
+Actual: ['bilgin', 'osmanlı', 'eser', 'taftâzânî', 'medrese']
+Extracted: ['taftâzânî']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 140
+Actual: ['güney', 'şair', 'türk', 'azerbaycan', 'şiir', 'ran', 'edebiyat']
+Extracted: ['azerbaycan', 'güney']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 141
+Actual: ['zikrullah', 'tezekkür', 'an', 'ehlî', 'kur', 'zikir']
+Extracted: ['zikir']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 142
+Actual: ['ilim', 'zahir', 'batın']
+Extracted: ['zahir']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 143
+Actual: ['meddah', 'kass', 'sanat', 'kassâs', 'şehnâmehân', 'gösteri', 'kıssahân', 'temas']
+Extracted: ['basmak', 'meddah']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 144
+Actual: ['obje', 'tafsil', 'tevhid', 'icmal', 'iman']
+Extracted: ['iman', 'inanmak']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 145
+Actual: ['üslûb', 'tefsir', 'belâgat']
+Extracted: ['kitap', 'semavi']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 146
+Actual: ['anlamak', 'caz', 'tefsir', 'okumak', 'an', 'mucize', 'tefekkür', 'i̇', 'müfessir', 'kur', 'uygulamak']
+Extracted: ['ayet', 'tefsir']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 147
+Actual: ['yorumlamak', 'anlamak', 'bilim', 'metot', 'sosyal', 'dinî', 'tecrübe', 'pratik']
+Extracted: ['yorumlamak']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 148
+Actual: ['propaganda', 'davet', 'hak', 'batıl', 'an', 'kur']
+Extracted: ['davet']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 149
+Actual: ['din', 'peygamber', 'lut', 'kıssa', 'an', 'mukaddes', 'kur']
+Extracted: ['kıssa']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 150
+Actual: ['informal', 'din', 'eğitim', 'siyaset', 'dinî', 'orta', 'kırgızistan', 'asya']
+Extracted: ['kırgızistan']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 151
+Actual: ['degisim', 'teknoloji', 'sosyal', 'hâdis', 'çalısmaları', 'bilgisayar']
+Extracted: ['teknoloji']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 152
+Actual: ['türkiye', 'ahmet', 'gürtas', 'ansiklopedi', 'arap', 'vakıf', 've', 'lâhiyat', 'belâgat', 'fakülte', 'dil', 'diyanet', 'i̇slam']
+Extracted: ['yıl']
+TP: 0 TN: 0 FP: 13 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 153
+Actual: ['mu', 'i̇bn', 'abdi', 'kuteybe', 'ebû', 'allaqat', 'şiir', 'rabbih', 'hammad', 'ülkays', 'ubeyde', 'i̇mru', 'arap']
+Extracted: ['allakat', 'liste', 'şiir']
+TP: 1 TN: 0 FP: 12 FN: 2 
+Accuracy: %6.666666666666667
+-----------------
+Article Index: 154
+Actual: ['evlenmek', 'nisan', 'nikâh', 'halvet', 'htilat']
+Extracted: ['evlilik', 'nişan']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 155
+Actual: ['kozmik', 'gelmek', 'si', 'son', 'ölüm', 'tillich']
+Extracted: ['filozof', 'ölüm']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 156
+Actual: ['yaratmak', 'metafizik', 'ebû', 'varolus', 'yok', 'bekir']
+Extracted: ['tanrı', 'varlık', 'yaratmak']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 157
+Actual: ['yasa', 'birlikte', 'ncil', 'tevrat', 'kitap', 'an', 'kur']
+Extracted: ['başka', 'dış', 'gelişmek', 'inanç', 'kitap', 'saymak']
+TP: 1 TN: 0 FP: 6 FN: 5 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 158
+Actual: ['oryantalizm', 'oryantalist', 'metod', 'peygamber']
+Extracted: ['elçi', 'eğilim', 'oryantalist']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 159
+Actual: ['salât', 'saly', 'atese', 'etmek', 'salv', 'dua', 'sokmak']
+Extracted: ['kelime', 'mana', 'sıkça']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 160
+Actual: ['kesmîrî', 'mütevatir', 'htilâf', 'ma', 'ne', 'dil', 'rivayet']
+Extracted: ['hâdis', 'mesele']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 161
+Actual: ['sembolik', 'kadim', 'ufuk', 'anlam', 'gelenek', 'sembolizm', 'gizem', 'ima', 'dünya', 'evren']
+Extracted: ['idrak', 'olgu', 'sembolizm']
+TP: 1 TN: 0 FP: 9 FN: 2 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 162
+Actual: ['ehliyet', 'üç', 'aşama', 'bosama', 'hukukî', 'nafaka', 'yorum', 'dü']
+Extracted: ['hukuk', 'merginânî', 'sistem']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['antoine', 'masal', 'binbir', 'çerçeve', 'hikâye', 'galland', 'gece', 'edebiyat', 'arap']
+Extracted: ['hikâye']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 164
+Actual: ['birey', 'tefsir', 'kıssa', 'toplum', 'helâk', 'ıslah']
+Extracted: ['an', 'felâket', 'kur']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 165
+Actual: ['vazetmek', 'tevakkuf', 'linguist', 'tevkif', 'kutsal', 'dil', 'ıstılah']
+Extracted: ['dil', 'kelâm', 'mahluk']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 166
+Actual: ['kafiye', 'vezin', 'siir', 'sair']
+Extracted: ['vezin']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 167
+Actual: ['ilke', 'sembol', 'ilgi', 'protestan', 'nihaî']
+Extracted: ['tanrı']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 168
+Actual: ['kbal', 'mehmed', 'tasavvufî', 'sair', 'tasavvuf', 'remiz', 'muhammed', 'akif']
+Extracted: ['akif', 'fikir', 'ikbal', 'mehmed', 'şair']
+TP: 2 TN: 0 FP: 6 FN: 3 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 169
+Actual: ['i̇bnü', 'hacer', 'tenkidî', 'metin', 'hâdis', 'yalan', 'ravi', 'mevzu']
+Extracted: ['hâdis', 'mevzu']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 170
+Actual: ['anlamak', 'kavram', 'kelime', 'odak', 'tefsir', 'anlam', 'anahtar']
+Extracted: ['an', 'kur']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 171
+Actual: ['alem', 'ahd', 'raf', 'misak', 'a', 'kalu', 'ruh', 'fıtrat', 'elest', 'belâ']
+Extracted: ['hâdise', 'yorum']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 172
+Actual: ['iç', 'metin', 'dindar', 'aydınlanmak', 'yorum', 'skolâstik', 'dinî', 'felsefe']
+Extracted: ['kilis']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 173
+Actual: ['dua', 'farabi', 'allah']
+Extracted: ['dua']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 174
+Actual: ['ciddiyet', 'şeriat', 'dindar', 'eksen', 'ehlî', 'hâdis', 'gelenek', 'düsünenler']
+Extracted: ['ciddiyet', 'hâdis', 'sürekli']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 175
+Actual: ['müsteşrik', 'peygamber', 'hz', 'lider', 'doğru', 'şarkiyat']
+Extracted: ['insaf', 'müsteşrik', 'ılım']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 176
+Actual: ['değer', 'tertîl', 'okumak', 'an', 'kur']
+Extracted: ['anlaşmak', 'aşama', 'geçirmek']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 177
+Actual: ['fi', 'an', 'zekât', 'temlik', 'sebîlillâh', 'kur', 'sadaka', 'hac', 'cihad']
+Extracted: ['fi', 'sebîlillâh']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 178
+Actual: ['furkan', 'müfessir', 'yorum', 'müşrik', 'akıl']
+Extracted: ['müfessir']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 179
+Actual: ['aile', 'hukuk', 'boşanma', 'i̇slam']
+Extracted: ['boşanma']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 180
+Actual: ['sena', 'şükür', 'medh', 'terâdüf', 'furûk', 'yazma', 'hamd']
+Extracted: ['risale']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 181
+Actual: ['paşa', 'mimarî', 'gelibolu', 'türbe', 'saruca']
+Extracted: ['gelibolu', 'türbe']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 182
+Actual: ['dolay', 'mer', 'tefsir', 'gaon', 'an', 'mecaz', 'ma', 'kur', 'saadya']
+Extracted: ['ister', 'miras', 'sanat', 'söz']
+TP: 0 TN: 0 FP: 9 FN: 4 
+Accuracy: %0.0
+-----------------
+Total accuracy of document "Dini_Araştırmalar" is: %14.486603140449287

@@ -1,0 +1,1 @@
+Total accuracy of the keyword extraction system (on all the articles) is %17.563132385603446

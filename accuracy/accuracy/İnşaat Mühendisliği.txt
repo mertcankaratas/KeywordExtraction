@@ -1,0 +1,1201 @@
+Article Index: 1
+Actual: ['hasar', 'oturmak', 'elastik', 'yapı', 'toplam', 'kriter']
+Extracted: ['oturmak']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 2
+Actual: ['model', 'pasif', 'simülasyon', 'laboratuvar', 'eleman', 'göreli', 'deplasman', 'kazık', 'son', 'analiz']
+Extracted: ['kazık']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 3
+Actual: ['sınır', 'eleman', 'tekil', 'etkileşim', 'yöntem', 'statik', 'sürek']
+Extracted: ['formülasyon', 'tekil']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 4
+Actual: ['pasif', 'yumuşak', 'zemin', 'dayalı', 'yük', 'deplasman', 'dolgu', 'kazık', 'yöntem', 'yatay']
+Extracted: ['kazık', 'yatay']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 5
+Actual: ['serbest', 'atalet', 'oturmak', 'zemin', 'mode', 'kinematik', 'kuvvet', 'kiriş', 'deplasman', 'etkileşim', 'temel', 'winkler']
+Extracted: ['kazık', 'yük']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 6
+Actual: ['kazı', 'zemin', 'nümerik', 'modellemek', 'çivi', 'ankraj', 'destek']
+Extracted: ['analiz', 'zemin', 'çivi']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 7
+Actual: ['metro', 'eleman', 'istasyon', 'son', 'ankara', 'kızılay', 'etkileşim', 'yöntem']
+Extracted: ['ankara', 'avantaj', 'istasyon', 'metro', 'nitelik', 'şartname']
+TP: 3 TN: 0 FP: 5 FN: 3 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 8
+Actual: ['ölçüm', 'nümerik', 'eleman', 'arazi', 'son', 'analiz', 'tünel', 'etkileşim', 'yöntem']
+Extracted: ['dolayısı', 'nümerik', 'tünel']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 9
+Actual: ['iyi', 'oturmak', 'zemin', 'akaryakıt', 'çelik', 'depolamak', 'tank', 'fark']
+Extracted: ['depolamak', 'tank']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 10
+Actual: ['yöntem', 'zemin', 'güç', 'eleman', 'sığ', 'taşımak', 'son', 'temel', 'kohezyon']
+Extracted: ['güç', 'taşımak', 'teorik']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 11
+Actual: ['olmak', 'aralık', 'doğru', 'lusas', 'dinamik', 'analiz', 'etkileşim', 'yöntem']
+Extracted: ['ankastre', 'kabul']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 12
+Actual: ['yöntem', 'güç', 'eleman', 'dolgu', 'taşımak', 'son', 'şerit', 'temel', 'stabilize']
+Extracted: ['granüler', 'stabilize']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 13
+Actual: ['yöntem', 'sıvı', 'eleman', 'son', 'kazık', 'temel']
+Extracted: ['kazık', 'sıvı']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 14
+Actual: ['serbest', 'başlı', 'eleman', 'yük', 'yanal', 'kazık', 'son', 'yöntem']
+Extracted: ['kazık', 'zemin']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 15
+Actual: ['yöntem', 'güç', 'şev', 'eleman', 'taşımak', 'son', 'şerit', 'temel']
+Extracted: ['şerit', 'şev']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 16
+Actual: ['sıvı', 'tekrar', 'sayısal', 'germek', 'analiz', 'etkileşim', 'oran']
+Extracted: ['sıvı']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 17
+Actual: ['zemin', 'deprem', 'donatı', 'istinat', 'duvar']
+Extracted: ['donatı', 'duvar', 'istinat']
+TP: 3 TN: 0 FP: 2 FN: 0 
+Accuracy: %60.0
+-----------------
+Article Index: 18
+Actual: ['oturmak', 'eleman', 'son', 'yöntem', 'turba']
+Extracted: ['dilmek', 'makina', 'turba']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 19
+Actual: ['makine', 'izolâsyon', 'dövme', 'çekici', 'temel', 'titreşim', 'azalmak', 'tasarı']
+Extracted: ['makine', 'titreşim']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 20
+Actual: ['taguchi', 'yük', 'kazık', 'yöntem', 'yatay', 'optimizasyon']
+Extracted: ['kazık', 'taguchi']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 21
+Actual: ['zemin', 'mode', 'elastik', 'modül', 'parametre', 'vlasov', 'winkler']
+Extracted: ['elastik', 'modül', 'zemin']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 22
+Actual: ['taş', 'zekâ', 'dalgakıran', 'dolgu', 'ağı', 'yapay', 'sinir']
+Extracted: ['meer', 'sinir', 'taş', 'van']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 23
+Actual: ['fırın', 'kompozit', 'mekanik', 'fizik', 'dayanıklı', 'portland', 'çimento', 'sülfat', 'cüruf', 'özellik', 'yüksek', 'çelikhane']
+Extracted: ['gyfc', 'çc']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 24
+Actual: ['ağ', 'kesit', 'güç', 'geri', 'yayılım', 'ağı', 'taşımak', 'moment', 'yapay', 'kiriş', 'betonarme', 'tasarım', 'sinir']
+Extracted: ['ağ', 'sinir', 'yapay']
+TP: 3 TN: 0 FP: 10 FN: 0 
+Accuracy: %23.076923076923077
+-----------------
+Article Index: 25
+Actual: ['göçmek', 'mantık', 'yük', 'analiz', 'denetlemek', 'plastik', 'faktör', 'bulanık']
+Extracted: ['tecrübe', 'üye']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['şekil', 'kemer', 'beton', 'eleman', 'son', 'dinamik', 'analiz', 'baraj', 'optimizasyon']
+Extracted: ['baraj', 'fonksiyon', 'germek', 'kemer']
+TP: 2 TN: 0 FP: 7 FN: 2 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 27
+Actual: ['agrega', 'diyatomit', 'beton', 'hafif']
+Extracted: ['agrega', 'diyatomit', 'hafif']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 28
+Actual: ['bağlantı', 'yapı', 'alan', 'prefabrik', 'devirmek', 'afet', 'zaman', 'doğru', 'öte', 'makas', 'tanım', 'analiz', 'yönetmelik', 'kiriş']
+Extracted: ['bağlantı', 'makas', 'pim']
+TP: 2 TN: 0 FP: 12 FN: 1 
+Accuracy: %13.333333333333334
+-----------------
+Article Index: 29
+Actual: ['tabaka', 'üstyapı', 'güç', 'ekonomik', 'metot', 'taşımak', 'analiz']
+Extracted: ['dingil', 'sayı', 'üstyapı']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 30
+Actual: ['model', 'çay', 'ağ', 'zaman', 'seri', 'otoregresif', 'yapay', 'köprüçay', 'sinir', 'dim', 'manavgat']
+Extracted: ['model', 'seri', 'çay']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 31
+Actual: ['beton', 'hesap', 'proje', 'sınıf', 'betonarme', 'bina']
+Extracted: ['beton', 'sınıf']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 32
+Actual: ['darbe', 'van', 'hat', 'süre', 'su', 'analiz', 'kapamak', 'isale']
+Extracted: ['boru', 'hat']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 33
+Actual: ['zemin', 'elastik', 'modellemek', 'ızgara', 'plak', 'ile', 'analiz']
+Extracted: ['plak', 'zemin']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 34
+Actual: ['hız', 'tahminî', 'mikrodalga', 'harç', 'kür', 'dayanım']
+Extracted: ['dayanım', 'erken', 'mikrodalga', 'numune']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 35
+Actual: ['ağ', 'hesaplamak', 'esnek', 'yapay', 'yöntem', 'konsantrasyon', 'katı', 'sinir', 'madde']
+Extracted: ['denklem', 'katı', 'madde']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 36
+Actual: ['sarsıntı', 'şiddet', 'ivme', 'spektral', 'yer', 'mikrobölgeleme']
+Extracted: ['balıkesir', 'büyütmek', 'ivme', 'mikrobölgeleme']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 37
+Actual: ['değer', 'deprem', 'yönetmelik', 'yöntem', 'mevcut', 'bina']
+Extracted: ['deprem', 'yönetmelik']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 38
+Actual: ['operayonel', 'karakteristik', 'kömürhan', 'köprü', 'modal', 'dinamik', 'analiz']
+Extracted: ['karakteristik', 'köprü', 'ölçüm']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 39
+Actual: ['karayolu', 'banket', 'genişlik', 'güvenlik', 'trafik', 'şerit']
+Extracted: ['kaza', 'oluşum', 'trafik']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 40
+Actual: ['düzen', 'çerçeve', 'istinat', 'duvar', 'bodrum', 'kat', 'bina', 'burmak']
+Extracted: ['bina', 'duvar', 'istinat']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 41
+Actual: ['zemin', 'kum', 'dane', 'sınıf', 'boyut', 'yüzde', 'kıvam', 'limit', 'ince']
+Extracted: ['dane', 'ince']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 42
+Actual: ['teori', 'deformasyon', 'karakteristik', 'basınç', 'eşlem', 'çakılmak', 'denklem', 'kazık', 'düşük', 'dalga', 'yöntem', 'sinyal', 'sürek']
+Extracted: ['kazık']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 43
+Actual: ['kalker', 'incelik', 'basınç', 'çimento', 'öğütmek', 'dayanım']
+Extracted: ['artmak', 'kalker']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 44
+Actual: ['titreşim', 'yolcu', 'konfor', 'demiryolu']
+Extracted: ['hat', 'konfor']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 45
+Actual: ['batık', 'çevrinti', 'almak', 'su', 'ağız', 'kritik']
+Extracted: ['batık', 'kanal']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 46
+Actual: ['kaza', 'modellemek', 'trafik', 'analiz', 'nokta', 'kar', 'kümelemek']
+Extracted: ['kar', 'kaza']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 47
+Actual: ['kalker', 'etrenjit', 'etki', 'çimento', 'sülfat', 'tomasit']
+Extracted: ['bölüm', 'kalker', 'sülfat']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 48
+Actual: ['yük', 'integral', 'köprü', 'hareket', 'etkileşim']
+Extracted: ['hareket', 'köprü']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 49
+Actual: ['eleman', 'yapı', 'köprü', 'modal', 'tanılam', 'son', 'analiz']
+Extracted: ['modal', 'teknik']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 50
+Actual: ['olmak', 'performans', 'doğru', 've', 'viyadük', 'analiz']
+Extracted: ['doğru', 'viyadük']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 51
+Actual: ['model', 'kablo', 'aktif', 'köprü', 'küçülmek', 'kontrol']
+Extracted: ['kontrol']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 52
+Actual: ['çelik', 'sac', 'kalıp', 'karar', 'trapez']
+Extracted: ['destek', 'tsk']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 53
+Actual: ['yapı', 'yapım', 'aşama', 'çözümlemek']
+Extracted: ['yapım', 'çözümlemek']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 54
+Actual: ['tuğla', 'yüklem', 'dolgu', 'yatay', 'önüretimli', 'boşluk', 'beton', 'güç', 'tersinmek', 'eleman', 'deprem', 'duvar', 'karşı', 'perde', 'panel', 'çubuk', 'dayanım', 'tekrarlamak', 'eşdeğer', 'çerçeve', 'yüksek']
+Extracted: ['duvar', 'panel', 'tuğla', 'önüretimli']
+TP: 4 TN: 0 FP: 17 FN: 0 
+Accuracy: %19.047619047619047
+-----------------
+Article Index: 55
+Actual: ['güvenilir', 'carlo', 'oymak', 'monte', 'ayak', 'yöntem', 'kenar']
+Extracted: ['ayak', 'etraf', 'oymak']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 56
+Actual: ['karayolu', 'ekolojik', 'demiryolu', 'alan', 'kullanım', 'faktör']
+Extracted: ['alan', 'ekolojik', 'ulaşmak']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 57
+Actual: ['aralık', 'kavşak', 'yuvarlakada', 'kapasite', 'analiz', 'kritik', 'yöntem', 'regresyon', 'kabul']
+Extracted: ['aralık', 'regresyon', 'yöntem']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 58
+Actual: ['tohumlamak', 'basınç', 'hidratasyon', 'çimento', 'dayanım']
+Extracted: ['tohum', 'çimento']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 59
+Actual: ['sio2', 'kompozit', 'dype', 'kiremit']
+Extracted: ['kompozit', 'matriks']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 60
+Actual: ['karayolu', 'maliyet', 'üstyapı', 'demiryolu']
+Extracted: ['maliyet']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 61
+Actual: ['değişmek', 'betonarme', 'kolon', 'eğri']
+Extracted: ['eksenel', 'eğri', 'kolon', 'öneri']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 62
+Actual: ['lojit', 'türel', 'mode', 'ayrım', 'eminönü', 'tıkanık', 'ilişki', 'fiyat']
+Extracted: ['trafik']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 63
+Actual: ['kesit', 'güç', 'yangın', 'transfer', 'taşımak', 'tabla', 'moment', 'betonarme', 'ısı']
+Extracted: ['dağılım', 'kesit', 'sıcaklık']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 64
+Actual: ['spt', 'ysa', 'cpt', 'antalya', 'lagün', 'regresyon']
+Extracted: ['parametre', 'sıkışmak']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 65
+Actual: ['dayalı', 'güvenilir', 'analiz', 'optimizasyon']
+Extracted: ['optimizasyon', 'süreç']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 66
+Actual: ['model', 'yük', 'maliyet', 'taşımak', 'kombine', 'lojistik', 'logit']
+Extracted: ['lojistik', 'taşımak']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 67
+Actual: ['hasar', 'yapı', 'sanayi', 'prefabrik', 'görmek', 'doğru', 'öte', 'eğri', 'analiz']
+Extracted: ['hasar', 'kolon']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 68
+Actual: ['davranmak', 'operasyonal', 'modal', 'dinamik', 'analiz', 'parametre']
+Extracted: ['bina', 'frekans']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 69
+Actual: ['karayolu', 'zemin', 'yapı', 'stabilite', 'dolgu', 've', 'yarma', 'alt', 'yol', 'lös']
+Extracted: ['altyapı', 'lös']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 70
+Actual: ['sargılamak', 'lp', 'türk', 'davranmak', 'deprem', 'kolon', 'yönetmelik', 'eğilmek']
+Extracted: ['kolon', 'lp', 'tdy07']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 71
+Actual: ['çelik', 'güç', 'levha', 'kiriş', 'betonarme', 'onarım']
+Extracted: ['eğmek', 'kiriş']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 72
+Actual: ['alet', 'kaymak', 'test', 'mukavemet', 'geogrid', 'pullout']
+Extracted: ['cm', 'geogridlerin', 'pullout']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 73
+Actual: ['zeolit', 'beton', 'dayanım', 'pomza', 'yüksek']
+Extracted: ['ikame', 'pomza', 'zeolit']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 74
+Actual: ['aralık', 'değer', 'eleman', 'belirsiz', 'geometrik', 'interval', 'son', 'analiz', 'hata', 'fabrikasyon']
+Extracted: ['belirsiz', 'interval', 'kafes']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 75
+Actual: ['frekans', 'jeoistatistik', 'kriging', 'su', 'tuz', 'analiz', 'girişim', 'yeraltı', 'kalite']
+Extracted: ['kuyu', 'su']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 76
+Actual: ['iş', 'beton', 'reolojik', 'deney', 'taze', 'parametre', 'katkı']
+Extracted: ['ctpt', 'ring', 'taze', 'çökmek']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 77
+Actual: ['yük', 'aktarım', 'dolgu', 'duvar', 'kiriş', 'çatlak', 'konsol']
+Extracted: ['konsol']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 78
+Actual: ['benzeşik', 'yüklem', 'benzeri', 'dinamik', 'deney', 'hibrit']
+Extracted: ['benzeşik', 'deney', 'numune']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 79
+Actual: ['kalın', 'zemin', 'eleman', 'elastik', 'kaymak', 'plak', 'son', 'kilit']
+Extracted: ['integrasyon', 'kalın', 'plak']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 80
+Actual: ['programlamak', 'uzun', 'taşkın', 'gerçek', 'enerji', 'yaklaşmak', 'zaman', 'ardışık', 've', 'optimal', 'kısa', 'üretim', 'dinamik', 'işlemek', 'sürmek', 'kontrol']
+Extracted: ['optimal', 'taşkın']
+TP: 2 TN: 0 FP: 14 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 81
+Actual: ['klor', 'dayalı', 'carlo', 'dayanıklı', 'olasılık', 'etki', 'korozyon', 'monte', 'analiz', 'tasarım']
+Extracted: ['iyon', 'klor']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 82
+Actual: ['kuvvet', 'helisel', 'çözüm', 'merdiven', 'yöntem', 'ayrık']
+Extracted: ['helisel', 'merdiven', 'sahan', 'çözüm']
+TP: 3 TN: 0 FP: 3 FN: 1 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 83
+Actual: ['havza', 'genetik', 'ampirik', 'brooks', 'algoritma', 'esnek', 'metot', 'gediz', 'yöntem', 'askı', 'metodlar', 'katı', 'madde']
+Extracted: ['akarsu', 'gediz', 'genetik', 'havza']
+TP: 3 TN: 0 FP: 10 FN: 1 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 84
+Actual: ['sınır', 'performans', 'deprem', 'kolon', 'mafsal', 'yönetmelik', 'betonarme', 'plastik']
+Extracted: ['deney', 'genlik', 'kolon', 'uyum', 'yönetmelik']
+TP: 2 TN: 0 FP: 6 FN: 3 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 85
+Actual: ['arch', 'testi', 'nehri', 'genel', 'köprüçay', 'volatilite', 'garch', 'lagrange', 'koşul', 'otoregresif', 'değişmek', 'varyans', 'multiplier']
+Extracted: ['varyans']
+TP: 1 TN: 0 FP: 12 FN: 0 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 86
+Actual: ['zemin', 'yapı', 'deprem', 'sanayi', 'sınıf', 'maliyet']
+Extracted: ['betonarme', 'karma', 'prefabrik', 'sanayi', 'türkiye']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 87
+Actual: ['perde', 'deprem', 'bölge', 'hak', 'normal', 'süneklik', 'yönetmelik', 'yüksek', 'bina', 'tasarı', 'yapmak']
+Extracted: ['perde']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 88
+Actual: ['model', 'akı', 'türkiye', 'sayısal', 'yeraltısuyu', 'torba']
+Extracted: ['yeraltısuyu']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 89
+Actual: ['mikrotremor', 'spektral', 'dinar', 'dinamik', 'eğim', 'analiz', 'anakaya', 'oran']
+Extracted: ['anakaya', 'ivme']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 90
+Actual: ['teori', 'kármán', 'anlık', 'eleman', 'basınç', 'yük', 'plak', 'metot', 'son', 'dinamik', 'analiz', 'von', 'karışık']
+Extracted: ['anlık', 'karışık', 'plak', 'yükünmek']
+TP: 3 TN: 0 FP: 10 FN: 1 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 91
+Actual: ['taşkın', 'tahmin', 'bölgesel', 'homojen', 'analiz', 'tasarım']
+Extracted: ['homojen', 'taşkın', 'yinelemek']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 92
+Actual: ['hasar', 'şekil', 'kesit', 'birim', 'sınır', 'beton', 'etki', 'pek', 'sargı', 'değişmek']
+Extracted: ['hasar', 'sınır', 'tasarım']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 93
+Actual: ['düşey', 'yüklem', 'ampirik', 'güç', 'soket', 'yük', 'deplasman', 'kaya', 'kapasite', 'taşımak', 'kazık', 'mobilizasyonu', 'deney', 'yöntem']
+Extracted: ['ampirik', 'kapasite']
+TP: 2 TN: 0 FP: 12 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 94
+Actual: ['çınar', 'sayısal', 'fldwav', 'yıkmak', 'benzeşim', 'gedik', 'baraj']
+Extracted: ['baraj', 'yıkmak']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 95
+Actual: ['eğik', 'ardışık', 'tekil', 'yaklaşım', 'germek', 'eğilmek', 'temel', 'taban']
+Extracted: ['eğik', 'hesap']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 96
+Actual: ['tabaka', 'sismik', 'davranmak', 'tek', 'dalgakıran', 'accropode']
+Extracted: ['eleman', 'tabaka']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 97
+Actual: ['hedef', 'dayalı', 'elastik', 'davranmak', 'performans', 'enerji', 'öte', 'esas', 'yer', 'değişmek', 'tasarım']
+Extracted: ['elastik', 'göreli', 'yapı', 'ötelemek']
+TP: 1 TN: 0 FP: 10 FN: 3 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 98
+Actual: ['batık', 'çevri', 'almak', 'girmek', 'su', 'engellemek', 'ağız', 'kritik', 'hava']
+Extracted: ['akım', 'çevri']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 99
+Actual: ['karışım', 'mekanik', 'sıcak', 'asfaltit', 'bitüm', 'modifiye', 'özellik', 'modifye']
+Extracted: ['asfaltit', 'bitüm']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 100
+Actual: ['model', 'hazne', 'matematik', 'yoğun', 'akım', 'baraj', 'dalmak']
+Extracted: ['hazne']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 101
+Actual: ['araştırmak', 'kaymak', 'alan', 'armoni', 'ivme', 'zaman', 'tanım', 'seçim', 'analiz']
+Extracted: ['ivme', 'kayıt']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 102
+Actual: ['çapraz', 'perde', 'çelik', 'boy', 'itmek', 'bağ', 'analiz', 'kiriş', 'dışmerkez', 'statik']
+Extracted: ['uzunluk', 'yönetmelik', 'çapraz', 'çelik']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 103
+Actual: ['derece', 'mikrodalga', 'basınç', 'hidratasyon', 'harç', 'kür', 'dayanım']
+Extracted: ['dk', 'mk']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 104
+Actual: ['ağ', 'mode', 'kemer', 'radyal', 'aylık', 'yapay', 'akım', 'baraj', 'taban', 'sinir']
+Extracted: ['akım', 'aylık']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 105
+Actual: ['beton', 'güç', 'katsayı', 'carlo', 'etki', 'kolon', 'pek', 'sargı', 'kapasite', 'benzeşim', 'artmak', 'taşımak', 'monte', 'moment', 'eğilmek', 'yöntem', 'olası']
+Extracted: ['eğilmek', 'kapasite', 'moment', 'yardım']
+TP: 3 TN: 0 FP: 14 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 106
+Actual: ['muskingum', 'kinematik', 'taşkın', 'öte', 'metot', 'quadrature', 'dalga', 'yöntem', 'diferansiyel']
+Extracted: ['dqm', 'taşkın']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 107
+Actual: ['fizik', 'modellemek', 'eps', 'köpük', 'istinat', 'dolgu', 'duvar', 'granüler']
+Extracted: ['duvar', 'eps']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 108
+Actual: ['zemin', 'ara', 'şev', 'yük', 'basınç', 'transfer', 'ctp', 'stabilite', 'dağılım', 'kazık', 'mesafe']
+Extracted: ['kazık']
+TP: 1 TN: 0 FP: 10 FN: 0 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 109
+Actual: ['kolon', 'deprem', 'betonarme', 'ortogonallik']
+Extracted: ['birleşmek', 'denklem', 'ortogonal']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 110
+Actual: ['hasar', 'sistem', 'soymak', 'su', 'koşul', 'önlemek', 'sbs', 'katkı']
+Extracted: ['karışım', 'modifiye']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 111
+Actual: ['izlemek', 'yapı', 'rölâtif', 'yer', 'dgps', 'değişmek', 'yüksek', 'bina']
+Extracted: ['bina', 'gps', 'periyot']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 112
+Actual: ['ağ', 'erişmek', 'seçim', 'tür', 'yapay', 'sinir', 'ulaşım']
+Extracted: ['erişmek', 'seçim']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 113
+Actual: ['puzolan', 'kırmak', 'enerji', 'yaş', 'erken', 'katkı', 'kalsit']
+Extracted: ['beton', 'duma', 'gelişim', 'silis']
+TP: 0 TN: 0 FP: 7 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 114
+Actual: ['saha', 'ölçüm', 'oturmak', 'eleman', 'kaya', 'dolgu', 'son', 'analiz', 'baraj']
+Extracted: ['baraj', 'gövde', 'kaya', 'kil', 'malzeme', 'çekirdek']
+TP: 2 TN: 0 FP: 7 FN: 4 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 115
+Actual: ['testi', 'yağmak', 'homojen', 'analiz', 'kümelemek', 'yıllık']
+Extracted: ['homojen', 'kümelemek']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 116
+Actual: ['fırın', 'boya', 'kolemanit', 'donatı', 'korozyon', 'cüruf', 'barit', 'pomza', 'yüksek']
+Extracted: ['boya', 'donatı', 'korozyon']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 117
+Actual: ['santral', 'boru', 'darbe', 'korumak', 'akmak', 'önlem', 'nehir', 'bağ', 'zaman', 'su', 'cebr']
+Extracted: ['boru', 'darbe', 'önlem']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 118
+Actual: ['testi', 'yük', 'tünel', 'yüksek', 'bina', 'rüzgâr']
+Extracted: ['rüzgâr']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 119
+Actual: ['olmak', 'şekil', 'viskoz', 'akmak', 'sismik', 'performans', 'deprem', 'sönümlemek', 'doğru', 'dönme', 'analiz', 'eğri', 'değişmek', 'plastik']
+Extracted: ['ayak', 'köprü']
+TP: 0 TN: 0 FP: 14 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 120
+Actual: ['perde', 'silindirik', 'basınç', 'yük', 'sönümlemek', 'tank', 'deney', 'çalışmak', 'değişim', 'çalkantı']
+Extracted: ['tank']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 121
+Actual: ['kriter', 'hasar', 'şekil', 'sınır', 'perde', 'mafsal', 'değişmek', 'betonarme', 'kabul', 'plastik']
+Extracted: ['perde']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 122
+Actual: ['beton', 'genişlik', 'etki', 'donatı', 'pek', 'sargı', 'tabla', 'kiriş']
+Extracted: ['kapasite', 'moment', 'tabla']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 123
+Actual: ['ağ', 'ulaşmak', 'araştırmak', 'genel', 'harmoni', 'atamak', 'indirgemek', 'trafik', 'yöntem', 'ayrık', 'gradyan', 'tasarı', 'optimizasyon']
+Extracted: ['ağ', 'ağın', 'ha', 'yatırım', 'şehiriçi']
+TP: 1 TN: 0 FP: 12 FN: 4 
+Accuracy: %5.88235294117647
+-----------------
+Article Index: 124
+Actual: ['model', 'zemin', 'yük', 'yanal', 'kum', 'kısa', 'kazık', 'deney']
+Extracted: ['kazık', 'yanal']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 125
+Actual: ['beton', 'genişlik', 'etki', 'donatı', 'pek', 'sargı', 'tabla', 'kiriş']
+Extracted: ['kapasite', 'moment', 'tabla']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 126
+Actual: ['boşluk', 'düzen', 'yapı', 'döşeme', 'deprem', 'yönetmelik', 'betonarme', 'bina']
+Extracted: ['boşluk', 'deprem', 'döşeme']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 127
+Actual: ['yağmak', 'heyelân', 'uyarı', 'trabzon', 'eşik', 'erken']
+Extracted: ['heyelân']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 128
+Actual: ['kavşak', 'davranmak', 'ışık', 'kapasite', 'sürücü', 'doygun', 'akım']
+Extracted: ['doygun']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 129
+Actual: ['kat', 'ötelemek', 'gerçek', 'dönmek', 've', 'yer', 'dinamik', 'analiz', 'yapay', 'hareket', 'kısım', 'birleşim']
+Extracted: ['birleşim', 'ötelemek']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 130
+Actual: ['santral', 'güç', 'enerji', 'maliyet', 'depolamak', 'kar', 'hidroelektrik']
+Extracted: ['depolamak', 'tesis']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 131
+Actual: ['çapraz', 'incelemek', 'çerçeve', 'elastik', 'davranmak', 'ters', 'öte', 'v', 'deney', 'burmak']
+Extracted: ['burmak', 'düzen']
+TP: 1 TN: 0 FP: 9 FN: 1 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 132
+Actual: ['model', 'sıçramak', 'hacim', 'vof', 'su', 'son', 'hidrolik', 'profil', 'batmak', 'kapamak', 'yöntem', 'türbülans', 'yüz']
+Extracted: ['batmak', 'sayısal', 'sıçramak', 'türbülans']
+TP: 3 TN: 0 FP: 10 FN: 1 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 133
+Actual: ['hasar', 'sınır', 'yapı', 'itmek', 'stok', 'artım', 'analiz', 'hasargörebilirlik', 'eğri', 'analitik', 'betonarme', 'mevcut', 'bina']
+Extracted: ['bina', 'hasargörebilirlik']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 134
+Actual: ['model', 'tahminî', 'sistem', 'izlemek', 'çelik', 'tanımlamak', 'sağlık', 'yapı', 'modal', 'köprü', 'analiz', 'parametre']
+Extracted: ['modal', 'parametre']
+TP: 2 TN: 0 FP: 10 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 135
+Actual: ['darbe', 'modül', 'esnek', 'kompaksiyon', 'titreşim']
+Extracted: ['agrega', 'kompaksiyon']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 136
+Actual: ['kanal', 'sel', 'korumak', 'taşkın', 'önlem', 'çevirme', 'kapmak', 'güzelyurt']
+Extracted: ['dere', 'taşkın']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 137
+Actual: ['ölçüm', 'katsayı', 'üniform', 'istasyon', 'yatak', 'eğim', 'akım', 'sürtünmek', 'akarsu']
+Extracted: ['yatak', 'ölçüm']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 138
+Actual: ['performans', 'deprem', 'prefabrik', 'devirmek', 'güvenlik', 'birleşim', 'kesmek', 'bina']
+Extracted: ['birleşim', 'devirmek', 'kesmek']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 139
+Actual: ['model', 'düşey', 'sistem', 'prefabrik', 'kapasite', 'dren', 'deney', 'boşalmak']
+Extracted: ['boşalmak', 'pdd']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 140
+Actual: ['otomobil', 'birim', 'ağır', 'eşdeğer', 'akı', 'kavşak', 'araç', 'yuvarlakada', 'trafik']
+Extracted: ['araç', 'ağır']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 141
+Actual: ['öntasar', 'perde', 'deprem', 'kolon', 'donatı', 'basit', 'boyut', 'duvar', 'detay', 'kiriş', 'yöntem', 'betonarme']
+Extracted: ['can', 'kural']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 142
+Actual: ['fırın', 'geçirgen', 'asınma', 'granül', 'bazaltik', 'cüruf', 'pomza', 'yüksek']
+Extracted: ['bazaltik']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 143
+Actual: ['çökmek', 'beton', 'süre', 'tasım', 'alıskanlastırıcı', 'orta', 'katkı']
+Extracted: ['akıskanlastırıcı', 'katkı']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 144
+Actual: ['mantık', 'beton', 'basınç', 'silindir', 'numune', 'küp', 'dayanım', 'bulanık']
+Extracted: ['mm', 'silindir']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 145
+Actual: ['mantık', 'fizik', 'beton', 'basınç', 'kabugu', 'dayanım', 'özellik', 'bulanık']
+Extracted: ['beton', 'kabugu']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 146
+Actual: ['malzeme', 'yapı', 'alan', 'tekstil', 'kullanım', 'atık']
+Extracted: ['atık', 'tekstil']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 147
+Actual: ['basınç', 'modellemek', 'agları', 'dayanım', 'yapay', 'sinir']
+Extracted: ['gelistirilen', 'gelistirilmistir', 'ysa']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 148
+Actual: ['tasıt', 'yutmak', 'beton', 'yük', 'enerji', 'tuz', 'yol']
+Extracted: ['asamasında', 'yol']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 149
+Actual: ['kül', 'permeabilite', 'beton', 'dayanım', 'uçmak']
+Extracted: ['kül', 'uçmak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 150
+Actual: ['fizik', 'mekanik', 'hafif', 'eleman', 'blok', 'tüf', 'özellik', 'agrega', 'pomza']
+Extracted: ['agrega', 'blok', 'tüf']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 151
+Actual: ['kül', 'kapilerite', 'beton', 'portland', 'basınç', 'çimento', 'dayanım', 'uçmak']
+Extracted: ['beton', 'kül', 'uçmak']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 152
+Actual: ['beton', 'sıcaklık', 'silis', 'kür', 'yaş', 'duma', 'pomza', 'yüksek']
+Extracted: ['kür', 'numune', 'yaş']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 153
+Actual: ['yüzey', 'sanat', 'islemek', 'traverten', 'mermer', 'ebru']
+Extracted: ['mermer', 'sanat']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 154
+Actual: ['mekanik', 'parke', 'fizik', 'tas', 've', 'mermer', 'özellik', 'toz']
+Extracted: ['mermer']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 155
+Actual: ['akarçay', 'modellemek', 'aglar', 'yapay', 'akım', 'sinir']
+Extracted: ['ysa']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 156
+Actual: ['beton', 'demiryolu', 'üretim', 'travers', 'çesitleri']
+Extracted: ['travers']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 157
+Actual: ['takviye', 'polimer', 'lif', 'yapıstırıcı', 'betonarme', 'kiris', 'iliskisi']
+Extracted: ['frp']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 158
+Actual: ['olmak', 'güç', 'davranmak', 'kaymak', 'kimyasal', 'doğru', 'ankraj', 'analiz']
+Extracted: ['aktarım', 'ankrajların']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 159
+Actual: ['çimento', 'harç', 'dayanım', 'tok', 'eğilmek', 'pe']
+Extracted: ['harç', 'polietilen']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 160
+Actual: ['devir', 'sıvı', 'üç', 'risk', 'saruhanlı', 'eksen', 'harita', 'deney']
+Extracted: ['deprem', 'fay', 'silt', 'sıvı', 'yük']
+TP: 1 TN: 0 FP: 7 FN: 4 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 161
+Actual: ['kül', 'beton', 'puzolan', 'kabuk', 'çimento', 'pirinç']
+Extracted: ['kabuk', 'pirinç']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 162
+Actual: ['öngerilmeli', 'öngerilme', 'beton', 'önçekim', 'beto', 'kimyasal', 'özellik', 'ardçekim']
+Extracted: ['beton', 'öngerilmeli']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 163
+Actual: ['avantaj', 'yol', 'yapım', 'beton']
+Extracted: ['beton', 'yol', 'ülke']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 164
+Actual: ['zemin', 'yüzey', 'etüd', 'inşaat', 'geoteknik', 'rapor', 'temel']
+Extracted: ['hesap']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 165
+Actual: ['sıvılagma', 'spt', 'tuzla', 'risk']
+Extracted: ['fay', 'sıvılagma']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 166
+Actual: ['pasif', 'düzen', 'yapı', 'sönümlemek', 'kontrol', 'burmak', 'asimetrik']
+Extracted: ['burmak', 'deprem', 'sönümlemek', 'viskoz']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 167
+Actual: ['beton', 'kompasite', 'granülometri', 'porozite', 'agrega']
+Extracted: ['agrega', 'beto', 'bilesimindeki', 'miktar']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 168
+Actual: ['yüzey', 'keskin', 'çözelti', 'değişken', 'su', 'yaklaşım', 'yoğun', 've', 'taş', 'girişim', 'akım', 'deniz']
+Extracted: ['girişim', 'su', 'tuz']
+TP: 2 TN: 0 FP: 10 FN: 1 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 169
+Actual: ['demiryolu', 'ray', 'conta', 'nokta', 'birleşim', 'teşkil']
+Extracted: ['conta', 'ray']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 170
+Actual: ['beton', 'bilgisayar', 'porozite', 'harç', 've', 'mip', 'tomografi']
+Extracted: ['bt', 'mip', 'yöntem']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 171
+Actual: ['kül', 'sunta', 'reçine', 'yapışmak', 'pamuk', 'barit', 'uçmak', 'plaka', 'atık']
+Extracted: ['yalıtım']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 172
+Actual: ['mantık', 'basınç', 'zarar', 'kimyasal', 'saldırı', 'dayanım', 'ortam', 'bulanık']
+Extracted: ['basınç', 'beto', 'dayanım']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 173
+Actual: ['malzeme', 'mekanik', 'beton', 'geri', 'dönüşüm', 'özellik', 'atık']
+Extracted: ['atık', 'malzeme']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 174
+Actual: ['yapı', 'taşımak', 'mermer', 'özellik']
+Extracted: ['mermer', 'uşak']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 175
+Actual: ['hesap', 'excel', 'iksa', 'i̇ksa', 'tasarı']
+Extracted: ['kazı']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 176
+Actual: ['sap2000', 'yumuşak', 'kat']
+Extracted: ['kat', 'yumuşak']
+TP: 2 TN: 0 FP: 1 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 177
+Actual: ['talaş', 'sıcaklık', 'gazbeton', 'alüminyum', 'yüksek', 'bims']
+Extracted: ['beton', 'gazbeton']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 178
+Actual: ['zemin', 'mühendis', 'etüd', 'deprem', 'özellik']
+Extracted: ['etüt', 'zemin']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 179
+Actual: ['malzeme', 'beton', 'faz', 'polyester', 'vinilester', 'polimer', 'oran']
+Extracted: ['faz', 'reçine', 'vinilester']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 180
+Actual: ['fırın', 'kül', 'aktivasyon', 'kum', 'silis', 'cüruf', 'pomza', 'yüksek', 'uçmak']
+Extracted: ['cüruf', 'numune', 'ses', 'ultrasonik', 'yüksek']
+TP: 2 TN: 0 FP: 7 FN: 3 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 181
+Actual: ['yalıtım', 'olmak', 'çözümlemek', 'dayanıklı', 'yapı', 'deprem', 'doğru', 'kauçuk', 'izolâtör', 'taban']
+Extracted: ['bina', 'taban', 'yalıtım']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 182
+Actual: ['model', 'hacim', 'yüzey', 'üç', 'mode', 'fotogrametri', 'sayısal', 'dağılım', 'boyut', 'nokta', 'yüksek']
+Extracted: ['arazi', 'nokta']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 183
+Actual: ['boru', 'kopmak', 'bas', 'hat', 'alan', 'vorteks', 'akım']
+Extracted: ['bas', 'boru', 'hat']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 184
+Actual: ['yapı', 'statik', 'analiz']
+Extracted: ['deprem', 'statik', 'yapı']
+TP: 2 TN: 0 FP: 1 FN: 1 
+Accuracy: %50.0
+-----------------
+Article Index: 185
+Actual: ['zıvana', 'çekmek', 'birlesim', 'kapı', 'dayanım', 'ahsap']
+Extracted: ['kereste']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 186
+Actual: ['deney', 'kompozit', 'üç', 'bağlantı', 'eğmek', 'dokumak', 'yapıstırma', 'nokta']
+Extracted: ['dokumak', 'kompozit', 'olusan']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 187
+Actual: ['mantık', 'beton', 'vakum', 'lineer', 'çok', 'yoğun', 'yöntem', 'regresyon', 'radyoaktif', 'bulanık']
+Extracted: ['beton', 'vakum', 'yoğun']
+TP: 3 TN: 0 FP: 7 FN: 0 
+Accuracy: %30.0
+-----------------
+Article Index: 188
+Actual: ['deformasyon', 'zemin', 'minare', 'sondaj', 'kuyu', 'eğri', '3d', 'tasarım']
+Extracted: ['minare']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 189
+Actual: ['düzey', 'meslekî', 'beton', 'eğitim', 've', 'ankara', 'hazır', 'teknik']
+Extracted: ['eğitim']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 190
+Actual: ['kül', 'çimento', 'tüf', 'puzolanik', 'uçmak', 'aktivite']
+Extracted: ['gurup', 'kül', 'kürümek', 'uçmak']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 191
+Actual: ['enjeksiyon', 'dane', 'çimento', 'mikro', 'dnceliği']
+Extracted: ['dane', 'enjeksiyon']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 192
+Actual: ['kül', 'termik', 'santral', 'değer', 'uçmak', 'atık']
+Extracted: ['kül', 'uçmak']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 193
+Actual: ['malzeme', 'yalıtım', 'verim', 'kayıp', 'enerji', 'kazanç', 'ısı']
+Extracted: ['enerji', 'yalıtım', 'ısı']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 194
+Actual: ['zemin', 'incelemek', 'standart', 'penetrasyon', 'koni']
+Extracted: ['deney', 'penetrasyon', 'zemin']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 195
+Actual: ['asınma', 'beton', 'kaplama', 'tip', 'direnç', 'agrega', 'ince']
+Extracted: ['asınma']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 196
+Actual: ['kül', 'stabilizasyon', 'uçmak', 'puzolan']
+Extracted: ['kül', 'uçmak']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 197
+Actual: ['düzen', 'elastik', 'yapı', 'mod', 'hesap', 'performans', 'doğru', 'analiz', 'yöntem', 'birleşmek']
+Extracted: ['anlatı']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 198
+Actual: ['alan', 'zaman', '3', 'boyut', 'tanım', 'dinamik', 'analiz', 'etkileşim', 'yöntem']
+Extracted: ['yapı', 'yumuşak', 'zemin']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 199
+Actual: ['reaksiyon', 'puzolan', 'silis', 'harç', 'duma']
+Extracted: ['asr', 'harç']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 200
+Actual: ['mekanik', 'granit', 'fizik', 'özellik']
+Extracted: ['belirlenmistir', 'dayanım', 'granit']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Total accuracy of document "İnşaat Mühendisliği" is: %19.170796768590883

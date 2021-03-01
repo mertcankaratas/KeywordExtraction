@@ -1,0 +1,1207 @@
+Article Index: 1
+Actual: ['heidegger', 'metafizik', 'çağdaş', 'fenomenoloji', 'felsefe', 'gelenek', 'varlık']
+Extracted: ['felsefe']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 2
+Actual: ['toplum', 'bilim', 'yaşam', 'felsefe']
+Extracted: ['bugün', 'felsefe']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 3
+Actual: ['sorgulamak', 'anlamak', 'bilmek', 'yorum', 'eleştiri', 'felsefe']
+Extracted: ['gitmek']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 4
+Actual: ['örtük', 'sokrates', 'yaklaşım', 'gözlük', 'felsefî', 'ne', 'felsefe', 'uygulamak']
+Extracted: ['felsefe', 'yan']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 5
+Actual: ['sofist', 'cevap', 'varolmak', 'felsefî', 'fark', 'plato']
+Extracted: ['sofist', 'soru']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 6
+Actual: ['değer', 'ontoloji', 'varlık', 'bilgi']
+Extracted: ['güncel', 'ontoloji']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 7
+Actual: ['neden', 'yeti', 'anlamak', 'özgür', 'üçüncü', 'akıl', 'antinomi']
+Extracted: ['çözüm']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 8
+Actual: ['epistemoloji', 'rorty', 'heidegger', 'ontoloji', 'doğru', 'pragmatizm', 'platonculuk']
+Extracted: ['doğru']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 9
+Actual: ['sartre', 'tarih', 'anlamak', 'metot']
+Extracted: ['başarı']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 10
+Actual: ['bilim', 'gadamer', 'bildung', 'takt', 'insan']
+Extracted: ['bilim', 'sunmak']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 11
+Actual: ['heteroglossia', 'üniter', 'biçim', 'yaşam', 'oyun', 'dil']
+Extracted: ['dönüşüm']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 12
+Actual: ['derrida', 'parodi', 'metin', 'ironi', 'gösterge', 'barthes', 'foucault', 'unutmak']
+Extracted: ['ironi', 'metin', 'parodi']
+TP: 3 TN: 0 FP: 5 FN: 0 
+Accuracy: %37.5
+-----------------
+Article Index: 13
+Actual: ['hermeneutik', 'bilim', 'pozitivizm', 'sosyal', 'dilthey', 'aristoteles']
+Extracted: ['bilim', 'sosyal']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 14
+Actual: ['descartes', 'kartezyen', 'transzendental', 'fenomenoloji', 'husserl', 'felsefe', 'cogito']
+Extracted: ['bilim', 'kesin']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 15
+Actual: ['gözlem', 'bilim', 'ontoloji', 'pozitivizm', 'kuram', 'tarih', 'deney']
+Extracted: ['bilim', 'etkin', 'kuram']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 16
+Actual: ['yapıt', 'sanat', 'yaratı']
+Extracted: ['sanat']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 17
+Actual: ['hakikat', 'sanat', 'modern', 'eser']
+Extracted: ['sanat']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 18
+Actual: ['katharsis', 'sanat', 'tragedya', 'yaratmak']
+Extracted: ['duygu', 'yaratmak', 'zihin']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 19
+Actual: ['bilgi', 'temellenmek', 'olgu', 'nesnel', 'doğru', 'etik', 'normatif']
+Extracted: ['etik', 'ikilem']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 20
+Actual: ['sorun', 'ayrım']
+Extracted: ['olgu']
+TP: 0 TN: 0 FP: 2 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 21
+Actual: ['eylem', 'wittgenstein', 'tractatus', 'etik', 'aristoteles']
+Extracted: ['etik', 'nesne']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 22
+Actual: ['fayda', 'eylem', 'erdem', 'doğru', 'teleoloji', 'etik', 'deontoloji', 'normatif']
+Extracted: ['erdem', 'kuram']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 23
+Actual: ['birey', 'klâsik', 'özgür', 'liberalizm', 'siyaset', 'felsefe', 'devlet']
+Extracted: ['liberalizm']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 24
+Actual: ['nietzsche', 'köle', 'yönetmek', 'rousseau', 'efendi']
+Extracted: ['fikir', 'sözleşme']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 25
+Actual: ['ben']
+Extracted: ['epistemoloji', 'paradigma']
+TP: 0 TN: 0 FP: 1 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['kamu', 'medya', 'amaç']
+Extracted: ['medya']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 27
+Actual: ['gözlem', 'mantık', 'bilim', 'metafizik', 'kuram', 'tarih', 'deney']
+Extracted: ['bilim']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 28
+Actual: ['mantık', 'ölçüt', 'pozitivizm', 'doğru', 'tasdik', 'carnap', 'popper', 'sınırkoyma', 'yanlış']
+Extracted: ['tasdik', 'ölçüt']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 29
+Actual: ['bilgi', 'değer', 'doğru', 'yargı', 'olanak', 'bulanık']
+Extracted: ['bilgi', 'doğru']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 30
+Actual: ['figür', 'sanat', 'aylak', 'deneyim', 'üretim', 'benjamin', 'kitle', 'kültür', 'teknik', 'enformasyon']
+Extracted: ['izlek']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 31
+Actual: ['birey', 'eğitim', 'değer', 'erdem', 'amaç', 'toplum', 'insan']
+Extracted: ['eğitim']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 32
+Actual: ['ahlak', 'sade', 'doğa', 'kant', 'insan']
+Extracted: ['insan', 'sade']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 33
+Actual: ['hermeneutik', 'eleştiri', 'dil', 'gelenek', 'psikanaliz', 'ideoloji']
+Extracted: ['gadamer', 'habermas']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['materyalizm', 'tarih', 'marx', 'egemen', 'ideoloji']
+Extracted: ['ideoloji']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 35
+Actual: ['birey', 'özgür', 'toplum', 'hegel', 'devlet']
+Extracted: ['özgür']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 36
+Actual: ['i̇slam', 'hikmet', 'tıp', 'felsefe']
+Extracted: ['tıp']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 37
+Actual: ['şimdikian', 'gelmek', 'doğa', 'geçmiş', 'zaman']
+Extracted: ['zaman']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 38
+Actual: ['söylem', 'fayda', 'kura', 'bilgi', 'tutar', 'pozitivizm', 'nesne', 'uygun']
+Extracted: ['bilgi', 'nesne']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 39
+Actual: ['bilgi', 'arkhe', 'oluşmak', 'değişmek', 'varlık']
+Extracted: ['antikçağ', 'sorun', 'varlık', 'yunan']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 40
+Actual: ['modernism', 'rasyonalite', 'postmodernism', 'akıl', 'chaplin']
+Extracted: ['akıl', 'postmodern', 'rasyonel']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 41
+Actual: ['yorumlamak', 'anlamak', 'hermeneutik', 'tarih', 'felsefî', 'dil', 'varlık']
+Extracted: ['felsefî', 'hermeneutiğin', 'tin']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 42
+Actual: ['özne', 'bilinçdışı', 'merkez']
+Extracted: ['özne']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 43
+Actual: ['özgür', 'liberal', 'amaç', 'tarih', 'son', 'görüş', 'demokrasi', 'ilerlemek']
+Extracted: ['tarih']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 44
+Actual: ['düşünce', 'hikmet', 'i̇slam', 'felsefe']
+Extracted: ['hikmet', 'slam']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 45
+Actual: ['sıçramak', 'neden', 'determinizm', 'geri', 'devrim', 'heisenberg', 'atılım']
+Extracted: ['geri', 'mekanik', 'sıçramak']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 46
+Actual: ['benzer', 'ad', 'iye', 'ek', 'akraba', 'dil', 'fark', 'durum']
+Extracted: ['japonca']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 47
+Actual: ['transendens', 'inanmak', 'zaman', 'fenomenoloji', 'bilinç']
+Extracted: ['bilinç']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 48
+Actual: ['araştırmak', 'kavram', 'bilim', 'metafizik', 'rasyonalite', 'kuram', 've', 'bilimsel', 'yöntembilgisi', 'gelenek', 'kabul']
+Extracted: ['bilim', 'gelenek', 'rasyonalite']
+TP: 3 TN: 0 FP: 8 FN: 0 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 49
+Actual: ['kant', 'duygu', 'shaftesbury', 'hume', 'hutcheson']
+Extracted: ['duygu']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 50
+Actual: ['birincil', 'nitelik', 'bilgi', 'ide', 'locke', 'berkeley', 'öznel', 'ikincil']
+Extracted: ['birincil', 'maddî', 'nitelik']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 51
+Actual: ['mutlu', 'teodise', 'kötü']
+Extracted: ['kötü']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 52
+Actual: ['paylaşmak', 'eylem', 'erdem', 'düzelmek', 'hak', 've', 'toplum', 'adalet', 'devlet']
+Extracted: ['adalet']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 53
+Actual: ['içkin', 'aşkın', 'beden', 'özne', 'akıl']
+Extracted: ['beden', 'düzlem']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 54
+Actual: ['doğa', 'göreli', 'kanıt', 'yorum', 'belge', 'insan']
+Extracted: ['kesin', 'tarih']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 55
+Actual: ['bilgi', 'ide', 'empirizm', 'kesin', 'akıl']
+Extracted: ['ide', 'kesin', 'locke']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 56
+Actual: ['bilgi', 'hüküm', 'usdışı', 'peşin', 'nesnel', 'unsur', 'bilimsel', 'toplum', 'ilişki', 'gelenek', 'kültürel']
+Extracted: ['bilim']
+TP: 0 TN: 0 FP: 11 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 57
+Actual: ['epistemoloji', 'quin', 'soru', 'tez', 'carnap', 'doğal']
+Extracted: ['cevap', 'soru']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 58
+Actual: ['değer', 'anlam', 'öznel', 'dil', 'insan', 'dünya']
+Extracted: ['anlam', 'dil']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 59
+Actual: ['bütüncül', 'wittgenstein', 'etik', 'bağlam', 'dil']
+Extracted: ['betimlemek', 'pragmatizm']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 60
+Actual: ['vermek', 'sokrates', 'yurtsever', 'söz', 'saygı', 'sevgi', 'insan']
+Extracted: ['atina', 'durmak', 'saygı']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 61
+Actual: ['yasa', 'siyaset', 'zorunlu', 'hukuk', 'egemen', 'doğal']
+Extracted: ['egemen', 'hukuk', 'yasal']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 62
+Actual: ['açık', 'toplum', 'kapmak', 'popper', 'yanlış']
+Extracted: ['bilim', 'karl', 'popper', 'toplum']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 63
+Actual: ['düşünmek', 'özgür', 'felsefeylemek', 'aşmak', 'zaman', 'toplum', 've', 'kültür', 'ölüm', 'insan']
+Extracted: ['nutuk']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 64
+Actual: ['boşluk', 'atom', 'hareket', 'yok', 'değişim', 'varlık']
+Extracted: ['parmenides', 'varlık']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 65
+Actual: ['noema', 'fenomenoloji', 'yönelim', 'nesne', 'bilinç', 'yaşantı', 'noesis']
+Extracted: ['anlam', 'nesne', 'yaşantı', 'yönelim']
+TP: 3 TN: 0 FP: 4 FN: 1 
+Accuracy: %37.5
+-----------------
+Article Index: 66
+Actual: ['bilgi', 'bilim', 'sınıf', 'aristoteles', 'plato']
+Extracted: ['bilim', 'gerçekten', 'plato']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 67
+Actual: ['neden', 'yasa', 'hüküm', 'bilim', 'peşin', 'kuram', 've', 'tarih', 'varsayım']
+Extracted: ['bilim', 'meyerson']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 68
+Actual: ['din', 'dewey', 'alan', 'tahayyül', 'dinî', 'imkân']
+Extracted: ['imkân']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 69
+Actual: ['kolektif', 'değer', 'hikmet', 'bilge', 'doğu', 'felsefe']
+Extracted: ['bilge']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 70
+Actual: ['nietzsche', 'iyi', 'güç', 'kant', 'eylem', 'istem', 'insan']
+Extracted: ['istem', 'kant']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 71
+Actual: ['özgür', 'kişi', 'otantik', 'yaratı', 'ilişki', 'diyalojik']
+Extracted: ['buber', 'eğitim']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['davranmak', 'prososyal', 'özge']
+Extracted: ['özge']
+TP: 1 TN: 0 FP: 2 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 73
+Actual: ['rorty', 'oyun', 'tarih', 'zorunlu', 'hegel', 'felsefe', 'dil', 'olumsal']
+Extracted: ['görüngübilim', 'pragmatik', 'önsöz']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 74
+Actual: ['fizik', 'heidegger', 'kant', 'zaman', 'ekstatik', 'varlık']
+Extracted: ['heidegger', 'zaman']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 75
+Actual: ['kamu', 'yönetim', 'hak', 'etik', 'insan']
+Extracted: ['etik', 'kamu']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 76
+Actual: ['söylem', 'kimlik', 'abdal', 'kültür', 'alevi']
+Extracted: ['abdal', 'kimlik']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 77
+Actual: ['barı', 'yaz', 'iddet', 'tarih', 'sava', 'hatırlamak']
+Extracted: ['benjamin', 'hatırlamak', 'tarih']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 78
+Actual: ['vermek', 'eichmann', 'özgür', 'siyaset', 'hannah', 'doğru', 'karar', 'adalet', 'arendt', 'felsefe', 'dava']
+Extracted: ['arendt', 'dava']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 79
+Actual: ['olumsuzlamak', 'kuvvet', 'şiddet', 'ihlâl', 'hegel']
+Extracted: ['olumsuzlamak', 'şiddet']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 80
+Actual: ['liberalizm', 'siyaset', 'ekonomi', 'küresel', 'yerel', 'evren']
+Extracted: ['küresel']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 81
+Actual: ['postmodernizm', 'ahlak', 'modernizm', 'toplum', 'etik', 'mekân']
+Extracted: ['ahlaki', 'mekân', 'sorumluluk']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 82
+Actual: ['evrim', 'kavga', 'dönüşüm', 'gelişmek', 'tür', 'ayıklamak', 'hayat', 'doğal', 'mükemmel', 'ilerlemek']
+Extracted: ['baz', 'darwin', 'düşünür']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 83
+Actual: ['zleşme', 'özgür', 'genel', 'toplum', 'rousseau', 'irade', 'eşit', 's']
+Extracted: ['rousseau']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 84
+Actual: ['eski', 'mitos', 'hesiodos', 'homeros', 'themis', 'dikmek', 'yunan', 'adalet', 'şiir', 'hubris', 'plato']
+Extracted: ['şair']
+TP: 0 TN: 0 FP: 11 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 85
+Actual: ['bilgi', 'kavram', 'schopenhauer', 'hakikat', 'yaşam', 'algı', 'soyut']
+Extracted: ['bilgi', 'schopenhauer']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 86
+Actual: ['hak', 'realizm', 'felsefî', 'hukuk', 'doğal', 'insan', 'wild', 'john']
+Extracted: ['doğal', 'hukuk']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 87
+Actual: ['niccolo', 'machiavelli', 'ahlak', 'hobbes', 'locke', 'thomas', 'ilişki', 'john']
+Extracted: ['ahlak', 'isim', 'siyasal', 'soru']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 88
+Actual: ['sorun', 'kelime', 'son', 'i', 'harf']
+Extracted: ['agnostik', 'kuşku']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 89
+Actual: ['i̇bn', 'haldun', 'tarih', 'toplum', 'devlet']
+Extracted: ['bn', 'dal', 'haldun']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 90
+Actual: ['genişlemek', 'kant', 'sensus', 'yargı', 'zihniyet', 'arendt', 'communis', 'beğeni']
+Extracted: ['arendt']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 91
+Actual: ['hermeneutik', 'vico', 'gerçek', 'bütün', 'hegel', 'dilthey']
+Extracted: ['hermeneutik']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 92
+Actual: ['din', 'ilke', 'gelecek', 'ludwig', 'hegel', 'andreas', 'felsefe', 'feuerbach', 'tanrı']
+Extracted: ['feuerbach', 'gelecek', 'hegel']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 93
+Actual: ['değer', 'doğa', 'korku', 'varoluş', 'hak', 'çevre', 'politika', 'hukuk', 'insan']
+Extracted: ['değer', 'doğa', 'hak', 'insan']
+TP: 4 TN: 0 FP: 5 FN: 0 
+Accuracy: %44.44444444444444
+-----------------
+Article Index: 94
+Actual: ['atom', 'agnostisizm', 'ateizm', 'mantıkç', 'şüphe', 'bertrand', 'russell']
+Extracted: ['agnostik', 'russell']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 95
+Actual: ['rorty', 'liberalizm', 'zulüm', 'estetik', 'aydınlanmak', 've', 'postmodernist', 'demokrasi', 'burjuva']
+Extracted: ['vaat']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 96
+Actual: ['cinsel', 'ayrım', 'sınıf', 'aşk', 'sevgi', 've', 'egemen', 'diyalektik', 'mülkiyet', 'özel']
+Extracted: ['csa', 'doğal', 'sapmak', 'toplum']
+TP: 0 TN: 0 FP: 10 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 97
+Actual: ['kayıp', 'uygarlık', 'darwin', 'kopernik', 'felsefe', 'insan', 'antroposentrik']
+Extracted: ['şok']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 98
+Actual: ['iç', 'bilgi', 'bilim', 'dış', 'bilimsel', 'hes', 'sosyoloji']
+Extracted: ['fenomen']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 99
+Actual: ['bilgi', 'hakikat', 'kuram', 'inşa', 'bilimsel', 'sosyal', 'dil']
+Extracted: ['hakikat']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 100
+Actual: ['nietzsche', 'değer', 'sanat', 'tarihyazımı', 'tarih', 'hayat']
+Extracted: ['nietzsche', 'tarih']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 101
+Actual: ['nietzsche', 'romantisizmi', 'birlik', 'almak', 'hölderlin', 'dönem', 'erken', 'varlık', 'ayırmak']
+Extracted: ['antik', 'hölderlin', 'nietzsche']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 102
+Actual: ['istisna', 'siyaset', 'dış', 'olağan', 'carl', 'schmitt']
+Extracted: ['siyaset']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 103
+Actual: ['liberalizm', 'yönetim', 'foucault', 'iktidar']
+Extracted: ['liberalizm', 'yönetim']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 104
+Actual: ['iktidar', 'istisna', 'devlet', 'egemen']
+Extracted: ['egemen', 'istisna', 'uygulamak']
+TP: 2 TN: 0 FP: 2 FN: 1 
+Accuracy: %40.0
+-----------------
+Article Index: 105
+Actual: ['eğitim', 'mori', 'edgar', 'gelecek', 'etik', 'felsefe', 'insan']
+Extracted: ['eğitim', 'mori', 'öğretmek']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 106
+Actual: ['anlam', 'stres', 'varoluş', 'gerçek']
+Extracted: ['kavram']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 107
+Actual: ['robert', 'bilgi', 'bilim', 'merton', 'whigizm', 'sosyoloji']
+Extracted: ['bölüm']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 108
+Actual: ['arnold', 'toplumbilim', 'tarih', 'toynbee', 'sosyoloji', 'joseph']
+Extracted: ['kültür', 'tarih']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 109
+Actual: ['ahlak', 'din', 'ilkçağ', 'erdem', 'felsefe', 'akıl', 'ortaçağ']
+Extracted: ['ahlak', 'etik', 'ortaçağ']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 110
+Actual: ['özgür', 'liberalizm', 'rawls', 'darwinizm', 'eşit', 'john']
+Extracted: ['liberal']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 111
+Actual: ['liberalizm', 'bekçi', 'hükümet', 'aydınlanmak', 'toplum', 'i̇skoç', 'gece', 'hume', 'sözleşme', 'devlet', 'manchester']
+Extracted: ['adam', 'smith']
+TP: 0 TN: 0 FP: 11 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 112
+Actual: ['i̇bn', 'hazm', 'estetik', 'aşk', 'etik', 'güzel']
+Extracted: ['güzel']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 113
+Actual: ['modernizm', 'estetik', 'marksizm', 'lukacs', 'edebiyat']
+Extracted: ['lukacs']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 114
+Actual: ['mantık', 'toplum', 'kültür', 'felsefe', 'dil']
+Extracted: ['aşama', 'dil', 'gelişim']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 115
+Actual: ['soyutlamak', 'ad', 'ide', 'genel', 'gerçek', 'soyut', 'locke', 'öz']
+Extracted: ['ide']
+TP: 1 TN: 0 FP: 7 FN: 0 
+Accuracy: %12.5
+-----------------
+Article Index: 116
+Actual: ['ahlaki', 'din', 'bilim', 'tabiat', 'ekoloji', 'dil']
+Extracted: ['dil', 'din', 'tabiat']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 117
+Actual: ['sanat', 'estetik', 'oyun', 'fantezi', 'sinematografi', 'felsefe', 'bilgisayar']
+Extracted: ['bilgisayar']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 118
+Actual: ['metafizik', 'hakikat', 'bilge', 'eleştirel', 'trajik', 'düşünce', 'trajedi', 'dekadans']
+Extracted: ['dekadans', 'hakikat', 'nietzsche']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 119
+Actual: ['geltung', 'us', 'iletişim', 'öznelerarasılık', 'geçerli', 'temel', 'seinsverlossenheit', 'unutmak', 'varlık']
+Extracted: ['düşünür', 'habermas']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 120
+Actual: ['cogito', 'düalizm', 'descartes', 'bilge']
+Extracted: ['bilge', 'descartes']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 121
+Actual: ['roman', 'filozof', 'felsefî', 'felsefe', 'edebiyat']
+Extracted: ['edebiyat', 'edebî']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 122
+Actual: ['hakikat', 'perspektivizm', 'diyalog', 'hermeneutik']
+Extracted: ['gadamer', 'ufuk']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 123
+Actual: ['düşünmek', 'heidegger', 'parmenides', 'noein', 'varlık']
+Extracted: ['heidegger', 'metafizik', 'varlık', 'yargı']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 124
+Actual: ['sokratik', 'logos', 'plato', 'mit', 'diyalog', 'paideia']
+Extracted: ['logos', 'mythos']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 125
+Actual: ['varoluş', 'öte', 'yabancı', 'insan', 'değişim']
+Extracted: ['yabancı']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 126
+Actual: ['bilgi', 'kant', 'ben', 'zaman', 'anschauung', 'sezgi', 'kategori', 'mekân']
+Extracted: ['kavramak', 'zaman']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 127
+Actual: ['romantizm', 'rorty', 'almak', 'dil', 'erken']
+Extracted: ['erken']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 128
+Actual: ['iki', 'bir', 'badiou', 'temsil']
+Extracted: ['badiou']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 129
+Actual: ['heidegger', 'metafizik', 'ousia', 'mevcudiyet', 'aristoteles']
+Extracted: ['heidegger', 'ousia']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 130
+Actual: ['zihin', 'descartes', 'bilinç', 'searle', 'düalizm']
+Extracted: ['bilinç', 'searle']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 131
+Actual: ['descartes', 'otomaton', 'hak', 'beden', 've', 'hayvan', 'iki']
+Extracted: ['descartes']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 132
+Actual: ['bilgi', 'epistemik', 'paradigma', 'cemaat', 'bilimsel']
+Extracted: ['epistemik']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 133
+Actual: ['yaratmak', 'zaman', 'sayı', 'oluşmak', 'son', 'hareket', 'şimdi', 'değişim', 'mekân', 'evren']
+Extracted: ['zaman']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 134
+Actual: ['iman', 'batı', 'rasyonel', 'felsefe']
+Extracted: ['iman']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 135
+Actual: ['mantık', 'nyaya', 'hint', 'aristoteles', 'kıyas']
+Extracted: ['mantık']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 136
+Actual: ['i̇şrak', 'bilgi', 'sühreverdî']
+Extracted: ['alem', 'nur']
+TP: 0 TN: 0 FP: 3 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 137
+Actual: ['mizaç', 'kalp', 'tabip', 'nefs', 'tıp', 'felsefe', 'insan']
+Extracted: ['beyin', 'organ', 'organizma']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 138
+Actual: ['din', 'amasî', 'netîcetü', 'alâyî', 'atü', 've', 'mir', 'adalet', 'gazzali', 'devlet', 'nasîhatü']
+Extracted: ['alâyî', 'amasî']
+TP: 2 TN: 0 FP: 9 FN: 0 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 139
+Actual: ['neden', 'nitelik', 'ilke', 'doğa', 'sözlük', 'ousia', 'imkân']
+Extracted: ['aristoteles', 'metin']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 140
+Actual: ['osmanlı', 'kuvvet', 'materyalizm', 'filibe', 'şehbenderzâde', 'hilmi', 'aydınlanmak', 've', 'ahmed', 'büchner', 'madde']
+Extracted: ['madde', 'materyalist', 'materyalizm', 'osmanlı']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 141
+Actual: ['taşköprîzâde', 'tefsir', 'ahmed', 'ihlâs', 'sure', 'efendi']
+Extracted: ['tefsir']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 142
+Actual: ['abdullah', 'din', 'batı', 'cevdet', 'modern', 'felsefe']
+Extracted: ['cevdet', 'düşünce', 'türk']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 143
+Actual: ['neden', 'nitelik', 'ilke', 'doğa', 'sözlük', 'ousia', 'imkân']
+Extracted: ['aristoteles', 'metin']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 144
+Actual: ['ispatlamak', 'ilke', 'ad', 'redictio', 'absurdum', 'çelişmek', 'irca', 'abes', 'yöntem', 'aristoteles']
+Extracted: ['abes', 'irca']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 145
+Actual: ['diodorus', 'stoacılık', 'atom', 'de', 'chrysippus', 'zorunlu', 'epicurusçuluk', 'cicero', 'felsefe', 'democritus', 'kader', 'fato']
+Extracted: ['cicero']
+TP: 1 TN: 0 FP: 11 FN: 0 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 146
+Actual: ['mantık', 'frege', 'paradoks', 'sayı', 'aritmetik', 'temel', 'russell']
+Extracted: ['frege']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 147
+Actual: ['therapeutae', 'yahudi', 'i̇skenderiye', 'therapeutrides', 'mistisizm', 'philo', 'mısır']
+Extracted: ['mistik']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 148
+Actual: ['olmak', 'iyi', 'mutlu', 'hayat', 'haz']
+Extracted: ['terim']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 149
+Actual: ['siyasal', 'kant', 'immanuel', 'devrim', 'otorite', 'itaat']
+Extracted: ['kant']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 150
+Actual: ['saf', 'mantık', 'formel', 'anlamak', 'genel', 'akıl', 'uygulamak']
+Extracted: ['mantık']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 151
+Actual: ['diodorus', 'stoacılık', 'atom', 'de', 'chrysippus', 'zorunlu', 'epicurusçuluk', 'cicero', 'felsefe', 'democritus', 'kader', 'fato']
+Extracted: ['cicero', 'eser', 'yunanca']
+TP: 1 TN: 0 FP: 11 FN: 2 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 152
+Actual: ['görünüş', 'kılmak', 'leksikolojik', 'ikilem', 'morfolojik']
+Extracted: ['görünüş']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 153
+Actual: ['malay', 'şirket', 'ferec', 'çokdilli', 'arapça', 'ömer', 'matbaa', 'şah', 'lâmiyyat', 'hindistan', 'oxford', 'ahbar', 'hüseyin', 'ali', 'mahmud', 'l', 'üniversitesi', 'fida', 'basım', 'ebü', 'yayın', 'la', 'cambridge', 'i̇ngiltere', 'leiden', 'muhammed', 'mi', 'tufeyl', 'davud', 'i̇bni', 'harf', 'al', 'ebu', 'de', 'hulcî', 'doğu', 've', 'lat', 'müeyyedüdin', 'arrî']
+Extracted: ['arapça', 'matbaa']
+TP: 2 TN: 0 FP: 38 FN: 0 
+Accuracy: %5.0
+-----------------
+Article Index: 154
+Actual: ['hiç', 'birlik', 'karşıt', 'çokluk', 'alêtheia', 'dok', 'varlık']
+Extracted: ['dikmek', 'parmenides', 'yolcu']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 155
+Actual: ['determinizm', 'fizik', 'klâsik', 'sebep', 've', 'modern', 'kelâm']
+Extracted: ['fizik', 'kelâm', 'sebep']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 156
+Actual: ['adam', 'smith', 'siyasal', 'i̇skoç', 'hukuk', 'doğal', 'düşünce', 'şüphe', 'kalvincilik']
+Extracted: ['kısım']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 157
+Actual: ['takımyıldız', 'zodyak', 'bedrü', 'astronomi', 'ayni', 'yıldız']
+Extracted: ['eser', 'minyatür']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 158
+Actual: ['materyalizm', 'batı', 'i̇slam', 'bilim']
+Extracted: ['büchner']
+TP: 0 TN: 0 FP: 4 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 159
+Actual: ['mantık', 'ilim', 'paşa', 'cevdet', 'ahmed', 'sedad']
+Extracted: ['ahmed', 'cevdet', 'paşa']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 160
+Actual: ['müteahhir', 'mantık', 'birlik', 'düşünce', 'tanım', 'dönem', 'ilişki', 'molla', 'hüsrev']
+Extracted: ['bn', 'ilişki', 'sina']
+TP: 1 TN: 0 FP: 8 FN: 2 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 161
+Actual: ['model', 'osmanlı', 'bilim', 'bilgi', 'şirazi', 'geometrik', 'kutbuddin', 'sosyal', 'astronomi']
+Extracted: ['fi']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 162
+Actual: ['içermek', 'bağıntı', 'eşit', 'orantı']
+Extracted: ['filozof', 'müracaat', 'yarım']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['beyânü', 'şirazi', 'tıp', 'ile', 'kutbuddin', 'hekim']
+Extracted: ['kutbuddin', 'şirazi']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 164
+Actual: ['kaza', 'maturidi', 've', 'kader', 'cüz', 'i̇y', 'müstakimzade']
+Extracted: ['müstakimzâde', 'risale']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 165
+Actual: ['geçmiş', 'zaman', 've', 'modern', 'arkaik', 'tasarım', 'tasarı']
+Extracted: ['arkaik', 'geçmiş']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 166
+Actual: ['ben', 'inşa', 'anlayış', 'modern', 'felsefe', 'özne']
+Extracted: ['descartes', 'düzenlemek', 'inşa']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 167
+Actual: ['sayı', 'mill', 'aritmetik', 'doğal', 'temel']
+Extracted: ['mill']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 168
+Actual: ['bilim', 'vico', 'tarih', 'felsefe', 'yeni', 'insan', 'giambattista']
+Extracted: ['vico']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 169
+Actual: ['boşluk', 'yer', 'kategori', 'aristoteles', 'mekân']
+Extracted: ['mekân']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 170
+Actual: ['ahlaki', 'ahlak', 'hukukî', 'isyan', 'sorumluluk']
+Extracted: ['sorumluluk', 'top']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 171
+Actual: ['derrida', 'söküm', 'metafizik', 'différance', 'yapı', 'almak', 'yapısöküm', 'mevcudiyet']
+Extracted: ['derrida', 'yapı', 'yapısökümün']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 172
+Actual: ['makine', 'tecrübe', 'deney', 'düşünce', 'nozick', 'haz']
+Extracted: ['haz']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 173
+Actual: ['korku', 'ölüm', 'cesaret', 'plato']
+Extracted: ['cesaret']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 174
+Actual: ['yaratmak', 'meister', 'ruh', 'mistisizm', 'eckhart', 'emanatio', 'doğum']
+Extracted: ['eckhart', 'sistem']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 175
+Actual: ['derrida', 'eflatun', 'ney', 'mevlâ', 'prezantasyon', 'pharmakon']
+Extracted: ['konuşmak']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 176
+Actual: ['cevher', 'ilişki', 'ideal', 'tanrı']
+Extracted: ['cevher', 'leibniz']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 177
+Actual: ['doğuştan', 'zihin', 'ilke', 'bilgi', 'ide', 'locke', 'levha', 'boş', 'kabul']
+Extracted: ['doğuştan', 'kazınmak']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 178
+Actual: ['gombrowicz', 'polonya', 'witold', 'varoluş', 'edebiyat']
+Extracted: ['mücadele']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 179
+Actual: ['din', 'reformasyon', 'süreç', 'dogma', 'hıristiyan', 've', 'felsefe']
+Extracted: ['hıristiyan', 'reform', 'whitehead']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 180
+Actual: ['akıl', 'aristoteles', 'mutlu', 'kapsamak']
+Extracted: ['aristoteles', 'eudaimonia', 'nikomakhos']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 181
+Actual: ['sudur', 'plotinus', 'enneadlar']
+Extracted: ['atun', 'efl', 'enneadlar', 'heinemann', 'plotinus']
+TP: 2 TN: 0 FP: 1 FN: 3 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 182
+Actual: ['vahiy', 'keşf', 'bâtıni', 'bilgi', 'ilham', 'ilim', 'gazzali', 'tecrübe', 'dinî']
+Extracted: ['delil', 'dinî', 'tecrübe']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 183
+Actual: ['insan', 'kültür', 'çevre']
+Extracted: ['doğa', 'doğal', 'çevre']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 184
+Actual: ['teori', 'postmodernizm', 'modernizm', 'sosyal', 'sosyoloji']
+Extracted: ['ironi', 'kök', 'postmodern', 'söylem']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 185
+Actual: ['belirlemek', 'olumsuzlamak', 'tin', 'yabancı', 'hegel', 'diyalektik']
+Extracted: ['hegel']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 186
+Actual: ['türkiye', 'immanuel', 'kant', 'de', 'çalışmak']
+Extracted: ['bibliyografya', 'kant']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 187
+Actual: ['locke', 'amerikan', 'sömürge', 'amerika', 'yerli', 'john']
+Extracted: ['sömürge']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 188
+Actual: ['neden', 'yasa', 'düzen', 'doğa', 'doğaüstü', 'mucize']
+Extracted: ['doğrultu', 'mucize']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 189
+Actual: ['roma', 'mercurius', 'hermes', 'mitoloji', 'hermetizm', 'mısır']
+Extracted: ['kutsal', 'thoth']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 190
+Actual: ['ticaret', 'i̇slami', 'bölmek']
+Extracted: ['olay', 'sasani', 'slam']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 191
+Actual: ['olmak', 'ayrım', 'politik', 'egemen', 'parlementarizm']
+Extracted: ['schmitt']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 192
+Actual: ['i̇bn', 'türk', 'haldun', 'mukaddime', 'selçuklu', 'i̇slam']
+Extracted: ['fi', 'kir', 'tecrübe', 'türk']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 193
+Actual: ['alparslan', 'batı', 'dünyagörüşü', 'doğu', 'felsefe', 'açıkgenç']
+Extracted: ['batı', 'doğu', 'prensip']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 194
+Actual: ['sofist', 'antik', 'ikna', 'siyaset', 'etmek', 'retorik', 'yunan', 'solo', 'da']
+Extracted: ['konuşmak']
+TP: 0 TN: 0 FP: 9 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 195
+Actual: ['barok', 'blake', 'kıvrım', 'hogarth', 'caricata', 'dönem', 'reynolds']
+Extracted: ['ressam']
+TP: 0 TN: 0 FP: 7 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 196
+Actual: ['thukydides', 'yasa', 'mitos', 'tarih', 'yunan', 'adalet', 'yazı', 'herodot', 'evren']
+Extracted: ['yunan']
+TP: 1 TN: 0 FP: 8 FN: 0 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 197
+Actual: ['i̇bn', 'gazal', 'eflatun', 'ahlak', 'bilgi', 'heidegger', 'kant', 'felsefe', 'varoluş', 'arabi', 'öğreti', 'kierkegaard', 'sina', 'aristoteles', 'varlık']
+Extracted: ['önplan']
+TP: 0 TN: 0 FP: 15 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 198
+Actual: ['sünnî', 'üçüncü', 'kültür', 'felsefe', 'dil', 'pers', 'dünya', 'ideoloji']
+Extracted: ['gazzali']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 199
+Actual: ['gazal', 'ahlak', 'ahlâh', 'an', 'etik', 'adalet', 'felsefe', 'kur', 'da', 'i̇slam']
+Extracted: ['adalet', 'gazal']
+TP: 2 TN: 0 FP: 8 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 200
+Actual: ['mode', 'din', 'bilim', 'doğa', 'çağdaş', 'realizm', 'eleştirel', 'açıklamak', 'düşünce']
+Extracted: ['düşünce', 'çağdaş']
+TP: 2 TN: 0 FP: 7 FN: 0 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 201
+Actual: ['ahlak', 'mutlu', 'sevgi', 'güzel', 'marifetullah']
+Extracted: ['ahlak', 'açı']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Total accuracy of document "Felsefe" is: %15.97425929515481

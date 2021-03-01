@@ -1,0 +1,1201 @@
+Article Index: 1
+Actual: ['nöroproteksiyon', 'glokom', 'memantin', 'retina', 'sıçan']
+Extracted: ['memantin', 'rgh']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 2
+Actual: ['cionni', 'kapsül', 'modifiye', 'konjenital', 'lens', 'germek', 'halka', 'subluksasyonu']
+Extracted: ['gil', 'mkgh', 'subluksasyonlu']
+TP: 0 TN: 0 FP: 8 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 3
+Actual: ['anestezik', 'transplântasyon', 'yanık', 'keratit', 'kimyasal', 'membran', 'amniyon', 'topikal', 'band', 'postenfeksiyöz', 'taze', 'keratopati', 'suiistimal']
+Extracted: ['epitel', 'postenfeksiyöz']
+TP: 1 TN: 0 FP: 12 FN: 1 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 4
+Actual: ['iç', 'eşdeğer', 'kayıp', 'sferik', 'fakik', 'lens', 'hücre', 'artiflex', 'artisan', 'göz', 'fiksasyonlu', 'iris', 'endotel']
+Extracted: ['katlanmak']
+TP: 0 TN: 0 FP: 13 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 5
+Actual: ['serum', 'iç', 'hemoglobin', 'glikolize', 'varyasyon', 'basınç', 'diurnal', 'lipidleri', 'dalga', 'göz']
+Extracted: ['dalga', 'diurnal', 'hba1c', 'varyasyon']
+TP: 3 TN: 0 FP: 7 FN: 1 
+Accuracy: %27.27272727272727
+-----------------
+Article Index: 6
+Actual: ['iç', 'gün', 'basınç', 'maleat', 'dalga', 'göz']
+Extracted: ['ltsk', 'oküler', 'paag']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 7
+Actual: ['gözyaşı', 'latanoprost', 'kırmak', 'zaman', 'hücre', 'goblet']
+Extracted: ['bengal', 'gözyaşı', 'kırmak', 'rose']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 8
+Actual: ['kalın', 'iç', 'basınç', 'xl', 'göz', 'merkez', 'goldmann', 'tonometresi', 'aplanasyon', 'kornea', 'tonopen']
+Extracted: ['gat', 'tonopen']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 9
+Actual: ['dezenfeksiyon', 'cerrahi', 'oküler', 'sterilizasyon', 'temiz']
+Extracted: ['alet']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 10
+Actual: ['vitrektomi', 'iç', 'katarakt', 'lens', 'ön', 'göz', 'kapsülorekzis', 'capture', 'optik']
+Extracted: ['basamak', 'cerrahi', 'pediatrik']
+TP: 0 TN: 0 FP: 9 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 11
+Actual: ['alan', 'görmek', 'glokom']
+Extracted: ['algoritma', 'db', 'fp', 'ft', 'ss']
+TP: 0 TN: 0 FP: 3 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 12
+Actual: ['kalın', 'korneal', 'astigmatizma', 'indüklemek', 'fakoemülsifikasyon']
+Extracted: ['indüklemek']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 13
+Actual: ['kalın', 'iç', 'histerezis', 'korneal', 'tonometri', 'glokom', 'basınç', 'merkez', 'özellik', 'kornea', 'göz', 'biyomekanik']
+Extracted: ['gib', 'tonometrik']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 14
+Actual: ['kalın', 'ajan', 'glokom', 'foveal', 'prostoglandinler', 'koherens', 'antiglokomatöz', 'optik', 'tomografi']
+Extracted: ['foveal', 'grup']
+TP: 1 TN: 0 FP: 8 FN: 1 
+Accuracy: %10.0
+-----------------
+Article Index: 15
+Actual: ['i̇ntraoperatif', 'tamsulosin', 'floppy', 'fakoemülsifikasyon', 'sendrom', 'iris']
+Extracted: ['fi']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 16
+Actual: ['enjeksiyon', 'iç', 'ranibizumab', 'basınç', 'i̇ntravitreal', 'göz']
+Extracted: ['enjeksiyon', 'mmhg']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 17
+Actual: ['ödem', 'katarakt', 'koherens', 'makul', 'optik', 'tomografi']
+Extracted: ['ay', 'bilateral', 'kısa', 'smk', 'unilateral']
+TP: 0 TN: 0 FP: 6 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 18
+Actual: ['pentacam', 'santral', 'kalın', 'glokom', 'ultrasonik', 'kornea', 'pakimetri']
+Extracted: ['kalın', 'kornea', 'up', 'µm']
+TP: 2 TN: 0 FP: 5 FN: 2 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 19
+Actual: ['latanoprost', 'santral', 'bimatoprost', 'kalın', 'kornea', 'travoprost', 'pakimetri']
+Extracted: ['hafta', 'incelmek', 'skk']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 20
+Actual: ['segment', 'cionni', 'sublükse', 'kapsül', 'katarakt', 'germek', 'ahmed', 'halka']
+Extracted: ['halka', 'kapsül']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 21
+Actual: ['astigmatizma', 'vektöryel', 'limbal', 'gevşemek', 'analiz', 'kesi']
+Extracted: ['astigmatizma', 'gevşemek', 'kesi', 'limbal']
+TP: 4 TN: 0 FP: 2 FN: 0 
+Accuracy: %66.66666666666666
+-----------------
+Article Index: 22
+Actual: ['iç', 'trabekülektomi', 'basınç', 'panç', 'göz', 'fakotrabekülektomi']
+Extracted: ['descemet', 'fakotrabekülektomi', 'pançı']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 23
+Actual: ['torsional', 'enerji', 'yaymak', 'longitudinal', 'fako', 'kümülatif']
+Extracted: ['torsional']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 24
+Actual: ['kalın', 'nd', 'laser', 'kesafet', 'kohorens', 'makü', 'kapsül', 'kapsulotomi', 'arka', 'yag', 'optik', 'tomografi']
+Extracted: ['laser', 'maküla']
+TP: 1 TN: 0 FP: 11 FN: 1 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 25
+Actual: ['sendrom', 'katarakt', 'fakoemülsifikasyon', 'psödoeksfolyasyon']
+Extracted: ['ameliyat', 'dgk', 'ei']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 26
+Actual: ['drenaj', 'implant', 'vitrektomi', 'glokom']
+Extracted: ['molteno', 'pars', 'plan']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 27
+Actual: ['neovasküler', 'intravitreal', 'enjeksiyon', 'glokom']
+Extracted: ['gib', 'mmc', 'mmhg', 'nvg', 'trab']
+TP: 0 TN: 0 FP: 4 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 28
+Actual: ['iç', 'glokom', 'basınç', 'göz', 'ahmed', 'valf']
+Extracted: ['ameliyat', 'glokom', 'mmhg']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 29
+Actual: ['deneyim', 'fakoemülsifikasyon', 'cerrahi']
+Extracted: ['ameliyat', 'düzen', 'grup']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 30
+Actual: ['astigmatik', 'profil', 'katarakt', 'cerrahi']
+Extracted: ['astigmatizma', 'katarakt', 'korneal', 'yaş']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 31
+Actual: ['ödem', 'triamsinolon', 'i̇ntravitreal', 'katarakt', 'subkapsüler', 'arka', 'makul']
+Extracted: ['gelişim', 'katarakt', 'makul', 'subkapsüler', 'vta']
+TP: 3 TN: 0 FP: 4 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 32
+Actual: ['dejenerasyon', 'maküla', 'glokom', 'optik', 'disk', 'oran']
+Extracted: ['dejenerasyon', 'disk', 'optik']
+TP: 3 TN: 0 FP: 3 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 33
+Actual: ['komplikasyon', 'glokom', 'trabekülektomi', 'viskoelastik', 'hipotoni', 'erken']
+Extracted: ['enjekte', 'flep', 'hiyalüronat', 'skleral']
+TP: 0 TN: 0 FP: 6 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 34
+Actual: ['kalın', 'tabaka', 'sağlık', 'koherens', 'çocuk', 'lif', 'retina', 'sinir', 'optik', 'tomografi']
+Extracted: ['au', 'göz', 'kalın', 'rslt']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 35
+Actual: ['lipid', 'glokom', 'basınç', 'test', 'koagulasyon', 'normal', 'profil', 'immunolojik']
+Extracted: ['nbg']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 36
+Actual: ['glokom', 'alan', 'görmek', 'yaşam', 'kalite', 'zaman', 'binoküler', 'esterman']
+Extracted: ['anket', 'modifiye']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 37
+Actual: ['latanoprost', 'sonuç', 'glokom', 'tedavi', 'biometri', 'kornea']
+Extracted: ['gib', 'mkk']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 38
+Actual: ['santral', 'kalın', 'applanasyon', 'tonometre', 'goldmann', 'tonometresi', 'dinamik', 'kontur', 'pascal', 'kornea']
+Extracted: ['gat', 'pdkt', 'skk']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 39
+Actual: ['kalın', 'iç', 'basınç', 'tonometre', 'merkez', 'pascal', 'goldmann', 'tonometresi', 'dinamik', 'kontur', 'aplanasyon', 'kornea', 'göz']
+Extracted: ['dkt', 'gat']
+TP: 0 TN: 0 FP: 13 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 40
+Actual: ['triamsinolon', 'intravitreal', 'asetonid', 'subtenon']
+Extracted: ['ay', 'enjeksiyon', 'gib', 'vta']
+TP: 0 TN: 0 FP: 4 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 41
+Actual: ['açık', 'glokom', 'lazer', 'fakik', 'psödofakik', 'selektif', 'trabeküloplasti', 'açıl']
+Extracted: ['fakik', 'psödofakik']
+TP: 2 TN: 0 FP: 6 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 42
+Actual: ['kalın', 'maküla', 'katarakt', 'cerrahi', 'koherens', 'optik', 'tomografi']
+Extracted: ['ameliyat', 'ay', 'grup']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 43
+Actual: ['lens', 'presbiyopi']
+Extracted: ['cisim', 'lens', 'uyum']
+TP: 1 TN: 0 FP: 1 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 44
+Actual: ['lens', 'iç', 'göz', 'katarakt']
+Extracted: ['akomodatif', 'hareket']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 45
+Actual: ['multifokal', 'iç', 'katarakt', 'lens', 'göz']
+Extracted: ['lens', 'mgi']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 46
+Actual: ['monovizyon', 'katarakt', 'presbiyopi', 'cerrahi']
+Extracted: ['baskın', 'lens', 'monovizyon', 'presbiyopinin']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 47
+Actual: ['açık', 'baş', 'tabaka', 'glokom', 'optik', 'primer', 'koherens', 'lif', 'kapmak', 'retina', 'sinir', 'açıl', 'tomografi']
+Extracted: ['cup', 'disk', 'optik', 'rim', 'sinir']
+TP: 2 TN: 0 FP: 11 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 48
+Actual: ['santral', 'kalın', 'korneal', 'glokom', 'hipertansiyon', 'koherens', 'lif', 'oküler', 'retina', 'sinir', 'optik', 'tomografi']
+Extracted: ['grup', 'rslk']
+TP: 0 TN: 0 FP: 12 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 49
+Actual: ['siklodestrüksiyon', 'laser', 'glokom', 'diyot', 'direnç', 'transskleral']
+Extracted: ['glokom', 'işlem', 'mmhg', 'tsdlsd']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 50
+Actual: ['iç', 'tonometri', 'glokom', 'perfüzyon', 'basınç', 'koroidal', 'oküler', 'göz']
+Extracted: ['opa']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 51
+Actual: ['multifokal', 'testi', 'iç', 'kamaşmak', 'halo', 'lens', 'apodize', 'difraktif', 'göz']
+Extracted: ['görmek', 'keskin', 'logmar', 'memnuniyet', 'yakın']
+TP: 0 TN: 0 FP: 9 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 52
+Actual: ['iç', 'afaki', 'skleral', 'lens', 'retina', 'göz', 'fiksasyonlu', 'dekolmanı']
+Extracted: ['bağ', 'lens', 'olgu', 'uygulamak']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 53
+Actual: ['komplikasyon', 'iç', 'nd', 'maküla', 'ödem', 'değer', 'basınç', 'göz', 'humor', 'aköz', 'flare', 'yag', 'kapsülotomi']
+Extracted: ['kapsülotomi', 'lazer', 'nd', 'yag']
+TP: 3 TN: 0 FP: 10 FN: 1 
+Accuracy: %21.428571428571427
+-----------------
+Article Index: 54
+Actual: ['tomografi', 'baş', 'iii', 'artrit', 'retinal', 'topografi', 'romatoid', 'heidelberg', 'optik', 'sinir']
+Extracted: ['birey', 'ra', 'topografi', 'çukur']
+TP: 1 TN: 0 FP: 9 FN: 3 
+Accuracy: %7.6923076923076925
+-----------------
+Article Index: 55
+Actual: ['nükleus', 'nd', 'bakiye', 'yag', 'kapsülotomi']
+Extracted: ['bakiye', 'nükleus']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 56
+Actual: ['iskemi', 'retinal', 'katarakt', 'takayasu', 'mikroanevrizma', 'arterit']
+Extracted: ['arterit', 'fundus', 'gözde', 'takayasu']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 57
+Actual: ['nd', 'kist', 'travma', 'lazer', 'yag', 'iris']
+Extracted: ['iris', 'kist']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 58
+Actual: ['stromal', 'keratoüveit', 'tip', 'herpes', 'keratit', 'treatment', '1', 'virüs', 'sklerit', 'simpleks']
+Extracted: ['keratit']
+TP: 1 TN: 0 FP: 9 FN: 0 
+Accuracy: %10.0
+-----------------
+Article Index: 59
+Actual: ['komplikasyon', 'media', 'mastoid', 'apse', 'menenjit', 'otitis', 'kolesteatom', 'beyin', 'kronik', 'ekstrakraniyal', 'intrakraniyal']
+Extracted: ['kom', 'komplikasyon', 'media', 'otitis']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 60
+Actual: ['xenogref', 'timpanoplasti', 'otogreft']
+Extracted: ['materyal', 'otogreft', 'sığır']
+TP: 1 TN: 0 FP: 2 FN: 2 
+Accuracy: %20.0
+-----------------
+Article Index: 61
+Actual: ['hat', 'tedavi', 'granülomatöz', 'prognoz', 'orta', 'hastalık']
+Extracted: ['destrüktif', 'hastalık', 'ogh']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 62
+Actual: ['frontal', 'kolesteatomu', 'tanımak', 'sinüs', 'tedavi', 'cerrahi', 'paranazal']
+Extracted: ['frontal', 'kolesteatom', 'sinüs']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 63
+Actual: ['endotoksin', 'kayıp', 'sepsis', 'içkulak', 'endotoksemi', 'işitmek', 'labirentit', 'immünitesi']
+Extracted: ['dördüncü', 'ornitin']
+TP: 0 TN: 0 FP: 8 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 64
+Actual: ['malign', 'kafa', 'cerrahi', 'prognoz', 'kaide', 'tümör']
+Extracted: ['kafa', 'sağkalım', 'taban']
+TP: 1 TN: 0 FP: 5 FN: 2 
+Accuracy: %12.5
+-----------------
+Article Index: 65
+Actual: ['transservikal', 'transmandibuler', 'parafaringeal', 'kitle']
+Extracted: ['bölge', 'parafaringeal']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 66
+Actual: ['larenjektomi', 'sonuç', 'supraglottik', 'horizontal', 'fonksiyonel', 'yaklaşım', 'subperikondrial']
+Extracted: ['bölge', 'shl', 'sınır']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 67
+Actual: ['frontal', 'baş', 'boyun', 'maksilla', 'displazi', 'temporal', 'kemik', 'tedavi', 'sfenoid', 'fibröz']
+Extracted: ['fibröz', 'kemik', 'orijin', 'transformasyon']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 68
+Actual: ['apnesi', 'obstrüktif', 'uvulopalatal', 'uyku', 'sendrom', 'flep']
+Extracted: ['ahi', 'apne', 'upf']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 69
+Actual: ['tedavi', 'kordoma', 'taban', 'kafa']
+Extracted: ['kafa', 'lokalizasyon', 'nâdir', 'taban']
+TP: 2 TN: 0 FP: 2 FN: 2 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 70
+Actual: ['koanal', 'patoloji', 'atrezi', 'transpalatal', 'sinüs', 'izole', 'sfenoid', 'onarım']
+Extracted: ['koanal', 'taraf']
+TP: 1 TN: 0 FP: 7 FN: 1 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 71
+Actual: ['tedavi', 'prognoz', 'hücre', 'dil', 'kanser', 'yassı']
+Extracted: ['boyun', 'dyhk', 'lenf', 'metastaz', 'rekürrens']
+TP: 0 TN: 0 FP: 6 FN: 5 
+Accuracy: %0.0
+-----------------
+Article Index: 72
+Actual: ['septoplasti', 'komplikasyon', 'nitrofurazon', 'ekstrafor', 'flora', 'tampon', 'nazal']
+Extracted: ['nazal', 'nitrofurazon', 'tampon']
+TP: 3 TN: 0 FP: 4 FN: 0 
+Accuracy: %42.857142857142854
+-----------------
+Article Index: 73
+Actual: ['mikrozomi', 'tanımak', 'tedavi', 'sendrom', 'hemifasyal']
+Extracted: ['hemifasyal']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 74
+Actual: ['boyun', 'seçmek', 'larenks', 'metastaz', 'diseksiyonları', 'diseksiyonu', 'kanser']
+Extracted: ['boyun', 'metastaz']
+TP: 2 TN: 0 FP: 5 FN: 0 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 75
+Actual: ['cerrahi', 'timpanikum', 'jugulare', 'glomus']
+Extracted: ['glomus', 'jugulare']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 76
+Actual: ['akustik', 'tedavi', 'nörinom', 'cerrahi']
+Extracted: ['akustik', 'mrg', 'olgu', 'tümör']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 77
+Actual: ['neomycin', 'radical', 'b', 'free', 'polymyxin']
+Extracted: ['ad', 'pbn']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 78
+Actual: ['komplikasyon', 'larenjektomi', 'pexy', 'rüptürü', 'suprakrikoid', 'parsiyel']
+Extracted: ['larenjektomi', 'parsiyel']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 79
+Actual: ['tonsillektomi', 'kültür', 'bakteriemi']
+Extracted: ['kültür', 'tonsil']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 80
+Actual: ['frey', 'parotidektomi', 'flebi', 'cilt', 'sendrom']
+Extracted: ['frey']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 81
+Actual: ['filiform', 'papilla', 'kıl', 'keratin', 'dil']
+Extracted: ['dil', 'kıl', 'sigara']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 82
+Actual: ['kist', 'oral', 'hücre', 'kavite', 'dil', 'tümör', 'granüler']
+Extracted: ['ght', 'lezyon']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 83
+Actual: ['nodül', 'terapi', 'ses', 'vokal', 'fonocerrahi', 'kord']
+Extracted: ['meslek', 'ses']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 84
+Actual: ['manevra', 'bppv', 'tedavi']
+Extracted: ['kulak', 'manevra']
+TP: 1 TN: 0 FP: 2 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 85
+Actual: ['etioloji', 'yabancı', 'burun', 'halitozis', 'cisim']
+Extracted: ['burun', 'halitozis']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 86
+Actual: ['temporomandibüler', 'sinovial', 'eklem', 'kitle', 'parotis', 'kondromatozis']
+Extracted: ['parotis']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 87
+Actual: ['çatı', 'cerrahi', 'larengeal', 'kanser', 'glottik']
+Extracted: ['eviserasyon', 'internal', 'subperikondrial', 'zaman']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 88
+Actual: ['i̇ntranasal', 'dakriyosistorinostomi', 'çekiç', 'kullanım', 've', 'mikroosteotom']
+Extracted: ['şikâyet']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 89
+Actual: ['antibiyotik', 'sinüzit', 'bakteriyoloji', 'duymak', 'kronik']
+Extracted: ['kronik', 'sinüzit']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 90
+Actual: ['lezyon', 'okülomotor', 'retrokoklear', 'test']
+Extracted: ['lezyon', 'okülomotor']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 91
+Actual: ['sinus', 'antrokoanal', 'sinoskopi', 'polyp', 'polip', 'cerrahi', 'allerji', 'çocuk', 'endoskopik', 'antrochoanal', 'transkanin']
+Extracted: ['antrokoanal', 'polip', 'sinüs', 'transkanin']
+TP: 3 TN: 0 FP: 8 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 92
+Actual: ['açık', 'septoplasti', 'dorsal', 'rinoplasti', 'greft', 'septal', 'burun', 'deviasyon', 'spreader', 'eğri', 'teknik']
+Extracted: ['eğri', 'septum']
+TP: 1 TN: 0 FP: 10 FN: 1 
+Accuracy: %8.333333333333332
+-----------------
+Article Index: 93
+Actual: ['boy', 'gizli', 'metastaz', 'yaklaşım', 'dil', 'kanser']
+Extracted: ['gizli']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 94
+Actual: ['stapedektomi', 'stapedotomi', 'otoskleroz', 'stapedoplasti']
+Extracted: ['fenestra', 'hz', 'teknik']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 95
+Actual: ['hız', 'testi', 'antijen', 'akut', 'saptamak', 'tonsillofarenjit']
+Extracted: ['antijen', 'boğaz', 'hız']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 96
+Actual: ['tonsillektomi', 'lokal', 'anestezi', 'toksitesi']
+Extracted: ['epinefrin', 'paratonsiller']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 97
+Actual: ['iyi', 'frontal', 'baş', 'sinüs', 'cerrahi', 'endoskopik', 'huy', 'paranazal', 'osteom', 'tümör', 'reses', 'ağrı', 'nazal']
+Extracted: ['frontal', 'reses']
+TP: 2 TN: 0 FP: 11 FN: 0 
+Accuracy: %15.384615384615385
+-----------------
+Article Index: 98
+Actual: ['erişkin', 'dil', 'kanser', 'genç']
+Extracted: ['gözlem', 'hasta']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 99
+Actual: ['liposarkom', 'boyun', 'cerrahi']
+Extracted: ['bölge', 'doku', 'kitle']
+TP: 0 TN: 0 FP: 3 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 100
+Actual: ['apnesi', 'horlamak', 'polisomnografi', 'habitüel', 'tıkamak', 'çocuk', 'uyku']
+Extracted: ['ağız', 'semptom', 'tuas']
+TP: 0 TN: 0 FP: 7 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 101
+Actual: ['boyun', 'sensitivite', 'aspirasyonu', 'spesifisite', 'doğru', 'kitle', 'iğne', 'ince']
+Extracted: ['as']
+TP: 0 TN: 0 FP: 8 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 102
+Actual: ['sübjektif', 'kullanmak', 'test', 'ses', 'bozuk', 'profesyonel', 'skor']
+Extracted: ['ses']
+TP: 1 TN: 0 FP: 6 FN: 0 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 103
+Actual: ['retrolabirentin', 'meniere', 'nörektomi', 'vestibüler', 'tedavi', 'cerrahi', 'rekürren', 'vestibülopati', 'retrosigmoid', 'hastalık']
+Extracted: ['işitmek', 'rsvn', 'vertigo']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 104
+Actual: ['denge', 'kuvvet', 'kas', 'işitmek', 'yetenek', 'engel']
+Extracted: ['engel', 'işitmek']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 105
+Actual: ['ataksi', 'bez', 'lenfoma', 'telenjiektazi', 'submandibuler']
+Extracted: ['at', 'ataksi']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 106
+Actual: ['hipofarenks', 'kök', 'halka', 'dil', 'lenfoma', 'tümör', 'waldeyer']
+Extracted: ['ekstranodal', 'hipofarenks', 'nhl', 'tutulum']
+TP: 1 TN: 0 FP: 6 FN: 3 
+Accuracy: %10.0
+-----------------
+Article Index: 107
+Actual: ['piyosel', 'kitle', 'konka', 'intranazal', 'bülloza']
+Extracted: ['konka', 'piyosel']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 108
+Actual: ['trasesi', 'trajectory', 'silâh', 'tedavi', 'kurşun', 'yaralamak', 'bullet', 'ateş']
+Extracted: ['mermi', 'silâh', 'yaralamak']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 109
+Actual: ['trimetazidin', 'kayıp', 'antioksidan', 'gürültü', 'işitmek', 'koklea']
+Extracted: ['gürültü']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 110
+Actual: ['kafa', 'osteotomi', 'i', 'le', 'angiofibrom', 'fort', 'tümör', 'taban']
+Extracted: ['fort', 'le', 'yaklaşım']
+TP: 2 TN: 0 FP: 6 FN: 1 
+Accuracy: %22.22222222222222
+-----------------
+Article Index: 111
+Actual: ['rinometri', 'siklus', 'akustik', 'konka', 'valv', 'alt', 'nazal']
+Extracted: ['hacim', 'nazal']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 112
+Actual: ['septoplasti', 'basınç', 'hipertansiyon', 'obstrüksiyon', 'kan', 'nazal']
+Extracted: ['tampon']
+TP: 0 TN: 0 FP: 6 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 113
+Actual: ['pozisyon', 'nokturnal', 'burun', 'konjesyon', 'tıkanık', 'nazal']
+Extracted: ['nazal', 'pozisyon']
+TP: 2 TN: 0 FP: 4 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 114
+Actual: ['incelemek', 'renk', 'internal', 'rezonans', 'ultrasonografi', 'juguler', 'manyetik', 'tromboz', 'ven', 'doppler']
+Extracted: ['ijvt', 'spontan']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 115
+Actual: ['valsartan', 'reseptör', 'ii', 'anjiotensin', 'antagonist', 'anjioödem']
+Extracted: ['anjioödem']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 116
+Actual: ['lingual', 'ektopik', 'disfaji', 'tiroid']
+Extracted: ['tiroid']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 117
+Actual: ['lingual', 'ektopik', 'sintigrafi', 'tiroid']
+Extracted: ['tiroid']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 118
+Actual: ['meme', 'progesteron', 'doku', 'sıçan', 'östrojen']
+Extracted: ['ca', 'cea', 'östradiol', 'östron']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 119
+Actual: ['iç', 'metil', 'sodyum', 'hyaluronat', 'yapışık', 'kar', 'karboksi̇', 'sellüloz']
+Extracted: ['membran', 'periton', 'yapışık']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 120
+Actual: ['karsinom', 'rezi̇dü', 'intraduktal', 'eksi̇zyon', 'lokal']
+Extracted: ['biyopsi', 'rezidü', 'sınır']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 121
+Actual: ['postoperati̇f', 'kanser', 'meme', 'izlem']
+Extracted: ['izlem']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 122
+Actual: ['greftle', 'prolen', 'kompartman', 'peritonit', 'kapamak', 'abdomi̇nal', 'sendrom']
+Extracted: ['açık', 'kar']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 123
+Actual: ['apandisit', 'komplikasyon', 'perfore', 'çocuk', 'postoperati̇f']
+Extracted: ['gelişmek', 'komplikasyon', 'risk']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 124
+Actual: ['lichtenstein', 'nüks', 'herni̇', 'onarım', 'i̇ngui̇nal']
+Extracted: ['herni', 'nüks', 'onarım']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 125
+Actual: ['anji̇ogenezi̇', 'anti̇anji̇ogeni̇k', 'tümör', 'faktör', 'anji̇ogeni̇k']
+Extracted: ['anjiogenik', 'antianjiogenik']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 126
+Actual: ['iyi', 'melatonin', 'yara', 'angi̇ogenezi̇s']
+Extracted: ['iyi', 'melatonin', 'yara']
+TP: 3 TN: 0 FP: 1 FN: 0 
+Accuracy: %75.0
+-----------------
+Article Index: 127
+Actual: ['iyi', 'asi̇ti̇', 'yara', 'nükleoti̇d', 'i̇mmünnutri̇syon', 'yağ', 'arji̇ni̇n']
+Extracted: ['enteral', 'grup', 'kopmak', 'kuvvet', 'yara']
+TP: 1 TN: 0 FP: 6 FN: 4 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 128
+Actual: ['rezi̇dü', 'ti̇roi̇d', 'doku', 'ti̇roi̇dektomi̇']
+Extracted: ['bırakmak', 'civar', 'doku']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 129
+Actual: ['kolesistektomi', 'mi̇ni̇si̇te']
+Extracted: ['enstrüman', 'kolesistektomi', 'laparoskopik', 'minisite', 'teknik']
+TP: 1 TN: 0 FP: 1 FN: 4 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 130
+Actual: ['deprem', 'fasyotomi̇', 'planlamak', 'felâket', 'crush', 'sendrom']
+Extracted: ['deprem', 'mortalite']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 131
+Actual: ['lenf', 'aksi̇lla', 'meme', 'boya', 'sentinel', 'nodu', 'mavi', 'kanser', 'bi̇opsi̇']
+Extracted: ['aksilla', 'sln']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 132
+Actual: ['bi̇opsi̇si̇', 'i̇ntraoperati̇f', 'iğne', 'aspi̇rasyon', 'peroperati̇f', 'ince']
+Extracted: ['ab', 'kestirim', 'lezyon']
+TP: 0 TN: 0 FP: 6 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 133
+Actual: ['pcna', 'mide', 'p53', 'anji̇ogen', 'patolojik', 'kanser', 'tümör', 'protein', 'evermek']
+Extracted: ['evre', 'pcna', 'tümör']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 134
+Actual: ['prostaglandin', '12', 'e2', 'hi̇perti̇roi̇di̇zm']
+Extracted: ['idrar', 'pge2']
+TP: 0 TN: 0 FP: 4 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 135
+Actual: ['fıtık', 'onarım', 'ekstraperi̇toneal', 'laparoskopi', 'i̇ngui̇nal']
+Extracted: ['laparoskopik', 'onarım']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 136
+Actual: ['komplikasyon', 'kolorektal', 'çalışmak', 'dekompresyon', 'i̇leus', 'cerrahi', 'nazogastri̇k', 'prospekti̇f', 'randomi̇ze', 'postoperati̇f']
+Extracted: ['ngd']
+TP: 0 TN: 0 FP: 10 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 137
+Actual: ['mavis', 'adezyon', 'i̇ntraabdomi̇nal', 'karboksi̇meti̇l', 'asit', 'metilen', 'hyaluroni̇k']
+Extracted: ['hyaluronik', 'metilen', 'selüloz']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 138
+Actual: ['enfekte', 'pankreati̇t', 'nekroz', 'steril', 'nekrozektomi̇', 'nekroti̇zan']
+Extracted: ['nekroz', 'pankreatik']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 139
+Actual: ['lenf', 'di̇sseksi̇yonu', 'mide', 'süre', 'yaşam', 'kanser']
+Extracted: ['d2', 'lenf', 'mide']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 140
+Actual: ['oksit', 'sfi̇nkterotomi̇', 'anal', 'basınç', 'li̇dokai̇n', 'fi̇ssür', 'nitrik']
+Extracted: ['anal', 'fissürlü']
+TP: 1 TN: 0 FP: 6 FN: 1 
+Accuracy: %12.5
+-----------------
+Article Index: 141
+Actual: ['tamir', 'herni̇', 'ventral', 'overlappi̇ng', 'rekti̇', 'di̇astasi̇s']
+Extracted: ['fasyası', 'gergin', 'hernilerin', 'taraf', 'ventral']
+TP: 1 TN: 0 FP: 5 FN: 4 
+Accuracy: %10.0
+-----------------
+Article Index: 142
+Actual: ['klinik', 'genel', 'i̇nfeksiyon', 'cerrahi', 'hastane', 'sürveyans']
+Extracted: ['nfeksiyon', 'nki']
+TP: 0 TN: 0 FP: 6 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 143
+Actual: ['total', 'darlık', 'kaçak', 'anastomoz', 'özofagojejunostomi̇', 'gastrektomi̇']
+Extracted: ['anastomoz', 'kaçak', 'stapler']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 144
+Actual: ['lichtenstein', 'nüks', 'i̇ngui̇nal', 'herni̇']
+Extracted: ['inguinal', 'polipropilen', 'yama']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 145
+Actual: ['kanser', 'meme', 'yaşam', 'kalite']
+Extracted: ['kalite', 'yaşam']
+TP: 2 TN: 0 FP: 2 FN: 0 
+Accuracy: %50.0
+-----------------
+Article Index: 146
+Actual: ['postoperati̇f', 'kanser', 'meme', 'izlem']
+Extracted: ['izlem']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 147
+Actual: ['bar', 'tedavi', 'cerrahi', 'tümör', 'ince']
+Extracted: ['tümör']
+TP: 1 TN: 0 FP: 4 FN: 0 
+Accuracy: %20.0
+-----------------
+Article Index: 148
+Actual: ['büyümek', 'primer', 'metastaz', 'hücre', 'nk', 'karaciğer', 'tümör']
+Extracted: ['hücre', 'karaciğer', 'nk', 'tümör']
+TP: 4 TN: 0 FP: 3 FN: 0 
+Accuracy: %57.14285714285714
+-----------------
+Article Index: 149
+Actual: ['glikol', 'bar', 'manni̇tol', 'sennosi̇d', 'polietilen', 'kolonoskopi', 'temiz']
+Extracted: ['bar', 'kolon', 'peg']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 150
+Actual: ['stres', 'endoskopi', 'tamir', 'yanıt', 'fıtık', 'sistemik']
+Extracted: ['açık', 'stres', 'yanıt']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 151
+Actual: ['dupleks', 'anji̇ografi̇', 'travma', 'yaralamak', 'damar']
+Extracted: ['damar', 'yaralamak']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 152
+Actual: ['parati̇roi̇d', 'vi̇deoendoskopi̇k', 'transservi̇kal', 'cerrahi', 'adenom']
+Extracted: ['bölge']
+TP: 0 TN: 0 FP: 5 FN: 1 
+Accuracy: %0.0
+-----------------
+Article Index: 153
+Actual: ['molekül', 'bar', 'akciğer', 'adezyon']
+Extracted: ['akciğer', 'bar', 'hasar', 'mikrovasküler', 'permeabilite']
+TP: 2 TN: 0 FP: 2 FN: 3 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 154
+Actual: ['translokasyon', 'abdomi̇nal', 'sendrom', 'kompartıman', 'bakteriyel']
+Extracted: ['bakteriyel', 'basınç', 'mmhg', 'translokasyon']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 155
+Actual: ['apandisit', 'tanımak', 'akut', 'ultrasonografi', 'ayırmak']
+Extracted: ['akut', 'apandisit', 'ga', 'us']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 156
+Actual: ['apandisit', 'kontrast', 'akut', 'spiral', 'bt']
+Extracted: ['akut', 'apandisit', 'bt', 'kontrast', 'spiral']
+TP: 5 TN: 0 FP: 0 FN: 0 
+Accuracy: %100.0
+-----------------
+Article Index: 157
+Actual: ['cushing', 'adrenal', 'adrenalektomi̇', 'endi̇kasyonlar', 'cerrahi', 'i̇nsi̇dentaloma', 'kitle', 'conn', 'sendrom', 'feokromosi̇toma']
+Extracted: ['adrenalektomi', 'kortikal', 'preoperatif']
+TP: 0 TN: 0 FP: 10 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 158
+Actual: ['komplikasyon', 'yama', 'nüks', 'herni̇', 'i̇nsi̇zyonel']
+Extracted: ['herni', 'insizyonel', 'nüks', 'onarım']
+TP: 1 TN: 0 FP: 4 FN: 3 
+Accuracy: %12.5
+-----------------
+Article Index: 159
+Actual: ['kaudal', 'günübirlik', 'cerrahi', 'lokal', 'anestezi']
+Extracted: ['anestezi', 'kaudal']
+TP: 2 TN: 0 FP: 3 FN: 0 
+Accuracy: %40.0
+-----------------
+Article Index: 160
+Actual: ['hepatektomi̇', 'enteral', 'parenteral', 'beslemek']
+Extracted: ['boyana', 'dextroz', 'grup', 'hepatamin', 'karaciğer', 'ratlar']
+TP: 0 TN: 0 FP: 4 FN: 6 
+Accuracy: %0.0
+-----------------
+Article Index: 161
+Actual: ['onam', 'bilgi', 'aydınlatmak', 'hoşnut', 'düzey', 'hast']
+Extracted: ['hak', 'hoşnut', 'onam']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 162
+Actual: ['cerrahi', 'kar', 'akut', 'pankreati̇t']
+Extracted: ['faktör', 'morbiditeye', 'pankreatit']
+TP: 0 TN: 0 FP: 4 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 163
+Actual: ['kese', 'semptomati̇k', 'koledok', 'postkolesi̇stektomi̇', 'kolesistektomi', 'safra', 'taşımak', 'sendrom', 'çap']
+Extracted: ['kanal', 'koledok', 'çap']
+TP: 2 TN: 0 FP: 7 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 164
+Actual: ['herni̇', 'greft', 'kasık', 'laparoskopi', 'fıtık', 'lokal', 'anestezi', 'poli̇propi̇len', 'i̇ngui̇nal']
+Extracted: ['cerrah', 'hastane', 'herni', 'inguinal']
+TP: 0 TN: 0 FP: 9 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 165
+Actual: ['yayın', 'yaz', 'cerrahi', 'makale', 'etik', 'suç']
+Extracted: ['yayın']
+TP: 1 TN: 0 FP: 5 FN: 0 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 166
+Actual: ['travma', 'nöroendokri̇n', 'yanıt', 'kolesistektomi', 'laparoskopi']
+Extracted: ['kolesistektomi', 'leh', 'lk', 'travma']
+TP: 2 TN: 0 FP: 3 FN: 2 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 167
+Actual: ['mamografi', 'fizik', 'meme', 'üç', 'test', 'i̇i̇ab', 'muayene', 'kanser']
+Extracted: ['kitle', 'tek', 'test', 'özgül']
+TP: 1 TN: 0 FP: 7 FN: 3 
+Accuracy: %9.090909090909092
+-----------------
+Article Index: 168
+Actual: ['morbi̇di̇te', 'has', 'kolon', 'yandaş', 'yaş', 'kanser', 'hastalık']
+Extracted: ['acil', 'elektif']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 169
+Actual: ['drenaj', 'kist', 'hi̇dati̇k', 'tedavi', 'cerrahi', 'karaciğer']
+Extracted: ['drenaj', 'kaviter', 'kist']
+TP: 2 TN: 0 FP: 4 FN: 1 
+Accuracy: %28.57142857142857
+-----------------
+Article Index: 170
+Actual: ['oksit', 'bar', 'obstrüksiyon', 'translokasyon', 'nitrik', 'bakteriyel']
+Extracted: ['bar', 'bt', 'no', 'obstrüksiyon']
+TP: 2 TN: 0 FP: 4 FN: 2 
+Accuracy: %25.0
+-----------------
+Article Index: 171
+Actual: ['prolen', 'asit', 'karboksi̇meti̇lselüloz', 'bariyer', 'mesh', 'poli̇tetrafloreti̇len', 'fizikî', 'hyalüroni̇k', 'yapışık', 'postoperati̇f']
+Extracted: ['kar', 'mesh', 'yapışık']
+TP: 2 TN: 0 FP: 8 FN: 1 
+Accuracy: %18.181818181818183
+-----------------
+Article Index: 172
+Actual: ['faktör', 'epidermal', 'si̇aloadenektomi̇', 'rezeksiyon', 'bar', 'büyümek', 'adaptasyon', 'ince']
+Extracted: ['bar', 'sialoadenektomi', 'tpn']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 173
+Actual: ['oksit', 'tıkamak', 'sarılık', 'deney', 'nitrik']
+Extracted: ['grup', 'no']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 174
+Actual: ['poli̇travma', 'bakım', 'hepari̇n', 'yoğun', 'molekül', 'pulmoner', 'ağırlık', 'düşük', 'emboli', 'profi̇laksi̇']
+Extracted: ['bakım', 'politravmatize', 'travma', 'yoğun']
+TP: 2 TN: 0 FP: 8 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 175
+Actual: ['maksi̇ller', 'sonda', 'cerrahi', 'nazogastri̇k', 'sinüzit', 'abdomi̇nal']
+Extracted: ['ngs', 'sinüzit']
+TP: 1 TN: 0 FP: 5 FN: 1 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 176
+Actual: ['rezeksiyon', 'aşağı', 'nüks', 'rektum', 'tedavi', 'cerrahi', 'sağkalim', 'anteri̇or', 'lokal', 'kanser']
+Extracted: ['apr', 'sağkalım']
+TP: 0 TN: 0 FP: 10 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 177
+Actual: ['lenf', 'aksi̇lla', 'meme', 'sentinel', 'nodu', 'kanser']
+Extracted: ['aksiller', 'biyopsi', 'lenf', 'sln']
+TP: 1 TN: 0 FP: 5 FN: 3 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 178
+Actual: ['genişlemek', 'ameliyat', 'hukuk', 'sorumluluk', 'durum']
+Extracted: ['cerrah', 'prosedür']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 179
+Actual: ['serbest', 'oksijen', 'resüsi̇tasyon', 'hemoraji̇k', 'değer', 'hi̇pertoni̇k', 'tuz', 'şok', 'solüsyon', 'radikal', 'malondi̇aldehi̇d', 'plazma']
+Extracted: ['denek', 'kan', 'solüsyon', 'şok']
+TP: 2 TN: 0 FP: 10 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 180
+Actual: ['epidemiyoloji', 'lokalizasyon', 'kayıt', 'kanser']
+Extracted: ['kanser', 'organ', 'ülke']
+TP: 1 TN: 0 FP: 3 FN: 2 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 181
+Actual: ['özofaji̇t', 'endoskopi', 'alkali', 'korozi̇f', 'asit']
+Extracted: ['korozif', 'madde']
+TP: 0 TN: 0 FP: 5 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 182
+Actual: ['erişkin', 'i̇nvagi̇nasyon', 'bar', 'obstrüksiyon']
+Extracted: ['bar', 'invaginasyon', 'invaginasyona', 'tanı']
+TP: 1 TN: 0 FP: 3 FN: 3 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 183
+Actual: ['herni̇', 'poli̇propi̇len', 'yama', 'i̇nsi̇zyonel']
+Extracted: ['onarım', 'yama']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 184
+Actual: ['meme', 'progesteron', 'doku', 'sıçan', 'östrojen']
+Extracted: ['ca', 'cea', 'östradiol', 'östron']
+TP: 0 TN: 0 FP: 5 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 185
+Actual: ['iç', 'metil', 'sodyum', 'hyaluronat', 'yapışık', 'kar', 'karboksi̇', 'sellüloz']
+Extracted: ['membran', 'periton', 'yapışık']
+TP: 1 TN: 0 FP: 7 FN: 2 
+Accuracy: %10.0
+-----------------
+Article Index: 186
+Actual: ['karsinom', 'rezi̇dü', 'intraduktal', 'eksi̇zyon', 'lokal']
+Extracted: ['biyopsi', 'rezidü', 'sınır']
+TP: 0 TN: 0 FP: 5 FN: 3 
+Accuracy: %0.0
+-----------------
+Article Index: 187
+Actual: ['postoperati̇f', 'kanser', 'meme', 'izlem']
+Extracted: ['izlem']
+TP: 1 TN: 0 FP: 3 FN: 0 
+Accuracy: %25.0
+-----------------
+Article Index: 188
+Actual: ['greftle', 'prolen', 'kompartman', 'peritonit', 'kapamak', 'abdomi̇nal', 'sendrom']
+Extracted: ['açık', 'kar']
+TP: 0 TN: 0 FP: 7 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 189
+Actual: ['apandisit', 'komplikasyon', 'perfore', 'çocuk', 'postoperati̇f']
+Extracted: ['gelişmek', 'komplikasyon', 'risk']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Article Index: 190
+Actual: ['lichtenstein', 'nüks', 'herni̇', 'onarım', 'i̇ngui̇nal']
+Extracted: ['herni', 'nüks', 'onarım']
+TP: 2 TN: 0 FP: 3 FN: 1 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 191
+Actual: ['kanser', 'rektum', 'tedavi', 'preoperati̇f']
+Extracted: ['kanser', 'korumak']
+TP: 1 TN: 0 FP: 3 FN: 1 
+Accuracy: %20.0
+-----------------
+Article Index: 192
+Actual: ['lenf', 'meme', 'i̇nvazyon', 'bez', 'metastaz', 'kanser', 'angi̇ogenezi̇s']
+Extracted: ['angiogenezis', 'bez', 'lenf']
+TP: 2 TN: 0 FP: 5 FN: 1 
+Accuracy: %25.0
+-----------------
+Article Index: 193
+Actual: ['lenf', 'meme', 'di̇seksi̇yon', 'sentinel', 'nodu', 'aksi̇ller', 'kanser']
+Extracted: ['aksiller', 'meme', 'sln']
+TP: 1 TN: 0 FP: 6 FN: 2 
+Accuracy: %11.11111111111111
+-----------------
+Article Index: 194
+Actual: ['retrograd', 'rezonans', 'kolanji̇ografi̇', 'kolanji̇opankreatografi̇', 'obstrüksiyon', 'safra', 'manyetik', 'endoskopik', 'yol']
+Extracted: ['bilier', 'kolanjiografi']
+TP: 0 TN: 0 FP: 9 FN: 2 
+Accuracy: %0.0
+-----------------
+Article Index: 195
+Actual: ['ayarlamak', 'morbi̇d', 'vücut', 'mide', 'silikon', 'indeks', 'band', 'kitle', 'obezite']
+Extracted: ['ayarlamak', 'band', 'hasta', 'mide', 'morbid', 'silikon']
+TP: 4 TN: 0 FP: 5 FN: 2 
+Accuracy: %36.36363636363637
+-----------------
+Article Index: 196
+Actual: ['kolorektal', 'hazırlık', 'fosfat', 'glikol', 'bar', 'sodyum', 'polietilen', 'kanser']
+Extracted: ['grup', 'mekanik', 'peg', 'temiz']
+TP: 0 TN: 0 FP: 8 FN: 4 
+Accuracy: %0.0
+-----------------
+Article Index: 197
+Actual: ['iyot', 'hi̇perti̇roi̇di̇', 'guatr', 'multi̇nodüler', 'eksik']
+Extracted: ['endemik', 'guatr']
+TP: 1 TN: 0 FP: 4 FN: 1 
+Accuracy: %16.666666666666664
+-----------------
+Article Index: 198
+Actual: ['nodül', 'volümü', 'nodüler', 'supresyon', 'ti̇roi̇d', 'tedavi', 'guatr', 'endemik', 'tiroksin']
+Extracted: ['guatr', 'supresyon', 'tiroksin']
+TP: 3 TN: 0 FP: 6 FN: 0 
+Accuracy: %33.33333333333333
+-----------------
+Article Index: 199
+Actual: ['aksi̇lla', 'meme', 'faz', 's', 'içerik', 'cytometry', 'angi̇ogenesi̇s', 'kanser', 'dna', 'flow']
+Extracted: ['aksilla', 'angiogenesis', 'faz', 'gösterge', 'tümör']
+TP: 1 TN: 0 FP: 9 FN: 4 
+Accuracy: %7.142857142857142
+-----------------
+Article Index: 200
+Actual: ['sinüs', 'pi̇loni̇dal', 'primer', 'parsi̇yel', 'kapamak']
+Extracted: ['parsiyel', 'pilonidal', 'sinüs']
+TP: 1 TN: 0 FP: 4 FN: 2 
+Accuracy: %14.285714285714285
+-----------------
+Total accuracy of document "HariciTıp" is: %15.121095571095566
